@@ -3,12 +3,14 @@
 import { useEffect, useState } from "react";
 import { useNow } from "@/components/UpcomingTimers";
 import { serverWallToUtc } from "@/lib/time";
-import { SERVER_TZ } from "@/data/schedule";
+import { SERVER_TZ, WEEKDAY_NAMES, WEEKLY_TOKEN_EVENTS } from "@/data/schedule";
 
 interface Task {
   id: string;
   label: string;
   note?: string;
+  /** Weekly tasks reset on their own day (server time). */
+  resetDay?: number;
 }
 
 const DAILY: Task[] = [
@@ -17,26 +19,21 @@ const DAILY: Task[] = [
   { id: "library", label: "Ayanad Library dailies and bosses" },
   { id: "cr", label: "Crimson Rift", note: "1000 Honor, 10 Leadership" },
   { id: "gr", label: "Grimgast Rift" },
-  { id: "ghost-ship", label: "Delphinad Ghost Ship", note: "Daily ship challenge" },
   { id: "halcyona", label: "Halcyona War" },
   { id: "mistmerrow", label: "Mistmerrow" },
   { id: "luscas", label: "Luscas" },
   { id: "labor", label: "Spend labor before it caps" },
 ];
 
-const WEEKLY: Task[] = [
-  { id: "bloodbath", label: "Crystalline Bloodbath (Friday)", note: "30 Activity Tokens" },
-  { id: "fish-market", label: "Preparing for the Fish Market (Saturday)", note: "20 Activity Tokens" },
-  { id: "crimson-threat", label: "The Crimson Threat (Sunday)", note: "15 Activity Tokens" },
-  { id: "leviathan", label: "Leviathan" },
-  { id: "kraken", label: "Kraken" },
-  { id: "red-dragon", label: "Red Dragon" },
-  { id: "berserker", label: "Hanure the Berserker" },
-];
+const WEEKLY: Task[] = WEEKLY_TOKEN_EVENTS.map((e) => ({
+  id: e.id,
+  label: `${e.name} (${WEEKDAY_NAMES[e.day]})`,
+  note: `${e.tokens} Activity Tokens`,
+  resetDay: e.day,
+}));
 
-// Reset times are not on the wiki yet. These defaults need an in-game check.
-const DAILY_RESET_HOUR = 0; // server time
-const WEEKLY_RESET_DAY = 1; // Monday, server time
+// The wiki says dailies reset each day but gives no time. Midnight server time is assumed.
+const DAILY_RESET_HOUR = 0;
 
 function serverDate(ms: number) {
   const p = Object.fromEntries(
@@ -54,9 +51,10 @@ function dailyKey(now: number) {
   return start.toISOString().slice(0, 10);
 }
 
-function weeklyKey(now: number) {
+/** Start of the current week for a task that resets on `resetDay`. */
+function weeklyKey(now: number, resetDay: number) {
   const day = new Date(dailyKey(now) + "T00:00:00Z");
-  const back = (day.getUTCDay() - WEEKLY_RESET_DAY + 7) % 7;
+  const back = (day.getUTCDay() - resetDay + 7) % 7;
   day.setUTCDate(day.getUTCDate() - back);
   return day.toISOString().slice(0, 10);
 }
@@ -122,15 +120,19 @@ function List({ title, tasks, done, toggle, footer }: { title: string; tasks: Ta
 export default function Checklist() {
   const now = useNow(30_000);
   const [daily, toggleDaily] = useStoredSet(now ? `aac-daily-${dailyKey(now)}` : null);
-  const [weekly, toggleWeekly] = useStoredSet(now ? `aac-weekly-${weeklyKey(now)}` : null);
+  // One store for all weekly tasks; each entry carries its own reset period.
+  const [weeklyRaw, toggleWeeklyRaw] = useStoredSet(now ? "aac-weekly" : null);
+  const weeklyId = (t: Task) => (now ? `${t.id}@${weeklyKey(now, t.resetDay ?? 1)}` : t.id);
+  const weekly = WEEKLY.filter((t) => weeklyRaw.includes(weeklyId(t))).map((t) => t.id);
+  const toggleWeekly = (id: string) => toggleWeeklyRaw(weeklyId(WEEKLY.find((t) => t.id === id)!));
   const resetIn = now ? Math.max(0, nextDailyReset(now) - now) : 0;
   const h = Math.floor(resetIn / 3_600_000);
   const m = Math.floor((resetIn % 3_600_000) / 60_000);
 
   return (
     <div className="grid gap-6 md:grid-cols-2">
-      <List title="Daily" tasks={DAILY} done={daily} toggle={toggleDaily} footer={now ? `Resets in ${h}h ${m}m (midnight server time, not yet checked in game)` : undefined} />
-      <List title="Weekly" tasks={WEEKLY} done={weekly} toggle={toggleWeekly} footer="Resets Monday at midnight server time (not yet checked in game)" />
+      <List title="Daily" tasks={DAILY} done={daily} toggle={toggleDaily} footer={now ? `Resets in ${h}h ${m}m (assumed midnight server time)` : undefined} />
+      <List title="Weekly" tasks={WEEKLY} done={weekly} toggle={toggleWeekly} footer="Each quest resets on the day it can be picked up" />
     </div>
   );
 }

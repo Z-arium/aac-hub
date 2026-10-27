@@ -153,8 +153,8 @@ export default function RegradeCalculator() {
         </label>
         <div className="rounded-lg border border-yellow-500/30 bg-yellow-500/5 p-3 text-sm">
           <p className="text-yellow-200">
-            From Celestial up, a failed regrade can break or downgrade your item. The wiki doesn&apos;t list those odds yet, so
-            enter your own.
+            From Celestial up, a failed regrade can break or downgrade your item. The wiki doesn&apos;t list those odds, so
+            enter your own. A Bound Destruction Preventive Charm stops breaking but not downgrading.
           </p>
           <div className="mt-2 grid grid-cols-2 gap-3">
             <label className="text-muted">

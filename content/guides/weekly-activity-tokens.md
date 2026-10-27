@@ -1,22 +1,29 @@
 ---
 title: Weekly Activity Tokens
-summary: Three custom weekend events give 65 Activity Tokens a week. Here is where to go and what to do.
+summary: Five weekly quests pay 136 Activity Tokens, plus 5 a day from the daily merit quest. Here is where to go.
 category: Progression
 featured: true
 updated: 2026-10-27
-sources: https://wiki.aa-classic.com/Custom_Server_Changes, https://wiki.aa-classic.com/Activity_Tokens
+sources: https://wiki.aa-classic.com/Activity_Tokens, https://wiki.aa-classic.com/Crystalline_Bloodbath
 ---
 
-ArcheAge Classic adds three weekly events that pay **Activity Tokens**. Doing all three gives **65 tokens a week**.
+ArcheAge Classic pays **Activity Tokens** for a set of weekly quests. Doing all of them gives **136 tokens a week**.
 
-| Day | Event | What to do | Tokens |
+Each weekly quest can only be picked up on its day, which is also when it resets. Once you have it, you can finish it any time that week.
+
+| Day | Quest | What to do | Tokens |
 | --- | --- | --- | --- |
-| Friday | Crystalline Bloodbath | PvP event in Diamond Shores | 30 |
-| Saturday | Preparing for the Fish Market | Take the quest from any Fish Stand, then fish and sell 10 fish | 20 |
-| Sunday | The Crimson Threat | Kill Anthalon once in Sungold Fields | 15 |
+| Friday | Crystalline Bloodbath | Take the quest from the Shadow Daru in your capital, then kill 50 enemies in Diamond Shores (fewer for Pirates) | 30 |
+| Saturday | Fishing quest | Take it from any Fish Stand, then fish and sell 10 fish | 20 |
+| Saturday | Delphinad Ghost Ship | Kill the ghost ship at sea | 33 |
+| Saturday | Ayanad Library | Kill bosses: 2 quests, 10 tokens each | 20 |
+| Sunday | Anthalon | Kill Anthalon in Sungold Fields. You need custom story chapter 99 done first | 33 |
 
-You also get a token from finishing quest 99.1, which unlocks the daily merit quest *Active Adventurers Appreciated*.
+## Daily and one-time tokens
 
-See [Activity Tokens](https://wiki.aa-classic.com/Activity_Tokens) for what you can buy with them.
+- **Active Adventurers Appreciated** (daily): 5 tokens for spending labor on professions.
+- **Story quest 99.1** (Hounds of Kyrios): 1 token, once.
+- **Veroe Harvest Festival** participation achievement: 5 tokens, once.
+- **The Harvest Festival Beckons!** from an auctioneer: 50 tokens, once.
 
-> Event start times for these three are not on the wiki yet. Check the [timers](/timers) page once they are confirmed.
+See [Activity Tokens](https://wiki.aa-classic.com/Activity_Tokens) for what you can buy with them, and track your progress in the [checklist](/tools/checklist).

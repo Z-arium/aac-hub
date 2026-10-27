@@ -9,7 +9,7 @@ const TICK_MINUTES = 5;
 export default function LaborCalculator() {
   const now = useNow(60_000);
   const [current, setCurrent] = useState(1000);
-  const [cap, setCap] = useState(5000);
+  const [cap, setCap] = useState(10000);
   const [hours, setHours] = useState(8);
 
   const missing = Math.max(0, cap - current);
@@ -28,7 +28,7 @@ export default function LaborCalculator() {
         <label className="block text-sm text-muted">
           Labor cap
           <input type="number" min={1} value={cap} onChange={(e) => setCap(Number(e.target.value))} className={input} />
-          <span className="mt-1 block text-xs">Default is a guess. Set it to the max shown on your labor bar.</span>
+          <span className="mt-1 block text-xs">10,000 per the wiki FAQ.</span>
         </label>
         <label className="block text-sm text-muted">
           Hours away

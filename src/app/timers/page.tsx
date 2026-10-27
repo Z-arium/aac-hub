@@ -16,7 +16,7 @@ export default function TimersPage() {
             <a href="https://aa-classic.com/timers" className="underline">
               AAClassic timers
             </a>{" "}
-            and are still being checked in game.
+           . Times follow server time (US Eastern).
           </>
         }
       />

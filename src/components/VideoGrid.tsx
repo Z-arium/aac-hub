@@ -4,7 +4,7 @@ export default function VideoGrid({ videos }: { videos: Video[] }) {
   if (videos.length === 0) {
     return (
       <div className="rounded-xl border border-dashed border-line p-6 text-sm text-muted">
-        Videos will show up here once a YouTube API key or a list of channels is set up.
+        ArcheAge Classic videos are coming soon.
       </div>
     );
   }

@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { CATEGORY_LABEL, CATEGORY_STYLE, useNow } from "@/components/UpcomingTimers";
-import { RIFTS, WEEKLY_TOKEN_EVENTS, type Category } from "@/data/schedule";
+import { RIFTS, WEEKDAY_NAMES, WEEKLY_TOKEN_EVENTS, type Category } from "@/data/schedule";
 import { formatCountdown, formatLocal, formatServerClock, formatSlot, upcoming } from "@/lib/time";
 
 const FILTERS: { id: Category | "all"; label: string }[] = [
@@ -144,7 +144,6 @@ export default function TimerBoard() {
                     {formatSlot(s)} ET
                   </span>
                 ))}
-                {!event.verified && <span className="text-yellow-400/80">Not yet checked in game</span>}
                 <button
                   onClick={() =>
                     save({
@@ -165,11 +164,12 @@ export default function TimerBoard() {
       </div>
 
       <section>
-        <h2 className="mb-3 text-xl font-bold">Weekly Activity Token events</h2>
+        <h2 className="mb-1 text-xl font-bold">Weekly Activity Token quests</h2>
+        <p className="mb-3 text-sm text-muted">Pick each one up on its day. You can finish it any time before it resets next week.</p>
         <div className="grid gap-3 md:grid-cols-3">
           {WEEKLY_TOKEN_EVENTS.map((e) => (
             <a key={e.name} href={e.wiki} className="rounded-xl border border-line bg-panel p-4 hover:border-accent">
-              <p className="text-sm text-accent">{e.day}</p>
+              <p className="text-sm text-accent">{WEEKDAY_NAMES[e.day]}</p>
               <h3 className="font-semibold">{e.name}</h3>
               <p className="text-sm text-muted">{e.where}</p>
               <p className="mt-2 text-sm">{e.tokens} Activity Tokens</p>
