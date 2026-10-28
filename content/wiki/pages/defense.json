@@ -1,0 +1,170 @@
+{
+ "slug": "defense",
+ "title": "Defense",
+ "pageid": 94,
+ "revid": 507,
+ "updated": "2024-03-22T08:20:45Z",
+ "source": "https://wiki.aa-classic.com/Defense",
+ "headings": [
+  {
+   "level": 2,
+   "id": "List_of_skills",
+   "text": "List of skills"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "List of skills",
+   "caption": "Active skills",
+   "headers": [
+    "Level",
+    "Icon",
+    "Skill",
+    "Description",
+    "Combos"
+   ],
+   "rows": [
+    [
+     "1",
+     "",
+     "Shield Slam",
+     "Swings your shield at an enemy, dealing Physical Damage and Stunning them for 1.5sec.",
+     "Inflicts additional +61% damage if used while under the effects of Energy Shield. Inflicts additional +31% damage on Snared targets. Increases duration of Stun +30% on Enervated targets."
+    ],
+    [
+     "3",
+     "",
+     "Refreshment",
+     "Increases max health for 30min. Only works on caster. While active, you gain 10% of received damage as stacks of Mettle.",
+     "Effect increases +20% while under Bear's Vigor."
+    ],
+    [
+     "10",
+     "",
+     "Bull Rush",
+     "Shoves an enemy away with your shield, inflicting Physical Damage and Silencing the target for 3.5sec. Interrupts enemy spellcasting. Increases Aggro generation +200% for 5seconds afterwards.",
+     "Stunned targets are Tripped for 4sec. Inflicts additional +42% damage on Stunned targets. Inflicts additional +68% damage if used under the effect of Energy Shield."
+    ],
+    [
+     "15",
+     "",
+     "Boastful Roar",
+     "Inflicts Distressed for 7sec, reducing the enemy's Move Speed -45%, Skill Damage -20%, Attack Speed -250, and Healing effectiveness -60%. Inflicts additional damage equal to 60% of your stacked Mettle, consuming all stacks of Mettle when cast. This ability also Provokes the target, forcing affected players to target you and affected monsters to attack you.",
+     "Inflicts +60% damage if used while under the effects of Toughen."
+    ],
+    [
+     "20",
+     "",
+     "Toughen",
+     "Increases Continous Health Regen +48.0 lasts 20sec. While active, you gain 50% of received damage as stacks of Mettle.",
+     "Healing effectiveness increased +33% while under Bear's Vigor."
+    ],
+    [
+     "25",
+     "",
+     "Revitalizing Cheer",
+     "Restores Health plus an amount equal to 50% of your stacked Mettle. Consumes all stacked Mettle and cures one debuff.",
+     "Effect increases +25% if used while under the effects of Toughen."
+    ],
+    [
+     "30",
+     "",
+     "Redoubt",
+     "Raises shield around the caster for 20sec. Increases Block Rate +25% and decreases Move Speed -10%. Instantly grants Mettle in proportion to the skill's level. Prevents being Pushed or Tripped. Can only be used while a shield is equipped.",
+     "-"
+    ],
+    [
+     "35",
+     "",
+     "Ollo's Hammer",
+     "Summons Ollo's hammer and hurls it toward a location; inflicts Trip on an enemy for 2.5sec if it hits. Also deals Physical Damage to all enemies within 3m of the target location.",
+     "Inflicts additional +44% damage on Slowed targets. Hammer travels much faster when used on Electric Shock targets."
+    ],
+    [
+     "40",
+     "",
+     "Mocking Howl",
+     "Inflicts Shaken on all enemies within a 7m radius, decreasing Move Speed -27%, Skill Damage -8%, and Attack Speed -75. This ability also Taunts enemies, forcing affected monsters to attack you. Builds additional Aggro equal to 100% of your stacked Mettle, consuming all stacks of Mettle when cast.",
+     "Increases threat generation +200% if used while under the effects of Toughen. Provoked Taunted targets. Inflicts Distressed on targets if used while under the effects of Toughen."
+    ],
+    [
+     "45",
+     "",
+     "Imprison",
+     "Imprisons all enemies within a boundary for 12 seconds. Enemies can break out if they use enough force.",
+     "-"
+    ],
+    [
+     "50",
+     "",
+     "Invincibility",
+     "Grants immunity to all damage for 9sec. Effect is canceled if you move.",
+     "-"
+    ],
+    [
+     "55",
+     "",
+     "Fortress",
+     "Showes away up to 5 enemies within 10m and pulls 5 raid members closer. Decreases pulled raid member's received damage -50% and increases your Mettle +1,500. Effective regardless of target's status.",
+     "-"
+    ]
+   ]
+  },
+  {
+   "heading": "List of skills",
+   "caption": "Passive skills",
+   "headers": [
+    "Required points",
+    "Icon",
+    "Skill",
+    "Description"
+   ],
+   "rows": [
+    [
+     "2",
+     "",
+     "Supplemental Block",
+     "Increases Block Rate +15% for 5 seconds after a successful Block."
+    ],
+    [
+     "4",
+     "",
+     "Shield Edge",
+     "Has a small chance to stun the attacker when blocking a melee attack. This ability has a 12sec cooldown once triggered."
+    ],
+    [
+     "6",
+     "",
+     "Shield of Steel",
+     "Increases Physical Defense +900."
+    ],
+    [
+     "7",
+     "",
+     "Guardian",
+     "Permanently increases Aggro generation +50%."
+    ],
+    [
+     "8",
+     "",
+     "Spry Fortress",
+     "Decreases Stun and Tripped duration -10%."
+    ],
+    [
+     "9",
+     "",
+     "Bear's Vigor",
+     "Increases max health +900. Increases the effectiveness of Refreshment +20% and Toughen +33%."
+    ],
+    [
+     "10",
+     "",
+     "Ursine Roar",
+     "Decreases the cooldown of Defense skills -20%. Increases Continuous Health Regen based on Stamina whenever damage is received while below 30% health."
+    ]
+   ]
+  }
+ ],
+ "text": "List of skills Active skills Level Icon Skill Description Combos 1 Shield Slam Swings your shield at an enemy, dealing Physical Damage and Stunning them for 1.5sec. Inflicts additional +61% damage if used while under the effects of Energy Shield. Inflicts additional +31% damage on Snared targets. Increases duration of Stun +30% on Enervated targets. 3 Refreshment Increases max health for 30min. Only works on caster. While active, you gain 10% of received damage as stacks of Mettle. Effect increases +20% while under Bear's Vigor. 10 Bull Rush Shoves an enemy away with your shield, inflicting Physical Damage and Silencing the target for 3.5sec. Interrupts enemy spellcasting. Increases Aggro generation +200% for 5seconds afterwards. Stunned targets are Tripped for 4sec. Inflicts additional +42% damage on Stunned targets. Inflicts additional +68% damage if used under the effect of Energy Shield. 15 Boastful Roar Inflicts Distressed for 7sec, reducing the enemy's Move Speed -45%, Skill Damage -20%, Attack Speed -250, and Healing effectiveness -60%. Inflicts additional damage equal to 60% of your stacked Mettle, consuming all stacks of Mettle when cast. This ability also Provokes the target, forcing affected players to target you and affected monsters to attack you. Inflicts +60% damage if used while under the effects of Toughen. 20 Toughen Increases Continous Health Regen +48.0 lasts 20sec. While active, you gain 50% of received damage as stacks of Mettle. Healing effectiveness increased +33% while under Bear's Vigor. 25 Revitalizing Cheer Restores Health plus an amount equal to 50% of your stacked Mettle. Consumes all stacked Mettle and cures one debuff. Effect increases +25% if used while under the effects of Toughen. 30 Redoubt Raises shield around the caster for 20sec. Increases Block Rate +25% and decreases Move Speed -10%. Instantly grants Mettle in proportion to the skill's level. Prevents being Pushed or Tripped. Can only be used while a shield is equipped. - 35 Ollo's Hammer Summons Ollo's hammer and hurls it toward a location; inflicts Trip on an enemy for 2.5sec if it hits. Also deals Physical Damage to all enemies within 3m of the target location. Inflicts additional +44% damage on Slowed targets. Hammer travels much faster when used on Electric Shock targets. 40 Mocking Howl Inflicts Shaken on all enemies within a 7m radius, decreasing Move Speed -27%, Skill Damage -8%, and Attack Speed -75. This ability also Taunts enemies, forcing affected monsters to attack you. Builds additional Aggro equal to 100% of your stacked Mettle, consuming all stacks of Mettle when cast. Increases threat generation +200% if used while under the effects of Toughen. Provoked Taunted targets. Inflicts Distressed on targets if used while under the effects of Toughen. 45 Imprison Imprisons all enemies within a boundary for 12 seconds. Enemies can break out if they use enough force. - 50 Invincibility Grants immunity to all damage for 9sec. Effect is canceled if you move. - 55 Fortress Showes away up to 5 enemies within 10m and pulls 5 raid members closer. Decreases pulled raid member's received damage -50% and increases your Mettle +1,500. Effective regardless of target's status. - Passive skills Required points Icon Skill Description 2 Supplemental Block Increases Block Rate +15% for 5 seconds after a successful Block. 4 Shield Edge Has a small chance to stun the attacker when blocking a melee attack. This ability has a 12sec cooldown once triggered. 6 Shield of Steel Increases Physical Defense +900. 7 Guardian Permanently increases Aggro generation +50%. 8 Spry Fortress Decreases Stun and Tripped duration -10%. 9 Bear's Vigor Increases max health +900. Increases the effectiveness of Refreshment +20% and Toughen +33%. 10 Ursine Roar Decreases the cooldown of Defense skills -20%. Increases Continuous Health Regen based on Stamina whenever damage is received while below 30% health.",
+ "html": "<h2 id=\"List_of_skills\">List of skills</h2>\n<table class=\"wikitable\">\n<caption>Active skills\n</caption>\n<tbody><tr>\n<th>Level\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th>\n<th>Combos\n</th></tr>\n<tr>\n<td>1\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e1/Shield_Slam.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shield Slam\n</td>\n<td>Swings your shield at an enemy, dealing Physical Damage and Stunning them for 1.5sec.\n</td>\n<td>Inflicts additional +61% damage if used while under the effects of Energy Shield.\n<p>Inflicts additional +31% damage on Snared targets.\nIncreases duration of Stun +30% on Enervated targets.\n</p>\n</td></tr>\n<tr>\n<td>3\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7d/Refreshment.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Refreshment\n</td>\n<td>Increases max health for 30min. Only works on caster. While active, you gain 10% of received damage as stacks of Mettle.\n</td>\n<td>Effect increases +20% while under Bear's Vigor.\n</td></tr>\n<tr>\n<td>10\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/43/Bull_Rush.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bull Rush\n</td>\n<td>Shoves an enemy away with your shield, inflicting Physical Damage and Silencing the target for 3.5sec. Interrupts enemy spellcasting. Increases Aggro generation +200% for 5seconds afterwards.\n</td>\n<td>Stunned targets are Tripped for 4sec.\n<p>Inflicts additional +42% damage on Stunned targets.\nInflicts additional +68% damage if used under the effect of Energy Shield.\n</p>\n</td></tr>\n<tr>\n<td>15\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0a/Boastful_Roar.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Boastful Roar\n</td>\n<td>Inflicts Distressed for 7sec, reducing the enemy's Move Speed -45%, Skill Damage -20%, Attack Speed -250, and Healing effectiveness -60%. Inflicts additional damage equal to 60% of your stacked Mettle, consuming all stacks of Mettle when cast. This ability also Provokes the target, forcing affected players to target you and affected monsters to attack you.\n</td>\n<td>Inflicts +60% damage if used while under the effects of Toughen.\n</td></tr>\n<tr>\n<td>20\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/ca/Toughen.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Toughen\n</td>\n<td>Increases Continous Health Regen +48.0 lasts 20sec. While active, you gain 50% of received damage as stacks of Mettle.\n</td>\n<td>Healing effectiveness increased +33% while under Bear's Vigor.\n</td></tr>\n<tr>\n<td>25\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/23/Revitalizing_Cheer.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Revitalizing Cheer\n</td>\n<td>Restores Health plus an amount equal to 50% of your stacked Mettle. Consumes all stacked Mettle and cures one debuff.\n</td>\n<td>Effect increases +25% if used while under the effects of Toughen.\n</td></tr>\n<tr>\n<td>30\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0d/Redoubt.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Redoubt\n</td>\n<td>Raises shield around the caster for 20sec. Increases Block Rate +25% and decreases Move Speed -10%. Instantly grants Mettle in proportion to the skill's level.  Prevents being Pushed or Tripped. <b>Can only be used while a shield is equipped.</b>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>35\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/14/Ollos_Hammer.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ollo's Hammer\n</td>\n<td>Summons Ollo's hammer and hurls it toward a location; inflicts Trip on an enemy for 2.5sec if it hits. Also deals Physical Damage to all enemies within 3m of the target location.\n</td>\n<td>Inflicts additional +44% damage on Slowed targets.\n<p>Hammer travels much faster when used on Electric Shock targets. \n</p>\n</td></tr>\n<tr>\n<td>40\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e6/Mocking_Howl.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Mocking Howl\n</td>\n<td>Inflicts Shaken on all enemies within a 7m radius, decreasing Move Speed -27%, Skill Damage -8%, and Attack Speed -75.\n<p>This ability also Taunts enemies, forcing affected monsters to attack you. Builds additional Aggro equal to 100% of your stacked Mettle, consuming all stacks of Mettle when cast. \n</p>\n</td>\n<td>Increases threat generation +200% if used while under the effects of Toughen.\n<p>Provoked Taunted targets.\nInflicts Distressed on targets if used while under the effects of Toughen. \n</p>\n</td></tr>\n<tr>\n<td>45\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5c/Imprison.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Imprison\n</td>\n<td>Imprisons all enemies within a boundary for 12 seconds. Enemies can break out if they use enough force.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>50\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/99/Invincibility.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Invincibility\n</td>\n<td>Grants immunity to all damage for 9sec. Effect is canceled if you move.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>55\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8a/Fortress.jpg\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fortress\n</td>\n<td>Showes away up to 5 enemies within 10m and pulls 5 raid members closer. Decreases pulled raid member's received damage -50% and increases your Mettle +1,500. Effective regardless of target's status.\n</td>\n<td>-\n</td></tr></tbody></table>\n<table class=\"wikitable\">\n<caption>Passive skills\n</caption>\n<tbody><tr>\n<th><b>Required points</b>\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th></tr>\n<tr>\n<td>2\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5b/Supplemental_Block.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Supplemental Block\n</td>\n<td>Increases Block Rate +15% for 5 seconds after a successful Block.\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/81/Shield_Edge.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shield Edge\n</td>\n<td>Has a small chance to stun the attacker when blocking a melee attack. This ability has a 12sec cooldown once triggered.\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e3/Shieldofsteel.jpg\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shield of Steel\n</td>\n<td>Increases Physical Defense +900.\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fa/Guardian.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Guardian\n</td>\n<td>Permanently increases Aggro generation +50%.\n</td></tr>\n<tr>\n<td>8\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b0/Spry_fortress.jpg\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Spry Fortress\n</td>\n<td>Decreases Stun and Tripped duration -10%.\n</td></tr>\n<tr>\n<td>9\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0f/Bear%25_27s_Vigor.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bear's Vigor\n</td>\n<td>Increases max health +900. Increases the effectiveness of Refreshment +20% and Toughen +33%.\n</td></tr>\n<tr>\n<td>10\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/39/Ursineroar.jpg\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ursine Roar\n</td>\n<td>Decreases the cooldown of Defense skills -20%. Increases Continuous Health Regen based on Stamina whenever damage is received while below 30% health.\n</td></tr></tbody></table>"
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "stormwraith-kirin",
+ "title": "Stormwraith Kirin",
+ "pageid": 432,
+ "revid": 3693,
+ "updated": "2026-09-14T12:31:22Z",
+ "source": "https://wiki.aa-classic.com/Stormwraith_Kirin",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Skills",
+   "text": "Skills"
+  },
+  {
+   "level": 3,
+   "id": "Equipment",
+   "text": "Equipment"
+  },
+  {
+   "level": 3,
+   "id": "How_to_Obtain",
+   "text": "How to Obtain"
+  },
+  {
+   "level": 3,
+   "id": "Questline_Guide",
+   "text": "Questline Guide"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Skills",
+   "caption": "",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Run!",
+     "",
+     "Increases Pet Move Speed +80% for 10sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Shred",
+     "",
+     "Sharpens caster's bite, dealing Physical Damage and an additional damage over 14 sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Overwhelm",
+     "",
+     "Pounce at and stun a faraway target. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Guardian's Eyes",
+     "",
+     "Increases Stealth Detection +200%.",
+     "-"
+    ],
+    [
+     "Evasive Leap",
+     "",
+     "Stealths mount and rider and leaps forward 25m. Increases mount's Move Speed +50% for 2 seconds. Leaps 35m if this skill is used while Run! is active. Can't be used while carrying trade pack.",
+     "Does not provide the speed boost if used during Run!"
+    ]
+   ]
+  }
+ ],
+ "text": "Skills Base movement speed: 11.5m/s Skill Icon Description Additional info Run! Increases Pet Move Speed +80% for 10sec. Can't be used while carrying trade pack. - Shred Sharpens caster's bite, dealing Physical Damage and an additional damage over 14 sec. Can't be used while carrying trade pack. - Overwhelm Pounce at and stun a faraway target. Can't be used while carrying trade pack. - Guardian's Eyes Increases Stealth Detection +200%. - Evasive Leap Stealths mount and rider and leaps forward 25m. Increases mount's Move Speed +50% for 2 seconds. Leaps 35m if this skill is used while Run! is active. Can't be used while carrying trade pack. Does not provide the speed boost if used during Run! Equipment Obtained as a reward for the final quest. How to Obtain The Stormwraith Kirin is acquired by completing a 20 step quest line. Questline Guide This questline begins at Hermit Thaelin, found inside a tower at the Riven Gates in Diamond Shores. https://i.imgur.com/lUEtGkj.png Whispers of the Past Accept the quest from Hermit Thaelin, and you will immediately be able to talk to them again and turn it in. Echoes in the Library You are required to obtain 5 Mysterious Manuscripts from Shelfwatchers in the first floor of the Ayanad Library. Enter the Ayanad Library's first floor, the Encyclopedia Room, and use this map to find Shelfwatchers. Kill them, they will drop a manuscript off each kill. Only Shelfwatchers drop them, not Birch Shelfwatchers. Return to Hermit Thaelin at the Riven Gates tower with all 5 manuscripts. A Light in the Dark Teleport to the Serpentis dungeon entrance in Exeloch, and speak to Lerman standing outside. Turn the quest in at Lerman. The Price of Knowledge Teleport to the Hadir Farm dungeon entrance, and head east into the \"overworld\" version of Hadir Farm. You're looking for Executioner Nadan. Talk to them to turn in the quest. https://i.imgur.com/KbzUHvy.png A Grim Exchange Teleport back to the Serpentis dungeon entrance in Exeloch, and speak to Lerman once again. They'll give you the next quest. Shadows Transcribed Head back to Hermit Thaelin at the Riven Gates tower, and turn in your quest. Grab the next one. Echoes of the Hunt Teleport to Reedwind. Head to the mark on this screenshot, and interact with the floor that has a faint blue light glowing off it. This will be inside of an orc camp. https://i.imgur.com/Mk1VpCn.png Turn this quest in at Caduett in the Reedwind camp. Map to the Past Now head to the north east of Reedwind, underneath a small broken rock pillar, there is an old hunting camp to interact with. Just like the orc camp, here's a screenshot to help. https://i.imgur.com/SGi5C7u.png Return to Caduett in the Reedwind camp. A Relic Unearthed Teleport to the Perinoor Community Center, heading towards the north side of the Skyfin Nest. Talk to Historian Parung. Here's a screenshot of the location. https://i.imgur.com/o6deHIG.png Beyond Memory After accepting the quest from Historian Parung, speak to Archeologist Soyu. A Catalyst for Connection Teleport back to Reedwind, and speak with Caduett one more time. Witches of the Wind Teleport to Duskgleam in Rookborne Basin, and talk to Windwitch Antalija right beside the port in. Shadows and Redemption This step requires you to kill Lerman inside of the Serpentis dungeon. Assemble a group capable of clearing Serpentis, and head in. Once killed, you'll complete the quest objective and be able to turn it back in at Duskgleam to Windwitch Antalija. Elemental Balance Teleport to Perinoor Community Center, and this time, head to the \"City Ruins\" camp, south of your teleport. Talk to Archeologist Toro. The Essence of Balance Toro requires 5 Stone Spirit Anima. To acquire these, you must kill Yaska Warriors, found in the Skyfin Nest to the north east. Just like the shelfwatchers, only Yaksa Warriors drop anima. Return to Archeologist Toro once you've collected all 5. Creation of the Hardened Wisp Teleport to Duskgleam, and speak with Windwitch Antalija again. Chants of the Wind Target Windwitch Antalija, open chat and type /cheer to complete the quest objective. Talk to her once she's been cheered on. Everyone needs a little bit of support sometimes. The Ritual of Awakening You must protect the nearby spirit summoning. There is a glowing circle with a star in the middle of it, head to the center and interact to drop the summoning stone. The Storm Awakens Take the quest item you just received, and speak to Hermit Thaelin in Diamond Shores at the Riven Gates tower. Reward: Level 50 Stormwraith Kirin Mount The Wraith of the Storm Speak to Hermit Thaelin, but with the Stormwraith Kirin summoned. Reward: Stormwraith Kirin Mount Armor",
+ "html": "<p><span><img alt=\"Mount in game\" src=\"https://wiki.aa-classic.com/images/thumb/e/ee/Kirin.png/448px-Kirin.png\" width=\"448\" height=\"317\" srcset=\"https://wiki.aa-classic.com/images/e/ee/Kirin.png 1.5x\" loading=\"lazy\"></span>\n</p>\n\n<h3 id=\"Skills\">Skills</h3>\n<hr>\n<p><b>Base movement speed:</b> 11.5m/s\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Run!\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/55/Run2.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Pet Move Speed +80% for 10sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Shred\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/78/Gnaw.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sharpens caster's bite, dealing Physical Damage and an additional damage over 14 sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Overwhelm\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9a/Grr.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Pounce at and stun a faraway target.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Guardian's Eyes\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1d/Guardianseye.png\" width=\"38\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Stealth Detection +200%.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Evasive Leap\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/66/Evasiveleap.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Stealths mount and rider and leaps forward 25m. Increases mount's Move Speed +50% for 2 seconds.\n<p>Leaps 35m if this skill is used while Run! is active.\nCan't be used while carrying trade pack.\n</p>\n</td>\n<td>Does not provide the speed boost if used during Run!\n</td></tr></tbody></table>\n<h3 id=\"Equipment\">Equipment</h3>\n<hr>\n<p>Obtained as a reward for the final quest.\n</p>\n<h3 id=\"How_to_Obtain\">How to Obtain</h3>\n<hr>\n<p>The Stormwraith Kirin is acquired by completing a 20 step quest line. \n</p>\n<h3 id=\"Questline_Guide\">Questline Guide</h3>\n<hr>\n<p>This questline begins at Hermit Thaelin, found inside a tower at the Riven Gates in Diamond Shores.\n</p><p><a rel=\"noopener\" href=\"https://i.imgur.com/lUEtGkj.png\">https://i.imgur.com/lUEtGkj.png</a>\n</p>\n<h5 id=\"Whispers_of_the_Past\">Whispers of the Past</h5>\n<p>Accept the quest from Hermit Thaelin, and you will immediately be able to talk to them again and turn it in.\n</p>\n<h5 id=\"Echoes_in_the_Library\">Echoes in the Library</h5>\n<p>You are required to obtain 5 Mysterious Manuscripts from Shelfwatchers in the first floor of the Ayanad Library.\n</p><p>Enter the Ayanad Library's first floor, the Encyclopedia Room, and use <a rel=\"noopener\" href=\"https://docs.google.com/spreadsheets/d/1uQm0m112ckntigQJ-7TOkMYpD8VsCsYmAJs6ac9lU38/edit#gid=757087794\">this map</a> to find Shelfwatchers. Kill them, they will drop a manuscript off each kill. <b>Only Shelfwatchers drop them, not Birch Shelfwatchers.</b>\n</p><p>Return to Hermit Thaelin at the Riven Gates tower with all 5 manuscripts.\n</p>\n<h5 id=\"A_Light_in_the_Dark\">A Light in the Dark</h5>\n<p>Teleport to the Serpentis dungeon entrance in Exeloch, and speak to Lerman standing outside. Turn the quest in at Lerman.\n</p>\n<h5 id=\"The_Price_of_Knowledge\">The Price of Knowledge</h5>\n<p>Teleport to the Hadir Farm dungeon entrance, and head east into the \"overworld\" version of Hadir Farm. You're looking for Executioner Nadan. Talk to them to turn in the quest.\n</p><p><a rel=\"noopener\" href=\"https://i.imgur.com/KbzUHvy.png\">https://i.imgur.com/KbzUHvy.png</a>\n</p>\n<h5 id=\"A_Grim_Exchange\">A Grim Exchange</h5>\n<p>Teleport back to the Serpentis dungeon entrance in Exeloch, and speak to Lerman once again. They'll give you the next quest.\n</p>\n<h5 id=\"Shadows_Transcribed\">Shadows Transcribed</h5>\n<p>Head back to Hermit Thaelin at the Riven Gates tower, and turn in your quest. Grab the next one.\n</p>\n<h5 id=\"Echoes_of_the_Hunt\">Echoes of the Hunt</h5>\n<p>Teleport to Reedwind. Head to the mark on this screenshot, and interact with the floor that has a faint blue light glowing off it. This will be inside of an orc camp.\n</p><p><a rel=\"noopener\" href=\"https://i.imgur.com/Mk1VpCn.png\">https://i.imgur.com/Mk1VpCn.png</a>\n</p><p>Turn this quest in at Caduett in the Reedwind camp.\n</p>\n<h5 id=\"Map_to_the_Past\">Map to the Past</h5>\n<p>Now head to the north east of Reedwind, underneath a small broken rock pillar, there is an old hunting camp to interact with. Just like the orc camp, here's a screenshot to help.\n</p><p><a rel=\"noopener\" href=\"https://i.imgur.com/SGi5C7u.png\">https://i.imgur.com/SGi5C7u.png</a>\n</p><p>Return to Caduett in the Reedwind camp.\n</p>\n<h5 id=\"A_Relic_Unearthed\">A Relic Unearthed</h5>\n<p>Teleport to the Perinoor Community Center, heading towards the north side of the Skyfin Nest. Talk to Historian Parung. Here's a screenshot of the location.\n</p><p><a rel=\"noopener\" href=\"https://i.imgur.com/o6deHIG.png\">https://i.imgur.com/o6deHIG.png</a>\n</p>\n<h5 id=\"Beyond_Memory\">Beyond Memory</h5>\n<p>After accepting the quest from Historian Parung, speak to Archeologist Soyu.\n</p>\n<h5 id=\"A_Catalyst_for_Connection\">A Catalyst for Connection</h5>\n<p>Teleport back to Reedwind, and speak with Caduett one more time. \n</p>\n<h5 id=\"Witches_of_the_Wind\">Witches of the Wind</h5>\n<p>Teleport to Duskgleam in Rookborne Basin, and talk to Windwitch Antalija right beside the port in.\n</p>\n<h5 id=\"Shadows_and_Redemption\">Shadows and Redemption</h5>\n<p>This step requires you to kill Lerman inside of the Serpentis dungeon. Assemble a group capable of clearing Serpentis, and head in.\n</p><p>Once killed, you'll complete the quest objective and be able to turn it back in at Duskgleam to Windwitch Antalija.\n</p>\n<h5 id=\"Elemental_Balance\">Elemental Balance</h5>\n<p>Teleport to Perinoor Community Center, and this time, head to the \"City Ruins\" camp, south of your teleport. Talk to Archeologist Toro.\n</p>\n<h5 id=\"The_Essence_of_Balance\">The Essence of Balance</h5>\n<p>Toro requires 5 Stone Spirit Anima. To acquire these, you must kill Yaska Warriors, found in the Skyfin Nest to the north east. Just like the shelfwatchers, <b>only Yaksa Warriors drop anima.</b>\n</p><p>Return to Archeologist Toro once you've collected all 5.\n</p>\n<h5 id=\"Creation_of_the_Hardened_Wisp\">Creation of the Hardened Wisp</h5>\n<p>Teleport to Duskgleam, and speak with Windwitch Antalija again.\n</p>\n<h5 id=\"Chants_of_the_Wind\">Chants of the Wind</h5>\n<p>Target Windwitch Antalija, open chat and type /cheer to complete the quest objective. Talk to her once she's been cheered on.\n</p><p>Everyone needs a little bit of support sometimes.\n</p>\n<h5 id=\"The_Ritual_of_Awakening\">The Ritual of Awakening</h5>\n<p>You must protect the nearby spirit summoning. There is a glowing circle with a star in the middle of it, head to the center and interact to drop the summoning stone.\n</p>\n<h5 id=\"The_Storm_Awakens\">The Storm Awakens</h5>\n<p>Take the quest item you just received, and speak to Hermit Thaelin in Diamond Shores at the Riven Gates tower. \n</p><p><i><b>Reward:</b> Level 50 Stormwraith Kirin Mount</i> \n</p>\n<h5 id=\"The_Wraith_of_the_Storm\">The Wraith of the Storm</h5>\n<p>Speak to Hermit Thaelin, but with the Stormwraith Kirin summoned.\n</p><p><i><b>Reward:</b> Stormwraith Kirin Mount Armor</i>\n</p>"
+}

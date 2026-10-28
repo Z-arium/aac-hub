@@ -1,0 +1,18 @@
+{
+ "slug": "recipebox",
+ "title": "RecipeBox",
+ "pageid": 2027,
+ "revid": 3959,
+ "updated": "2026-10-19T19:01:20Z",
+ "source": "https://wiki.aa-classic.com/RecipeBox",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Template:RecipeBox",
+   "text": "Template:RecipeBox"
+  }
+ ],
+ "tables": [],
+ "text": "Template:RecipeBox Shows a craft recipe, fetched from the sermeatball crafting API. Workbench, proficiency and materials come from the API. Usage {{RecipeBox|9001323}} The only parameter is the craft ID. Needs the template RecipeMaterialLine.",
+ "html": "<h2 id=\"Template:RecipeBox\">Template:RecipeBox</h2>\n<p>Shows a craft recipe, fetched from the sermeatball crafting API. Workbench, proficiency and materials come from the API.\n</p><p><b>Usage</b>\n</p>\n<pre>{{RecipeBox|9001323}}</pre>\n<ul><li>The only parameter is the craft ID.</li>\n<li>Needs the template <code>RecipeMaterialLine</code>.</li></ul>"
+}

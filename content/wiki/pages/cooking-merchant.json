@@ -1,0 +1,53 @@
+{
+ "slug": "cooking-merchant",
+ "title": "Cooking Merchant",
+ "pageid": 1742,
+ "revid": 3568,
+ "updated": "2026-09-03T20:53:13Z",
+ "source": "https://wiki.aa-classic.com/Cooking_Merchant",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Shop",
+   "text": "Shop"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Shop",
+   "caption": "",
+   "headers": [
+    "Item",
+    "Price",
+    "Item",
+    "Price"
+   ],
+   "rows": [
+    [
+     "Hardtack",
+     "2",
+     "Savory Soup",
+     "8"
+    ],
+    [
+     "Fruit Punch",
+     "12",
+     "Fruit Liquor",
+     "12"
+    ],
+    [
+     "Mysterious Herb Wine",
+     "10",
+     "Assorted Meatballs",
+     "12"
+    ],
+    [
+     "Red Wine Vinegar",
+     "10"
+    ]
+   ]
+  }
+ ],
+ "text": "Cooking Merchant The Cooking Merchant is a merchant NPC that sells basic food and drinks used in Cooking. Shop Item Price Item Price Hardtack 2 Savory Soup 8 Fruit Punch 12 Fruit Liquor 12 Mysterious Herb Wine 10 Assorted Meatballs 12 Red Wine Vinegar 10",
+ "html": "<h1 id=\"Cooking_Merchant\">Cooking Merchant</h1>\n<p>The Cooking Merchant is a merchant NPC that sells basic food and drinks used in Cooking.\n</p>\n<h2 id=\"Shop\">Shop</h2>\n<table class=\"wikitable\" style=\"width: 830px\">\n<tbody><tr>\n<th style=\"width: 325px\">Item\n</th>\n<th style=\"width: 90px\">Price\n</th>\n<th style=\"width: 325px\">Item\n</th>\n<th style=\"width: 90px\">Price\n</th></tr>\n<tr>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/8/87/Archeage_WtuFQUyFEr.png/32px-Archeage_WtuFQUyFEr.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/8/87/Archeage_WtuFQUyFEr.png/48px-Archeage_WtuFQUyFEr.png 1.5x, https://wiki.aa-classic.com/images/8/87/Archeage_WtuFQUyFEr.png 2x\" loading=\"lazy\"></span>&#160; <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/17664\">Hardtack</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">2<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/c/c7/Archeage_ZzmVt6XkC2.png/32px-Archeage_ZzmVt6XkC2.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/c7/Archeage_ZzmVt6XkC2.png/48px-Archeage_ZzmVt6XkC2.png 1.5x, https://wiki.aa-classic.com/images/c/c7/Archeage_ZzmVt6XkC2.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8505\">Savory Soup</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">8<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td></tr>\n<tr>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/a/ae/Archeage_mUQlZtxISy.png/32px-Archeage_mUQlZtxISy.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/a/ae/Archeage_mUQlZtxISy.png/48px-Archeage_mUQlZtxISy.png 1.5x, https://wiki.aa-classic.com/images/a/ae/Archeage_mUQlZtxISy.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8501\">Fruit Punch</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">12<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/2/28/Archeage_T58L0amn38.png/32px-Archeage_T58L0amn38.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/2/28/Archeage_T58L0amn38.png/48px-Archeage_T58L0amn38.png 1.5x, https://wiki.aa-classic.com/images/2/28/Archeage_T58L0amn38.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/17668\">Fruit Liquor</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">12<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td></tr>\n<tr>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/96/Archeage_OgARM8uY9i.png/32px-Archeage_OgARM8uY9i.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/96/Archeage_OgARM8uY9i.png/48px-Archeage_OgARM8uY9i.png 1.5x, https://wiki.aa-classic.com/images/9/96/Archeage_OgARM8uY9i.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/40870\">Mysterious Herb Wine</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">10<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/b2/Archeage_IJupIblidW.png/32px-Archeage_IJupIblidW.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/b2/Archeage_IJupIblidW.png/48px-Archeage_IJupIblidW.png 1.5x, https://wiki.aa-classic.com/images/b/b2/Archeage_IJupIblidW.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/42236\">Assorted Meatballs</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">12<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td></tr>\n<tr>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/7/76/Archeage_r4brFRoT0Q.png/32px-Archeage_r4brFRoT0Q.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/7/76/Archeage_r4brFRoT0Q.png/48px-Archeage_r4brFRoT0Q.png 1.5x, https://wiki.aa-classic.com/images/7/76/Archeage_r4brFRoT0Q.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/42247\">Red Wine Vinegar</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">10<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td></tr></tbody></table>"
+}

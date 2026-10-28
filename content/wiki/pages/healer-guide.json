@@ -1,0 +1,23 @@
+{
+ "slug": "healer-guide",
+ "title": "Healer Guide",
+ "pageid": 1082,
+ "revid": 2055,
+ "updated": "2024-09-25T00:56:03Z",
+ "source": "https://wiki.aa-classic.com/Healer_Guide",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Skill_Trees",
+   "text": "Skill Trees"
+  },
+  {
+   "level": 3,
+   "id": "Gearing",
+   "text": "Gearing"
+  }
+ ],
+ "tables": [],
+ "text": "Healer classes specialize in healing your allies. Skill Trees Cleric (Vitalism, Songcraft, Auramancy) Well rounded, highest healing output healer class. Heirophant (Vitalism, Witchcraft, Auramancy) Sacrifices some healing output for additional tankiness and crowd control. Templar (Vitalism, Defense, Auramancy) Sacrifices some healing output for significant tankiness. Soothsayer (Vitalism, Shadowplay, Auramancy) Sacrifices healing output for additional mobility, generally focused on reviving allies due to stealth's ability to drop from combat. Gearing The following links are baseline sets and may not reflect your ideal gear set. Additionally, the grade of your gear doesn't need to match exactly. For example, you could have the whole set at celestial grade, prior to upgrading to divine, or you may use the delphinad version of the cloak for awhile before upgrading to ayanad. Club + Shield, Obsidian Armor",
+ "html": "<p>Healer classes specialize in healing your allies.\n</p>\n<h3 id=\"Skill_Trees\">Skill Trees</h3>\n<ul><li>Cleric (Vitalism, Songcraft, Auramancy)\n<ul><li>Well rounded, highest healing output healer class.</li></ul></li>\n<li>Heirophant (Vitalism, Witchcraft, Auramancy)\n<ul><li>Sacrifices some healing output for additional tankiness and crowd control.</li></ul></li>\n<li>Templar (Vitalism, Defense, Auramancy)\n<ul><li>Sacrifices some healing output for significant tankiness.</li></ul></li>\n<li>Soothsayer (Vitalism, Shadowplay, Auramancy)\n<ul><li>Sacrifices healing output for additional mobility, generally focused on reviving allies due to stealth's ability to drop from combat.</li></ul></li></ul>\n<h3 id=\"Gearing\">Gearing</h3>\n<p><i>The following links are baseline sets and may not reflect your ideal gear set. Additionally, the grade of your gear doesn't need to match exactly. For example, you could have the whole set at celestial grade, prior to upgrading to divine, or you may use the delphinad version of the cloak for awhile before upgrading to ayanad.</i>\n</p><p><a rel=\"noopener\" href=\"https://darugear.com/?s=zQTEuC\">Club + Shield, Obsidian Armor</a>\n</p>"
+}

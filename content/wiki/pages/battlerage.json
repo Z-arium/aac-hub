@@ -1,0 +1,159 @@
+{
+ "slug": "battlerage",
+ "title": "Battlerage",
+ "pageid": 4,
+ "revid": 1751,
+ "updated": "2024-07-21T08:18:28Z",
+ "source": "https://wiki.aa-classic.com/Battlerage",
+ "headings": [
+  {
+   "level": 2,
+   "id": "List_Of_Skills",
+   "text": "List Of Skills"
+  },
+  {
+   "level": 3,
+   "id": "Active_Skills",
+   "text": "Active Skills"
+  },
+  {
+   "level": 3,
+   "id": "Passive_Skills",
+   "text": "Passive Skills"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Active Skills",
+   "caption": "",
+   "headers": [
+    "Level",
+    "Skill",
+    "Description",
+    "Combos"
+   ],
+   "rows": [
+    [
+     "1",
+     "Triple Slash",
+     "A constant pattern Of 3 distinct strikes, each dealing 283 Physical Damage and inflicting different effects. Attack 1: Shakes enemy for 2.5sec. Attack 2: Deals additional damage to Tripped enemies. Attack 3: Increases Melee damage +30% and hits multiple enemies in front of you. Does not trigger a Global Cooldown. Hold down for continuous use.",
+     "First attack: Snared targets are Tripped for 2.5 sec. Second attack: Inflicts additional +48% damage on Tripped targets. Third attack: Increases threat generation +300% if used while under the effects of Toughen."
+    ],
+    [
+     "3",
+     "Charge",
+     "Launches a rush toward an enemy that deals 753 Physical Damage and inflicts Snare for 3.5sec. Snare duration reduced -50% in PvP. Can't be used while Snared.",
+     "Inflicts additional +26% damage on Slowed targets."
+    ],
+    [
+     "10",
+     "Whirlwind Slash",
+     "A spinning attack with up to 3 distinct strikes, each dealing 826 Physical Damage to many nearby enemies. Attack 1: Deals additional damage to Shaken targets, and Trips Slowed targets Attack 2: Deals additional damage to Tripped targets. Attack 3: Shoves nearby targets away from you. No cooldown between strikes. Hold down for continuous use.",
+     "Slowed targets are Tripped for 3 seconds. Increases duration of Tripped +30% on Enervated targets. Inflicts additional +12% damage on Shaken targets. Second attack: Inflicts additional +29% damage on Tripped targets."
+    ],
+    [
+     "15",
+     "Sunder Earth",
+     "Smashes open a fault line in front of you, dealing 968 Physical damage to all enemies in its path and decreasing their Move Speed -60% for 3sec. All allies in the area of effect gain Earth Energy, decreasing received damage -30% for up to 7 seconds.",
+     "Inflicts additional +47% damage on Tripped targets. Provokes targets if used while under the effects of Toughen."
+    ],
+    [
+     "20",
+     "Lasso",
+     "Pulls a distant enemy to your position. This ability also Taunts the target, forcing affected monsters to attack you for 4 seconds",
+     "N/A"
+    ],
+    [
+     "25",
+     "Terrifying Roar",
+     "Weakens all enemies within 5m for 7sec. Increases the duration of Stun, Trip, Fear, Shackle, Petrify, Sleep, Impale, and Bubble Trap +25%. Also Toughens the caster for the same amount of time, reducing the duration of those debuffs.",
+     "N/A"
+    ],
+    [
+     "30",
+     "Bondbreaker",
+     "Removes all Snared, Slowed, and Lassitude effects from the caster, and grants immunity to these effects for 5sec. Can only be used while under one of these effects. Can be used during global cooldown, and does not trigger a global cooldown.",
+     "N/A"
+    ],
+    [
+     "35",
+     "Precision Strike",
+     "Delivers a powerful attack that deals 1782 Physical Damage. Increases Critical Damage 60%. Backstabbing increases Melee Critical Rate +34%.",
+     "Inflicts additional +37% damage on Bleeding targets."
+    ],
+    [
+     "40",
+     "Frenzy",
+     "Increases Melee Attack and Magic Attack +30 whenever damage is received, and absorbs 21% of received Magic Damage. Increases Move Speed +5% and reduces Physical Defense —10% each time you damage an enemy. Decreases Battlerage Mana Cost —50%. Effect lasts for 20sec, but increases by + 20sec per kill. Stuns you for 4 seconds when Frenzy ends.",
+     "You are not exhausted when under the effect of Urgency."
+    ],
+    [
+     "45",
+     "Battle Focus",
+     "Decreases the cooldown Of Battlerage skills -40% and increases Parry chance +32% for 20sec. Also increases Melee Critical Damage +25% and decreases the mana cost of Battlerage skills -42%. Doesn't trigger a global cooldown.",
+     "N/A"
+    ],
+    [
+     "50",
+     "Tiger Strike",
+     "Launches a rush past an enemy dealing 1443 Physical Damage. Repeats up to 5 times if other enemies are nearby. Can't be countered with Evasion, Block, or Parry. Can't be used while Snared.",
+     "Inflicts additional +13% damage on Shaken targets. Inflicts Distressed on targets if used while under the effects of Delirium. Distressed - Decreases Move Speed -45%; Decreases Skill Damage -20%; Attack Speed -250; and Healing Effectiveness -60%"
+    ],
+    [
+     "55",
+     "Behind Enemy Lines",
+     "Triggers a high leap that lands at a designated site, dealing 1521 Physical Damage and Snaring nearby enemies for 3.5sec. Cancels Bubble Trap, Petrify, and Telekinesis effects. Snare duration reduced -50% in PvP. Can't be used while Snared.",
+     "Distresses Snared targets. Distressed - Decreases Move Speed -45%; Decreases Skill Damage -20%; Attack Speed -250; and Healing Effectiveness -60%"
+    ]
+   ]
+  },
+  {
+   "heading": "Passive Skills",
+   "caption": "",
+   "headers": [
+    "Required Points",
+    "Skill",
+    "Description"
+   ],
+   "rows": [
+    [
+     "2",
+     "Weapon Maneuvers",
+     "Increases Melee Attack +5%."
+    ],
+    [
+     "4",
+     "Dual-Wield Proficiency",
+     "When dual—wielding, Parry deflects Ranged Attacks as well. Increases Melee Crit Rate +8%."
+    ],
+    [
+     "6",
+     "Attack Speed Training",
+     "Decreases the cooldown of Battlerage skills-10%. Grants one stack of Delirium for every Battlerage Critical Hit, and for every enemy hit by the 3rd attack of Whirlwind Slash. Delirium: - Melee Skill Damage +2%. - Melee Critical Damage +5% . - Stacks up to 5 times. - Grants a 5% chance of inflicting Bleed on targets."
+    ],
+    [
+     "7",
+     "Deflect and Retaliate",
+     "Permanently increases Parry rate +2%; each successful parry resets the cooldown on all Battlerage attack skills. This ability has a 12sec cooldown once triggered."
+    ],
+    [
+     "8",
+     "Reckless Charge",
+     "Using Charge, Tiger Strike, or Behind Enemy Lines decreases received Physical Damage -15%, and decreases the duration Of Shackle, Slow, Snare, and Impale -35% for 4 seconds."
+    ],
+    [
+     "9",
+     "Puncture",
+     "Melee Critical attacks decrease the target's Physical Defense -2000 for 5 seconds."
+    ],
+    [
+     "10",
+     "Weapon Mastery",
+     "Increases Battlerage skill damage +15%."
+    ]
+   ]
+  }
+ ],
+ "text": "List Of Skills Active Skills Level Skill Description Combos 1 Triple Slash A constant pattern Of 3 distinct strikes, each dealing 283 Physical Damage and inflicting different effects. Attack 1: Shakes enemy for 2.5sec. Attack 2: Deals additional damage to Tripped enemies. Attack 3: Increases Melee damage +30% and hits multiple enemies in front of you. Does not trigger a Global Cooldown. Hold down for continuous use. First attack: Snared targets are Tripped for 2.5 sec. Second attack: Inflicts additional +48% damage on Tripped targets. Third attack: Increases threat generation +300% if used while under the effects of Toughen. 3 Charge Launches a rush toward an enemy that deals 753 Physical Damage and inflicts Snare for 3.5sec. Snare duration reduced -50% in PvP. Can't be used while Snared. Inflicts additional +26% damage on Slowed targets. 10 Whirlwind Slash A spinning attack with up to 3 distinct strikes, each dealing 826 Physical Damage to many nearby enemies. Attack 1: Deals additional damage to Shaken targets, and Trips Slowed targets Attack 2: Deals additional damage to Tripped targets. Attack 3: Shoves nearby targets away from you. No cooldown between strikes. Hold down for continuous use. Slowed targets are Tripped for 3 seconds. Increases duration of Tripped +30% on Enervated targets. Inflicts additional +12% damage on Shaken targets. Second attack: Inflicts additional +29% damage on Tripped targets. 15 Sunder Earth Smashes open a fault line in front of you, dealing 968 Physical damage to all enemies in its path and decreasing their Move Speed -60% for 3sec. All allies in the area of effect gain Earth Energy, decreasing received damage -30% for up to 7 seconds. Inflicts additional +47% damage on Tripped targets. Provokes targets if used while under the effects of Toughen. 20 Lasso Pulls a distant enemy to your position. This ability also Taunts the target, forcing affected monsters to attack you for 4 seconds N/A 25 Terrifying Roar Weakens all enemies within 5m for 7sec. Increases the duration of Stun, Trip, Fear, Shackle, Petrify, Sleep, Impale, and Bubble Trap +25%. Also Toughens the caster for the same amount of time, reducing the duration of those debuffs. N/A 30 Bondbreaker Removes all Snared, Slowed, and Lassitude effects from the caster, and grants immunity to these effects for 5sec. Can only be used while under one of these effects. Can be used during global cooldown, and does not trigger a global cooldown. N/A 35 Precision Strike Delivers a powerful attack that deals 1782 Physical Damage. Increases Critical Damage 60%. Backstabbing increases Melee Critical Rate +34%. Inflicts additional +37% damage on Bleeding targets. 40 Frenzy Increases Melee Attack and Magic Attack +30 whenever damage is received, and absorbs 21% of received Magic Damage. Increases Move Speed +5% and reduces Physical Defense —10% each time you damage an enemy. Decreases Battlerage Mana Cost —50%. Effect lasts for 20sec, but increases by + 20sec per kill. Stuns you for 4 seconds when Frenzy ends. You are not exhausted when under the effect of Urgency. 45 Battle Focus Decreases the cooldown Of Battlerage skills -40% and increases Parry chance +32% for 20sec. Also increases Melee Critical Damage +25% and decreases the mana cost of Battlerage skills -42%. Doesn't trigger a global cooldown. N/A 50 Tiger Strike Launches a rush past an enemy dealing 1443 Physical Damage. Repeats up to 5 times if other enemies are nearby. Can't be countered with Evasion, Block, or Parry. Can't be used while Snared. Inflicts additional +13% damage on Shaken targets. Inflicts Distressed on targets if used while under the effects of Delirium. Distressed - Decreases Move Speed -45%; Decreases Skill Damage -20%; Attack Speed -250; and Healing Effectiveness -60% 55 Behind Enemy Lines Triggers a high leap that lands at a designated site, dealing 1521 Physical Damage and Snaring nearby enemies for 3.5sec. Cancels Bubble Trap, Petrify, and Telekinesis effects. Snare duration reduced -50% in PvP. Can't be used while Snared. Distresses Snared targets. Distressed - Decreases Move Speed -45%; Decreases Skill Damage -20%; Attack Speed -250; and Healing Effectiveness -60% Passive Skills Required Points Skill Description 2 Weapon Maneuvers Increases Melee Attack +5%. 4 Dual-Wield Proficiency When dual—wielding, Parry deflects Ranged Attacks as well. Increases Melee Crit Rate +8%. 6 Attack Speed Training Decreases the cooldown of Battlerage skills-10%. Grants one stack of Delirium for every Battlerage Critical Hit, and for every enemy hit by the 3rd attack of Whirlwind Slash. Delirium: - Melee Skill Damage +2%. - Melee Critical Damage +5% . - Stacks up to 5 times. - Grants a 5% chance of inflicting Bleed on targets. 7 Deflect and Retaliate Permanently increases Parry rate +2%; each successful parry resets the cooldown on all Battlerage attack skills. This ability has a 12sec cooldown once triggered. 8 Reckless Charge Using Charge, Tiger Strike, or Behind Enemy Lines decreases received Physical Damage -15%, and decreases the duration Of Shackle, Slow, Snare, and Impale -35% for 4 seconds. 9 Puncture Melee Critical attacks decrease the target's Physical Defense -2000 for 5 seconds. 10 Weapon Mastery Increases Battlerage skill damage +15%.",
+ "html": "<h2 id=\"List_Of_Skills\">List Of Skills</h2>\n<h3 id=\"Active_Skills\">Active Skills</h3>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Level\n</th>\n<th>Skill\n</th>\n<th>Description\n</th>\n<th>Combos\n</th></tr>\n<tr>\n<td>1\n</td>\n<td>Triple Slash\n</td>\n<td>A constant pattern Of 3 distinct strikes, each dealing 283 Physical Damage and inflicting different effects.\n<p>Attack 1: Shakes enemy for 2.5sec.\n</p><p>Attack 2: Deals additional damage to Tripped enemies.\n</p><p>Attack 3: Increases Melee damage +30% and hits multiple enemies in front of you.\n</p><p><i>Does not trigger a Global Cooldown. Hold down for continuous use.</i>\n</p>\n</td>\n<td>First attack: Snared targets are Tripped for 2.5 sec.\n<p>Second attack: Inflicts additional +48% damage on Tripped targets.\n</p><p>Third attack: Increases threat generation +300% if used while under the effects of Toughen.\n</p><p><br>\n</p>\n</td></tr>\n<tr>\n<td>3\n</td>\n<td>Charge\n</td>\n<td>Launches a rush toward an enemy that deals 753 Physical Damage and inflicts Snare for 3.5sec.\n<p><i>Snare duration reduced -50% in PvP. Can't be used while Snared.</i>\n</p>\n</td>\n<td>Inflicts additional +26% damage on Slowed targets.\n</td></tr>\n<tr>\n<td>10\n</td>\n<td>Whirlwind Slash\n</td>\n<td>A spinning attack with up to 3 distinct strikes, each dealing 826 Physical Damage to many nearby enemies.\n<p>Attack 1: Deals additional damage to Shaken targets, and Trips Slowed targets\n</p><p>Attack 2: Deals additional damage to Tripped targets.\n</p><p>Attack 3: Shoves nearby targets away from you.\n</p><p><i>No cooldown between strikes. Hold down for continuous use.</i>\n</p>\n</td>\n<td>Slowed targets are Tripped for 3 seconds.\n<p>Increases duration of Tripped +30% on Enervated targets.\n</p><p>Inflicts additional +12% damage on Shaken targets.\n</p><p>Second attack: Inflicts additional +29% damage on Tripped targets.\n</p>\n</td></tr>\n<tr>\n<td>15\n</td>\n<td>Sunder Earth\n</td>\n<td>Smashes open a fault line in front of you, dealing 968 Physical damage to all enemies in its path and decreasing their Move Speed -60% for 3sec.\n<p>All allies in the area of effect gain Earth Energy, decreasing received damage -30% for up to 7 seconds.\n</p>\n</td>\n<td>Inflicts additional +47% damage on Tripped targets.\n<p>Provokes targets if used while under the effects of Toughen.\n</p>\n</td></tr>\n<tr>\n<td>20\n</td>\n<td>Lasso\n</td>\n<td>Pulls a distant enemy to your position. This ability also Taunts the target, forcing affected monsters to attack you for 4 seconds\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td>25\n</td>\n<td>Terrifying Roar\n</td>\n<td>Weakens all enemies within 5m for 7sec. Increases the duration of Stun, Trip, Fear, Shackle, Petrify, Sleep, Impale, and Bubble Trap +25%.\n<p>Also Toughens the caster for the same amount of time, reducing the duration of those debuffs.\n</p>\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td>30\n</td>\n<td>Bondbreaker\n</td>\n<td>Removes all Snared, Slowed, and Lassitude effects from the caster, and grants immunity to these effects for 5sec. Can only be used while under one of these effects.\n<p><i>Can be used during global cooldown, and does not trigger a global cooldown.</i>\n</p>\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td>35\n</td>\n<td>Precision Strike\n</td>\n<td>Delivers a powerful attack that deals 1782 Physical Damage.\n<p>Increases Critical Damage 60%.\n</p><p>Backstabbing increases Melee Critical Rate +34%.\n</p>\n</td>\n<td>Inflicts additional +37% damage on Bleeding targets.\n</td></tr>\n<tr>\n<td>40\n</td>\n<td>Frenzy\n</td>\n<td>Increases Melee Attack and Magic Attack +30 whenever damage is received, and absorbs 21% of received Magic Damage.\n<p>Increases Move Speed +5% and reduces Physical Defense —10% each time you damage an enemy.\n</p><p>Decreases Battlerage Mana Cost —50%.\n</p><p>Effect lasts for 20sec, but increases by + 20sec per kill. Stuns you for 4 seconds when Frenzy ends.\n</p>\n</td>\n<td>You are not exhausted when under the effect of Urgency.\n</td></tr>\n<tr>\n<td>45\n</td>\n<td>Battle Focus\n</td>\n<td>Decreases the cooldown Of Battlerage skills -40% and increases Parry chance +32% for 20sec.\n<p>Also increases Melee Critical Damage +25% and decreases the mana cost of Battlerage skills -42%.\n</p><p><i>Doesn't trigger a global cooldown.</i>\n</p>\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td>50\n</td>\n<td>Tiger Strike\n</td>\n<td>Launches a rush past an enemy dealing 1443 Physical Damage.\n<p>Repeats up to 5 times if other enemies are nearby.\n</p><p>Can't be countered with Evasion, Block, or Parry.\n</p><p><i>Can't be used while Snared.</i>\n</p>\n</td>\n<td>Inflicts additional +13% damage on Shaken targets.\n<p>Inflicts Distressed on targets if used while under the effects of Delirium.\n</p><p>Distressed - Decreases Move Speed -45%; Decreases Skill Damage -20%; Attack Speed -250; and <b>Healing Effectiveness -60%</b>\n</p><p><br>\n</p>\n</td></tr>\n<tr>\n<td>55\n</td>\n<td>Behind Enemy Lines\n</td>\n<td>Triggers a high leap that lands at a designated site, dealing 1521 Physical Damage and Snaring nearby enemies for 3.5sec.\n<p>Cancels Bubble Trap, Petrify, and Telekinesis effects.\n</p><p><i>Snare duration reduced -50% in PvP. Can't be used while Snared.</i>\n</p>\n</td>\n<td>Distresses Snared targets.\n<p>Distressed - Decreases Move Speed -45%; Decreases Skill Damage -20%; Attack Speed -250; and <b>Healing Effectiveness -60%</b>\n</p>\n</td></tr></tbody></table>\n<h3 id=\"Passive_Skills\">Passive Skills</h3>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Required Points\n</th>\n<th>Skill\n</th>\n<th>Description\n</th></tr>\n<tr>\n<td>2\n</td>\n<td>Weapon Maneuvers\n</td>\n<td>Increases Melee Attack +5%.\n</td></tr>\n<tr>\n<td>4\n</td>\n<td>Dual-Wield Proficiency\n</td>\n<td>When dual—wielding, Parry deflects Ranged Attacks as well.\n<p>Increases Melee Crit Rate +8%.\n</p>\n</td></tr>\n<tr>\n<td>6\n</td>\n<td>Attack Speed Training\n</td>\n<td>Decreases the cooldown of Battlerage skills-10%.\n<p>Grants one stack of Delirium for every Battlerage Critical Hit, and for every enemy hit by the 3rd attack of Whirlwind Slash.\nDelirium:\n- Melee Skill Damage +2%.\n</p><p>- Melee Critical Damage +5% .\n</p><p>- Stacks up to 5 times.\n</p><p>- Grants a 5% chance of inflicting Bleed on targets.\n</p>\n</td></tr>\n<tr>\n<td>7\n</td>\n<td>Deflect and Retaliate\n</td>\n<td>Permanently increases Parry rate +2%; each successful parry resets the cooldown on all Battlerage attack skills.\n<p>This ability has a 12sec cooldown once triggered.\n</p>\n</td></tr>\n<tr>\n<td>8\n</td>\n<td>Reckless Charge\n</td>\n<td>Using Charge, Tiger Strike, or Behind Enemy Lines decreases received Physical Damage -15%,\n<p>and decreases the duration Of Shackle, Slow, Snare, and Impale -35% for 4 seconds.\n</p>\n</td></tr>\n<tr>\n<td>9\n</td>\n<td>Puncture\n</td>\n<td>Melee Critical attacks decrease the target's Physical Defense -2000 for 5 seconds.\n</td></tr>\n<tr>\n<td>10\n</td>\n<td>Weapon Mastery\n</td>\n<td>Increases Battlerage skill damage +15%.\n</td></tr></tbody></table>"
+}

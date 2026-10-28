@@ -1,0 +1,691 @@
+{
+ "slug": "custom-weapon-skins",
+ "title": "Custom weapon skins",
+ "pageid": 1322,
+ "revid": 3220,
+ "updated": "2026-01-26T20:56:42Z",
+ "source": "https://wiki.aa-classic.com/Custom_weapon_skins",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Star_Clad_skins",
+   "text": "Star Clad skins"
+  },
+  {
+   "level": 3,
+   "id": "Star_Clad_club",
+   "text": "Star Clad club"
+  },
+  {
+   "level": 2,
+   "id": "Thornbound_skins",
+   "text": "Thornbound skins"
+  },
+  {
+   "level": 3,
+   "id": "Thornbound_Mercy_Club",
+   "text": "Thornbound Mercy Club"
+  },
+  {
+   "level": 3,
+   "id": "Cupid's_Fang_Dagger",
+   "text": "Cupid's Fang Dagger"
+  },
+  {
+   "level": 3,
+   "id": "Heartpiercer_Sword",
+   "text": "Heartpiercer Sword"
+  },
+  {
+   "level": 3,
+   "id": "Lover's_Lament_Longspear",
+   "text": "Lover's Lament Longspear"
+  },
+  {
+   "level": 3,
+   "id": "Thornbound_Majesty_Scepter",
+   "text": "Thornbound Majesty Scepter"
+  },
+  {
+   "level": 3,
+   "id": "Thornbound_Ruin_Staff",
+   "text": "Thornbound Ruin Staff"
+  },
+  {
+   "level": 3,
+   "id": "Lover's_Fury_Shortspear",
+   "text": "Lover's Fury Shortspear"
+  },
+  {
+   "level": 2,
+   "id": "Portal_skins",
+   "text": "Portal skins"
+  },
+  {
+   "level": 2,
+   "id": "Summer_Contest_2025_Weapon_skins",
+   "text": "Summer Contest 2025 Weapon skins"
+  },
+  {
+   "level": 3,
+   "id": "Sword",
+   "text": "Sword"
+  },
+  {
+   "level": 3,
+   "id": "Greatsword",
+   "text": "Greatsword"
+  },
+  {
+   "level": 3,
+   "id": "Nodachi",
+   "text": "Nodachi"
+  },
+  {
+   "level": 3,
+   "id": "Katana",
+   "text": "Katana"
+  },
+  {
+   "level": 3,
+   "id": "Longspear",
+   "text": "Longspear"
+  },
+  {
+   "level": 3,
+   "id": "Shortspear",
+   "text": "Shortspear"
+  },
+  {
+   "level": 3,
+   "id": "Shield",
+   "text": "Shield"
+  },
+  {
+   "level": 3,
+   "id": "Flute",
+   "text": "Flute"
+  },
+  {
+   "level": 3,
+   "id": "Lute",
+   "text": "Lute"
+  },
+  {
+   "level": 3,
+   "id": "Dagger",
+   "text": "Dagger"
+  },
+  {
+   "level": 3,
+   "id": "Club",
+   "text": "Club"
+  },
+  {
+   "level": 3,
+   "id": "Greatclub",
+   "text": "Greatclub"
+  },
+  {
+   "level": 3,
+   "id": "Axe",
+   "text": "Axe"
+  },
+  {
+   "level": 3,
+   "id": "Greataxe",
+   "text": "Greataxe"
+  },
+  {
+   "level": 3,
+   "id": "Scepter",
+   "text": "Scepter"
+  },
+  {
+   "level": 3,
+   "id": "Staff",
+   "text": "Staff"
+  },
+  {
+   "level": 3,
+   "id": "Bow",
+   "text": "Bow"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Star Clad club",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9000548",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Thornbound Mercy Club",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001000",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Cupid's Fang Dagger",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001006",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Heartpiercer Sword",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001003",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Lover's Lament Longspear",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001004",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Thornbound Majesty Scepter",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001001",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Thornbound Ruin Staff",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001005",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Lover's Fury Shortspear",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001002",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Rosebound Passage",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001007",
+     "Crawling"
+    ]
+   ]
+  },
+  {
+   "heading": "Great Sharkfin",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001338",
+     "Roisha"
+    ]
+   ]
+  },
+  {
+   "heading": "Surf Shredder",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001395",
+     "Dehling"
+    ]
+   ]
+  },
+  {
+   "heading": "Sharkfin",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001337",
+     "Roisha"
+    ]
+   ]
+  },
+  {
+   "heading": "Bubble Blade",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001360",
+     "BigMyr"
+    ]
+   ]
+  },
+  {
+   "heading": "Jumbo Skewer Spear",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001333",
+     "Sunphira"
+    ]
+   ]
+  },
+  {
+   "heading": "The Pool Noodle",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001339",
+     "Powerpoint"
+    ]
+   ]
+  },
+  {
+   "heading": "Skewer Spear",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001332",
+     "Sunphira"
+    ]
+   ]
+  },
+  {
+   "heading": "Sanddeep's Edge",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001388",
+     "Boku"
+    ]
+   ]
+  },
+  {
+   "heading": "Sunflower Shield",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001334",
+     "Sunphira"
+    ]
+   ]
+  },
+  {
+   "heading": "Depth Titan's Shield",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001335",
+     "lunacharskya"
+    ]
+   ]
+  },
+  {
+   "heading": "Castaway Life Preserver",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001358",
+     "Hamilton"
+    ]
+   ]
+  },
+  {
+   "heading": "Mermaids Tale",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001336",
+     "Chenbi"
+    ]
+   ]
+  },
+  {
+   "heading": "Cacophony Below",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001400",
+     "Chenbi"
+    ]
+   ]
+  },
+  {
+   "heading": "Starfrost Pop",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001340",
+     "ZsasZ"
+    ]
+   ]
+  },
+  {
+   "heading": "Enla’s Grace",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001398",
+     "Oat"
+    ]
+   ]
+  },
+  {
+   "heading": "Seraph’s Grace",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001386",
+     "Chenbi"
+    ]
+   ]
+  },
+  {
+   "heading": "Pearlbreaker",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001361",
+     "Kimchi"
+    ]
+   ]
+  },
+  {
+   "heading": "Hartlight",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001387",
+     "Doe"
+    ]
+   ]
+  },
+  {
+   "heading": "Fraisefire Mend",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001385",
+     "BigMyr"
+    ]
+   ]
+  },
+  {
+   "heading": "Pearlcrusher",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001362",
+     "Kimchi"
+    ]
+   ]
+  },
+  {
+   "heading": "Hartspire",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001391",
+     "Doe"
+    ]
+   ]
+  },
+  {
+   "heading": "Fraisefire Bastion",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001390",
+     "BigMyr"
+    ]
+   ]
+  },
+  {
+   "heading": "Eye of the Sun",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001363",
+     "Sunraze"
+    ]
+   ]
+  },
+  {
+   "heading": "Heart of the Sun",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001364",
+     "Sunraze"
+    ]
+   ]
+  },
+  {
+   "heading": "Fraisefire Bloom",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001389",
+     "BigMyr"
+    ]
+   ]
+  },
+  {
+   "heading": "Seal of the Twin Gods",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001359",
+     "Zzeddy"
+    ]
+   ]
+  },
+  {
+   "heading": "Halo of the Twin Gods",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001357",
+     "Zzeddy"
+    ]
+   ]
+  },
+  {
+   "heading": "Seawarden’s Mast",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001392",
+     "Richy"
+    ]
+   ]
+  },
+  {
+   "heading": "Cherrybomb Picnic",
+   "caption": "",
+   "headers": [
+    "Item ID",
+    "Creator"
+   ],
+   "rows": [
+    [
+     "9001397",
+     "Two"
+    ]
+   ]
+  }
+ ],
+ "text": "Star Clad skins Currently the only skin from the Star Clad collection is the club. Star Clad club is only obtainable during Christmas event, where daily activities give candy canes that can be used to brake the big gift boxes in Austera and Marianople. The skins is a rare-ish drop and cant be traded between players. Star Clad club Item ID Creator 9000548 Crawling Thornbound skins Thornbound collection is a set of skins that are being sold in the Golden Token shop. One weapon skins costs 1 Golden Token. Thornbound Mercy Club Item ID Creator 9001000 Crawling Cupid's Fang Dagger Item ID Creator 9001006 Crawling Heartpiercer Sword Item ID Creator 9001003 Crawling Lover's Lament Longspear Item ID Creator 9001004 Crawling Thornbound Majesty Scepter Item ID Creator 9001001 Crawling Thornbound Ruin Staff Item ID Creator 9001005 Crawling Lover's Fury Shortspear Item ID Creator 9001002 Crawling Portal skins This hearty portal was an exclusive reward from 2025 Valentines day contest. Otherwise not available...for now. Rosebound Passage Item ID Creator 9001007 Crawling Summer Contest 2025 Weapon skins One really cool feature about Archeage Classic are all kinds of custom events, different contest and particularly custom weapon design contest. This contest was held between 16.6.2025 - 13.7.2025. Players were able to make their own unique designs that were voted by the community and later chosen by the Darus to become actual weapon skins in the game. The first ever contest was themed with Summer weapons and they became part of the Complete Summer Contest Crates that are being sold in the Marketplace for 700 credits. The item IDs can be used in the Dress Up addon to see them if unsure of how they look in the game. Sword Great Sharkfin Item ID Creator 9001338 Roisha Greatsword Surf Shredder Item ID Creator 9001395 Dehling Nodachi Sharkfin Item ID Creator 9001337 Roisha Katana Bubble Blade Item ID Creator 9001360 BigMyr Longspear Jumbo Skewer Spear Item ID Creator 9001333 Sunphira The Pool Noodle Item ID Creator 9001339 Powerpoint Shortspear Skewer Spear Item ID Creator 9001332 Sunphira Sanddeep's Edge Item ID Creator 9001388 Boku Shield Sunflower Shield Item ID Creator 9001334 Sunphira Depth Titan's Shield Item ID Creator 9001335 lunacharskya Castaway Life Preserver Item ID Creator 9001358 Hamilton Flute Mermaids Tale Item ID Creator 9001336 Chenbi Lute Cacophony Below Item ID Creator 9001400 Chenbi Dagger Starfrost Pop Item ID Creator 9001340 ZsasZ Enla’s Grace Item ID Creator 9001398 Oat Club Seraph’s Grace Item ID Creator 9001386 Chenbi Pearlbreaker Item ID Creator 9001361 Kimchi Hartlight Item ID Creator 9001387 Doe Fraisefire Mend Item ID Creator 9001385 BigMyr Greatclub Pearlcrusher Item ID Creator 9001362 Kimchi Hartspire Item ID Creator 9001391 Doe Fraisefire Bastion Item ID Creator 9001390 BigMyr Axe Eye of the Sun Item ID Creator 9001363 Sunraze Greataxe Heart of the Sun Item ID Creator 9001364 Sunraze Scepter Fraisefire Bloom Item ID Creator 9001389 BigMyr Seal of the Twin Gods Item ID Creator 9001359 Zzeddy Staff Halo of the Twin Gods Item ID Creator 9001357 Zzeddy Seawarden’s Mast Item ID Creator 9001392 Richy Bow Cherrybomb Picnic Item ID Creator 9001397 Two",
+ "html": "<h2 id=\"Star_Clad_skins\">Star Clad skins</h2>\n<p>Currently the only skin from the Star Clad collection is the club. Star Clad club is only obtainable during Christmas event, where daily activities give candy canes that can be used to brake the big gift boxes in Austera and Marianople. The skins is a rare-ish drop and cant be traded between players.\n</p>\n<h3 id=\"Star_Clad_club\">Star Clad club</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/2/22/Starclad_club.png/520px-Starclad_club.png\" width=\"520\" height=\"228\" srcset=\"https://wiki.aa-classic.com/images/thumb/2/22/Starclad_club.png/780px-Starclad_club.png 1.5x, https://wiki.aa-classic.com/images/2/22/Starclad_club.png 2x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9000548\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h2 id=\"Thornbound_skins\">Thornbound skins</h2>\n<p>Thornbound collection is a set of skins that are being sold in the <a href=\"/wiki/currencies\">Golden Token</a> shop. One weapon skins costs 1 Golden Token. \n</p>\n<h3 id=\"Thornbound_Mercy_Club\">Thornbound Mercy Club</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/358px-Thornbound_scepter_club.png\" width=\"358\" height=\"159\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/537px-Thornbound_scepter_club.png 1.5x, https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/716px-Thornbound_scepter_club.png 2x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001000\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<h3 id=\"Cupid's_Fang_Dagger\"><span></span>Cupid's Fang Dagger</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/e/e1/Thornbound_dagger.png/551px-Thornbound_dagger.png\" width=\"551\" height=\"278\" srcset=\"https://wiki.aa-classic.com/images/e/e1/Thornbound_dagger.png 1.5x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001006\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<h3 id=\"Heartpiercer_Sword\">Heartpiercer Sword</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/5/5e/Thornbound_sword.png/626px-Thornbound_sword.png\" width=\"626\" height=\"210\" srcset=\"https://wiki.aa-classic.com/images/thumb/5/5e/Thornbound_sword.png/939px-Thornbound_sword.png 1.5x, https://wiki.aa-classic.com/images/5/5e/Thornbound_sword.png 2x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001003\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<h3 id=\"Lover's_Lament_Longspear\"><span></span>Lover's Lament Longspear</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/541px-Thornbound_spear.png\" width=\"541\" height=\"191\" srcset=\"https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/812px-Thornbound_spear.png 1.5x, https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/1082px-Thornbound_spear.png 2x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001004\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<h3 id=\"Thornbound_Majesty_Scepter\">Thornbound Majesty Scepter</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/342px-Thornbound_scepter_club.png\" width=\"342\" height=\"152\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/513px-Thornbound_scepter_club.png 1.5x, https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/684px-Thornbound_scepter_club.png 2x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001001\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<h3 id=\"Thornbound_Ruin_Staff\">Thornbound Ruin Staff</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/489px-Thornbound_scepter_club.png\" width=\"489\" height=\"217\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/734px-Thornbound_scepter_club.png 1.5x, https://wiki.aa-classic.com/images/3/35/Thornbound_scepter_club.png 2x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001005\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<h3 id=\"Lover's_Fury_Shortspear\"><span></span>Lover's Fury Shortspear</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/417px-Thornbound_spear.png\" width=\"417\" height=\"147\" srcset=\"https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/626px-Thornbound_spear.png 1.5x, https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/834px-Thornbound_spear.png 2x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001002\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h2 id=\"Portal_skins\">Portal skins</h2>\n<p>This hearty portal was an exclusive reward from 2025 Valentines day contest. Otherwise not available...for now.\n</p>\n<h4 id=\"Rosebound_Passage\">Rosebound Passage</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/e/ec/Thornbound_passage.png/662px-Thornbound_passage.png\" width=\"662\" height=\"663\" srcset=\"https://wiki.aa-classic.com/images/e/ec/Thornbound_passage.png 1.5x\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001007\n</td>\n<td>Crawling\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h2 id=\"Summer_Contest_2025_Weapon_skins\">Summer Contest 2025 Weapon skins</h2>\n<p>One really cool feature about Archeage Classic are all kinds of custom events, different contest and particularly custom weapon design contest. This contest was held between <i>16.6.2025 - 13.7.2025</i>. Players were able to make their own unique designs that were voted by the community and later chosen by the Darus to become actual weapon skins in the game. \n</p><p><span><img src=\"https://wiki.aa-classic.com/images/9/9a/Compeletesummercontestcrate.png\" width=\"40\" height=\"43\" loading=\"lazy\"></span>\n</p><p>The first ever contest was themed with <b>Summer weapons</b> and they became part of the <b>Complete</b> <b>Summer Contest Crates</b> that are being sold in the Marketplace for 700 <a href=\"/wiki/currencies\">credits</a>.\n</p><p><b>The item IDs can be used in the Dress Up addon to see them if unsure of how they look in the game.</b> \n</p>\n<h3 id=\"Sword\">Sword</h3>\n<h4 id=\"Great_Sharkfin\">Great Sharkfin</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/3/38/Greatersharkfin.png\" width=\"334\" height=\"127\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001338\n</td>\n<td>Roisha\n</td></tr></tbody></table>\n<h3 id=\"Greatsword\">Greatsword</h3>\n<h4 id=\"Surf_Shredder\">Surf Shredder</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/0/0d/Surfshredder.png\" width=\"300\" height=\"115\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001395\n</td>\n<td>Dehling\n</td></tr></tbody></table>\n<h3 id=\"Nodachi\">Nodachi</h3>\n<h4 id=\"Sharkfin\">Sharkfin</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/1/1f/Sharkfin.png\" width=\"334\" height=\"94\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001337\n</td>\n<td>Roisha\n</td></tr></tbody></table>\n<h3 id=\"Katana\">Katana</h3>\n<h4 id=\"Bubble_Blade\">Bubble Blade</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/6/6f/Bubbleblade.png\" width=\"171\" height=\"80\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001360\n</td>\n<td>BigMyr\n</td></tr></tbody></table>\n<h3 id=\"Longspear\">Longspear</h3>\n<h4 id=\"Jumbo_Skewer_Spear\">Jumbo Skewer Spear</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/4/40/Jumboskewerspear.png\" width=\"346\" height=\"113\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001333\n</td>\n<td>Sunphira\n</td></tr></tbody></table>\n<h4 id=\"The_Pool_Noodle\">The Pool Noodle</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/3/30/Thepoolnoodle.png\" width=\"422\" height=\"139\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001339\n</td>\n<td>Powerpoint\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Shortspear\">Shortspear</h3>\n<h4 id=\"Skewer_Spear\">Skewer Spear</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/5/57/Skewerspear.png\" width=\"346\" height=\"98\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001332\n</td>\n<td>Sunphira\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Sanddeep's_Edge\"><span></span>Sanddeep's Edge</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/4/40/Saddeepsedge.png\" width=\"196\" height=\"78\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001388\n</td>\n<td>Boku\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Shield\">Shield</h3>\n<h4 id=\"Sunflower_Shield\">Sunflower Shield</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/9/99/Sunflowershield.png\" width=\"209\" height=\"228\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001334\n</td>\n<td>Sunphira\n</td></tr></tbody></table>\n<h4 id=\"Depth_Titan's_Shield\"><span></span>Depth Titan's Shield</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/6/6b/Depth_Titan%27s_Shield.png\" width=\"236\" height=\"229\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001335\n</td>\n<td>lunacharskya\n</td></tr></tbody></table>\n<h4 id=\"Castaway_Life_Preserver\">Castaway Life Preserver</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/f/f3/Castawaylifeporeserver.png\" width=\"123\" height=\"151\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001358\n</td>\n<td>Hamilton\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Flute\">Flute</h3>\n<h4 id=\"Mermaids_Tale\">Mermaids Tale</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/1/17/Themermaidstale.png\" width=\"296\" height=\"229\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001336\n</td>\n<td>Chenbi\n</td></tr></tbody></table>\n<h3 id=\"Lute\">Lute</h3>\n<h4 id=\"Cacophony_Below\">Cacophony Below</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/4/4f/Cacophonybelow.png\" width=\"189\" height=\"88\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001400\n</td>\n<td>Chenbi\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Dagger\">Dagger</h3>\n<h4 id=\"Starfrost_Pop\">Starfrost Pop</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/a/a4/Starfrostpop.png\" width=\"284\" height=\"143\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001340\n</td>\n<td>ZsasZ\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Enla’s_Grace\"><span></span>Enla’s Grace</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/c/c5/Enlasgrace.png\" width=\"144\" height=\"56\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001398\n</td>\n<td>Oat\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Club\">Club</h3>\n<h4 id=\"Seraph’s_Grace\"><span></span>Seraph’s Grace</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/6/6b/Seraphsgrace.png\" width=\"177\" height=\"131\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001386\n</td>\n<td>Chenbi\n</td></tr></tbody></table>\n<h4 id=\"Pearlbreaker\">Pearlbreaker</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/1/1b/Pearlbraker.png\" width=\"218\" height=\"135\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001361\n</td>\n<td>Kimchi\n</td></tr></tbody></table>\n<h4 id=\"Hartlight\">Hartlight</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/4/44/Hartlight.png\" width=\"189\" height=\"123\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001387\n</td>\n<td>Doe\n</td></tr></tbody></table>\n<h4 id=\"Fraisefire_Mend\">Fraisefire Mend</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/e/ed/Fraisefiremend.png\" width=\"219\" height=\"104\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001385\n</td>\n<td>BigMyr\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Greatclub\">Greatclub</h3>\n<h4 id=\"Pearlcrusher\">Pearlcrusher</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/2/2d/Pearlcrusher.png\" width=\"251\" height=\"108\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001362\n</td>\n<td>Kimchi\n</td></tr></tbody></table>\n<h4 id=\"Hartspire\">Hartspire</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/8/83/Hartspire.png\" width=\"208\" height=\"108\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001391\n</td>\n<td>Doe\n</td></tr></tbody></table>\n<h4 id=\"Fraisefire_Bastion\">Fraisefire Bastion</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/7/75/Fraisefirebloom.png\" width=\"226\" height=\"89\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001390\n</td>\n<td>BigMyr\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Axe\">Axe</h3>\n<h4 id=\"Eye_of_the_Sun\">Eye of the Sun</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/c/c0/Eyeofthesun.png\" width=\"186\" height=\"99\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001363\n</td>\n<td>Sunraze\n</td></tr></tbody></table>\n<h3 id=\"Greataxe\">Greataxe</h3>\n<h4 id=\"Heart_of_the_Sun\">Heart of the Sun</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/c/c4/Heartofthesun.png\" width=\"276\" height=\"148\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001364\n</td>\n<td>Sunraze\n</td></tr></tbody></table>\n<h3 id=\"Scepter\">Scepter</h3>\n<h4 id=\"Fraisefire_Bloom\">Fraisefire Bloom</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/7/75/Fraisefirebloom.png\" width=\"226\" height=\"89\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001389\n</td>\n<td>BigMyr\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Seal_of_the_Twin_Gods\">Seal of the Twin Gods</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/4/4c/Sealofthetwingods.png\" width=\"226\" height=\"81\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001359\n</td>\n<td>Zzeddy\n</td></tr></tbody></table>\n<h3 id=\"Staff\">Staff</h3>\n<h4 id=\"Halo_of_the_Twin_Gods\">Halo of the Twin Gods</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/d/d6/Haloofthetwingods.png\" width=\"283\" height=\"93\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001357\n</td>\n<td>Zzeddy\n</td></tr></tbody></table>\n<h4 id=\"Seawarden’s_Mast\"><span></span>Seawarden’s Mast</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/d/d9/Seawardensmast.png\" width=\"292\" height=\"89\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001392\n</td>\n<td>Richy\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Bow\">Bow</h3>\n<h4 id=\"Cherrybomb_Picnic\">Cherrybomb Picnic</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/c/c4/Cherrybombpicnic.png\" width=\"168\" height=\"151\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Item ID\n</th>\n<th>Creator\n</th></tr>\n<tr>\n<td>9001397\n</td>\n<td>Two\n</td></tr></tbody></table>"
+}

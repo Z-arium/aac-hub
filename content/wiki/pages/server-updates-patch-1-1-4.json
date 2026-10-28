@@ -1,0 +1,33 @@
+{
+ "slug": "server-updates-patch-1-1-4",
+ "title": "Server Updates/Patch 1.1.4",
+ "pageid": 1661,
+ "revid": 3397,
+ "updated": "2026-06-16T07:02:43Z",
+ "source": "https://wiki.aa-classic.com/Server_Updates/Patch_1.1.4",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Boss_Changes",
+   "text": "Boss Changes"
+  },
+  {
+   "level": 2,
+   "id": "Item_Changes",
+   "text": "Item Changes"
+  },
+  {
+   "level": 2,
+   "id": "Other",
+   "text": "Other"
+  },
+  {
+   "level": 2,
+   "id": "Siege",
+   "text": "Siege"
+  }
+ ],
+ "tables": [],
+ "text": "Boss Changes A bug causing Red Dragon to stay up for 3 hours instead of 2 has been fixed Item Changes The crafting recipe for Glittery Charcoal Milk has been adjusted to use less Gilda Dust and Magic Garden Powder all while using more Charcoal and Milk. It turns out the microplastics we use to make the drink glittery are bad for your health. The charcoal cost of Regrade Charms has been lowered Other The November Login Tracker has been set Siege Siege Cycles were adjusted to 3 weeks instead of 2",
+ "html": "<h2 id=\"Boss_Changes\">Boss Changes</h2>\n<ul><li>A bug causing Red Dragon to stay up for 3 hours instead of 2 has been fixed</li></ul>\n<h2 id=\"Item_Changes\">Item Changes</h2>\n<ul><li>The crafting recipe for Glittery Charcoal Milk has been adjusted to use less Gilda Dust and Magic Garden Powder all while using more Charcoal and Milk. It turns out the microplastics we use to make the drink glittery are bad for your health.</li></ul>\n<ul><li>The charcoal cost of Regrade Charms has been lowered</li></ul>\n<h2 id=\"Other\">Other</h2>\n<ul><li>The November Login Tracker has been set</li></ul>\n<h2 id=\"Siege\">Siege</h2>\n<ul><li>Siege Cycles were adjusted to 3 weeks instead of 2</li></ul>"
+}

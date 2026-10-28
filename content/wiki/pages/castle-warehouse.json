@@ -1,0 +1,23 @@
+{
+ "slug": "castle-warehouse",
+ "title": "Castle warehouse",
+ "pageid": 1351,
+ "revid": 2796,
+ "updated": "2025-09-26T20:07:45Z",
+ "source": "https://wiki.aa-classic.com/Castle_warehouse",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Warehouses",
+   "text": "Warehouses"
+  },
+  {
+   "level": 3,
+   "id": "Full_Warehouse",
+   "text": "Full Warehouse"
+  }
+ ],
+ "tables": [],
+ "text": "Castle and Its Functions Have you ever wondered what \"stolen Heedmar/Calmlands/Marcala/Nuimari goods are being opened\" means? Well, this guide will hopefully fill in the gaps. If you want to see how working on a castle functions, check out this guide: Working on a castle. Warehouses By working on a castle and turning in 90 packs to the merchants at the marketplace, it will generate 30 packs that the ruling guild can interact with. These can then be taken to any of the castle zones that have silos and a fortress at Tier 2. If you deliver the territory goods to the zone they were created in, it will yield 1 full LC (Lord's Coin) per pack. - If you bring the goods to a different zone than where they were created, each pack will yield 150 pence (1.5 LC). A silo can hold up to 30 packs, resulting in either 30 LC (if delivered locally) or 45 LC (if delivered to a different zone). Full Warehouse When a warehouse is full, there are two possible approaches — but in both cases, the ruling guild must open it for vulnerability. 1. Loot & Steal: Once vulnerable, any enemy guild (red to the ruling guild) can steal one pack / goods per warehouse, either directly from the warehouse or from someone who loots them. If looted and opened, each pack yields 10 LC. 2. Defend & Reward: Alternatively, the ruling guild can leave the warehouse open for 2 hours while defending it. If successful, the Lord of the Castle will receive 15 Lord's Coins in the mail the following day. ``` After the 2 hour defending period is over or someone has looted the warehouse for the 1 pack the warehouse will go on a timer until it will be ready to be filled again.",
+ "html": "<h1 id=\"Castle_and_Its_Functions\">Castle and Its Functions</h1>\n<p>Have you ever wondered what \"stolen Heedmar/Calmlands/Marcala/Nuimari goods are being opened\" means? Well, this guide will hopefully fill in the gaps.\n</p><p>If you want to see how working on a castle functions, check out this guide: <a rel=\"noopener\" href=\"https://wiki.aa-classic.com/Guide:Working_at_Castles\">Working on a castle</a>.\n</p>\n<h2 id=\"Warehouses\">Warehouses</h2>\n<p>By working on a castle and turning in 90 packs to the merchants at the marketplace, it will generate 30 packs that the ruling guild can interact with. These can then be taken to any of the castle zones that have silos and a fortress at Tier 2.\n</p><p>If you deliver the territory goods to the zone they were created in, it will yield 1 full LC (Lord's Coin) per pack.\n- If you bring the goods to a different zone than where they were created, each pack will yield 150 pence (1.5 LC).\n</p><p>A silo can hold up to 30 packs, resulting in either 30 LC (if delivered locally) or 45 LC (if delivered to a different zone).\n</p>\n<h3 id=\"Full_Warehouse\">Full Warehouse</h3>\n<p>When a warehouse is full, there are two possible approaches — but in both cases, the ruling guild must open it for vulnerability.\n</p><p>1. Loot &amp; Steal: Once vulnerable, any enemy guild (red to the ruling guild) can steal one pack / goods per warehouse, either directly from the warehouse or from someone who loots them. If looted and opened, each pack yields 10 LC.\n</p><p>2. Defend &amp; Reward: Alternatively, the ruling guild can leave the warehouse open for 2 hours while defending it. If successful, the Lord of the Castle will receive 15 Lord's Coins in the mail the following day.\n```\n</p><p>After the 2 hour defending period is over or someone has looted the warehouse for the 1 pack the warehouse will go on a timer until it will be ready to be filled again.\n</p>"
+}

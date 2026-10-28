@@ -1,0 +1,23 @@
+{
+ "slug": "setting-up-exit-lag",
+ "title": "Setting Up Exit Lag",
+ "pageid": 95,
+ "revid": 2078,
+ "updated": "2024-09-25T04:59:58Z",
+ "source": "https://wiki.aa-classic.com/Setting_Up_Exit_Lag",
+ "headings": [
+  {
+   "level": 2,
+   "id": "How_to_Set_up_Exit_Lag:",
+   "text": "How to Set up Exit Lag:"
+  },
+  {
+   "level": 2,
+   "id": "Checking_Ping_to_server:",
+   "text": "Checking Ping to server:"
+  }
+ ],
+ "tables": [],
+ "text": "Exit Lag Guide How to Set up Exit Lag: Please refer to the image on the right if you get confused. Search for Archeage Click the Archeage entry Set your Game Region to CA Beauharnois01 Press Apply Routes. Congratulation your game will now be routed with ExitLag! If you are still having issues make sure the switch in the top left is on like in the picture. Exitlag vs No Exitlag comparison video Checking Ping to server: If you're not in game Click on the link OVH Speed Test Click on Server selection Select [CA] Beauharnois Start the test If you're in game Press Ctrl Shift Esc to open Task Manager Select the Performance Tab Click the 3 dots and open Resource Monitor Select the Network tab in Resource Monitor Under TCP Connections locate archeage.exe Observe Latency column",
+ "html": "<figure><img alt=\"exit lag screenshot\" src=\"https://wiki.aa-classic.com/images/7/72/Exitlag_Demo.webp\" width=\"760\" height=\"451\" loading=\"lazy\"><figcaption>Exit Lag Guide</figcaption></figure>\n\n<h2 id=\"How_to_Set_up_Exit_Lag:\">How to Set up Exit Lag:</h2>\n<p>Please refer to the image on the right if you get confused.\n</p>\n<ol><li>Search for Archeage</li>\n<li>Click the Archeage entry</li>\n<li>Set your Game Region to CA Beauharnois01</li>\n<li>Press Apply Routes.</li></ol>\n<p>Congratulation your game will now be routed with ExitLag! If you are still having issues make sure the switch in the top left is on like in the picture.\n</p><p><a rel=\"noopener\" href=\"https://www.youtube.com/watch?v=loLhBDwxoSs\">Exitlag vs No Exitlag comparison video</a>\n</p>\n<h2 id=\"Checking_Ping_to_server:\">Checking Ping to server:</h2>\n<h4 id=\"If_you're_not_in_game\"><span></span>If you're not in game</h4>\n<ol><li>Click on the link OVH Speed Test</li>\n<li>Click on Server selection</li>\n<li>Select [CA] Beauharnois</li>\n<li>Start the test</li></ol>\n<h4 id=\"If_you're_in_game\"><span></span>If you're in game</h4>\n<ol><li>Press Ctrl Shift Esc to open Task Manager</li>\n<li>Select the Performance Tab</li>\n<li>Click the 3 dots and open Resource Monitor</li>\n<li>Select the Network tab in Resource Monitor</li>\n<li>Under TCP Connections locate archeage.exe</li>\n<li>Observe Latency column</li></ol>"
+}

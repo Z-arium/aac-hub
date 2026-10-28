@@ -1,0 +1,163 @@
+{
+ "slug": "custom-server-changes",
+ "title": "Custom Server Changes",
+ "pageid": 11,
+ "revid": 3153,
+ "updated": "2025-12-07T20:30:15Z",
+ "source": "https://wiki.aa-classic.com/Custom_Server_Changes",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Marketplace",
+   "text": "Marketplace"
+  },
+  {
+   "level": 2,
+   "id": "Vocation_&_Economy",
+   "text": "Vocation & Economy"
+  },
+  {
+   "level": 3,
+   "id": "Replanting",
+   "text": "Replanting"
+  },
+  {
+   "level": 3,
+   "id": "Higher_Labor_&_Rates",
+   "text": "Higher Labor & Rates"
+  },
+  {
+   "level": 3,
+   "id": "Schematic_Scraps",
+   "text": "Schematic Scraps"
+  },
+  {
+   "level": 3,
+   "id": "New_Recipes",
+   "text": "New Recipes"
+  },
+  {
+   "level": 3,
+   "id": "Custom_Buffs",
+   "text": "Custom Buffs"
+  },
+  {
+   "level": 2,
+   "id": "Events",
+   "text": "Events"
+  },
+  {
+   "level": 3,
+   "id": "Mistmerrow",
+   "text": "Mistmerrow"
+  },
+  {
+   "level": 3,
+   "id": "Crystalline_Bloodbath",
+   "text": "Crystalline Bloodbath"
+  },
+  {
+   "level": 3,
+   "id": "Preparing_for_the_Fish_Market",
+   "text": "Preparing for the Fish Market"
+  },
+  {
+   "level": 3,
+   "id": "The_Crimson_Threat",
+   "text": "The Crimson Threat"
+  },
+  {
+   "level": 3,
+   "id": "Veroe_Harvest",
+   "text": "Veroe Harvest"
+  },
+  {
+   "level": 3,
+   "id": "Meteor_Landing",
+   "text": "Meteor Landing"
+  },
+  {
+   "level": 2,
+   "id": "Map_areas",
+   "text": "Map areas"
+  },
+  {
+   "level": 3,
+   "id": "Swirling_Meadows",
+   "text": "Swirling Meadows"
+  },
+  {
+   "level": 3,
+   "id": "Snowfang_Isle",
+   "text": "Snowfang Isle"
+  },
+  {
+   "level": 2,
+   "id": "Gearing",
+   "text": "Gearing"
+  },
+  {
+   "level": 3,
+   "id": "Crafted_Seals",
+   "text": "Crafted Seals"
+  },
+  {
+   "level": 3,
+   "id": "Honor_Economy",
+   "text": "Honor Economy"
+  },
+  {
+   "level": 3,
+   "id": "Prestige_Economy",
+   "text": "Prestige Economy"
+  },
+  {
+   "level": 3,
+   "id": "Obsidian_Materials_Tradability",
+   "text": "Obsidian Materials Tradability"
+  },
+  {
+   "level": 2,
+   "id": "Ships",
+   "text": "Ships"
+  },
+  {
+   "level": 3,
+   "id": "Pufferfish_Ship",
+   "text": "Pufferfish Ship"
+  },
+  {
+   "level": 3,
+   "id": "Luxury_Liner",
+   "text": "Luxury Liner"
+  },
+  {
+   "level": 2,
+   "id": "Misc_Additions",
+   "text": "Misc Additions"
+  },
+  {
+   "level": 3,
+   "id": "Mirage_Casino",
+   "text": "Mirage Casino"
+  },
+  {
+   "level": 3,
+   "id": "Merit_Quests",
+   "text": "Merit Quests"
+  },
+  {
+   "level": 3,
+   "id": "Addon_System",
+   "text": "Addon System"
+  },
+  {
+   "level": 3,
+   "id": "Custom_Weapon_Skins",
+   "text": "Custom Weapon Skins"
+  }
+ ],
+ "tables": [],
+ "text": "AAClassic is a unique server as it runs on a much older version (3.5) than retail, on top of having its own set of custom changes. Below is a list of notable custom changes on AAClassic that make it more fun and fair than other servers. Marketplace The Marketplace on AAClassic does not contain \"Pay to Win\" items unlike other servers. Only a few quality of life additions border the line of P2W (i.e., inventory slot increases, Daru Subscription Box), otherwise everything else is cosmetic. Vocation & Economy Replanting Replanting is a unique AAClassic feature. On some harvestables, you will find an interaction that allows you to harvest the resource and use a seed/sapling to put a new one in its place automatically. This quality of life feature is meant to make farming bundles and other resources much less manual labor and means players can spend more time in the world instead of having to spend precious time manually planting their fields. Higher Labor & Rates AAClassic runs on a higher labor rate of 40 labor every 5 minute (offline AND online). AAClassic also has boosted labor consumption rates AND yield rates on activities such as sports fishing and commerce. This allows you to burn your labor and make money faster, reducing the amount of grind required. Schematic Scraps Ship component designs can now be evenstoned for Schematic Scraps. Schematic Scraps can be used to craft specific ship component designs that may otherwise be hard to find. New Recipes Special recipes have been added to a variety of items such as Regrade Charms, Lucky Points, Lunarite and more. Because these items were primarily sourced from P2W RNG boxes previously, such recipes were added to make them farmable & part of the economy. Custom Buffs Custom recipes for buffs have been added to help free up buff slots and also provide an easier way to obtain loot drop buffs. You can find the recipes in the Folio menu 'o' by default. Monarch of the Sea (1hr): Kingdom's Shadow + Dahuta's Bubble effects. Select between +1800 Physical, Magical, or +810 Physical/Magical defenses. Spellbook: Bulwark / Spellbook: Authority (1hr): Unstoppable Will + Secret Gift + Honor Goblet. Select between an defensive or offensive spellbook and include the stats you need the most! Pigglewiggle Feast / Pigglewiggle Stew (1hr, 10 uses): Assorted Ribs + Jujube Juice + Jujube Sparkling Wine. Select between a delicious feast to boost your strength and agility or delight in a savory stew to increase your intellect and spirit. Glittering Charcoal Milk (1hr): Grants you 20% increased loot drop. Mysterious Glittering Charcoal Milk (1hr): Grants you 50% increased loot drop. Events Mistmerrow Mistmerrow has an added kill quest to encourage PvP at the event that provides additional rewards. Mistmerrow has been shortened from a duration of 30 minutes down to 20 minutes. Crystalline Bloodbath The Crystalline Bloodbath is a completely custom event that currently takes place every Friday that calls all who are interested to PvP in Diamond Shores, a common occurrence back in the old days of ArcheAge. Completing the event will provide you with 30 Activity Tokens as a reward. Preparing for the Fish Market Every Saturday you can get a Fishing quest from any Fish Stand to fish and sell 10 fish to get 20 Activity Tokens. The Crimson Threat Every Sunday you can get a quest in Sungold, which requires to kill Anthalon once. Completing this quest provides 15 Activity Tokens Veroe Harvest Harvest Festival event where factions fight over rice drops from flowers to deliver packs in certain location in Hasla. Faction that takes the most packs on drop location first wins. Meteor Landing At random timers, roughly once per day, a comet lands somewhere in the world, triggering waves of monsters and bosses. Map areas Swirling Meadows Swirling Meadows as an area and extra land for housing in Ahnimar and Rokhala Mountains. Snowfang Isle Snowy village in Miroir Tundra called Snowfang Village area with its own housing style. Gearing Crafted Seals Similar to 3.5, AAClassic has items called \"Mana Seals\" which can be crafted with the reforging proficiency. They require varying mana wisp costs and allow a player to take any Epherium+ gear piece and make it a Sealed item again. This allows attempting to get the desired outcome, whether it be an upgradeable piece or a specific stat roll, but is not guaranteed. Honor Economy On AAClassic, most honor items have been made tradeable. This allows players to acquire honor gems without needing to get honor yourself. This also allows making gold by farming and selling honor. The 2nd gem slot is also a 100% slot rate. Prestige Economy On AAClassic, most prestige gems have been made tradeable. This allows players to acquire prestige gems without needing to get prestige yourself. This also allows making gold by farming and selling prestige. Obsidian Materials Tradability In an effort to promote a free market, AAClassic has set all obsidian materials as unbound. This allows players to farm obsidian materials as an extra revenue source. Ships Pufferfish Ship The Pufferfish Ship (sometimes called 'Puffership') is a small artillery warship equipped with a giant cannon pointing forwards. It has an elevated move speed when heading North or South. It's driving style is quite different from other boats and will require shorter impulses when turning, at the risk of flipping over. Luxury Liner This absolute beast of a ship is available for players to make and use! It is very costly, slow but truly magnificent. Misc Additions Location of the Casino Mirage Casino The Mirage Isle casino is located immediately behind the building where you will spawn in Mirage Isle. Previously, the Mirage Isle casino was disabled in retail versions of the game due to EU gambling laws. Now enabled, you can purchase Bugira Coins from the merchant in the centre of the casino. Using these coins, you're free to interact with either of the 3 types of slot machines available for a chance to win up to 150x your bet. The three types of slot machines have three separate prices, the base tier costing 1x Bugira coin per spin, the second costing 5x Bugira coins per spin, and the final costing 10x Bugira coins per spin. An achievement set has been enabled with this, with the final reward being the title \"Gambling Addict\". Merit Quests Know as AAA the Active Adventurers Appreciated are custom added Merit Quests. Only these Merit Quests give small amount of Activity Tokens once completed with XP and gold. To activate them player needs to spend few Activity Tokens. Addon System AAClassic is the first server to have brought out an addon system. You can read more on the addons page Addons Custom Weapon Skins Competitions held by the Darus for the community to create custom weapon skin designs to make as weapon in the game world.",
+ "html": "<p>AAClassic is a unique server as it runs on a much older version (3.5) than retail, on top of having its own set of custom changes.\n</p><p>Below is a list of notable custom changes on AAClassic that make it more fun and fair than other servers.\n</p>\n\n<h2 id=\"Marketplace\">Marketplace</h2>\n<p>The Marketplace on AAClassic does not contain \"Pay to Win\" items unlike other servers. Only a few quality of life additions border the line of P2W (i.e., inventory slot increases, <a href=\"/wiki/daru-subscription-box\">Daru Subscription Box</a>), otherwise everything else is cosmetic.\n</p>\n<h2 id=\"Vocation_&amp;_Economy\"><span></span>Vocation &amp; Economy</h2>\n<h3 id=\"Replanting\">Replanting</h3>\n<p>Replanting is a unique AAClassic feature. On some harvestables, you will find an interaction that allows you to harvest the resource and use a seed/sapling to put a new one in its place automatically. This quality of life feature is meant to make farming bundles and other resources much less manual labor and means players can spend more time in the world instead of having to spend precious time manually planting their fields.\n</p>\n<h3 id=\"Higher_Labor_&amp;_Rates\"><span></span>Higher Labor &amp; Rates</h3>\n<p>AAClassic runs on a higher labor rate of 40 labor every 5 minute (offline AND online). AAClassic also has boosted labor consumption rates AND yield rates on activities such as sports fishing and commerce. This allows you to burn your labor and make money faster, reducing the amount of grind required.\n</p>\n<h3 id=\"Schematic_Scraps\">Schematic Scraps</h3>\n<p>Ship component designs can now be evenstoned for Schematic Scraps. Schematic Scraps can be used to craft specific ship component designs that may otherwise be hard to find.\n</p>\n<h3 id=\"New_Recipes\">New Recipes</h3>\n<p>Special recipes have been added to a variety of items such as Regrade Charms, Lucky Points, Lunarite and more. Because these items were primarily sourced from P2W RNG boxes previously, such recipes were added to make them farmable &amp; part of the economy.\n</p>\n<h3 id=\"Custom_Buffs\">Custom Buffs</h3>\n<p>Custom recipes for buffs have been added to help free up buff slots and also provide an easier way to obtain loot drop buffs. You can find the recipes in the Folio menu 'o' by default.\n</p>\n<ul><li><b>Monarch of the Sea</b> (1hr): Kingdom's Shadow + Dahuta's Bubble effects. Select between +1800 Physical, Magical, or +810 Physical/Magical defenses.</li>\n<li><b>Spellbook: Bulwark / Spellbook: Authority</b> (1hr): Unstoppable Will + Secret Gift + Honor Goblet. Select between an defensive or offensive spellbook and include the stats you need the most!</li>\n<li><b>Pigglewiggle Feast / Pigglewiggle Stew</b> (1hr, 10 uses): Assorted Ribs + Jujube Juice + Jujube Sparkling Wine. Select between a delicious feast to boost your strength and agility or delight in a savory stew to increase your intellect and spirit.</li>\n<li><b>Glittering Charcoal Milk</b> (1hr): Grants you 20% increased loot drop.</li>\n<li><b>Mysterious Glittering Charcoal Milk</b>  (1hr): Grants you 50% increased loot drop.</li></ul>\n<h2 id=\"Events\">Events</h2>\n<h3 id=\"Mistmerrow\">Mistmerrow</h3>\n<p>Mistmerrow has an added kill quest to encourage PvP at the event that provides additional rewards.\n</p><p>Mistmerrow has been shortened from a duration of 30 minutes down to 20 minutes.\n</p>\n<h3 id=\"Crystalline_Bloodbath\">Crystalline Bloodbath</h3>\n<p>The <a href=\"/wiki/crystalline-bloodbath\">Crystalline Bloodbath</a> is a completely custom event that currently takes place every Friday that calls all who are interested to PvP in Diamond Shores, a common occurrence back in the old days of ArcheAge. Completing the event will provide you with 30 Activity Tokens as a reward.\n</p>\n<h3 id=\"Preparing_for_the_Fish_Market\">Preparing for the Fish Market</h3>\n<p>Every Saturday you can get a <a href=\"/wiki/fishing-quest\">Fishing quest</a> from any Fish Stand to fish and sell 10 fish to get 20 Activity Tokens.\n</p>\n<h3 id=\"The_Crimson_Threat\">The Crimson Threat</h3>\n<p>Every Sunday you can get a quest in Sungold, which requires to kill <a href=\"/wiki/anthalon\">Anthalon</a> once. Completing this quest provides 15 Activity Tokens\n</p>\n<h3 id=\"Veroe_Harvest\">Veroe Harvest</h3>\n<p><a href=\"/wiki/veroe-harvest-festival\">Harvest Festival event</a> where factions fight over rice drops from flowers to deliver packs in certain location in Hasla. Faction that takes the most packs on drop location first wins. \n</p>\n<h3 id=\"Meteor_Landing\">Meteor Landing</h3>\n<p>At random timers, roughly once per day, a comet lands somewhere in the world, triggering waves of monsters and bosses. \n</p>\n<h2 id=\"Map_areas\">Map areas</h2>\n<h3 id=\"Swirling_Meadows\">Swirling Meadows</h3>\n<p><a href=\"/wiki/new-player-housing\">Swirling Meadows</a> as an area and extra land for housing in Ahnimar and Rokhala Mountains. \n</p>\n<h3 id=\"Snowfang_Isle\">Snowfang Isle</h3>\n<p>Snowy village in Miroir Tundra called <a href=\"/wiki/snowfang-isle\">Snowfang Village</a> area with its own housing style. \n</p>\n<h2 id=\"Gearing\">Gearing</h2>\n<h3 id=\"Crafted_Seals\">Crafted Seals</h3>\n<p>Similar to 3.5, AAClassic has items called \"Mana Seals\" which can be crafted with the reforging proficiency. They require varying mana wisp costs and allow a player to take any Epherium+ gear piece and make it a Sealed item again. This allows attempting to get the desired outcome, whether it be an upgradeable piece or a specific stat roll, but is not guaranteed. \n</p>\n<h3 id=\"Honor_Economy\">Honor Economy</h3>\n<p>On AAClassic, most honor items have been made tradeable. This allows players to acquire honor gems without needing to get honor yourself. This also allows making gold by farming and selling honor.\n</p><p>The 2nd gem slot is also a 100% slot rate.\n</p>\n<h3 id=\"Prestige_Economy\">Prestige Economy</h3>\n<p>On AAClassic, most prestige gems have been made tradeable. This allows players to acquire prestige gems without needing to get prestige yourself. This also allows making gold by farming and selling prestige.\n</p>\n<h3 id=\"Obsidian_Materials_Tradability\">Obsidian Materials Tradability</h3>\n<p>In an effort to promote a free market, AAClassic has set all obsidian materials as unbound. This allows players to farm obsidian materials as an extra revenue source.\n</p>\n<h2 id=\"Ships\">Ships</h2>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/a/a9/Puffership.png/300px-Puffership.png\" width=\"300\" height=\"172\" srcset=\"https://wiki.aa-classic.com/images/thumb/a/a9/Puffership.png/450px-Puffership.png 1.5x, https://wiki.aa-classic.com/images/thumb/a/a9/Puffership.png/600px-Puffership.png 2x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h3 id=\"Pufferfish_Ship\">Pufferfish Ship</h3>\n<p>The Pufferfish Ship (sometimes called 'Puffership') is a small artillery warship equipped with a giant cannon pointing forwards. It has an elevated move speed when heading North or South. It's driving style is quite different from other boats and will require shorter impulses when turning, at the risk of flipping over.\n</p>\n<h3 id=\"Luxury_Liner\">Luxury Liner</h3>\n<p>This absolute beast of a ship is available for players to make and use! It is very costly, slow but truly magnificent.\n</p>\n<h2 id=\"Misc_Additions\">Misc Additions</h2>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/2/23/Mirage_Casino_Location.png/300px-Mirage_Casino_Location.png\" width=\"300\" height=\"179\" srcset=\"https://wiki.aa-classic.com/images/thumb/2/23/Mirage_Casino_Location.png/450px-Mirage_Casino_Location.png 1.5x, https://wiki.aa-classic.com/images/thumb/2/23/Mirage_Casino_Location.png/600px-Mirage_Casino_Location.png 2x\" loading=\"lazy\"><figcaption>Location of the Casino</figcaption></figure>\n<h3 id=\"Mirage_Casino\">Mirage Casino</h3>\n<p>The Mirage Isle casino is located immediately behind the building where you will spawn in Mirage Isle. \n</p><p>Previously, the Mirage Isle casino was disabled in retail versions of the game due to EU gambling laws. \n</p><p>Now enabled, you can purchase Bugira Coins from the merchant in the centre of the casino. Using these coins, you're free to interact with either of the 3 types of slot machines available for a chance to win up to 150x your bet.\n</p><p>The three types of slot machines have three separate prices, the base tier costing 1x Bugira coin per spin, the second costing 5x Bugira coins per spin, and the final costing 10x Bugira coins per spin.\n</p><p>An achievement set has been enabled with this, with the final reward being the title \"Gambling Addict\".\n</p>\n<h3 id=\"Merit_Quests\">Merit Quests</h3>\n<p>Know as <b>AAA</b> the <a href=\"/wiki/active-adventurers-appreciated\">Active Adventurers Appreciated</a> are custom added Merit Quests. Only these Merit Quests give small amount of <a href=\"/wiki/currencies\">Activity Tokens</a> once completed with XP and gold. To activate them player needs to spend few Activity Tokens.\n</p>\n<h3 id=\"Addon_System\">Addon System</h3>\n<p>AAClassic is the first server to have brought out an addon system. You can read more on the addons page <a href=\"/wiki/addons\">Addons</a>\n</p>\n<h3 id=\"Custom_Weapon_Skins\">Custom Weapon Skins</h3>\n<p>Competitions held by the Darus for the community to create <a href=\"/wiki/custom-weapon-skins\">custom weapon skin</a> designs to make as weapon in the game world.\n</p>"
+}

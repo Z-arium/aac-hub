@@ -1,0 +1,91 @@
+{
+ "slug": "abyssal-shard",
+ "title": "Abyssal Shard",
+ "pageid": 1746,
+ "revid": 3504,
+ "updated": "2026-08-30T14:51:06Z",
+ "source": "https://wiki.aa-classic.com/Abyssal_Shard",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Details",
+   "text": "Details"
+  },
+  {
+   "level": 2,
+   "id": "Acquisition",
+   "text": "Acquisition"
+  },
+  {
+   "level": 2,
+   "id": "Uses",
+   "text": "Uses"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Details",
+   "caption": "",
+   "headers": [
+    "Property",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Item Type",
+     "Material"
+    ],
+    [
+     "Rarity",
+     "Grand"
+    ],
+    [
+     "Binding",
+     "Bind on Pickup"
+    ],
+    [
+     "Max Stack",
+     "1,000"
+    ],
+    [
+     "Vendor Price",
+     "18"
+    ]
+   ]
+  },
+  {
+   "heading": "Acquisition",
+   "caption": "",
+   "headers": [
+    "Material",
+    "Quantity",
+    "Result"
+   ],
+   "rows": [
+    [
+     "Abyssal Crystal",
+     "1",
+     "Abyssal Shard ×15"
+    ]
+   ]
+  },
+  {
+   "heading": "Uses",
+   "caption": "",
+   "headers": [
+    "Material",
+    "Quantity",
+    "Result"
+   ],
+   "rows": [
+    [
+     "Abyssal Shard",
+     "30",
+     "Abyssal Crystal ×1"
+    ]
+   ]
+  }
+ ],
+ "text": "Abyssal Shard Abyssal Shards are a dungeon material primarily used for crafting and upgrading Dungeon Equipment. They are obtained from various dungeon-related sources and are commonly required in recipes for dungeon equipment and other dungeon-related items. Details Property Value Item Type Material Rarity Grand Binding Bind on Pickup Max Stack 1,000 Vendor Price 18 Acquisition Abyssal Shards can be obtained from various Dungeon-related sources, including dungeon quests and bounties. They are primarily associated with the Greater Dungeons and other dungeon content. You can also disintegrate Abyssal Crystals to obtain 15x Abyssal Shards per at an Archeum Workbench. Abyssal Crystals have been made tradeable on ArcheAge Classic so you can purchase them from other players. Material Quantity Result Abyssal Crystal 1 Abyssal Shard ×15 Uses Abyssal Shards are used as a material in a variety of dungeon-related crafting recipes, particularly for Dungeon Equipment. They can also be combined to create an Abyssal Crystal. Material Quantity Result Abyssal Shard 30 Abyssal Crystal ×1",
+ "html": "<h1 id=\"Abyssal_Shard\">Abyssal Shard</h1>\n<p>Abyssal Shards are a dungeon material primarily used for crafting and upgrading <a href=\"https://wiki.aa-classic.com/index.php?title=Dungeon_Equipment&action=edit&redlink=1\" rel=\"noopener\">Dungeon Equipment</a>. They are obtained from various dungeon-related sources and are commonly required in recipes for dungeon equipment and other dungeon-related items.\n</p>\n<h2 id=\"Details\">Details</h2>\n<figure><img src=\"https://wiki.aa-classic.com/images/4/4c/Abyssal_Shard.png\" width=\"296\" height=\"256\" loading=\"lazy\"><figcaption></figcaption></figure>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Property\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Item Type</b>\n</td>\n<td>Material\n</td></tr>\n<tr>\n<td><b>Rarity</b>\n</td>\n<td><span style=\"color: rgb(119, 176, 100)\">Grand</span>\n</td></tr>\n<tr>\n<td><b>Binding</b>\n</td>\n<td>Bind on Pickup\n</td></tr>\n<tr>\n<td><b>Max Stack</b>\n</td>\n<td>1,000\n</td></tr>\n<tr>\n<td><b>Vendor Price</b>\n</td>\n<td>18<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td></tr></tbody></table>\n<h2 id=\"Acquisition\">Acquisition</h2>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/0/03/Abyssal_Crystal_Disintegration.png/500px-Abyssal_Crystal_Disintegration.png\" width=\"500\" height=\"261\" srcset=\"https://wiki.aa-classic.com/images/0/03/Abyssal_Crystal_Disintegration.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Abyssal Shards can be obtained from various <a href=\"https://wiki.aa-classic.com/index.php?title=Dungeon&action=edit&redlink=1\" rel=\"noopener\">Dungeon</a>-related sources, including dungeon quests and bounties.\n</p><p>They are primarily associated with the <a href=\"https://wiki.aa-classic.com/index.php?title=Greater_Dungeons&action=edit&redlink=1\" rel=\"noopener\">Greater Dungeons</a> and other dungeon content.\n</p><p>You can also disintegrate <a href=\"https://wiki.aa-classic.com/index.php?title=Abyssal_Crystal&action=edit&redlink=1\" rel=\"noopener\">Abyssal Crystals</a> to obtain 15x Abyssal Shards per at an Archeum Workbench. Abyssal Crystals have been made tradeable on ArcheAge Classic so you can purchase them from other players. \n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Material\n</th>\n<th>Quantity\n</th>\n<th>Result\n</th></tr>\n<tr>\n<td>Abyssal Crystal\n</td>\n<td>1\n</td>\n<td>Abyssal Shard ×15\n</td></tr></tbody></table>\n<h2 id=\"Uses\">Uses</h2>\n<p>Abyssal Shards are used as a material in a variety of dungeon-related crafting recipes, particularly for <a href=\"https://wiki.aa-classic.com/index.php?title=Dungeon_Equipment&action=edit&redlink=1\" rel=\"noopener\">Dungeon Equipment</a>.\n</p><p>They can also be combined to create an <a href=\"https://wiki.aa-classic.com/index.php?title=Abyssal_Crystal&action=edit&redlink=1\" rel=\"noopener\">Abyssal Crystal</a>.\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Material\n</th>\n<th>Quantity\n</th>\n<th>Result\n</th></tr>\n<tr>\n<td>Abyssal Shard\n</td>\n<td>30\n</td>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Abyssal_Crystal&action=edit&redlink=1\" rel=\"noopener\">Abyssal Crystal</a> ×1\n</td></tr></tbody></table>"
+}

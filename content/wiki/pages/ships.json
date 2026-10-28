@@ -1,0 +1,194 @@
+{
+ "slug": "ships",
+ "title": "Ships",
+ "pageid": 403,
+ "revid": 3094,
+ "updated": "2025-11-08T18:42:05Z",
+ "source": "https://wiki.aa-classic.com/Ships",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Ships",
+   "text": "Ships"
+  },
+  {
+   "level": 3,
+   "id": "Clippers_&_Speedboats",
+   "text": "Clippers & Speedboats"
+  },
+  {
+   "level": 3,
+   "id": "Merchant_Schooner_&_Fishing_Boats",
+   "text": "Merchant Schooner & Fishing Boats"
+  },
+  {
+   "level": 3,
+   "id": "Small_Warships",
+   "text": "Small Warships"
+  },
+  {
+   "level": 3,
+   "id": "Medium_Warship_&_Luxury_Liner",
+   "text": "Medium Warship & Luxury Liner"
+  },
+  {
+   "level": 2,
+   "id": "Ship_Components",
+   "text": "Ship Components"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Clippers & Speedboats",
+   "caption": "",
+   "headers": [
+    "Ship name",
+    "Icon",
+    "Obtained from",
+    "Cost",
+    "Features"
+   ],
+   "rows": [
+    [
+     "Adventure Clipper",
+     "",
+     "Design can be bought from Mirage Island or Marketplace.",
+     "50 Gilda Stars",
+     "It has a cannon in the right side of the ship."
+    ],
+    [
+     "Harpoon Clipper",
+     "",
+     "Design can be bought from Mirage Island or Marketplace.",
+     "50 Gilda Stars",
+     "It has a harpoon in the front side of the ship."
+    ],
+    [
+     "Seawhip Speedboat",
+     "",
+     "Design can be bought from the Marketplace or can be crafted in Miarge.",
+     "1200 Gilda Stars or 6 Login Badges",
+     "A small and fast boat, that can carry at least 4 people."
+    ],
+    [
+     "Seaskimmer Speedboat",
+     "",
+     "Speedboat Upgrade Ticket can be bought from Marketplace",
+     "400 Gilda Stars",
+     "A small and fast boat, that can carry at least 4 people. Has 4 packs slots."
+    ]
+   ]
+  },
+  {
+   "heading": "Merchant Schooner & Fishing Boats",
+   "caption": "",
+   "headers": [
+    "Ship name",
+    "Icon",
+    "Obtained from",
+    "Cost",
+    "Features"
+   ],
+   "rows": [
+    [
+     "Merchant Schooner",
+     "",
+     "Design can be bought from Mirage Island or Marketplace.",
+     "400 Gilda Stars",
+     "It can store up to 22 trade packs. Also comes with a telescope useful for detecting ships in your map."
+    ],
+    [
+     "Fish-Find Longliner",
+     "",
+     "Design can be bought from Mirage Island or Marketplace.",
+     "250 Gilda Stars",
+     "It can hold up to 5 small or medium fish and 2 gargantuan fish."
+    ],
+    [
+     "Predator Longliner",
+     "",
+     "Ship can be bought from Marketplace.",
+     "700 Merit Badges",
+     "This ship doesn't needs to be build, it can be directly used after buying it from marketplace. It can hold up to 5 small or medium fishes and 2 gargantuan fish."
+    ],
+    [
+     "Moby Drake",
+     "",
+     "Fish-Find Longliner and Predator Longliner can be transformed into this ship using the Moby Drake Upgrade Ticket from Marketplace",
+     "2,000 Credits",
+     "This ship upgrade is only a cosmetic change. Doesn't have additional features than the Fish-Find Longliner nor Predator Longliner."
+    ]
+   ]
+  },
+  {
+   "heading": "Small Warships",
+   "caption": "",
+   "headers": [
+    "Ship name",
+    "Icon",
+    "Obtained from",
+    "Cost",
+    "Features"
+   ],
+   "rows": [
+    [
+     "Lutesong Junk",
+     "",
+     "Design can be bought from Mirage Island or Marketplace.",
+     "250 Gilda Stars",
+     "A small warship, that has 2 sails, 1 figurehead and 8 cannons (4 per side)."
+    ],
+    [
+     "Eznan Cutter",
+     "",
+     "Design can be bought from Mirage Island or Marketplace.",
+     "250 Gilda Stars",
+     "A small warship, that has 2 sails, 1 figurehead and 8 cannons (4 per side)."
+    ],
+    [
+     "Growling Yawl",
+     "",
+     "Designs scraps can be obtained from Ghost Ships loot and mobs in the Warsmith Castle.",
+     "55 Growling Yawl Design Fragments.",
+     "A small warship, that has 2 sails, 1 figurehead and 8 cannons (4 per side). Has more HP and speed than the other small warships.Can also carry more players."
+    ],
+    [
+     "Pufferfish ship",
+     "",
+     "Design can be bought from Marketplace.",
+     "350 Gilda Stars.",
+     "The giant cannon in the front of the pufferfish ship dealsmassive damage. (Doesn't deal any damage to bosses)."
+    ]
+   ]
+  },
+  {
+   "heading": "Medium Warship & Luxury Liner",
+   "caption": "",
+   "headers": [
+    "Ship name",
+    "Icon",
+    "Obtained from",
+    "Cost",
+    "Features"
+   ],
+   "rows": [
+    [
+     "Enoan Galleon",
+     "",
+     "Designs scraps can be obtained from Luscas loot. Whole design can be obtained from Leviathan loot.",
+     "5,000 Enoan Galleon Design Scraps.",
+     "A Medium warship, that has 3 sails, 2 figurehead and 10 cannons (5 per side). Is capable of dealing massive collision damage."
+    ],
+    [
+     "Luxury Liner",
+     "",
+     "Design can be crafted on a Carpentry Workbench.",
+     "2800 Gilda Stars",
+     "A massive party-ship, that is slow and heavy."
+    ]
+   ]
+  }
+ ],
+ "text": "In ArcheAge Classic Ships can be obtained in various ways, such as buying designs with Gilda Stars, grinding specific mobs for scraps of a design, or buying ships already built with marketplace currencies. Many ships designs are tradeable, so you can buy them from other players. Ships Clippers & Speedboats Ship name Icon Obtained from Cost Features Adventure Clipper Design can be bought from Mirage Island or Marketplace. 50 Gilda Stars It has a cannon in the right side of the ship. Harpoon Clipper Design can be bought from Mirage Island or Marketplace. 50 Gilda Stars It has a harpoon in the front side of the ship. Seawhip Speedboat Design can be bought from the Marketplace or can be crafted in Miarge. 1200 Gilda Stars or 6 Login Badges A small and fast boat, that can carry at least 4 people. Seaskimmer Speedboat Speedboat Upgrade Ticket can be bought from Marketplace 400 Gilda Stars A small and fast boat, that can carry at least 4 people. Has 4 packs slots. Merchant Schooner & Fishing Boats Ship name Icon Obtained from Cost Features Merchant Schooner Design can be bought from Mirage Island or Marketplace. 400 Gilda Stars It can store up to 22 trade packs. Also comes with a telescope useful for detecting ships in your map. Fish-Find Longliner Design can be bought from Mirage Island or Marketplace. 250 Gilda Stars It can hold up to 5 small or medium fish and 2 gargantuan fish. Predator Longliner Ship can be bought from Marketplace. 700 Merit Badges This ship doesn't needs to be build, it can be directly used after buying it from marketplace. It can hold up to 5 small or medium fishes and 2 gargantuan fish. Moby Drake Fish-Find Longliner and Predator Longliner can be transformed into this ship using the Moby Drake Upgrade Ticket from Marketplace 2,000 Credits This ship upgrade is only a cosmetic change. Doesn't have additional features than the Fish-Find Longliner nor Predator Longliner. Small Warships Ship name Icon Obtained from Cost Features Lutesong Junk Design can be bought from Mirage Island or Marketplace. 250 Gilda Stars A small warship, that has 2 sails, 1 figurehead and 8 cannons (4 per side). Eznan Cutter Design can be bought from Mirage Island or Marketplace. 250 Gilda Stars A small warship, that has 2 sails, 1 figurehead and 8 cannons (4 per side). Growling Yawl Designs scraps can be obtained from Ghost Ships loot and mobs in the Warsmith Castle. 55 Growling Yawl Design Fragments. A small warship, that has 2 sails, 1 figurehead and 8 cannons (4 per side). Has more HP and speed than the other small warships.Can also carry more players. Pufferfish ship Design can be bought from Marketplace. 350 Gilda Stars. The giant cannon in the front of the pufferfish ship dealsmassive damage. (Doesn't deal any damage to bosses). Medium Warship & Luxury Liner Ship name Icon Obtained from Cost Features Enoan Galleon Designs scraps can be obtained from Luscas loot. Whole design can be obtained from Leviathan loot. 5,000 Enoan Galleon Design Scraps. A Medium warship, that has 3 sails, 2 figurehead and 10 cannons (5 per side). Is capable of dealing massive collision damage. Luxury Liner Design can be crafted on a Carpentry Workbench. 2800 Gilda Stars A massive party-ship, that is slow and heavy. Ship Components In the following wiki pages, I hope to explore the components og the ships, to give a broad and better understanding to the average player about these majestic boats, this will be a mix of factual information that can be read or observed in-game as well as some anecdotal tips and tricks on how to better arm and man these vessels. Sails Cannons Figureheads Planks Ship Radars Rudders Shroudlights Masts Storage Sound Equipment Breathing Devices Propulsion Systems Ship components can be regraded using Ship Component Regrading.",
+ "html": "<p>In ArcheAge Classic Ships can be obtained in various ways, such as buying designs with Gilda Stars, grinding specific mobs for scraps of a design, or buying ships already built with marketplace currencies.\n</p><p>Many ships designs are tradeable, so you can buy them from other players.\n</p>\n\n<h2 id=\"Ships\">Ships</h2>\n<h3 id=\"Clippers_&amp;_Speedboats\"><span></span>Clippers &amp; Speedboats</h3>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Ship name\n</th>\n<th>Icon\n</th>\n<th>Obtained from\n</th>\n<th>Cost\n</th>\n<th>Features\n</th></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Adventure_Clipper&action=edit&redlink=1\" rel=\"noopener\">Adventure Clipper</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/73/Clipper_Icon.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from Mirage Island or Marketplace.\n</td>\n<td>50 Gilda Stars\n</td>\n<td>It has a cannon in the right side of the ship.\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Harpoon_Clipper&action=edit&redlink=1\" rel=\"noopener\">Harpoon Clipper</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/73/Clipper_Icon.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from Mirage Island or Marketplace.\n</td>\n<td>50 Gilda Stars\n</td>\n<td>It has a harpoon in the front side of the ship.\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Seawhip_Speedboat&action=edit&redlink=1\" rel=\"noopener\">Seawhip Speedboat</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3b/Seaskimer_Speedboat.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from the Marketplace or can be crafted in Miarge.\n</td>\n<td>1200 Gilda Stars or 6 Login Badges\n</td>\n<td>A small and fast boat, that can carry at least 4 people.\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Seaskimmer_Speedboat&action=edit&redlink=1\" rel=\"noopener\">Seaskimmer Speedboat</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3b/Seaskimer_Speedboat.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Speedboat Upgrade Ticket can be bought from Marketplace\n</td>\n<td>400 Gilda Stars\n</td>\n<td>A small and fast boat, that can carry at least 4 people. Has 4 packs slots.\n</td></tr></tbody></table>\n<h3 id=\"Merchant_Schooner_&amp;_Fishing_Boats\"><span></span>Merchant Schooner &amp; Fishing Boats</h3>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Ship name\n</th>\n<th>Icon\n</th>\n<th>Obtained from\n</th>\n<th>Cost\n</th>\n<th>Features\n</th></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Merchant_Schooner&action=edit&redlink=1\" rel=\"noopener\">Merchant Schooner</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/4b/Merchant_Schooner_Icon.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from Mirage Island or Marketplace.\n</td>\n<td>400 Gilda Stars\n</td>\n<td>It can store up to 22 trade packs. Also comes with a telescope useful for detecting ships in your map.\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Fish-Find_Longliner&action=edit&redlink=1\" rel=\"noopener\">Fish-Find Longliner</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7a/Fish-Find_Longliner.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from Mirage Island or Marketplace.\n</td>\n<td>250 Gilda Stars\n</td>\n<td>It can hold up to 5 small or medium fish and 2 gargantuan fish.\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Predator_Longliner&action=edit&redlink=1\" rel=\"noopener\">Predator Longliner</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1e/Predator_Longliner.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ship can be bought from Marketplace.\n</td>\n<td>700 Merit Badges\n</td>\n<td>This ship doesn't needs to be build, it can be directly used after buying it from marketplace.\n<p>It can hold up to 5 small or medium fishes and 2 gargantuan fish.\n</p>\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Moby_Drake&action=edit&redlink=1\" rel=\"noopener\">Moby Drake</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/81/Moby_Drake.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fish-Find Longliner and Predator Longliner can be transformed\n<p>into this ship using the Moby Drake Upgrade Ticket from Marketplace\n</p>\n</td>\n<td>2,000 Credits\n</td>\n<td>This ship upgrade is only a cosmetic change.\n<p>Doesn't have additional features than the Fish-Find Longliner nor Predator Longliner.\n</p>\n</td></tr></tbody></table>\n<h3 id=\"Small_Warships\">Small Warships</h3>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Ship name\n</th>\n<th>Icon\n</th>\n<th>Obtained from\n</th>\n<th>Cost\n</th>\n<th>Features\n</th></tr>\n<tr>\n<td><a href=\"/wiki/lutesong-junk\">Lutesong Junk</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e1/Lutesong_Junk_Icon.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from Mirage Island or Marketplace.\n</td>\n<td>250 Gilda Stars\n</td>\n<td>A small warship, that has 2 <a href=\"/wiki/sails\">sails</a>, 1 <a href=\"/wiki/figureheads\">figurehead</a> and 8 <a href=\"/wiki/cannons\">cannons</a> (4 per side).\n</td></tr>\n<tr>\n<td><a href=\"/wiki/eznan-cutter\">Eznan Cutter</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/20/Eznan_Cutter.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from Mirage Island or Marketplace.\n</td>\n<td>250 Gilda Stars\n</td>\n<td>A small warship, that has 2 <a href=\"/wiki/sails\">sails</a>, 1 <a href=\"/wiki/figureheads\">figurehead</a> and 8 <a href=\"/wiki/cannons\">cannons</a> (4 per side).\n</td></tr>\n<tr>\n<td><a href=\"/wiki/growling-yawl-black-pearl\">Growling Yawl</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5b/Growling_Yawl.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Designs scraps can be obtained from Ghost Ships loot and mobs in the Warsmith Castle.\n</td>\n<td>55 Growling Yawl Design Fragments.\n</td>\n<td>A small warship, that has 2 <a href=\"/wiki/sails\">sails</a>, 1 <a href=\"/wiki/figureheads\">figurehead</a> and 8 <a href=\"/wiki/cannons\">cannons</a> (4 per side).\n<p>Has more HP and speed than the other small warships.Can also carry more players.\n</p>\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Pufferfish_ship&action=edit&redlink=1\" rel=\"noopener\">Pufferfish ship</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/ba/Pufferfish.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be bought from Marketplace.\n</td>\n<td>350 Gilda Stars.\n</td>\n<td>The giant cannon in the front of the pufferfish ship dealsmassive damage.\n<p>(Doesn't deal any damage to bosses).\n</p>\n</td></tr></tbody></table>\n<h3 id=\"Medium_Warship_&amp;_Luxury_Liner\"><span></span>Medium Warship &amp; Luxury Liner</h3>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Ship name\n</th>\n<th>Icon\n</th>\n<th>Obtained from\n</th>\n<th>Cost\n</th>\n<th>Features\n</th></tr>\n<tr>\n<td><a href=\"/wiki/enoan-galleon\">Enoan Galleon</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7f/Enoan.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Designs scraps can be obtained from Luscas loot.\n<p>Whole design can be obtained from Leviathan loot.\n</p>\n</td>\n<td>5,000 Enoan Galleon Design Scraps.\n</td>\n<td>A Medium warship, that has 3 <a href=\"/wiki/sails\">sails</a>, 2 <a href=\"/wiki/figureheads\">figurehead</a> and 10 <a href=\"/wiki/cannons\">cannons</a> (5 per side).\n<p>Is capable of dealing massive collision damage.\n</p>\n</td></tr>\n<tr>\n<td><a href=\"https://wiki.aa-classic.com/index.php?title=Luxury_Liner&action=edit&redlink=1\" rel=\"noopener\">Luxury Liner</a>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c9/Luxury_Liner.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Design can be crafted on a Carpentry Workbench.\n</td>\n<td>2800 Gilda Stars\n</td>\n<td>A massive party-ship, that is slow and heavy.\n</td></tr></tbody></table>\n<h2 id=\"Ship_Components\">Ship Components</h2>\n<p>In the following wiki pages, I hope to explore the components og the ships, to give a broad and better understanding to the average player about these majestic boats, this will be a mix of factual information that can be read or observed in-game as well as some anecdotal tips and tricks on how to better arm and man these vessels.\n</p>\n<ul><li><a href=\"/wiki/sails\">Sails</a></li>\n<li><a href=\"/wiki/cannons\">Cannons</a></li>\n<li><a href=\"/wiki/figureheads\">Figureheads</a></li>\n<li><a href=\"/wiki/planks\">Planks</a></li>\n<li><a href=\"/wiki/radars\">Ship Radars</a></li>\n<li><a href=\"/wiki/rudders\">Rudders</a></li>\n<li><a href=\"/wiki/shroudlights\">Shroudlights</a></li>\n<li><a href=\"https://wiki.aa-classic.com/index.php?title=Masts&action=edit&redlink=1\" rel=\"noopener\">Masts</a></li>\n<li><a href=\"https://wiki.aa-classic.com/index.php?title=Storage&action=edit&redlink=1\" rel=\"noopener\">Storage</a></li>\n<li><a href=\"https://wiki.aa-classic.com/index.php?title=Sound_Equipment&action=edit&redlink=1\" rel=\"noopener\">Sound Equipment</a></li>\n<li><a href=\"https://wiki.aa-classic.com/index.php?title=Breathing_Devices&action=edit&redlink=1\" rel=\"noopener\">Breathing Devices</a></li>\n<li><a href=\"https://wiki.aa-classic.com/index.php?title=Propulsion_Systems&action=edit&redlink=1\" rel=\"noopener\">Propulsion Systems</a></li></ul>\n<p>Ship components can be regraded using <a href=\"/wiki/ship-component-regrading\">Ship Component Regrading</a>.\n</p>"
+}

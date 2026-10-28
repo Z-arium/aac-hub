@@ -1,0 +1,128 @@
+{
+ "slug": "world-boss-mounts",
+ "title": "World Boss mounts",
+ "pageid": 445,
+ "revid": 3296,
+ "updated": "2026-02-24T10:30:44Z",
+ "source": "https://wiki.aa-classic.com/World_Boss_mounts",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Earthen_Roar_/_Crimson_Lightning",
+   "text": "Earthen Roar / Crimson Lightning"
+  },
+  {
+   "level": 3,
+   "id": "Fuschiafin",
+   "text": "Fuschiafin"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Earthen Roar / Crimson Lightning",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Run!",
+     "",
+     "Increases Pet Move Speed +50% for 10sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Gnaw",
+     "",
+     "Sherpens caster's bite, dealing Physical Damage and as additional damage over time",
+     "Combo: Increases severity of Bleed effects on targets."
+    ],
+    [
+     "Overrun",
+     "",
+     "Triggers a charge that can Stun a distant enemy for 2sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Health Regen",
+     "",
+     "Heals pet's Health.",
+     "-"
+    ],
+    [
+     "Dash",
+     "",
+     "Triggers a forward charge for 3sec that makes you invincible. Can't be used while carrying trade pack.",
+     "-"
+    ]
+   ]
+  },
+  {
+   "heading": "Earthen Roar / Crimson Lightning",
+   "caption": "",
+   "headers": [
+    "Item",
+    "Icon",
+    "Cost"
+   ],
+   "rows": [
+    [
+     "Crimson Lightning Pet Helm",
+     "",
+     "58 gold"
+    ],
+    [
+     "Crimson Lightning Mount Saddle",
+     "",
+     "200 gold"
+    ],
+    [
+     "Crimson Lightning Pet Legguards",
+     "",
+     "142 gold"
+    ]
+   ]
+  },
+  {
+   "heading": "Fuschiafin",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Scan Ships",
+     "",
+     "Displays all ships and drydocks within 100m for 10 seconds.",
+     "-"
+    ],
+    [
+     "Dolphin Dash",
+     "",
+     "Triggers a forward dash with powerful tailfin strokes. Increases Move Speed +50% for 10 seconds. Can't be used while doing tricks.",
+     "-"
+    ],
+    [
+     "Produce Ultrasonic Waves",
+     "",
+     "Sends ultrasonic waves forward.",
+     "-"
+    ],
+    [
+     "Acrobatics",
+     "",
+     "Utilizes the fins to launch a powerful leap. May trigger different tricks depending on the dolphin's mood. Can't be used while carrying trade pack.",
+     "-"
+    ]
+   ]
+  }
+ ],
+ "text": "Mounts that are a drop from world bosses or dungeon bosses. Earthen Roar / Crimson Lightning Earthen Roar Earthen Roar is a drop from World Boss called Hanure. Once you obtain the mount it is ready to use. There is a quest to upgrade Earthen Roar into Crimson Lightning. Collect 10 Crimson Lightning Essence Fragments and combined them to Crimson Lightning Essence and use the item on the mount to upgrade it. Base movement speed: 10.0m/s Mount skills Skill Icon Description Additional info Run! Increases Pet Move Speed +50% for 10sec. Can't be used while carrying trade pack. - Gnaw Sherpens caster's bite, dealing Physical Damage and as additional damage over time Combo: Increases severity of Bleed effects on targets. Overrun Triggers a charge that can Stun a distant enemy for 2sec. Can't be used while carrying trade pack. - Health Regen Heals pet's Health. - Dash Triggers a forward charge for 3sec that makes you invincible. Can't be used while carrying trade pack. - Crimson Lightning Item Icon Cost Crimson Lightning Pet Helm 58 gold Crimson Lightning Mount Saddle 200 gold Crimson Lightning Pet Legguards 142 gold Once Earthen Roar upgrades into Crimson Lightning the mount will become 1 rider mount and gets 1min long stealth skill. The mount also has its own unique armor set that can be bought from Stablehand NPC. Fuschiafin Fuschiafin Obtainable as a rare drop from Dahuta, the boss of the Sea of Drowned Love dungeon (10-man version) accessible underwater in the Sunspeck Sea. Base movement speed: 7.5m/s Mount skills Skill Icon Description Additional info Scan Ships Displays all ships and drydocks within 100m for 10 seconds. - Dolphin Dash Triggers a forward dash with powerful tailfin strokes. Increases Move Speed +50% for 10 seconds. Can't be used while doing tricks. - Produce Ultrasonic Waves Sends ultrasonic waves forward. - Acrobatics Utilizes the fins to launch a powerful leap. May trigger different tricks depending on the dolphin's mood. Can't be used while carrying trade pack. -",
+ "html": "<p>Mounts that are a drop from world bosses or dungeon bosses.\n</p><p><br>\n</p>\n<h3 id=\"Earthen_Roar_/_Crimson_Lightning\"><span></span>Earthen Roar / Crimson Lightning</h3>\n<figure><img alt=\"Earthen Roar\" src=\"https://wiki.aa-classic.com/images/7/76/Earthenroar.png\" width=\"566\" height=\"370\" loading=\"lazy\"><figcaption>Earthen Roar</figcaption></figure>\n<p>Earthen Roar is a drop from <a href=\"/wiki/world-bosses\">World Boss</a> called <a href=\"/wiki/hanure-the-hunter\">Hanure</a>. Once you obtain the mount it is ready to use.\n</p><p>There is a quest to upgrade Earthen Roar into Crimson Lightning. Collect 10 Crimson Lightning Essence Fragments and combined them to Crimson Lightning Essence and use the item on the mount to upgrade it.  \n</p><p><b>Base movement speed:</b> 10.0m/s  \n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Run!\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/29/Runnn.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Pet Move Speed +50% for 10sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Gnaw\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/78/Gnaw.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sherpens caster's bite, dealing Physical Damage and as additional damage over time\n</td>\n<td>Combo: Increases severity of <a href=\"/wiki/status-effects\">Bleed</a> effects on targets.\n</td></tr>\n<tr>\n<td>Overrun\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9a/Grr.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Triggers a charge that can <a href=\"/wiki/status-effects\">Stun</a> a distant enemy for 2sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Health Regen\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6e/Heal.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Heals pet's Health.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Dash\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/55/Dash.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Triggers a forward charge for 3sec that makes you invincible.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr></tbody></table>\n<figure><img alt=\"Crimson Lightning\" src=\"https://wiki.aa-classic.com/images/d/dc/Crimson_lightning.png\" width=\"476\" height=\"328\" loading=\"lazy\"><figcaption>Crimson Lightning</figcaption></figure>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Item\n</th>\n<th>Icon\n</th>\n<th>Cost\n</th></tr>\n<tr>\n<td>Crimson Lightning Pet Helm\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8b/Clhelm.png\" width=\"225\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>58 gold\n</td></tr>\n<tr>\n<td>Crimson Lightning Mount Saddle\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/94/Clsaddle.png\" width=\"225\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>200 gold\n</td></tr>\n<tr>\n<td>Crimson Lightning Pet Legguards\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/98/Cllegs.png\" width=\"228\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>142 gold\n</td></tr></tbody></table>\n<p>Once Earthen Roar upgrades into Crimson Lightning the mount will become 1 rider mount and gets 1min long stealth skill. The mount also has its own unique armor set that can be bought from Stablehand NPC.\n</p><p><br>\n</p><p><br>\n</p><p><br>\n</p>\n<h3 id=\"Fuschiafin\">Fuschiafin</h3>\n<figure><img alt=\"Fuschiafin Mount\" src=\"https://wiki.aa-classic.com/images/thumb/8/8e/Fuschiafin.png/300px-Fuschiafin.png\" width=\"300\" height=\"155\" srcset=\"https://wiki.aa-classic.com/images/thumb/8/8e/Fuschiafin.png/450px-Fuschiafin.png 1.5x, https://wiki.aa-classic.com/images/thumb/8/8e/Fuschiafin.png/600px-Fuschiafin.png 2x\" loading=\"lazy\"><figcaption>Fuschiafin</figcaption></figure>\n<p>Obtainable as a rare drop from Dahuta, the boss of the Sea of Drowned Love dungeon (10-man version) accessible underwater in the Sunspeck Sea. \n</p><p><b>Base movement speed:</b> 7.5m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Scan Ships\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/43/Map.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Displays all ships and drydocks within 100m for 10 seconds.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Dolphin Dash\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/4b/Dddddd.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Triggers a forward dash with powerful tailfin strokes. Increases Move Speed +50% for 10 seconds.\n<p>Can't be used while doing tricks.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Produce Ultrasonic Waves\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8b/Twirl.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sends ultrasonic waves forward.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Acrobatics\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/53/333.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Utilizes the fins to launch a powerful leap. May trigger different tricks depending on the dolphin's mood.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr></tbody></table>"
+}

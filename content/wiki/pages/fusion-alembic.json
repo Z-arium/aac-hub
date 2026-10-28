@@ -1,0 +1,55 @@
+{
+ "slug": "fusion-alembic",
+ "title": "Fusion Alembic",
+ "pageid": 540,
+ "revid": 2079,
+ "updated": "2024-09-25T05:00:59Z",
+ "source": "https://wiki.aa-classic.com/Fusion_Alembic",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "",
+   "headers": [
+    "Item",
+    "Alembics Required"
+   ],
+   "rows": [
+    [
+     "Creating an Image Item",
+     "1"
+    ],
+    [
+     "Wardrobe / Costume Items",
+     "0"
+    ],
+    [
+     "Weapons",
+     "9"
+    ],
+    [
+     "Chest and Leg Items",
+     "6"
+    ],
+    [
+     "Head and Cloak Items",
+     "4"
+    ],
+    [
+     "Hand and Foot Items",
+     "2"
+    ],
+    [
+     "Gliders",
+     "15"
+    ],
+    [
+     "Undergarments",
+     "10"
+    ]
+   ]
+  }
+ ],
+ "text": "Fusion Alembic Icon Enables an item for use in the Fusion process, which combines the stats from one item with the appearance of another. Fusion is available from Blacksmiths, Weapon Merchants and Armor Merchants. Can't be used on arm and waist armor or accessories. Item Alembics Required Creating an Image Item 1 Wardrobe / Costume Items 0 Weapons 9 Chest and Leg Items 6 Head and Cloak Items 4 Hand and Foot Items 2 Gliders 15 Undergarments 10",
+ "html": "<figure><img src=\"https://wiki.aa-classic.com/images/3/32/Fusionalembic.png\" width=\"49\" height=\"47\" loading=\"lazy\"><figcaption>Fusion Alembic Icon</figcaption></figure>\n<p>Enables an item for use in the Fusion process, which combines the stats from one item with the appearance of another. Fusion is available from Blacksmiths, Weapon Merchants and Armor Merchants.\n</p><p>Can't be used on arm and waist armor or accessories.\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Item\n</th>\n<th>Alembics Required\n</th></tr>\n<tr>\n<td>Creating an Image Item\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Wardrobe / Costume Items\n</td>\n<td>0\n</td></tr>\n<tr>\n<td>Weapons\n</td>\n<td>9\n</td></tr>\n<tr>\n<td>Chest and Leg Items\n</td>\n<td>6\n</td></tr>\n<tr>\n<td>Head and Cloak Items\n</td>\n<td>4\n</td></tr>\n<tr>\n<td>Hand and Foot Items\n</td>\n<td>2\n</td></tr>\n<tr>\n<td>Gliders\n</td>\n<td>15\n</td></tr>\n<tr>\n<td>Undergarments\n</td>\n<td>10\n</td></tr></tbody></table>"
+}

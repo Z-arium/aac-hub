@@ -1,0 +1,285 @@
+{
+ "slug": "point-shop-mounts",
+ "title": "Point shop mounts",
+ "pageid": 447,
+ "revid": 3297,
+ "updated": "2026-02-24T10:31:02Z",
+ "source": "https://wiki.aa-classic.com/Point_shop_mounts",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "Donkey",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Dreaming Donkey",
+     "",
+     "Increases the donkey's Move Speed +30% for 1min. Can only be used while wearing a trade pack and consumes 1 Carrot.",
+     "You have to have Carrots in your inventory."
+    ],
+    [
+     "La Mancha's Call",
+     "",
+     "Raise your spear high and charge forward for 7sec. You cannot turn left or right once the charge begins. Can't be used while carrying trade pack.",
+     "Funny music."
+    ]
+   ]
+  },
+  {
+   "heading": "Heifer",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Cowpie",
+     "",
+     "Has a laxative effect.",
+     "Smelly."
+    ]
+   ]
+  },
+  {
+   "heading": "Stormdarter / Thunder Dash",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Victorious Bite",
+     "",
+     "Sharpens caster's bite, dealing Physical Damage and an additional damage over time.",
+     "-"
+    ],
+    [
+     "Overrun",
+     "",
+     "Triggers a charge that can Stun a distant enemy for 2sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Thunder Dash",
+     "",
+     "Increases Move Speed +80%, then gradually decreases it over 10sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Ram",
+     "",
+     "Rams caster into a enemy, breaking through enemy lines for 3sec. Rammed enemies receive damage. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Terrifying Roar",
+     "",
+     "Lets out a great roar, inflicting Fear on charging enemy mounts for 8 seconds. Canceled by movement.",
+     "-"
+    ]
+   ]
+  },
+  {
+   "heading": "Black Arrow",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Health Regen",
+     "",
+     "Heals pet's Health.",
+     "-"
+    ],
+    [
+     "Run!",
+     "",
+     "Increases Pet Move Speed +50% for 10sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Mounted Defense",
+     "",
+     "Grants mount and rider immunity to Ranged Damage, Knockback, and Stun for 5sec.",
+     "-"
+    ],
+    [
+     "Breakthrough",
+     "",
+     "Charges at an enemy for 3 sec and breaks through enemy lines. Inflicts Knockback and Trip on targeted enemy. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Jousting Lance Charge",
+     "",
+     "Triggers a charge with Jousting Lance towards a target for 3sec, dealing damage. Removes Imprison and grants immunity to Fear while Carging. Consumes one Jousting Lance. Can't be used while carrying trade pack.",
+     "You have to have Jousting Lances in your inventory."
+    ]
+   ]
+  },
+  {
+   "heading": "Stormrose",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Back Kick",
+     "",
+     "Strengthens the mount's rearward kick, dealing Physical Damage and Tripping the enemy.",
+     "-"
+    ],
+    [
+     "Hereafter Dash",
+     "",
+     "Dashes into the otherworld for 5sec, then reappears. Slightly increases Move Speed. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Nui's Veil",
+     "",
+     "Stealths bot mount and rider for 30sec. Stealth ends if you move, attacks, or are attacked.",
+     "-"
+    ],
+    [
+     "Ghostly Steps",
+     "",
+     "Increases Move Speed +80%, then gradually decreases it over 10sec. Can't be used while carrying trade pack.",
+     "-"
+    ]
+   ]
+  },
+  {
+   "heading": "Andelph Patrol Mech",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Pull",
+     "",
+     "Pulls a distant target.",
+     "20 meter range"
+    ],
+    [
+     "Two-handed Slam",
+     "",
+     "Charges 20m forward and inflicts melee damage to hostile targets within 5m when the buff ends.",
+     "-"
+    ],
+    [
+     "Invincibility",
+     "",
+     "Makes the rider and their mount Invincible for 2sec, and increases the mount's Move Speed +100%.",
+     "-"
+    ],
+    [
+     "Archeum Laser",
+     "",
+     "Fires a strong Archeum Beam 25m forward and inflicts melee damage to all targets in range.",
+     "-"
+    ],
+    [
+     "Owner's Escape",
+     "",
+     "Shoots its owner forward, helping them escape quickly. Can't be used while carrying trade pack.",
+     "-"
+    ]
+   ]
+  },
+  {
+   "heading": "Royal Griffin",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Run!",
+     "",
+     "Increases Move Speed +50% for 10sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Mounted Arrowstrike",
+     "",
+     "Fires an arrow that deals damage equal to 100% of your Ranged Attack.",
+     "-"
+    ],
+    [
+     "Wind Strike",
+     "",
+     "Leaps into the sky and sends gusts of wind toward the land. Slows enemies in the target area and deals Magic Damage.",
+     "-"
+    ],
+    [
+     "Glide",
+     "",
+     "Glide through the skies with your mount for 5m. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Skydash",
+     "",
+     "Increases glide speed +50% for for 10sec. Can only be used while gliding.",
+     "-"
+    ]
+   ]
+  },
+  {
+   "heading": "Royal Griffin",
+   "caption": "",
+   "headers": [
+    "Item",
+    "Icon",
+    "Cost"
+   ],
+   "rows": [
+    [
+     "Griffin Helm",
+     "",
+     "50 gold Stablehand"
+    ],
+    [
+     "Griffin Saddle",
+     "",
+     "50 gold Stablehand"
+    ],
+    [
+     "Griffin Legguards",
+     "",
+     "50 gold Stablehand"
+    ]
+   ]
+  }
+ ],
+ "text": "Point shop mounts are those that can be obtained by using points such as: Honor points, Gilda Stars, Merit Badges, Login Badges etc. Donkey Donkeys can be obtained through Blue Salt Brotherhood questline (free) or from Mirage Island with 5 Gilda Stars. You have to obtain the mount and raise it before you can use it. There are 4 different color variations. Base movement speed: 7.2m/s Mount skills Skill Icon Description Additional info Dreaming Donkey Increases the donkey's Move Speed +30% for 1min. Can only be used while wearing a trade pack and consumes 1 Carrot. You have to have Carrots in your inventory. La Mancha's Call Raise your spear high and charge forward for 7sec. You cannot turn left or right once the charge begins. Can't be used while carrying trade pack. Funny music. Heifer Heifer can be obtained from Mirage Island with 5 Gilda Stars. Once you buy Heifer it is ready mount. Base movement speed: 7.0m/s Mount skills Skill Icon Description Additional info Cowpie Has a laxative effect. Smelly. Stormdarter / Thunder Dash Thunder Dash Stormdarter can be obtained from Honor point shop with 20k Honor points. Once you obtain the mount it is ready to use. Stormdarter can be upgraded into Thunder Dash with the quest by buying Shining Lightning Essence from Honor point shop with 30k Honor points and finishing the quest. Base movement speed: 11.5m/s Mount skills Skill Icon Description Additional info Victorious Bite Sharpens caster's bite, dealing Physical Damage and an additional damage over time. - Overrun Triggers a charge that can Stun a distant enemy for 2sec. Can't be used while carrying trade pack. - Thunder Dash Increases Move Speed +80%, then gradually decreases it over 10sec. Can't be used while carrying trade pack. - Ram Rams caster into a enemy, breaking through enemy lines for 3sec. Rammed enemies receive damage. Can't be used while carrying trade pack. - Terrifying Roar Lets out a great roar, inflicting Fear on charging enemy mounts for 8 seconds. Canceled by movement. - Black Arrow Black Arrow can be obtained from Mirage Island or through Marketplace from Gilda Star tab with 500 Gilda stars. Once you obtain the mount it is ready to use. Base movement speed: 10.0m/s Mount skills Skill Icon Description Additional info Health Regen Heals pet's Health. - Run! Increases Pet Move Speed +50% for 10sec. Can't be used while carrying trade pack. - Mounted Defense Grants mount and rider immunity to Ranged Damage, Knockback, and Stun for 5sec. - Breakthrough Charges at an enemy for 3 sec and breaks through enemy lines. Inflicts Knockback and Trip on targeted enemy. Can't be used while carrying trade pack. - Jousting Lance Charge Triggers a charge with Jousting Lance towards a target for 3sec, dealing damage. Removes Imprison and grants immunity to Fear while Carging. Consumes one Jousting Lance. Can't be used while carrying trade pack. You have to have Jousting Lances in your inventory. Stormrose Stormrose is obtainable through blue login badges. Each end of the month the login calendar gives one blue star for completing the month. Stormrose costs 3 blue Login Badges. Base movement speed: 10.0m/s Mount skills Skill Icon Description Additional info Back Kick Strengthens the mount's rearward kick, dealing Physical Damage and Tripping the enemy. - Hereafter Dash Dashes into the otherworld for 5sec, then reappears. Slightly increases Move Speed. Can't be used while carrying trade pack. - Nui's Veil Stealths bot mount and rider for 30sec. Stealth ends if you move, attacks, or are attacked. - Ghostly Steps Increases Move Speed +80%, then gradually decreases it over 10sec. Can't be used while carrying trade pack. - Andelph Patrol Mech Andelph Patrol Mech is obtainable through blue login badges. Each end of the month the login calendar gives one blue star for completing the month. The Mech costs 4 blue Login Badges. Patrol Mech Battle Box gives the Mech and also ready set gear for it. Base movement speed: 11.5m/s Mount skills Skill Icon Description Additional info Pull Pulls a distant target. 20 meter range Two-handed Slam Charges 20m forward and inflicts melee damage to hostile targets within 5m when the buff ends. - Invincibility Makes the rider and their mount Invincible for 2sec, and increases the mount's Move Speed +100%. - Archeum Laser Fires a strong Archeum Beam 25m forward and inflicts melee damage to all targets in range. - Owner's Escape Shoots its owner forward, helping them escape quickly. Can't be used while carrying trade pack. - Royal Griffin Royal Griffin is obtainable from Marketplace in the Merit Badge tab. Royal griffin costs 600 Merit Badges. Base movement speed: 10.5m/s Mount skills Skill Icon Description Additional info Run! Increases Move Speed +50% for 10sec. Can't be used while carrying trade pack. - Mounted Arrowstrike Fires an arrow that deals damage equal to 100% of your Ranged Attack. - Wind Strike Leaps into the sky and sends gusts of wind toward the land. Slows enemies in the target area and deals Magic Damage. - Glide Glide through the skies with your mount for 5m. Can't be used while carrying trade pack. - Skydash Increases glide speed +50% for for 10sec. Can only be used while gliding. - Item Icon Cost Griffin Helm 50 gold Stablehand Griffin Saddle 50 gold Stablehand Griffin Legguards 50 gold Stablehand",
+ "html": "<p>Point shop mounts are those that can be obtained by using points such as: Honor points, Gilda Stars, Merit Badges, Login Badges etc.\n</p><p><br>\n</p>\n\n<h4 id=\"Donkey\">Donkey</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/9/95/Donkey.png\" width=\"420\" height=\"335\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Donkeys can be obtained through <a href=\"https://wiki.aa-classic.com/index.php?title=Blue_Salt_Brotherhood&action=edit&redlink=1\" rel=\"noopener\">Blue Salt Brotherhood</a> questline (free) or from Mirage Island with 5 <a href=\"/wiki/currencies\">Gilda Stars</a>. You have to obtain the mount and raise it before you can use it. There are 4 different color variations.\n</p><p><b>Base movement speed:</b> 7.2m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Dreaming Donkey\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/04/FFFFF.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases the donkey's Move Speed +30% for 1min.\n<p>Can only be used while wearing a trade pack and consumes 1 Carrot.\n</p>\n</td>\n<td>You have to have Carrots in your inventory.\n</td></tr>\n<tr>\n<td>La Mancha's Call\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/24/Bt.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Raise your spear high and charge forward for 7sec. You cannot turn left or right once the charge begins.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>Funny music.\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Heifer\">Heifer</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/e/ef/Heifer.png\" width=\"413\" height=\"247\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Heifer can be obtained from <a href=\"https://wiki.aa-classic.com/index.php?title=Mirage_Island&action=edit&redlink=1\" rel=\"noopener\">Mirage Island</a> with 5 <a href=\"/wiki/currencies\">Gilda Stars</a>. Once you buy Heifer it is ready mount.\n</p><p><b>Base movement speed:</b> 7.0m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Cowpie\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/56/Poop.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Has a laxative effect.\n</td>\n<td>Smelly.\n</td></tr></tbody></table>\n<h4 id=\"Stormdarter_/_Thunder_Dash\"><span></span>Stormdarter / Thunder Dash</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/2/2b/Thunderdash.png\" width=\"567\" height=\"300\" loading=\"lazy\"><figcaption>Thunder Dash</figcaption></figure>\n<p>Stormdarter can be obtained from <a href=\"/wiki/currencies\">Honor point</a> shop with 20k Honor points. Once you obtain the mount it is ready to use. Stormdarter can be upgraded into Thunder Dash with the quest by buying Shining Lightning Essence from Honor point shop with 30k Honor points and finishing the quest.\n</p><p><b>Base movement speed:</b> 11.5m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Victorious Bite\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/78/Gnaw.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sharpens caster's bite, dealing Physical Damage and an  additional damage over time.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Overrun\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9a/Grr.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Triggers a charge that can <a href=\"/wiki/status-effects\">Stun</a> a distant enemy for 2sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Thunder Dash\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/29/Runnn.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Move Speed +80%, then gradually decreases it over 10sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Ram\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/24/Bt.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rams caster into a enemy, breaking through enemy lines for 3sec. Rammed enemies receive damage.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Terrifying Roar\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5a/Rawrrr.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Lets out a great roar, inflicting <a href=\"/wiki/status-effects\">Fear</a> on charging enemy mounts for 8 seconds. Canceled by movement.\n</td>\n<td>-\n</td></tr></tbody></table>\n<h4 id=\"Black_Arrow\">Black Arrow</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/e/e1/Blackarrow.png\" width=\"313\" height=\"307\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Black Arrow can be obtained from Mirage Island or through Marketplace from Gilda Star tab with 500 <a href=\"/wiki/currencies\">Gilda stars</a>. Once you obtain the mount it is ready to use.\n</p><p><b>Base movement speed:</b> 10.0m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Health Regen\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6e/Heal.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Heals pet's Health.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Run!\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/29/Runnn.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Pet Move Speed +50% for 10sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Mounted Defense\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/52/Derp.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Grants mount and rider immunity to Ranged Damage, <a href=\"/wiki/status-effects\">Knockback</a>, and <a href=\"/wiki/status-effects\">Stun</a> for 5sec.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Breakthrough\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/24/Bt.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Charges at an enemy for 3 sec and breaks through enemy lines. Inflicts <a href=\"/wiki/status-effects\">Knockback</a> and <a href=\"/wiki/status-effects\">Trip</a> on targeted enemy.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Jousting Lance Charge\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e5/Chipichipi.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Triggers a charge with <a href=\"/wiki/jousting-lances\">Jousting Lance</a> towards a target for 3sec, dealing damage. Removes Imprison and grants immunity to <a href=\"/wiki/status-effects\">Fear</a> while Carging. Consumes one <a href=\"/wiki/jousting-lances\">Jousting Lance</a>.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>You have to have <a href=\"/wiki/jousting-lances\">Jousting Lances</a> in your inventory.\n</td></tr></tbody></table>\n<h4 id=\"Stormrose\">Stormrose</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/f/f1/Spulmare.png\" width=\"322\" height=\"260\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Stormrose is obtainable through blue login badges. Each end of the month the login calendar gives one blue star for completing the month. Stormrose costs 3 blue <a href=\"/wiki/currencies\">Login Badges</a>.\n</p><p><b>Base movement speed:</b> 10.0m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Back Kick\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e5/Kick.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Strengthens the mount's rearward kick, dealing Physical Damage and <a href=\"/wiki/status-effects\">Tripping</a> the enemy.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Hereafter Dash\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/24/Bt.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dashes into the otherworld for 5sec, then reappears. Slightly increases Move Speed.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Nui's Veil\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/df/Nuisveil.png\" width=\"39\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Stealths bot mount and rider for 30sec. Stealth ends if you move, attacks, or are attacked.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Ghostly Steps\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/29/Runnn.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Move Speed +80%, then gradually decreases it over 10sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr></tbody></table>\n<p><br>\n</p><p><br>\n</p>\n<h4 id=\"Andelph_Patrol_Mech\">Andelph Patrol Mech</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/8/87/Mech2.png\" width=\"311\" height=\"368\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Andelph Patrol Mech is obtainable through blue login badges. Each end of the month the login calendar gives one blue star for completing the month. The Mech costs 4 blue <a href=\"/wiki/currencies\">Login Badges</a>. Patrol Mech Battle Box gives the Mech and also ready set gear for it.\n</p><p><b>Base movement speed:</b> 11.5m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Pull\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fa/Ll.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Pulls a distant target.\n</td>\n<td>20 meter range\n</td></tr>\n<tr>\n<td>Two-handed Slam\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9d/Oo.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Charges 20m forward and inflicts melee damage to hostile targets within 5m when the buff ends.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Invincibility\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/df/Spinnn.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Makes the rider and their mount <a href=\"/wiki/status-effects\">Invincible</a> for 2sec, and increases the mount's Move Speed +100%.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Archeum Laser\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0c/9ioiuoui.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fires a strong Archeum Beam 25m forward and inflicts melee damage to all targets in range.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Owner's Escape\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f1/Bbbb.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shoots its owner forward, helping them escape quickly.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr></tbody></table>\n<h4 id=\"Royal_Griffin\">Royal Griffin</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/b/b6/Royalgriffin.png/571px-Royalgriffin.png\" width=\"571\" height=\"261\" srcset=\"https://wiki.aa-classic.com/images/b/b6/Royalgriffin.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Royal Griffin is obtainable from Marketplace in the <a href=\"/wiki/currencies\">Merit Badge</a> tab. Royal griffin costs 600 <a href=\"/wiki/currencies\">Merit Badges</a>.\n</p><p><b>Base movement speed:</b> 10.5m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Run!\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/29/Runnn.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Move Speed +50% for 10sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Mounted Arrowstrike\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9b/Icon_skill_horseback07.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fires an arrow that deals damage equal to 100% of your Ranged Attack.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Wind Strike\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d4/Windstrike.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Leaps into the sky and sends gusts of wind toward the land. Slows enemies in the target area and deals Magic Damage.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Glide\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/af/Leap.png\" width=\"38\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Glide through the skies with your mount for 5m.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Skydash\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a5/Skydash.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases glide speed +50% for for 10sec.\n<p>Can only be used while gliding.\n</p>\n</td>\n<td>-\n</td></tr></tbody></table>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Item\n</th>\n<th>Icon\n</th>\n<th>Cost\n</th></tr>\n<tr>\n<td>Griffin Helm\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/01/Griffinhelmet.png\" width=\"37\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>50 gold\n<p>Stablehand\n</p>\n</td></tr>\n<tr>\n<td>Griffin Saddle\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6a/Griffinsadle.png\" width=\"38\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>50 gold\n<p>Stablehand\n</p>\n</td></tr>\n<tr>\n<td>Griffin Legguards\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b2/Griffinlegguards.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>50 gold\n<p>Stablehand\n</p>\n</td></tr></tbody></table>"
+}

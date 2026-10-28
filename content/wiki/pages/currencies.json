@@ -1,0 +1,229 @@
+{
+ "slug": "currencies",
+ "title": "Currencies",
+ "pageid": 278,
+ "revid": 3589,
+ "updated": "2026-09-04T06:08:54Z",
+ "source": "https://wiki.aa-classic.com/Currencies",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Permanent_Tokens",
+   "text": "Permanent Tokens"
+  },
+  {
+   "level": 3,
+   "id": "Credits",
+   "text": "Credits"
+  },
+  {
+   "level": 3,
+   "id": "Golden_Token",
+   "text": "Golden Token"
+  },
+  {
+   "level": 3,
+   "id": "Loyalty_Token",
+   "text": "Loyalty Token"
+  },
+  {
+   "level": 3,
+   "id": "Gilda_Star",
+   "text": "Gilda Star"
+  },
+  {
+   "level": 3,
+   "id": "Merit_Badge",
+   "text": "Merit Badge"
+  },
+  {
+   "level": 3,
+   "id": "Login_Badge",
+   "text": "Login Badge"
+  },
+  {
+   "level": 3,
+   "id": "Activity_Token",
+   "text": "Activity Token"
+  },
+  {
+   "level": 3,
+   "id": "Priceless_Coin",
+   "text": "Priceless Coin"
+  },
+  {
+   "level": 3,
+   "id": "Player_Appreciation_Coin",
+   "text": "Player Appreciation Coin"
+  },
+  {
+   "level": 3,
+   "id": "Warrior_Medal",
+   "text": "Warrior Medal"
+  },
+  {
+   "level": 3,
+   "id": "Comet_Shard",
+   "text": "Comet Shard"
+  },
+  {
+   "level": 3,
+   "id": "Daru_Festival_Coin",
+   "text": "Daru Festival Coin"
+  },
+  {
+   "level": 3,
+   "id": "Broom_Race_Coin",
+   "text": "Broom Race Coin"
+  },
+  {
+   "level": 3,
+   "id": "Blue_Ribbon_Coin",
+   "text": "Blue Ribbon Coin"
+  },
+  {
+   "level": 3,
+   "id": "Fisher_King_Coin",
+   "text": "Fisher King Coin"
+  },
+  {
+   "level": 3,
+   "id": "Honor_Points",
+   "text": "Honor Points"
+  },
+  {
+   "level": 3,
+   "id": "Vocation_Badges",
+   "text": "Vocation Badges"
+  },
+  {
+   "level": 3,
+   "id": "Prestige",
+   "text": "Prestige"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Permanent Tokens",
+   "caption": "",
+   "headers": [
+    "Currency",
+    "Icon",
+    "Obtained from",
+    "Usage"
+   ],
+   "rows": [
+    [
+     "Credits",
+     "",
+     "Credits can be bought with real money through under Donate tab on the Website Profile.",
+     "Marketplace"
+    ],
+    [
+     "Golden Token",
+     "",
+     "Replacement to old Daru Tokens. Golden Tokens can be obtained by buying Daru Subscription Box from the Marketplace. One box will give one Golden Token.",
+     "Marketplace > Award > Golden Token"
+    ],
+    [
+     "Loyalty Token",
+     "",
+     "Once online the game provides 3 Loyalty Tokens every 60 minutes (up to 3 times a day).",
+     "Marketplace > Award > Loyalty Token"
+    ],
+    [
+     "Gilda Star",
+     "",
+     "Daily quests and other activities.",
+     "Marketplace > Award > Gilda Star or Mirage Island"
+    ],
+    [
+     "Merit Badge",
+     "",
+     "Merit Quests and certain Achievements.",
+     "Marketplace > Award > Merit Badge"
+    ],
+    [
+     "Login Badge",
+     "",
+     "In the Login Tracker once you have completed the whole month the last reward is 1 Login Badge.",
+     "Login Badge Reward NPC in the middle at Mirage Island once you enter."
+    ],
+    [
+     "Activity Token",
+     "",
+     "Sources of Activity Tokens",
+     "The desk is located on the left side once you enter Mirage Island. Can be used to buy scrolls, decent starting trinkets, Synthium stones, Gilda Stars, Warrior Medals and to craft mounts."
+    ],
+    [
+     "Priceless Coin",
+     "",
+     "How to get Priceless Coins?",
+     "The blue machine is located on the right side once you enter Mirage Island. With these coins you can buy a 30-day mounts or gliders that can be upgraded into permanent one with Activity Tokens."
+    ],
+    [
+     "Player Appreciation Coin",
+     "",
+     "Loyalty / Homecoming Chest that was given as a gift for old and returning players.",
+     ""
+    ],
+    [
+     "Warrior Medal",
+     "",
+     "Warrior Medals can be obtained from daily quests like Halcyona War, Mist Merrow etc.",
+     "Warrior Medal crafting bench can be found in each factions bases. Use these medals to craft necklace and instruments and also to upgrade cloaks."
+    ],
+    [
+     "Comet Shard",
+     "",
+     "Comet Shards are obtained from mining and finishing the quests related to Starfall event.",
+     "Top right in the map of Diamond Shores."
+    ],
+    [
+     "Daru Festival Coin",
+     "",
+     "Obtained from all of the festivals held in Erenor.",
+     "Rights side on the Mirage Island."
+    ],
+    [
+     "Broom Race Coin",
+     "",
+     "Given to those participated in the Hallowtide event on Mirage Island.",
+     "Broom Race event during Hallowtide Festival. Mirage Island."
+    ],
+    [
+     "Blue Ribbon Coin",
+     "",
+     "Awarded to those who've performed well in the farming contest. Basically placing Experia items on your land and gathering them gives points for you in the Blue Ribbon leaderboard. The leaderboard resets every week and the end of the week rewards will be sent. As a reward you can get gold and Blue Ribbon coins, the amount based on your performance with growing Experia items.",
+     "The Blue Ribbon NPC can be found -once entered to Mirage Island- on the right side. The NPC sells some furniture items."
+    ],
+    [
+     "Fisher King Coin",
+     "",
+     "Awarded to those who've performed well in fishing competitions; can be exchanged for various items.",
+     "The Blue Ribbon NPC can be found -once entered to Mirage Island- on the right side. The NPC sells some decorative items and fishing trinkets."
+    ],
+    [
+     "Honor Points",
+     "",
+     "Honor Points can be gained by participating in conflicts/wars, arenas, Honor quests, or staying active in Auroria.",
+     "Press C > and the cart image next to Honor Point icon."
+    ],
+    [
+     "Vocation Badges",
+     "",
+     "Vocation Badges allow you to purchase special vocation items. They can be earned through: Family quests Blue Salt Merit quests Community Center Daily quests Remodeled House quests Farmer's Workstation Meal quests",
+     "Press C > and the cart image next to Vocation Badge icon."
+    ],
+    [
+     "Prestige",
+     "",
+     "Can be obtained by participating in guild quests.",
+     "Community > Guild > Manage > Prestige Shop"
+    ]
+   ]
+  }
+ ],
+ "text": "In ArcheAge Classic there are many different currencies for different uses. It can get overwhelming fast, so, here is explained some of them and their usages. Permanent Tokens Currency Icon Obtained from Usage Credits Credits can be bought with real money through under Donate tab on the Website Profile. Marketplace Golden Token Replacement to old Daru Tokens. Golden Tokens can be obtained by buying Daru Subscription Box from the Marketplace. One box will give one Golden Token. Marketplace > Award > Golden Token Loyalty Token Once online the game provides 3 Loyalty Tokens every 60 minutes (up to 3 times a day). Marketplace > Award > Loyalty Token Gilda Star Daily quests and other activities. Marketplace > Award > Gilda Star or Mirage Island Merit Badge Merit Quests and certain Achievements. Marketplace > Award > Merit Badge Login Badge In the Login Tracker once you have completed the whole month the last reward is 1 Login Badge. Login Badge Reward NPC in the middle at Mirage Island once you enter. Activity Token Sources of Activity Tokens The desk is located on the left side once you enter Mirage Island. Can be used to buy scrolls, decent starting trinkets, Synthium stones, Gilda Stars, Warrior Medals and to craft mounts. Priceless Coin How to get Priceless Coins? The blue machine is located on the right side once you enter Mirage Island. With these coins you can buy a 30-day mounts or gliders that can be upgraded into permanent one with Activity Tokens. Player Appreciation Coin Loyalty / Homecoming Chest that was given as a gift for old and returning players. Warrior Medal Warrior Medals can be obtained from daily quests like Halcyona War, Mist Merrow etc. Warrior Medal crafting bench can be found in each factions bases. Use these medals to craft necklace and instruments and also to upgrade cloaks. Comet Shard Comet Shards are obtained from mining and finishing the quests related to Starfall event. Top right in the map of Diamond Shores. Daru Festival Coin Obtained from all of the festivals held in Erenor. Rights side on the Mirage Island. Broom Race Coin Given to those participated in the Hallowtide event on Mirage Island. Broom Race event during Hallowtide Festival. Mirage Island. Blue Ribbon Coin Awarded to those who've performed well in the farming contest. Basically placing Experia items on your land and gathering them gives points for you in the Blue Ribbon leaderboard. The leaderboard resets every week and the end of the week rewards will be sent. As a reward you can get gold and Blue Ribbon coins, the amount based on your performance with growing Experia items. The Blue Ribbon NPC can be found -once entered to Mirage Island- on the right side. The NPC sells some furniture items. Fisher King Coin Awarded to those who've performed well in fishing competitions; can be exchanged for various items. The Blue Ribbon NPC can be found -once entered to Mirage Island- on the right side. The NPC sells some decorative items and fishing trinkets. Honor Points Honor Points can be gained by participating in conflicts/wars, arenas, Honor quests, or staying active in Auroria. Press C > and the cart image next to Honor Point icon. Vocation Badges Vocation Badges allow you to purchase special vocation items. They can be earned through: Family quests Blue Salt Merit quests Community Center Daily quests Remodeled House quests Farmer's Workstation Meal quests Press C > and the cart image next to Vocation Badge icon. Prestige Can be obtained by participating in guild quests. Community > Guild > Manage > Prestige Shop",
+ "html": "<p>In ArcheAge Classic there are many different currencies for different uses. It can get overwhelming fast, so, here is explained some of them and their usages.  \n</p>\n\n<h2 id=\"Permanent_Tokens\">Permanent Tokens</h2>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Currency\n</th>\n<th>Icon\n</th>\n<th>Obtained from\n</th>\n<th>Usage\n</th></tr>\n<tr>\n<td>\n<h3 id=\"Credits\">Credits</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2b/Credits.png\" width=\"19\" height=\"17\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Credits can be bought with real money through under Donate tab on the Website Profile.\n</td>\n<td>Marketplace\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Golden_Token\">Golden Token</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/16/Goldentoken.png\" width=\"23\" height=\"22\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Replacement to old Daru Tokens. Golden Tokens can be obtained by buying Daru Subscription Box from the Marketplace. One box will give one Golden Token.\n</td>\n<td>Marketplace &gt; Award &gt; Golden Token\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Loyalty_Token\">Loyalty Token</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/27/Lt.png\" width=\"39\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Once online the game provides 3 Loyalty Tokens every 60 minutes (up to 3 times a day).\n</td>\n<td>Marketplace &gt; Award &gt; Loyalty Token\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Gilda_Star\"><a href=\"/wiki/gilda-star\">Gilda Star</a></h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/db/Gildastar.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Daily quests and other activities.\n</td>\n<td>Marketplace &gt; Award &gt; Gilda Star\n<p>or Mirage Island\n</p>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Merit_Badge\">Merit Badge</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/01/Meritbadge.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Merit Quests and certain Achievements.\n</td>\n<td>Marketplace &gt; Award &gt; Merit Badge\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Login_Badge\">Login Badge</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2b/Loginbadge.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>In the Login Tracker once you have completed the whole month the last reward is 1 Login Badge.\n</td>\n<td>Login Badge Reward NPC in the middle at Mirage Island once you enter.<figure><img src=\"https://wiki.aa-classic.com/images/thumb/1/16/Loginbadgenpc.png/258px-Loginbadgenpc.png\" width=\"258\" height=\"357\" srcset=\"https://wiki.aa-classic.com/images/1/16/Loginbadgenpc.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Activity_Token\"><a href=\"/wiki/activity-tokens\">Activity Token</a></h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3b/Actiovitytoken.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td><a href=\"/wiki/activity-tokens\">Sources of Activity Tokens</a>\n</td>\n<td>The desk is located on the left side once you enter Mirage Island. Can be used to buy scrolls, decent starting trinkets, Synthium stones, Gilda Stars, Warrior Medals and to craft mounts. <figure><img src=\"https://wiki.aa-classic.com/images/thumb/1/17/Merchantdaru.png/398px-Merchantdaru.png\" width=\"398\" height=\"323\" srcset=\"https://wiki.aa-classic.com/images/1/17/Merchantdaru.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<p><br>\n</p>\n<h3 id=\"Priceless_Coin\">Priceless Coin</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3a/Priceless_coin.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td><a href=\"/wiki/priceless-coins\">How to get Priceless Coins?</a>\n</td>\n<td>The blue machine is located on the right side once you enter Mirage Island. With these coins you can buy a 30-day mounts or gliders that can be upgraded into permanent one with Activity Tokens.<figure><img src=\"https://wiki.aa-classic.com/images/1/18/Machine.png\" width=\"164\" height=\"353\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Player_Appreciation_Coin\">Player Appreciation Coin</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/41/Playerappriciationcoin.png\" width=\"43\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Loyalty / Homecoming Chest that was given as a gift for old and returning players.\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/thumb/1/17/Merchantdaru.png/412px-Merchantdaru.png\" width=\"412\" height=\"334\" srcset=\"https://wiki.aa-classic.com/images/1/17/Merchantdaru.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Warrior_Medal\">Warrior Medal</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fa/Warriorsmedal.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Warrior Medals can be obtained from daily quests like Halcyona War, Mist Merrow etc.\n</td>\n<td>Warrior Medal crafting bench can be found in each factions bases. Use these medals to craft necklace and instruments and also to upgrade cloaks. <figure><img src=\"https://wiki.aa-classic.com/images/f/f7/Bench.png\" width=\"233\" height=\"304\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Comet_Shard\">Comet Shard</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/44/Cometshard.png\" width=\"32\" height=\"32\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Comet Shards are obtained from mining and finishing the quests related to Starfall event.\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/thumb/7/73/Benchcomet.png/450px-Benchcomet.png\" width=\"450\" height=\"241\" srcset=\"https://wiki.aa-classic.com/images/7/73/Benchcomet.png 1.5x\" loading=\"lazy\"><figcaption>Top right in the map of Diamond Shores.</figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Daru_Festival_Coin\">Daru Festival Coin</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9b/Darufestivalcoin.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Obtained from all of the festivals held in Erenor.\n</td>\n<td>Rights side on the Mirage Island.<figure><img src=\"https://wiki.aa-classic.com/images/6/6f/Festival_bench.png\" width=\"235\" height=\"459\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Broom_Race_Coin\">Broom Race Coin</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/eb/Broomracecoin.png\" width=\"38\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Given to those participated in the Hallowtide event on Mirage Island.\n</td>\n<td>Broom Race event during Hallowtide Festival. Mirage Island.\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Blue_Ribbon_Coin\">Blue Ribbon Coin</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/21/Blueribboncoin.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Awarded to those who've performed well in the farming contest.\n<p>Basically placing Experia items on your land and gathering them gives points for you in the Blue Ribbon leaderboard. The leaderboard resets every week and the end of the week rewards will be sent. As a reward you can get gold and Blue Ribbon coins, the amount based on your performance with growing Experia items.  \n</p>\n</td>\n<td>The Blue Ribbon NPC can be found -once entered to Mirage Island- on the right side. The NPC sells some furniture items. <figure><img src=\"https://wiki.aa-classic.com/images/thumb/8/87/Blueribbonnpc.png/276px-Blueribbonnpc.png\" width=\"276\" height=\"413\" srcset=\"https://wiki.aa-classic.com/images/8/87/Blueribbonnpc.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Fisher_King_Coin\">Fisher King Coin</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/44/Fisher.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Awarded to those who've performed well in fishing competitions; can be exchanged for various items.\n</td>\n<td>The Blue Ribbon NPC can be found -once entered to Mirage Island- on the right side. The NPC sells some decorative items and fishing trinkets.<figure><img src=\"https://wiki.aa-classic.com/images/thumb/0/01/Fishing_reward.png/237px-Fishing_reward.png\" width=\"237\" height=\"513\" srcset=\"https://wiki.aa-classic.com/images/0/01/Fishing_reward.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Honor_Points\">Honor Points</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/ce/Honorpoint.png\" width=\"12\" height=\"19\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Honor Points can be gained by participating in conflicts/wars, arenas, Honor quests, or staying active in Auroria.\n</td>\n<td>Press C &gt; and the cart image next to Honor Point icon.\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Vocation_Badges\">Vocation Badges</h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1c/Vocation.png\" width=\"17\" height=\"13\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Vocation Badges allow you to purchase special vocation items. They can be earned through:\n<ul><li>Family quests</li>\n<li>Blue Salt Merit quests</li>\n<li>Community Center Daily quests</li>\n<li>Remodeled House quests</li>\n<li>Farmer's Workstation Meal quests</li></ul>\n</td>\n<td>Press C &gt; and the cart image next to Vocation Badge icon.\n</td></tr>\n<tr>\n<td>\n<h3 id=\"Prestige\"><a href=\"/wiki/prestige\">Prestige</a></h3>\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d6/Prestige.png\" width=\"12\" height=\"19\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Can be obtained by participating in guild quests.\n</td>\n<td>Community &gt; Guild &gt; Manage &gt; Prestige Shop\n</td></tr></tbody></table>"
+}

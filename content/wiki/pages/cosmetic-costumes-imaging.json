@@ -1,0 +1,1813 @@
+{
+ "slug": "cosmetic-costumes-imaging",
+ "title": "Cosmetic Costumes & Imaging",
+ "pageid": 561,
+ "revid": 3224,
+ "updated": "2026-02-05T20:30:04Z",
+ "source": "https://wiki.aa-classic.com/Cosmetic_Costumes_&_Imaging",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Costumes_slot",
+   "text": "Costumes slot"
+  },
+  {
+   "level": 3,
+   "id": "Image_Item",
+   "text": "Image Item"
+  },
+  {
+   "level": 2,
+   "id": "Wardrobe_costumes_available_in_the_game",
+   "text": "Wardrobe costumes available in the game"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Wardrobe costumes available in the game",
+   "caption": "Can be sorted by alphabetical order or search with CTRL + F",
+   "headers": [
+    "Icon",
+    "Name",
+    "Sex",
+    "How to obtain",
+    "Dyeable"
+   ],
+   "rows": [
+    [
+     "",
+     "Classic Service Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Prim Service Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Chimera Agent Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Lotusmist Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Passionate Red Ribbon Outfit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Rabbit's Foot Uniform",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Sallium Garbs",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Angelic Whisper",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Haughty Duelist Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Classique Ball Attire",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dazzling Ball Attire",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Purestar Ball Attire",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Royal's Disguise",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Rags of the Spoonlord",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Golden Dawn Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Northern Legion Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Doctor Healgood",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Noble's Whimsy Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Arasha Nomad Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Inoch's Battle Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Dragon House Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Kraken House Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Leviathan House Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Wyvern House Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Eggy-Weggy Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Hello Kitty Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dark Hello Kitty Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Prince Yateo Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Princess Greeniette Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dairy Farmer Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Milkmaid Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Puppy Onesie",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Kitty Onesie",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Wonderland Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Masquerade Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Denim Mecha Coveralls",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Scarlet Mecha Coveralls",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Chimera Ceremonial Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Orchidna's Snakeskin Shroud",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Captain's Leathers",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Icefall Dynasty Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Blood Dream Dynasty Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Ebongleam Dynasty Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Pure Sky Dynasty Robes",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Devilish Teamptation",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Cow Is Too Sleepy",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dairy Farmer: Denim",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Naval Service Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Spotless Service Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Leopard Purr Tattoo Bikini",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Bubblegum Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Fiery Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Kiwi Splash Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Indigogo Dancer Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Suede Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Black Pearl Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sun-Bleached Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Minty Fresh Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Flashy Polka Dot Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sunstripe Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Neon Dot Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Breezy Floral Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Leopard Purr Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Croc Scale Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Zebra Splash Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Colordaze Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Summer Breeze Ensemble",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Naval Dots Swimwear",
+     "Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Leopard's Roar Swimset",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Panther's Growl Swimset",
+     "Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Bubblegum Swimset",
+     "Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Tropical Swimset",
+     "Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Lilypad Swimset",
+     "Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Flirty Flip-Flops",
+     "Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Island Time Flip-Flops",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sassy Straw Hat",
+     "Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Mystery Man Fedora",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Peppermint Bracelet",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Spearmint Bracelet",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Applemint Bracelet",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Doublemint Bracelet",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Gun-Show Tank",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Blue Gun-Show Tank",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Kiwi Splash Button Short-Sleeve",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Crisp Button Short-Sleeve",
+     "Male",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Classic Jeans",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Blush Jeggings",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Chartreuse Jeggings",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Azure Jeggings",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Bleached Jeggings",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Slate Jeans",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Redtoe Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Bluetoe Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Blacktoe Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Black Pearl Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Burlap Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Skywalker Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sunkissed Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Ivory Sneakers",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Plague Doctor Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Tomb-Bound Wraps",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Summer Racer's Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Summer Nights Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Inquisitor's Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Desert Assassin Plate",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Demon's Kiss Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Garden Gatekeeper",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Ceremonial Commander's Attire",
+     "-",
+     "Pre-Order Package",
+     "Yes"
+    ],
+    [
+     "",
+     "Eternal Wish Raiment",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Icekissed Winter Festival Cocstume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Rose Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Oathbound Plate",
+     "-",
+     "Pre-Order Package",
+     "No"
+    ],
+    [
+     "",
+     "Winter's Messenger Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Kyprosa's Wnter Furs",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Woolly Fluffy Coat",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Alabaster Perinoor Silks",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Crimson Perinoor Silks",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Midnight Perinoor Silks",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Rousing Rabbit Pyjamas",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Onyx Night Kitsu",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "White Night Kitsu",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Bloodmaw Eveningwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Date Night Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dark Shaman's Raiment",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Homecoming Ball Attire",
+     "-",
+     "Login Badge",
+     "No"
+    ],
+    [
+     "",
+     "Wartime Nobility Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Midnight Perinoor Cottons",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Blossom Perinoor Cottons",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Snowbright Perinoor Cottons",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Beach Racer's Swimwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Careless Whisper Raiment",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Final Whisper Raiment",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Fae Yata Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Fae Yata Chroma",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Arrogant Duelist Costume",
+     "-",
+     "Player Appreciation Coin",
+     "No"
+    ],
+    [
+     "",
+     "Winter Yata Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "True Blue Yata Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Cheerberry Yata Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Blackjack Yata Pirate Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Bloody Adorable Yata Pirate Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dark Tear Witchcraft Disciple Costume",
+     "-",
+     "Library Materials",
+     "No"
+    ],
+    [
+     "",
+     "Dark Tear Shadowplay Disciple Costume",
+     "-",
+     "Library Materials",
+     "No"
+    ],
+    [
+     "",
+     "Dark Tear Auramancy Disciple Costume",
+     "-",
+     "Library Materials",
+     "No"
+    ],
+    [
+     "",
+     "Victory Ball Attire",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Lordly Iceraven Robes",
+     "-",
+     "Craftable, Tailoring",
+     "No"
+    ],
+    [
+     "",
+     "Wrapped Silverwolf Plate",
+     "-",
+     "Craftable, Metalwork",
+     "No"
+    ],
+    [
+     "",
+     "Wrapped Imperial Huntsman's Leathers",
+     "-",
+     "Craftable, Leatherwork",
+     "No"
+    ],
+    [
+     "",
+     "Nightraven Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Shadow Daru Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Firebrand Courtier's Robes",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Lavender Light",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dark Emissary Suit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Battle Fae",
+     "-",
+     "Merit Badge",
+     "No"
+    ],
+    [
+     "",
+     "Moon Bear Chroma",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Royal Bloodraven Robes",
+     "-",
+     "Territory Workbench",
+     "Yes"
+    ],
+    [
+     "",
+     "Griffin Guard Uniform",
+     "-",
+     "Territory Workbench",
+     "Yes"
+    ],
+    [
+     "",
+     "Shock Conqueror Plate",
+     "-",
+     "Territory Workbench",
+     "Yes"
+    ],
+    [
+     "",
+     "Old Sovereign's Robes",
+     "-",
+     "Golden Token shop",
+     "No"
+    ],
+    [
+     "",
+     "Crimson Kings Hoodie",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Blue Devils Hoodie",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dragon Cultist Duster",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dread Guard Armor",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Eclipse Knight Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Evening Blossom Garb",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Rabbit Queen Suit",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Flamewolves Hoodie",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Geared Gaslamp Garb",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Greenman Is Too Sleepy",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Haranyan Navy Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Nuian Navy Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Holiday Snow Cow Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Auroran Navy Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Big Black Bear Is Too Sleepy",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Black Sand Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Immortal Guardian Robes",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Legendary Assassin Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Mischievous Kid Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Nutcracker Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Oathbreaker Plate",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Prisoner's Pride",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Pumpkin Charmer Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Rabbit Is Too Sleepy",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Reckless Ravager's Plate",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Werefox Robes",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Owl Post Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Poinsettia Winter Festival Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sun Zenith Swimsuit",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Tropical Boardwalk Swimwear",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Streetwear Outfit",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Rascal Molang Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Sea Krait Swimsuit",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Splendid Haze",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Andelph Mechanic Workwear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Tahyang's Battle Plate",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Restless Dancer Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Reedwind Champion",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Golden Phoenix Regalia",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Yata Pumpkin Hat",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Toil and Trouble Hat",
+     "-",
+     "Marketplace",
+     ""
+    ],
+    [
+     "",
+     "Boil and Bubble Hat",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Poisoned Entrails Hat",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sylvas Nocturne Headgear",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sylvas Nocturne Top",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sylvas Nocturne Bottoms",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sylvas Nocturne Shoes",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Winter Ball Attire",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Icekissed Warrior Carb",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Mysterious Riddler Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Nebes Helper Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Nebes Icekissed Helper Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Noble Winter Coat",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Fireblack Dargonslayer",
+     "-",
+     "Golden Token",
+     "No"
+    ],
+    [
+     "",
+     "Firebreath Dragonslayer",
+     "-",
+     "Golden Token",
+     "No"
+    ],
+    [
+     "",
+     "Firewrought Dragonslayer",
+     "-",
+     "Golden Token",
+     "No"
+    ],
+    [
+     "",
+     "Elegant Hanbok",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dawnsliver Investigator Wardrobe",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Jiang Shi Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Blue Dragon Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Ipnysh Warden Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Rowdy Shore Leave Outfit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Shining Shore Leave Outfit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Spotless Shore Leave Outfit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Nobles Beach Garments",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Fae Greenman Chroma",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Springsong Greenman Suit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Autumn Greenman Suit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Blooming Spring Cow Chroma",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Giant Slayer Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Lutesong Ceremonial Robes",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Sunset Springtime",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Embalmed Greenman Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Franken-Yata Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Dragon Hunter",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Winter Maidens Sarafan",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Smiley Mr. Mittens Outfit",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Black Night Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Ivory Wavewyrm Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Coral Wavewyrm Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Abyssal Wavewyrm Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Armored Wavewyrm Costume",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Passionate Costume",
+     "-",
+     "Marketplace",
+     "Yes"
+    ],
+    [
+     "",
+     "Narayna Warrior Garb",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Righteous Nui Chosen Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Courageous Nui Chosen Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Vigilant Nui Chosen Uniform",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Twisted Lava Guardian",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Twilight Guardian",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Delphian Hat",
+     "Male / Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Delphian Slippers",
+     "Male / Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Delphian Frock",
+     "Male / Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Delphian Gloves",
+     "Male / Female",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Spring Blossom Garb",
+     "-",
+     "Marketplace",
+     "No"
+    ],
+    [
+     "",
+     "Red Hood and Tail-Cut Wolf",
+     "-",
+     "Marketplace",
+     "Yes"
+    ]
+   ]
+  }
+ ],
+ "text": "Costume are a great way to customize the look of your character. In Archeage Classic there are wardrobe costumes that change the whole look of the character and appearance items that change only certain part of the characters appearance. These two can't be mixed together or used at the same time. Costumes are obtainable mainly through Marketplace with credits or rewards from events or achievements. Costumes can be little bit different looking depending of the played race or sex of the character. Some costumes can be dyed to customize the color of the costume. Costume Fusion Costumes slot Usually players have wardrobe costumes in their costume slot. The costume slot is the top one in character profile (default keybind \"C\"). From the tiny wheel players can choose Character Display settings. From there the helmet can be hidden and Back Slot Display decided what items are shown. Some wardrobe costumes have two different looks meaning players can toggle between Original and Alternate looks. Wardrobe costumes can also be hidden so the player can only see their characters gear. Image Item Image item is a term for costumes that can be put on top of another item through Item Fusion. Usually players fuse Stat Costumes (bought from Guild shop) with the wardrobe costumes in order to get the stat and looks at the same time. All costumes need to be made into Image items by using Fusion Alembics on them once. Once the item is an Image Item it will have the tiny blue cross on the bottom left of the item icon. Without making an item into Image item it can't be used in fusion. In the same way, other gear pieces, weapons etc. can be turned into Image items and be put on top of the gear you wish to actually use. Be careful not to make the items you wants stats from into the appearance item! Custom Weapon skins Wardrobe costumes available in the game You can preview most of these costumes in the marketplace shop and also with Dressup addon. Can be sorted by alphabetical order or search with CTRL + F Icon Name Sex How to obtain Dyeable Classic Service Uniform - Marketplace No Prim Service Uniform - Marketplace No Chimera Agent Uniform - Marketplace No Lotusmist Costume - Marketplace Yes Passionate Red Ribbon Outfit - Marketplace No Rabbit's Foot Uniform - Marketplace Yes Sallium Garbs - Marketplace Yes Angelic Whisper - Marketplace No Haughty Duelist Costume - Marketplace No Classique Ball Attire - Marketplace No Dazzling Ball Attire - Marketplace No Purestar Ball Attire - Marketplace No Royal's Disguise - Marketplace No Rags of the Spoonlord - Marketplace No Golden Dawn Costume - Marketplace No Northern Legion Costume - Marketplace Yes Doctor Healgood - Marketplace Yes Noble's Whimsy Costume - Marketplace No Arasha Nomad Costume - Marketplace Yes Inoch's Battle Robes - Marketplace Yes Dragon House Uniform - Marketplace No Kraken House Uniform - Marketplace No Leviathan House Uniform - Marketplace No Wyvern House Uniform - Marketplace No Eggy-Weggy Costume - Marketplace Yes Hello Kitty Costume - Marketplace No Dark Hello Kitty Costume - Marketplace No Prince Yateo Costume - Marketplace No Princess Greeniette Costume - Marketplace No Dairy Farmer Costume - Marketplace Yes Milkmaid Costume - Marketplace No Puppy Onesie - Marketplace No Kitty Onesie - Marketplace No Wonderland Costume - Marketplace No Masquerade Robes - Marketplace Yes Denim Mecha Coveralls - Marketplace No Scarlet Mecha Coveralls - Marketplace No Chimera Ceremonial Uniform - Marketplace No Orchidna's Snakeskin Shroud - Marketplace No Captain's Leathers - Marketplace Yes Icefall Dynasty Robes - Marketplace Yes Blood Dream Dynasty Robes - Marketplace Yes Ebongleam Dynasty Robes - Marketplace Yes Pure Sky Dynasty Robes - Marketplace No Devilish Teamptation - Marketplace No Cow Is Too Sleepy - Marketplace No Dairy Farmer: Denim - Marketplace No Naval Service Uniform - Marketplace No Spotless Service Uniform - Marketplace No Leopard Purr Tattoo Bikini - Marketplace No Bubblegum Swimwear - Marketplace No Fiery Swimwear - Marketplace No Kiwi Splash Swimwear - Marketplace No Indigogo Dancer Swimwear - Marketplace No Suede Swimwear - Marketplace No Black Pearl Swimwear - Marketplace No Sun-Bleached Swimwear - Marketplace No Minty Fresh Swimwear - Marketplace No Flashy Polka Dot Swimwear - Marketplace No Sunstripe Swimwear - Marketplace No Neon Dot Swimwear - Marketplace No Breezy Floral Swimwear - Marketplace No Leopard Purr Swimwear - Marketplace No Croc Scale Swimwear - Marketplace No Zebra Splash Swimwear - Marketplace No Colordaze Swimwear - Marketplace No Summer Breeze Ensemble Male Marketplace No Naval Dots Swimwear Female Marketplace No Leopard's Roar Swimset Male Marketplace No Panther's Growl Swimset Female Marketplace No Bubblegum Swimset Female Marketplace No Tropical Swimset Female Marketplace No Lilypad Swimset Female Marketplace No Flirty Flip-Flops Female Marketplace No Island Time Flip-Flops Male Marketplace No Sassy Straw Hat Female Marketplace No Mystery Man Fedora Male Marketplace No Peppermint Bracelet - Marketplace No Spearmint Bracelet - Marketplace No Applemint Bracelet - Marketplace No Doublemint Bracelet - Marketplace No Gun-Show Tank Male Marketplace No Blue Gun-Show Tank Male Marketplace No Kiwi Splash Button Short-Sleeve Male Marketplace No Crisp Button Short-Sleeve Male Marketplace No Classic Jeans - Marketplace No Blush Jeggings - Marketplace No Chartreuse Jeggings - Marketplace No Azure Jeggings - Marketplace No Bleached Jeggings - Marketplace No Slate Jeans - Marketplace No Redtoe Sneakers - Marketplace No Bluetoe Sneakers - Marketplace No Blacktoe Sneakers - Marketplace No Black Pearl Sneakers - Marketplace No Burlap Sneakers - Marketplace No Skywalker Sneakers - Marketplace No Sunkissed Sneakers - Marketplace No Ivory Sneakers - Marketplace No Plague Doctor Costume - Marketplace No Tomb-Bound Wraps - Marketplace Yes Summer Racer's Swimwear - Marketplace No Summer Nights Swimwear - Marketplace No Inquisitor's Robes - Marketplace Yes Desert Assassin Plate - Marketplace Yes Demon's Kiss Costume - Marketplace No Garden Gatekeeper - Marketplace Yes Ceremonial Commander's Attire - Pre-Order Package Yes Eternal Wish Raiment - Marketplace No Icekissed Winter Festival Cocstume - Marketplace No Rose Costume - Marketplace Yes Oathbound Plate - Pre-Order Package No Winter's Messenger Costume - Marketplace No Kyprosa's Wnter Furs - Marketplace Yes Woolly Fluffy Coat - Marketplace Yes Alabaster Perinoor Silks - Marketplace No Crimson Perinoor Silks - Marketplace No Midnight Perinoor Silks - Marketplace No Rousing Rabbit Pyjamas - Marketplace No Onyx Night Kitsu - Marketplace No White Night Kitsu - Marketplace No Bloodmaw Eveningwear - Marketplace No Date Night Costume - Marketplace No Dark Shaman's Raiment - Marketplace Yes Homecoming Ball Attire - Login Badge No Wartime Nobility Costume - Marketplace Yes Midnight Perinoor Cottons - Marketplace No Blossom Perinoor Cottons - Marketplace No Snowbright Perinoor Cottons - Marketplace No Beach Racer's Swimwear - Marketplace No Careless Whisper Raiment - Marketplace No Final Whisper Raiment - Marketplace No Fae Yata Costume - Marketplace No Fae Yata Chroma - Marketplace Yes Arrogant Duelist Costume - Player Appreciation Coin No Winter Yata Costume - Marketplace No True Blue Yata Costume - Marketplace No Cheerberry Yata Costume - Marketplace No Blackjack Yata Pirate Costume - Marketplace No Bloody Adorable Yata Pirate Costume - Marketplace No Dark Tear Witchcraft Disciple Costume - Library Materials No Dark Tear Shadowplay Disciple Costume - Library Materials No Dark Tear Auramancy Disciple Costume - Library Materials No Victory Ball Attire - Marketplace No Lordly Iceraven Robes - Craftable, Tailoring No Wrapped Silverwolf Plate - Craftable, Metalwork No Wrapped Imperial Huntsman's Leathers - Craftable, Leatherwork No Nightraven Robes - Marketplace Yes Shadow Daru Uniform - Marketplace No Firebrand Courtier's Robes - Marketplace Yes Lavender Light - Marketplace No Dark Emissary Suit - Marketplace No Battle Fae - Merit Badge No Moon Bear Chroma - Marketplace Yes Royal Bloodraven Robes - Territory Workbench Yes Griffin Guard Uniform - Territory Workbench Yes Shock Conqueror Plate - Territory Workbench Yes Old Sovereign's Robes - Golden Token shop No Crimson Kings Hoodie - Marketplace No Blue Devils Hoodie - Marketplace No Dragon Cultist Duster - Marketplace No Dread Guard Armor - Marketplace Yes Eclipse Knight Costume - Marketplace No Evening Blossom Garb - Marketplace No Rabbit Queen Suit - Marketplace Yes Flamewolves Hoodie - Marketplace No Geared Gaslamp Garb - Marketplace No Greenman Is Too Sleepy - Marketplace No Haranyan Navy Uniform - Marketplace No Nuian Navy Uniform - Marketplace No Holiday Snow Cow Costume - Marketplace No Auroran Navy Uniform - Marketplace No Big Black Bear Is Too Sleepy - Marketplace No Black Sand Costume - Marketplace No Immortal Guardian Robes - Marketplace No Legendary Assassin Costume - Marketplace No Mischievous Kid Costume - Marketplace No Nutcracker Costume - Marketplace No Oathbreaker Plate - Marketplace No Prisoner's Pride - Marketplace No Pumpkin Charmer Costume - Marketplace Yes Rabbit Is Too Sleepy - Marketplace Yes Reckless Ravager's Plate - Marketplace No Werefox Robes - Marketplace No Owl Post Uniform - Marketplace No Poinsettia Winter Festival Costume - Marketplace No Sun Zenith Swimsuit - Marketplace Yes Tropical Boardwalk Swimwear - Marketplace Yes Streetwear Outfit - Marketplace Yes Rascal Molang Costume - Marketplace Yes Sea Krait Swimsuit - Marketplace Yes Splendid Haze - Marketplace Yes Andelph Mechanic Workwear - Marketplace No Tahyang's Battle Plate - Marketplace No Restless Dancer Costume - Marketplace No Reedwind Champion - Marketplace No Golden Phoenix Regalia - Marketplace No Yata Pumpkin Hat - Marketplace No Toil and Trouble Hat - Marketplace Boil and Bubble Hat - Marketplace No Poisoned Entrails Hat - Marketplace No Sylvas Nocturne Headgear - Marketplace No Sylvas Nocturne Top - Marketplace No Sylvas Nocturne Bottoms - Marketplace No Sylvas Nocturne Shoes - Marketplace No Winter Ball Attire - Marketplace Yes Icekissed Warrior Carb - Marketplace Yes Mysterious Riddler Costume - Marketplace Yes Nebes Helper Costume - Marketplace No Nebes Icekissed Helper Costume - Marketplace No Noble Winter Coat - Marketplace Yes Fireblack Dargonslayer - Golden Token No Firebreath Dragonslayer - Golden Token No Firewrought Dragonslayer - Golden Token No Elegant Hanbok - Marketplace No Dawnsliver Investigator Wardrobe - Marketplace Yes Jiang Shi Costume - Marketplace Yes Blue Dragon Costume - Marketplace No Ipnysh Warden Costume - Marketplace No Rowdy Shore Leave Outfit - Marketplace No Shining Shore Leave Outfit - Marketplace No Spotless Shore Leave Outfit - Marketplace No Nobles Beach Garments - Marketplace No Fae Greenman Chroma - Marketplace Yes Springsong Greenman Suit - Marketplace No Autumn Greenman Suit - Marketplace No Blooming Spring Cow Chroma - Marketplace Yes Giant Slayer Costume - Marketplace No Lutesong Ceremonial Robes - Marketplace No Sunset Springtime - Marketplace No Embalmed Greenman Costume - Marketplace No Franken-Yata Costume - Marketplace No Dragon Hunter - Marketplace Yes Winter Maidens Sarafan - Marketplace Yes Smiley Mr. Mittens Outfit - Marketplace No Black Night Costume - Marketplace No Ivory Wavewyrm Costume - Marketplace No Coral Wavewyrm Costume - Marketplace No Abyssal Wavewyrm Costume - Marketplace No Armored Wavewyrm Costume - Marketplace No Passionate Costume - Marketplace Yes Narayna Warrior Garb - Marketplace No Righteous Nui Chosen Uniform - Marketplace No Courageous Nui Chosen Uniform - Marketplace No Vigilant Nui Chosen Uniform - Marketplace No Twisted Lava Guardian - Marketplace No Twilight Guardian - Marketplace No Delphian Hat Male / Female Marketplace No Delphian Slippers Male / Female Marketplace No Delphian Frock Male / Female Marketplace No Delphian Gloves Male / Female Marketplace No Spring Blossom Garb - Marketplace No Red Hood and Tail-Cut Wolf - Marketplace Yes",
+ "html": "<p>Costume are a great way to customize the look of your character. In Archeage Classic there are wardrobe costumes that change the whole look of the character and appearance items that change only certain part of the characters appearance. These two can't be mixed together or used at the same time. Costumes are obtainable mainly through Marketplace with credits or rewards from events or achievements. Costumes can be little bit different looking depending of the played race or sex of the character. Some costumes can be dyed to customize the color of the costume.</p><figure><img src=\"https://wiki.aa-classic.com/images/thumb/6/6a/Item_fusion.png/300px-Item_fusion.png\" width=\"300\" height=\"462\" srcset=\"https://wiki.aa-classic.com/images/6/6a/Item_fusion.png 1.5x\" loading=\"lazy\"><figcaption>Costume Fusion</figcaption></figure>\n<h3 id=\"Costumes_slot\">Costumes slot</h3>\n<p>Usually players have wardrobe costumes in their costume slot. The costume slot is the top one in character profile (default keybind \"C\"). From the tiny wheel players can choose Character Display settings. From there the helmet can be hidden and Back Slot Display decided what items are shown. Some wardrobe costumes have two different looks meaning players can toggle between Original and Alternate looks. Wardrobe costumes can also be hidden so the player can only see their characters gear. \n</p>\n<h3 id=\"Image_Item\">Image Item</h3>\n<p>Image item is a term for costumes that can be put on top of another item through Item Fusion. Usually players fuse <a href=\"/wiki/stat-costumes-undergarments\">Stat Costumes</a> (bought from Guild shop) with the wardrobe costumes in order to get the stat and looks at the same time. All costumes need to be made into Image items by using Fusion Alembics on them once. Once the item is an Image Item it will have the tiny blue cross on the bottom left of the item icon. Without making an item into Image item it can't be used in fusion. \n</p><p>In the same way, other gear pieces, weapons etc. can be turned into Image items and be put on top of the gear you wish to actually use. Be careful not to make the items you wants stats from into the appearance item!\n</p><p><br>\n<a href=\"/wiki/custom-weapon-skins\">Custom Weapon skins</a>\n</p>\n<h2 id=\"Wardrobe_costumes_available_in_the_game\">Wardrobe costumes available in the game</h2>\n<p>You can preview most of these costumes in the marketplace shop and also with Dressup addon.\n</p>\n<table class=\"wikitable sortable\">\n<caption>Can be sorted by alphabetical order or search with CTRL + F\n</caption>\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th>\n<th>Sex\n</th>\n<th>How to obtain\n</th>\n<th>Dyeable\n</th></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3e/Classicservice.png\" width=\"51\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Classic Service Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a0/Primservice.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Prim Service Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6f/Chimeraagent.png\" width=\"42\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Chimera Agent Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/cc/Lotusmist.png\" width=\"43\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Lotusmist Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/ab/Passionatered.png\" width=\"42\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Passionate Red Ribbon Outfit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2d/Rabbitfoot.png\" width=\"42\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rabbit's Foot Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/70/Salliumgarbs.png\" width=\"41\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sallium Garbs\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e3/Angelicwhisper.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Angelic Whisper\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/45/Haughtyduelist.png\" width=\"50\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Haughty Duelist Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/12/Classiqueball.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Classique Ball Attire\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b3/Dazzlingball.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dazzling Ball Attire\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d4/Purestarball.png\" width=\"48\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Purestar Ball Attire\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e3/Disguise.png\" width=\"48\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Royal's Disguise\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/04/Spoonlord.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rags of the Spoonlord\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e5/Goldendawn.png\" width=\"50\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Golden Dawn Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a8/Northern.png\" width=\"49\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Northern Legion Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a4/Drhealgood.png\" width=\"47\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Doctor Healgood\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/de/Nobleswhimsy.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Noble's Whimsy Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/92/Arasha.png\" width=\"49\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Arasha Nomad Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1f/Inochsbattle.png\" width=\"47\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Inoch's Battle Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/56/Dragonhouse.png\" width=\"51\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dragon House Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/51/Krakenhouse.png\" width=\"49\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Kraken House Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/11/Leviathanhouse.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Leviathan House Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d7/Wyvernhouse.png\" width=\"47\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Wyvern House Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/ca/Eggyweggy.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Eggy-Weggy Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5f/Hellokitty.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Hello Kitty Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/46/Darkhellokitty.png\" width=\"49\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dark Hello Kitty Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e7/Princeyateo.png\" width=\"47\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Prince Yateo Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/ae/Princessgreeniette.png\" width=\"48\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Princess Greeniette Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/61/Dairyfarmer.png\" width=\"49\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dairy Farmer Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d0/Milkmaid.png\" width=\"50\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Milkmaid Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c0/Puppyonesie.png\" width=\"46\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Puppy Onesie\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/77/Kittyonesie.png\" width=\"50\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Kitty Onesie\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/82/Wonderland.png\" width=\"50\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Wonderland Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/55/Masquarade.png\" width=\"41\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Masquerade Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3e/Denimmecha.png\" width=\"52\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Denim Mecha Coveralls\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f9/Scarletmecha.png\" width=\"47\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Scarlet Mecha Coveralls\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5f/Chimeraceremonial.png\" width=\"50\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Chimera Ceremonial Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/ce/Orchidnas.png\" width=\"48\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Orchidna's Snakeskin Shroud\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7a/Captainslethaers.png\" width=\"42\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Captain's Leathers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0a/Icefall.png\" width=\"48\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Icefall Dynasty Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/73/Blooddream.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blood Dream Dynasty Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/61/Ebingleam.png\" width=\"49\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ebongleam Dynasty Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/86/Puresky.png\" width=\"48\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Pure Sky Dynasty Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d4/Devilish.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Devilish Teamptation\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b6/Cowistoosleepy.png\" width=\"49\" height=\"46\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Cow Is Too Sleepy\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/61/Dairyfarmer.png\" width=\"49\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dairy Farmer: Denim\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b6/Navalservice.png\" width=\"52\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Naval Service Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fb/Spotlessservice.png\" width=\"51\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Spotless Service Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7b/Leopardpurr.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Leopard Purr Tattoo Bikini\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/02/Bubblegum.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bubblegum Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/60/Fiery.png\" width=\"48\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fiery Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/ea/Kiwi.png\" width=\"50\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Kiwi Splash Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/73/Indigogo.png\" width=\"46\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Indigogo Dancer Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/71/Suede.png\" width=\"49\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Suede Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/71/Blackpearl.png\" width=\"49\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Black Pearl Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9c/Sunbleached.png\" width=\"49\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sun-Bleached Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d8/Mintyfresh.png\" width=\"49\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Minty Fresh Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/cf/Polkadot.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Flashy Polka Dot Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/23/Sunstripe.png\" width=\"49\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sunstripe Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c1/Neondot.png\" width=\"48\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Neon Dot Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/35/Breezy.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Breezy Floral Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b0/Leopardpurrswimwear.png\" width=\"47\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Leopard Purr Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c2/Crocscale.png\" width=\"51\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Croc Scale Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/37/Zebra.png\" width=\"51\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Zebra Splash Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/46/Colordayze.png\" width=\"51\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Colordaze Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f7/Summerbreeze.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Summer Breeze Ensemble\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/03/Navaldots.png\" width=\"49\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Naval Dots Swimwear\n</td>\n<td>Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5a/Leaopardsroar.png\" width=\"50\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Leopard's Roar Swimset\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/33/Panthersgrowl.png\" width=\"47\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Panther's Growl Swimset\n</td>\n<td>Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b5/Bubblegumwear.png\" width=\"50\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bubblegum Swimset\n</td>\n<td>Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/01/Tropical.png\" width=\"51\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Tropical Swimset\n</td>\n<td>Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d0/Lilypad.png\" width=\"51\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Lilypad Swimset\n</td>\n<td>Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/82/Flirtyflop.png\" width=\"50\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Flirty Flip-Flops\n</td>\n<td>Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/ef/Islandflop.png\" width=\"49\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Island Time Flip-Flops\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8b/Sassy.png\" width=\"49\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sassy Straw Hat\n</td>\n<td>Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5e/Fedora.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Mystery Man Fedora\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/bc/Peppermint.png\" width=\"49\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Peppermint Bracelet\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1b/Spearmint.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Spearmint Bracelet\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8f/Apllemint.png\" width=\"51\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Applemint Bracelet\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/07/Doublemint.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Doublemint Bracelet\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/ab/Gunshow.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Gun-Show Tank\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/50/Bluegunshow.png\" width=\"47\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blue Gun-Show Tank\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/76/Kiwisplash.png\" width=\"51\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Kiwi Splash Button Short-Sleeve\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5b/Crispbutton.png\" width=\"51\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Crisp Button Short-Sleeve\n</td>\n<td>Male\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/30/Classicjeans.png\" width=\"47\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Classic Jeans\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/36/Blush.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blush Jeggings\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/90/Chartreuse.png\" width=\"48\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Chartreuse Jeggings\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c0/Azure.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Azure Jeggings\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2b/Bleached.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bleached Jeggings\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/97/Slate.png\" width=\"47\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Slate Jeans\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/35/Redtoe.png\" width=\"51\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Redtoe Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f4/Bluetoe.png\" width=\"47\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bluetoe Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/39/Blacktoe.png\" width=\"50\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blacktoe Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0e/Blackpearlsneakers.png\" width=\"52\" height=\"46\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Black Pearl Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/32/Burlap.png\" width=\"51\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Burlap Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/ac/Skywalker.png\" width=\"50\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Skywalker Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b6/Sunkissed.png\" width=\"50\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sunkissed Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/55/Ivory.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ivory Sneakers\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2d/Plaguedoctor.png\" width=\"36\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Plague Doctor Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a9/Tombound.png\" width=\"39\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Tomb-Bound Wraps\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/60/Summerracer.png\" width=\"39\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Summer Racer's Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/cc/Summernights.png\" width=\"42\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Summer Nights Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c8/Inquisitor.png\" width=\"37\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Inquisitor's Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7a/Desertassassin.png\" width=\"45\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Desert Assassin Plate\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2c/Demonkiss.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Demon's Kiss Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/eb/Gatekeeper.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Garden Gatekeeper\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c7/Ceremonial.png\" width=\"41\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ceremonial Commander's Attire\n</td>\n<td>-\n</td>\n<td>Pre-Order Package\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e8/Eternalwish.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Eternal Wish Raiment\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/cd/Icekissed.png\" width=\"45\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Icekissed Winter Festival Cocstume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a7/Rosecostume.png\" width=\"41\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rose Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/43/Oathbound.png\" width=\"43\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Oathbound Plate\n</td>\n<td>-\n</td>\n<td>Pre-Order Package\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b4/Wintermessenger.png\" width=\"41\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Winter's Messenger Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0b/Winterfur.png\" width=\"43\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Kyprosa's Wnter Furs\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/bf/Woollyfluffy.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Woolly Fluffy Coat\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/79/Alabaster.png\" width=\"40\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Alabaster Perinoor Silks\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e9/Crimsonperinoor.png\" width=\"43\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Crimson Perinoor Silks\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/68/Midnightperinoor.png\" width=\"41\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Midnight Perinoor Silks\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/ea/Rousingrabbit.png\" width=\"42\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rousing Rabbit Pyjamas\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/86/Onyxkitsu.png\" width=\"52\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Onyx Night Kitsu\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/ee/Whitekitsu.png\" width=\"45\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>White Night Kitsu\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a5/Bloodmaw.png\" width=\"44\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bloodmaw Eveningwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c4/Datenight.png\" width=\"38\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Date Night Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5e/Darkdhaman.png\" width=\"44\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dark Shaman's Raiment\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/73/Ballattire.png\" width=\"43\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Homecoming Ball Attire\n</td>\n<td>-\n</td>\n<td>Login Badge\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c8/Nobility.png\" width=\"44\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Wartime Nobility Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8c/Midnightcotton.png\" width=\"43\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Midnight Perinoor Cottons\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/cd/Blossom.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blossom Perinoor Cottons\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9b/Snowbright.png\" width=\"41\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Snowbright Perinoor Cottons\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8d/Beachracer.png\" width=\"41\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Beach Racer's Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/ab/Carelesswhisper.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Careless Whisper Raiment\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/74/Finalwhisper.png\" width=\"40\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Final Whisper Raiment\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/75/Faeyata.png\" width=\"51\" height=\"53\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fae Yata Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/75/Faeyata.png\" width=\"51\" height=\"53\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fae Yata Chroma\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/83/Arrogantduelist.png\" width=\"52\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Arrogant Duelist Costume\n</td>\n<td>-\n</td>\n<td>Player Appreciation Coin\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/87/Winteryata.png\" width=\"50\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Winter Yata Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1c/Trueblueyata.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>True Blue Yata Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7d/Cheerberryyata.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Cheerberry Yata Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/57/Blackjacyata.png\" width=\"50\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blackjack Yata Pirate Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c5/Bloodyadorable.png\" width=\"51\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Bloody Adorable Yata Pirate Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a5/Withccraft.png\" width=\"48\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dark Tear Witchcraft Disciple Costume\n</td>\n<td>-\n</td>\n<td>Library Materials\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e6/Shadowwplay.png\" width=\"52\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dark Tear Shadowplay Disciple Costume\n</td>\n<td>-\n</td>\n<td>Library Materials\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fa/Auramancy.png\" width=\"50\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dark Tear Auramancy Disciple Costume\n</td>\n<td>-\n</td>\n<td>Library Materials\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/07/Victoryball.png\" width=\"51\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Victory Ball Attire\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/db/Lordlyice.png\" width=\"40\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Lordly Iceraven Robes\n</td>\n<td>-\n</td>\n<td>Craftable, Tailoring\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/27/Silverwolfplate.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Wrapped Silverwolf Plate\n</td>\n<td>-\n</td>\n<td>Craftable, Metalwork\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3d/Imperialhuntsman.png\" width=\"42\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Wrapped Imperial Huntsman's Leathers\n</td>\n<td>-\n</td>\n<td>Craftable, Leatherwork\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9e/Iceracen.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Nightraven Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1e/Daruassassin.png\" width=\"51\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shadow Daru Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/11/Firebrand.png\" width=\"52\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Firebrand Courtier's Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/07/Lavenderlight.png\" width=\"50\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Lavender Light\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3d/Darkemissary.png\" width=\"51\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dark Emissary Suit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/91/Battlefae.png\" width=\"49\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Battle Fae\n</td>\n<td>-\n</td>\n<td>Merit Badge\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8d/Moonbear.png\" width=\"51\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Moon Bear Chroma\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/08/Royalbloodraven.png\" width=\"53\" height=\"53\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Royal Bloodraven Robes\n</td>\n<td>-\n</td>\n<td>Territory Workbench\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d4/Griffinuni.png\" width=\"50\" height=\"52\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Griffin Guard Uniform\n</td>\n<td>-\n</td>\n<td>Territory Workbench\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/19/Shockplate.png\" width=\"50\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shock Conqueror Plate\n</td>\n<td>-\n</td>\n<td>Territory Workbench\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b3/Sovereignrobes.png\" width=\"50\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Old Sovereign's Robes\n</td>\n<td>-\n</td>\n<td>Golden Token shop\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9a/Crimsonkingshoodie.png\" width=\"41\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Crimson Kings Hoodie\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/40/Bluedevilshoodie.png\" width=\"42\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blue Devils Hoodie\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7e/Dragoncultist.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dragon Cultist Duster\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/21/Dreadguard.png\" width=\"43\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dread Guard Armor\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/40/Eclipseknight.png\" width=\"40\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Eclipse Knight Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/75/Eveningblossom.png\" width=\"41\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Evening Blossom Garb\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/ba/Rabbitqueen.png\" width=\"41\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rabbit Queen Suit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f3/Flamewolveshoodie.png\" width=\"41\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Flamewolves Hoodie\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/88/Gearedgaslamp.png\" width=\"40\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Geared Gaslamp Garb\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/40/Greenmanistoosleepy.png\" width=\"44\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Greenman Is Too Sleepy\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/63/Haranyannavy.png\" width=\"39\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Haranyan Navy Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/41/Nuiannavy.png\" width=\"40\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Nuian Navy Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e5/Holidaysnowcow.png\" width=\"42\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Holiday Snow Cow Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/02/Aurorananvy.png\" width=\"40\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Auroran Navy Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/06/Bigbear.png\" width=\"44\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Big Black Bear Is Too Sleepy\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0c/Blacksands.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Black Sand Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b4/Immortalguardian.png\" width=\"41\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Immortal Guardian Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/15/Legendaryassassin.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Legendary Assassin Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/cf/Mischievouskid.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Mischievous Kid Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/38/Nutcracker.png\" width=\"40\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Nutcracker Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f5/Oathbreaker.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Oathbreaker Plate\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d6/Prieonerspride.png\" width=\"42\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Prisoner's Pride\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/da/Pumpkincharmer.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Pumpkin Charmer Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/72/Bunnyistoosleepy.png\" width=\"44\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rabbit Is Too Sleepy\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/ce/Recklessravager.png\" width=\"42\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Reckless Ravager's Plate\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/58/Werefoxrobes.png\" width=\"43\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Werefox Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/66/Owlpost.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Owl Post Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/35/Poinsettiawinter.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Poinsettia Winter Festival Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5f/Sunzenith.png\" width=\"51\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sun Zenith Swimsuit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/00/Tropicaloboard.png\" width=\"48\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Tropical Boardwalk Swimwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e9/Streetwear.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Streetwear Outfit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/85/Molang.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rascal Molang Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6d/Seakrait.png\" width=\"47\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sea Krait Swimsuit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/89/Splendid.png\" width=\"49\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Splendid Haze\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/eb/Andelps.png\" width=\"49\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Andelph Mechanic Workwear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/01/Tahyangsbattleplate.png\" width=\"46\" height=\"46\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Tahyang's Battle Plate\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/22/Restless_dancerr.png\" width=\"48\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Restless Dancer Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/44/Reedwind_champion.png\" width=\"47\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Reedwind Champion\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/46/Goldenphoenixregalia.png\" width=\"47\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Golden Phoenix Regalia\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/eb/Pumpkinhat.png\" width=\"52\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Yata Pumpkin Hat\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/37/Toilntrouble.png\" width=\"52\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Toil and Trouble Hat\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/36/Boilnbubble.png\" width=\"51\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Boil and Bubble Hat\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/24/Poisonedentrails.png\" width=\"49\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Poisoned Entrails Hat\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c8/Sylvas_nocturnehead.png\" width=\"50\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sylvas Nocturne Headgear\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/26/Sylvasnocturnetop.png\" width=\"50\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sylvas Nocturne Top\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f1/Sylvasnocturnebottom.png\" width=\"49\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sylvas Nocturne Bottoms\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/10/Sylvasnocturneshoes.png\" width=\"50\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sylvas Nocturne Shoes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/82/Winterballattire.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Winter Ball Attire\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/18/Icekissedwarriorcarb.png\" width=\"49\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Icekissed Warrior Carb\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/73/Mysteriousriddler.png\" width=\"46\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Mysterious Riddler Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8b/Nebeshelper.png\" width=\"47\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Nebes Helper Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8c/Nebesicekissed.png\" width=\"52\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Nebes Icekissed Helper Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f3/Nodlewinter.png\" width=\"48\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Noble Winter Coat\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b0/Fireblack_dragonslayer.png\" width=\"48\" height=\"51\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fireblack Dargonslayer\n</td>\n<td>-\n</td>\n<td>Golden Token\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/98/Firebreath_dragonslayer.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Firebreath Dragonslayer\n</td>\n<td>-\n</td>\n<td>Golden Token\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0a/Firewrought_dragonslayer.png\" width=\"48\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Firewrought Dragonslayer\n</td>\n<td>-\n</td>\n<td>Golden Token\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2b/Eleganthanbok.png\" width=\"52\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Elegant Hanbok\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/66/Dawnsliver.png\" width=\"51\" height=\"49\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dawnsliver Investigator Wardrobe\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/59/Jiangshi.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Jiang Shi Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/35/Bluedragon.png\" width=\"48\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blue Dragon Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/83/Ipnysh.png\" width=\"50\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ipnysh Warden Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d3/Rowdyshoreleave.png\" width=\"42\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rowdy Shore Leave Outfit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/24/Shiningshoreleave.png\" width=\"42\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shining Shore Leave Outfit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/55/Spotlessshoreleave.png\" width=\"42\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Spotless Shore Leave Outfit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/4a/Noblesbeachgarment.png\" width=\"43\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Nobles Beach Garments\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/db/Faegreenman.png\" width=\"43\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fae Greenman Chroma\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/21/Springsonggreensman.png\" width=\"42\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Springsong Greenman Suit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9e/Autumngreenman.png\" width=\"44\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Autumn Greenman Suit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/61/Bloomingspringcow.png\" width=\"42\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Blooming Spring Cow Chroma\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a4/Giantslayer.png\" width=\"42\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Giant Slayer Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1a/Lutesongceremonial.png\" width=\"44\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Lutesong Ceremonial Robes\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5f/Sunsetspringtime.png\" width=\"42\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Sunset Springtime\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/de/Embalmed.png\" width=\"42\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Embalmed Greenman Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/d1/Frankenyata.png\" width=\"40\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Franken-Yata Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3d/Dragonhunter.png\" width=\"42\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dragon Hunter\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3e/Wintermaidenssarafan.png\" width=\"44\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Winter Maidens Sarafan\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/58/Smileymrmittens.png\" width=\"42\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Smiley Mr. Mittens Outfit\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6a/Blacknight.png\" width=\"45\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Black Night Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/ea/Ivorywavewyrm.png\" width=\"45\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ivory Wavewyrm Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/7e/Coralwavewyrm.png\" width=\"44\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Coral Wavewyrm Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8a/Abyssalwavewyrm.png\" width=\"45\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Abyssal Wavewyrm Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8b/Armoredwavewyrm.png\" width=\"44\" height=\"46\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Armored Wavewyrm Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/83/Passionatecostume.png\" width=\"44\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Passionate Costume\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/0a/Naraynawarriorcarb.png\" width=\"43\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Narayna Warrior Garb\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/ba/Righteousnui.png\" width=\"46\" height=\"46\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Righteous Nui Chosen Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/12/Courageousnui.png\" width=\"41\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Courageous Nui Chosen Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8d/Vigilantnui.png\" width=\"45\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Vigilant Nui Chosen Uniform\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/4f/Twistedguardian.png\" width=\"44\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Twisted Lava Guardian\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6e/Twilightguardian.png\" width=\"42\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Twilight Guardian\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/87/Delphianhat.png\" width=\"43\" height=\"41\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Delphian Hat\n</td>\n<td>Male / Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/87/Delphianslippers.png\" width=\"43\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Delphian Slippers\n</td>\n<td>Male / Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/14/Delphianfrock.png\" width=\"45\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Delphian Frock\n</td>\n<td>Male / Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/dd/Delphiangloves.png\" width=\"45\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Delphian Gloves\n</td>\n<td>Male / Female\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f8/Springblossomgarb.png\" width=\"45\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Spring Blossom Garb\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>No\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/db/Redhood.png\" width=\"43\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Red Hood and Tail-Cut Wolf\n</td>\n<td>-\n</td>\n<td>Marketplace\n</td>\n<td>Yes\n</td></tr></tbody></table>"
+}

@@ -1,0 +1,170 @@
+{
+ "slug": "songcraft",
+ "title": "Songcraft",
+ "pageid": 3,
+ "revid": 198,
+ "updated": "2024-03-15T22:10:56Z",
+ "source": "https://wiki.aa-classic.com/Songcraft",
+ "headings": [
+  {
+   "level": 2,
+   "id": "List_of_skills",
+   "text": "List of skills"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "List of skills",
+   "caption": "Active skills",
+   "headers": [
+    "Level",
+    "Icon",
+    "Skill",
+    "Description",
+    "Combos"
+   ],
+   "rows": [
+    [
+     "1",
+     "",
+     "Critical Discord",
+     "Deal Magic Damage. Increases Critical Hit Rate and Critical Healing +2% for 3 seconds.",
+     "Consumes Charm effect on target to inflict Fear."
+    ],
+    [
+     "3",
+     "",
+     "Startling Strain",
+     "Stuns an enemy for 2sec with special performance. After the Stun ends, the enemy is Charmed and susceptible to other Songcraft skill effects. Reduces caster's Cast Time -20% for 5 seconds. Does not stop a performance skill.",
+     "Increases the duration of Charmed +50% on targets with Dissonance."
+    ],
+    [
+     "10",
+     "",
+     "[Perform] Quickstep",
+     "Plays lighthearted song for 30sec. Increases Move Speed +28-42% of allies withing 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.",
+     "Charmed targets are Slowed."
+    ],
+    [
+     "15",
+     "",
+     "Dissonance",
+     "Plays clashing sounds to weaken and slow all enemies in a 5m radius. Reduces Skill Damage -20% Reduces Attack Speed -250 Increases Cast Time +20% Reduces Magic Defense -320 Deals Magic Damage after 6 seconds Does not stop Perform skills",
+     ""
+    ],
+    [
+     "20",
+     "",
+     "Healing Hymn",
+     "Plays healing song that instantly restores Health to an ally. The effect can travel to another 2 allies within 10m as long as they are not pets. Can continue to be transferred up to 3 times. Does not stop Perform skills.",
+     ""
+    ],
+    [
+     "25",
+     "",
+     "Hummingbird Ditty",
+     "Reduces Cast Time -9%. Applies to caster and nearby raid members for 30 minutes.",
+     ""
+    ],
+    [
+     "30",
+     "",
+     "[Perform] Ode to Recovery",
+     "Plays healing song for you and your allies for 30sec. Restores health and increases Healing Power for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -20% during performance.",
+     "Inflicts magic damage per second on Charmed targets. Dissonance: Decreases an enemy's healing -10%."
+    ],
+    [
+     "35",
+     "",
+     "Rhytmic Renewal",
+     "Summons a healing spring that restores health to caster and all nearby allied every second for 60 seconds.",
+     ""
+    ],
+    [
+     "40",
+     "",
+     "[Perform] Bulwark Ballad",
+     "Plays a song of the earth for 30sec. Increases Physical/Magic Defense for all allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.",
+     "Decreases Physical/Magic Defense -50% on Charmed targets."
+    ],
+    [
+     "45",
+     "",
+     "[Perform] Bloody Chantey",
+     "Plays a lively song for you and your allies for 20sec. Increases damage dealt. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.",
+     "Decreases all skill damage -20% on Charmed targets. Dissonance: Decreases all accuracy -10%."
+    ],
+    [
+     "50",
+     "",
+     "Alarm Call",
+     "Lifts Stun and Sleep debuffs and grants immunity to allies within a 9m range every second for 15sec. Canceled by using other skill. Can be used while Stunned.",
+     ""
+    ],
+    [
+     "55",
+     "",
+     "[Perform] Grief's Cadence",
+     "Plays a song of penitence for you and your allies for 30sec. Decreases debuff effects -30% for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.",
+     "Increases debuff effects on Charmed targets +30%. Dissonance: Decrease an enemy's Block and Evasion -10%."
+    ]
+   ]
+  },
+  {
+   "heading": "List of skills",
+   "caption": "Passive skills",
+   "headers": [
+    "Required points",
+    "Icon",
+    "Skill",
+    "Description"
+   ],
+   "rows": [
+    [
+     "2",
+     "",
+     "Syncopation",
+     "Decreases the cast delay and the chance of interruption when hit -50%."
+    ],
+    [
+     "4",
+     "",
+     "Hold the Note",
+     "Increases the performance time of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence +15 seconds."
+    ],
+    [
+     "6",
+     "",
+     "Uptempo",
+     "Decreases Cast Time for all skills -5%."
+    ],
+    [
+     "7",
+     "",
+     "Disciplined Performance",
+     "Decreases Received Magic Damage -30% for 3 seconds when Magic Critical Damage is received. This ability has a 20sec cooldown once triggered. Performance skills also grant the Rhytm buff every 3 seconds. Rhytm: Increases Healing Power and Magic Attack +7 per stack. Decreases Songcraft Cooldowns -0.4 seconds per stack. Lasts 9 seconds. Stacks up to 15 times. Resets cooldown of Startling Strain whenever a target you have Charmed is killed."
+    ],
+    [
+     "8",
+     "",
+     "Loudspeaker",
+     "Increases the range of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence to 22m."
+    ],
+    [
+     "9",
+     "",
+     "Allegretto",
+     "Decreases Stun and Silence duration -10%."
+    ],
+    [
+     "10",
+     "",
+     "Zeal",
+     "Every successful Critical Damage/Critical Healing effect increases all Critical Rates (including Healing) +5% and all Critical Damage/Healing +75% for 6 seconds. This ability has a 12sec cooldown once triggered."
+    ]
+   ]
+  }
+ ],
+ "text": "// derp List of skills Active skills Level Icon Skill Description Combos 1 Critical Discord Deal Magic Damage. Increases Critical Hit Rate and Critical Healing +2% for 3 seconds. Consumes Charm effect on target to inflict Fear. 3 Startling Strain Stuns an enemy for 2sec with special performance. After the Stun ends, the enemy is Charmed and susceptible to other Songcraft skill effects. Reduces caster's Cast Time -20% for 5 seconds. Does not stop a performance skill. Increases the duration of Charmed +50% on targets with Dissonance. 10 [Perform] Quickstep Plays lighthearted song for 30sec. Increases Move Speed +28-42% of allies withing 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. Charmed targets are Slowed. 15 Dissonance Plays clashing sounds to weaken and slow all enemies in a 5m radius. Reduces Skill Damage -20% Reduces Attack Speed -250 Increases Cast Time +20% Reduces Magic Defense -320 Deals Magic Damage after 6 seconds Does not stop Perform skills 20 Healing Hymn Plays healing song that instantly restores Health to an ally. The effect can travel to another 2 allies within 10m as long as they are not pets. Can continue to be transferred up to 3 times. Does not stop Perform skills. 25 Hummingbird Ditty Reduces Cast Time -9%. Applies to caster and nearby raid members for 30 minutes. 30 [Perform] Ode to Recovery Plays healing song for you and your allies for 30sec. Restores health and increases Healing Power for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -20% during performance. Inflicts magic damage per second on Charmed targets. Dissonance: Decreases an enemy's healing -10%. 35 Rhytmic Renewal Summons a healing spring that restores health to caster and all nearby allied every second for 60 seconds. 40 [Perform] Bulwark Ballad Plays a song of the earth for 30sec. Increases Physical/Magic Defense for all allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. Decreases Physical/Magic Defense -50% on Charmed targets. 45 [Perform] Bloody Chantey Plays a lively song for you and your allies for 20sec. Increases damage dealt. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. Decreases all skill damage -20% on Charmed targets. Dissonance: Decreases all accuracy -10%. 50 Alarm Call Lifts Stun and Sleep debuffs and grants immunity to allies within a 9m range every second for 15sec. Canceled by using other skill. Can be used while Stunned. 55 [Perform] Grief's Cadence Plays a song of penitence for you and your allies for 30sec. Decreases debuff effects -30% for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. Increases debuff effects on Charmed targets +30%. Dissonance: Decrease an enemy's Block and Evasion -10%. Passive skills Required points Icon Skill Description 2 Syncopation Decreases the cast delay and the chance of interruption when hit -50%. 4 Hold the Note Increases the performance time of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence +15 seconds. 6 Uptempo Decreases Cast Time for all skills -5%. 7 Disciplined Performance Decreases Received Magic Damage -30% for 3 seconds when Magic Critical Damage is received. This ability has a 20sec cooldown once triggered. Performance skills also grant the Rhytm buff every 3 seconds. Rhytm: Increases Healing Power and Magic Attack +7 per stack. Decreases Songcraft Cooldowns -0.4 seconds per stack. Lasts 9 seconds. Stacks up to 15 times. Resets cooldown of Startling Strain whenever a target you have Charmed is killed. 8 Loudspeaker Increases the range of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence to 22m. 9 Allegretto Decreases Stun and Silence duration -10%. 10 Zeal Every successful Critical Damage/Critical Healing effect increases all Critical Rates (including Healing) +5% and all Critical Damage/Healing +75% for 6 seconds. This ability has a 12sec cooldown once triggered.",
+ "html": "<p>// derp\n</p>\n<h2 id=\"List_of_skills\">List of skills</h2>\n<table class=\"wikitable\">\n<caption>Active skills\n</caption>\n<tbody><tr>\n<th>Level\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th>\n<th>Combos\n</th></tr>\n<tr>\n<td>1\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/66/Critical_Discord.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Critical Discord\n</td>\n<td>Deal Magic Damage. Increases Critical Hit Rate and Critical Healing +2% for 3 seconds.\n</td>\n<td>Consumes Charm effect on target to inflict <a href=\"/wiki/status-effects\">Fear</a>.\n</td></tr>\n<tr>\n<td>3\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/38/Startling_Strain.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Startling Strain\n</td>\n<td><a href=\"/wiki/status-effects\">Stuns</a> an enemy for 2sec with special performance. After the <a href=\"/wiki/status-effects\">Stun</a> ends, the enemy is <a href=\"/wiki/status-effects\">Charmed</a> and susceptible to other Songcraft skill effects. Reduces caster's Cast Time -20% for 5 seconds. Does not stop a performance skill.\n</td>\n<td>Increases the duration of <a href=\"/wiki/status-effects\">Charmed</a> +50% on targets with Dissonance.\n</td></tr>\n<tr>\n<td>10\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/91/Perform_Quickstep.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>[Perform] Quickstep\n</td>\n<td>Plays lighthearted song for 30sec. Increases Move Speed +28-42% of allies withing 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.\n</td>\n<td>Charmed targets are <a href=\"/wiki/status-effects\">Slowed</a>.\n</td></tr>\n<tr>\n<td>15\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/76/Dissonance.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Dissonance\n</td>\n<td>Plays clashing sounds to weaken and slow all enemies in a 5m radius.\n<ul><li>Reduces Skill Damage -20%</li>\n<li>Reduces Attack Speed -250</li>\n<li>Increases Cast Time +20%</li>\n<li>Reduces Magic Defense -320</li>\n<li>Deals Magic Damage after 6 seconds</li>\n<li>Does not stop Perform skills</li></ul>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>20\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/d/db/Healing_Hymn.png\" width=\"40\" height=\"40\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Healing Hymn\n</td>\n<td>Plays healing song that instantly restores Health to an ally. The effect can travel to another 2 allies within 10m as long as they are not pets. Can continue to be transferred up to 3 times.\n<p>Does not stop Perform skills.\n</p>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>25\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6f/Hummingbird_Ditty.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Hummingbird Ditty\n</td>\n<td>Reduces Cast Time -9%. Applies to caster and nearby raid members for 30 minutes.\n</td>\n<td>\n</td></tr>\n<tr>\n<td>30\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/80/Perform_Ode_to_Recovery.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>[Perform] Ode to Recovery\n</td>\n<td>Plays healing song for you and your allies for 30sec. Restores health and increases Healing Power for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -20% during performance.\n</td>\n<td>Inflicts magic damage per second on <a href=\"/wiki/status-effects\">Charmed</a> targets.\n<p>Dissonance: Decreases an enemy's healing -10%.\n</p>\n</td></tr>\n<tr>\n<td>35\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/89/Rhythmic_Renewal.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Rhytmic Renewal\n</td>\n<td>Summons a healing spring that restores health to caster and all nearby allied every second for 60 seconds.\n</td>\n<td>\n</td></tr>\n<tr>\n<td>40\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/76/Perform_Bulwark_Ballad.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>[Perform] Bulwark Ballad\n</td>\n<td>Plays a song of the earth for 30sec. Increases Physical/Magic Defense for all allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.\n</td>\n<td>Decreases Physical/Magic Defense -50% on Charmed targets.\n</td></tr>\n<tr>\n<td>45\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5a/Perform_Bloody_Chanty.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>[Perform] Bloody Chantey\n</td>\n<td>Plays a lively song for you and your allies for 20sec. Increases damage dealt. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.\n</td>\n<td>Decreases all skill damage -20% on Charmed targets.\n<p>Dissonance: Decreases all accuracy -10%.\n</p>\n</td></tr>\n<tr>\n<td>50\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8b/Alarm_Call.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Alarm Call\n</td>\n<td>Lifts Stun and Sleep debuffs and grants immunity to allies within a 9m range every second for 15sec. Canceled by using other skill.\n<p>Can be used while Stunned. \n</p>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>55\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5c/Griefcadence.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>[Perform] Grief's Cadence\n</td>\n<td>Plays a song of penitence for you and your allies for 30sec. Decreases debuff effects -30% for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance.\n</td>\n<td>Increases debuff effects on Charmed targets +30%.\n<p>Dissonance: Decrease an enemy's Block and Evasion -10%.\n</p>\n</td></tr></tbody></table>\n<table class=\"wikitable\">\n<caption>Passive skills\n</caption>\n<tbody><tr>\n<th>Required points\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th></tr>\n<tr>\n<td>2\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/5a/Syncopation.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Syncopation\n</td>\n<td>Decreases the cast delay and the chance of interruption when hit -50%.\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2b/Hold_the_Note.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Hold the Note\n</td>\n<td>Increases the performance time of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence +15 seconds.\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/6/6d/Uptempo.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Uptempo\n</td>\n<td>Decreases Cast Time for all skills -5%.\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/7/70/Disc_performance.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Disciplined Performance\n</td>\n<td>Decreases Received Magic Damage -30% for 3 seconds when Magic Critical Damage is received. This ability has a 20sec cooldown once triggered. Performance skills also grant the Rhytm buff every 3 seconds.\n<p>Rhytm:\n</p>\n<ul><li>Increases Healing Power and Magic Attack +7 per stack.</li>\n<li>Decreases Songcraft Cooldowns -0.4 seconds per stack.</li>\n<li>Lasts 9 seconds.</li>\n<li>Stacks up to 15 times.</li>\n<li>Resets cooldown of Startling Strain whenever a target you have Charmed is killed.</li></ul>\n</td></tr>\n<tr>\n<td>8\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f7/Loudspeaker.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Loudspeaker\n</td>\n<td>Increases the range of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence to 22m.\n</td></tr>\n<tr>\n<td>9\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/38/Allegretto.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Allegretto\n</td>\n<td>Decreases Stun and Silence duration -10%.\n</td></tr>\n<tr>\n<td>10\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b8/Zeal.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Zeal\n</td>\n<td>Every successful Critical Damage/Critical Healing effect increases all Critical Rates (including Healing) +5% and all Critical Damage/Healing +75% for 6 seconds. This ability has a 12sec cooldown once triggered.\n</td></tr></tbody></table>"
+}
