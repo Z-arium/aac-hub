@@ -91,11 +91,18 @@ function Row({ task, done, onToggle, editing, pinned, hidden, onPin, onHide }: R
           </button>
         </span>
       ) : (
-        task.wiki && (
-          <Link href={`/wiki/${task.wiki}`} className="shrink-0 text-xs text-accent-2 hover:underline">
-            wiki
-          </Link>
-        )
+        <span className="flex shrink-0 gap-1 text-xs">
+          {task.guide && (
+            <Link href={`/guides/${task.guide}`} className="rounded border border-line px-2 py-0.5 text-accent hover:bg-panel-2">
+              Guide
+            </Link>
+          )}
+          {task.wiki && (
+            <Link href={`/wiki/${task.wiki}`} className="rounded border border-line px-2 py-0.5 text-accent-2 hover:bg-panel-2">
+              Wiki
+            </Link>
+          )}
+        </span>
       )}
     </li>
   );
