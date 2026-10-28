@@ -35,10 +35,10 @@ async function api(params, attempt = 1) {
     if (res.status === 429 || res.status >= 500) throw new Error(`HTTP ${res.status}`);
     if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
     const json = await res.json();
-    if (json.error) throw new Error(`${json.error.code}: ${json.error.info}`);
+    if (json.error) throw Object.assign(new Error(`${json.error.code}: ${json.error.info}`), { fatal: true });
     return json;
   } catch (err) {
-    if (attempt >= 5) throw err;
+    if (err.fatal || attempt >= 5) throw err;
     const wait = 2000 * 2 ** attempt;
     console.warn(`  retry ${attempt} in ${wait}ms (${err.message})`);
     await sleep(wait);
@@ -205,10 +205,15 @@ async function main() {
     .sort((a, b) => a.title.localeCompare(b.title));
 
   console.log("Listing redirects…");
-  const redirectList = await queryAll(
-    { generator: "allpages", gapnamespace: "0", gapfilterredir: "redirects", gaplimit: "max", redirects: "1" },
-    (j) => j.query?.redirects ?? [],
+  const redirectTitles = await queryAll(
+    { list: "allpages", apnamespace: "0", apfilterredir: "redirects", aplimit: "max" },
+    (j) => (j.query?.allpages ?? []).map((p) => p.title),
   );
+  const redirectList = [];
+  for (let i = 0; i < redirectTitles.length; i += 50) {
+    const json = await api({ action: "query", titles: redirectTitles.slice(i, i + 50).join("|"), redirects: "1" });
+    redirectList.push(...(json.query?.redirects ?? []));
+  }
 
   // Titles that differ only in case (e.g. "Castle Warehouse" / "Castle
   // warehouse") would collide on one slug: keep the newer edit.
