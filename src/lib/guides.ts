@@ -50,8 +50,20 @@ export function getGuide(slug: string): Guide | undefined {
   return getGuides().find((g) => g.slug === slug);
 }
 
+/** Anchor id for a heading, so pages can link straight to a section. */
+export function headingId(text: string) {
+  return text
+    .replace(/<[^>]+>/g, "")
+    .replace(/&[a-z0-9#]+;/gi, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
 export function renderMarkdown(md: string): string {
-  const html = marked.parse(md, { async: false });
+  const html = marked
+    .parse(md, { async: false })
+    .replace(/<h([23])>(.*?)<\/h\1>/g, (_, level, inner) => `<h${level} id="${headingId(inner)}">${inner}</h${level}>`);
   // Site-relative links in markdown are raw anchors, so add the deploy base path
   // (e.g. /aac-hub on GitHub Pages) that next/link would otherwise add.
   const base = process.env.NEXT_PUBLIC_BASE_PATH ?? "";

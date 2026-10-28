@@ -19,14 +19,18 @@ ArcheAge Classic pays **Activity Tokens** for a set of weekly quests. Doing all 
 | Saturday | Ayanad Library (2 quests) | 10 each |
 | Sunday | The Crimson Threat (Anthalon) | 33 |
 
-## Friday: The Crystalline Bloodbath (30 tokens)
+## The Crystalline Bloodbath
+
+**Friday, 30 tokens.**
 
 1. On **Friday**, take **The Crystalline Bloodbath** from the **Shadow Daru**.
 2. Go to the **Crystalline Fields** in **Diamond Shores**. Factions fight there over the Ascension Crystal extraction.
 3. Kill **50 enemy players** there. Pirates need fewer. Group up, because the event draws a crowd.
 4. Turn it in to the Shadow Daru for 30 tokens. It also gives 20 Leadership.
 
-## Saturday: Preparing for the Fish Market (20 tokens)
+## Preparing for the Fish Market
+
+**Saturday, 20 tokens.**
 
 1. On **Saturday**, take **Preparing for the Fish Market** from the **Shadow Daru**.
 2. Catch **10 fish** anywhere. See the [fishing guide](/guides/fishing).
@@ -35,20 +39,25 @@ ArcheAge Classic pays **Activity Tokens** for a set of weekly quests. Doing all 
 
 **Tip:** do it in a party or raid. Every fish anyone sells to a vendor counts for the whole group. Fish made into decor don't count. Many players do it during the Saturday Mirage Isle Fishing Contest.
 
-## Saturday: Have You Ever Seen A Ghost? (33 tokens)
+## Have You Ever Seen A Ghost?
+
+**Saturday, 33 tokens.**
 
 1. On **Saturday**, take it from the **Shadow Daru**.
-2. Join a ship raid for the **Delphinad Ghost Ship** in the Arcadian Sea. It spawns daily; see [timers](/timers).
-3. Help sink it.
-4. Hand it in for 33 tokens. The same kill also counts for the daily Ghost Ships of Delphinad quest (3 Gilda Stars).
+2. Help sink the **Delphinad Ghost Ship**. The full steps are in the [Gilda Stars guide](/guides/gilda-stars#delphinad-ghost-ship).
+3. Hand it in for 33 tokens. The same kill also counts for the daily Ghost Ships of Delphinad quest (3 Gilda Stars).
 
-## Saturday: Ayanad Library (2 × 10 tokens)
+## Ayanad Library
+
+**Saturday, 2 quests at 10 tokens each.**
 
 1. On **Saturday**, take both Library quests from the **Shadow Daru**.
-2. Go to the **Ayanad Library** in Diamond Shores and kill the library bosses the quests ask for. Your daily floor quests can be done on the same run.
+2. Go to the **Ayanad Library** in Diamond Shores and kill the library bosses the quests ask for. Do your [daily floor quests](/guides/ayanad-library-dailies) on the same run.
 3. Hand in both for 10 tokens each.
 
-## Sunday: The Crimson Threat (33 tokens)
+## The Crimson Threat
+
+**Sunday, 33 tokens.**
 
 **First you need custom story Chapter 99.** In it you kill the Hounds of Kyrios (quest 99.1) and then Anthalon.
 
@@ -57,7 +66,9 @@ ArcheAge Classic pays **Activity Tokens** for a set of weekly quests. Doing all 
 3. Help kill **Anthalon**.
 4. Hand it in for 33 tokens.
 
-## Daily: Active Adventurers Appreciated (5 tokens)
+## Active Adventurers Appreciated
+
+**Daily, 5 tokens.**
 
 1. Unlock it by finishing story quest **99.1** (Hounds of Kyrios).
 2. Open your **daily merit quests** and take **Active Adventurers Appreciated**.
