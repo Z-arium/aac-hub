@@ -42,6 +42,7 @@ Accounts and the market need a server and a database, and GitHub Pages only serv
 - **(must-have)** "My hub" dashboard: pinned tools, favourite guides and wiki pages, tracked timers, saved builds
 - Account settings: delete account and export my data
 - Privacy policy and terms page (needed once we store accounts)
+- Email sending for sign-in links: Supabase's built-in mailer only sends to the project's own team and a few emails an hour, so before launch we connect an email service (for example Resend, free tier) for public sign-ups
 
 ## Phase 3: Guides
 
@@ -88,6 +89,7 @@ ArcheAge Classic has no public auction house API, so unlike garmoth's market the
 - Re-run the wiki import and spot-check boss and event times against the official timers page
 - Full pass for broken links, mobile layout and page load speed
 - Move Supabase to a plan that does not pause, if traffic needs it
+- Connect an email service for sign-in links (see phase 2)
 
 ## 1.0 launch
 

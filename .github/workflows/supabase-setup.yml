@@ -1,0 +1,33 @@
+name: Supabase setup
+
+# Creates the database tables and applies the sign-in settings. Runs when a
+# migration or this setup changes on main, and from the Actions tab.
+on:
+  push:
+    branches: [main]
+    paths: [supabase/**, scripts/supabase/**, .github/workflows/supabase-setup.yml]
+  workflow_dispatch:
+
+concurrency:
+  group: supabase-setup
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check for the access token
+        id: token
+        run: echo "present=${{ secrets.SUPABASE_ACCESS_TOKEN != '' }}" >> "$GITHUB_OUTPUT"
+      - if: steps.token.outputs.present != 'true'
+        run: echo "::warning::Add the SUPABASE_ACCESS_TOKEN repository secret to set up Supabase."
+      - if: steps.token.outputs.present == 'true'
+        run: node scripts/supabase/setup.mjs
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+          SUPABASE_PROJECT_REF: dtbkmcesdiwueqhpsyzh
+          DISCORD_CLIENT_ID: ${{ secrets.DISCORD_CLIENT_ID }}
+          DISCORD_CLIENT_SECRET: ${{ secrets.DISCORD_CLIENT_SECRET }}
