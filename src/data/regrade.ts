@@ -30,12 +30,19 @@ export const RATES: Record<Difficulty, number[]> = {
   shipPet: [100, 60, 60, 60, 60, 50, 50, 40, 35, 17.5],
 };
 
-/** Resplendent scroll: success jumps two grades, from GRADES[i] to GRADES[i + 2]. */
+/**
+ * Resplendent scroll: same success chance as a normal scroll, plus a 20% chance on
+ * success to go up one extra grade. These are the wiki's two-grade-jump odds
+ * (normal rate x 20%), from GRADES[i] to GRADES[i + 2]. No Ship/Pet table.
+ */
 export const RESPLENDENT_RATES: Record<Exclude<Difficulty, "shipPet">, number[]> = {
   easy: [20, 20, 20, 13.5, 13.5, 9.46, 8.1, 2.7, 2.16],
   normal: [20, 20, 20, 10, 10, 7, 6, 2, 1.6],
   difficult: [20, 20, 20, 6.5, 6.5, 4.56, 3.9, 1.3, 1.04],
 };
+
+/** Chance (%) that a successful Resplendent regrade goes up one extra grade. */
+export const RESPLENDENT_BONUS = 20;
 
 /** Index of Celestial: failing from this grade or above can break or downgrade. */
 export const RISK_FROM = GRADES.indexOf("Celestial");
