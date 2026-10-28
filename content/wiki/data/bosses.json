@@ -1,0 +1,153 @@
+{
+ "source": "https://wiki.aa-classic.com/World_Bosses",
+ "revid": 3273,
+ "bosses": [
+  {
+   "name": "Kraken",
+   "level": 50,
+   "location": "West of Arcadian Sea",
+   "tier": "Major",
+   "description": "A giant squid. As an ocean boss, it only receives damage from ships."
+  },
+  {
+   "name": "Red Dragon",
+   "level": 50,
+   "location": "Karkasse Ridgelands",
+   "tier": "Major",
+   "description": "With multiple flying and ground phases, it requires a lot of preparation."
+  },
+  {
+   "name": "Leviathan",
+   "level": 55,
+   "location": "East of Arcadian Sea",
+   "tier": "Major",
+   "description": "A boss that must be followed in the ocean and is a difficult naval battle"
+  },
+  {
+   "name": "Hanure the Berserker",
+   "level": 55,
+   "location": "Hasla",
+   "tier": "Major",
+   "description": "Classic-made Boss dropping a new set of weapons. Improved version of Hanure the Hunter"
+  },
+  {
+   "name": "Thunderwing Titan",
+   "level": 55,
+   "location": "Reedwind",
+   "tier": "Major",
+   "description": "Colossal Titan, which can be summoned in Reedwind."
+  },
+  {
+   "name": "Anthalon",
+   "level": 50,
+   "location": "Sungold Fields",
+   "tier": "Major",
+   "description": "Spawns after Sungold CR. Mechanically simple, it's loot is very good on mage tanks."
+  },
+  {
+   "name": "Delphinad Ghost Ship",
+   "level": 50,
+   "location": "Arcadian Sea, multiple",
+   "tier": "Major",
+   "description": "A giant Ghostship, that provides a challange every day for ships."
+  },
+  {
+   "name": "Hanure the Hunter",
+   "level": 55,
+   "location": "Hasla",
+   "tier": "Normal",
+   "description": ""
+  },
+  {
+   "name": "Meina & Glenn",
+   "level": 50,
+   "location": "Sungold Fields",
+   "tier": "Normal",
+   "description": ""
+  },
+  {
+   "name": "Captain Rangora",
+   "level": 50,
+   "location": "Freedich Island",
+   "tier": "Normal",
+   "description": ""
+  },
+  {
+   "name": "Dahuta's Champion Nazar",
+   "level": 50,
+   "location": "Sunspeck Sea",
+   "tier": "Normal",
+   "description": ""
+  },
+  {
+   "name": "Morpheus the Forsaken",
+   "level": 50,
+   "location": "Growlgate Isle",
+   "tier": "Normal",
+   "description": ""
+  },
+  {
+   "name": "Zaldrane the Enchantress",
+   "level": 50,
+   "location": "Hellswamp",
+   "tier": "Normal",
+   "description": ""
+  },
+  {
+   "name": "Hounds of Kyrios",
+   "level": 50,
+   "location": "Cinderstone Moor, Ynystere",
+   "tier": "Normal",
+   "description": ""
+  },
+  {
+   "name": "Croakfiend",
+   "level": 40,
+   "location": "Hellswamp",
+   "tier": "Minor",
+   "description": ""
+  },
+  {
+   "name": "Daruda the Watcher",
+   "level": 55,
+   "location": "Cinderstone",
+   "tier": "Minor",
+   "description": ""
+  },
+  {
+   "name": "Goretusk the Leveler",
+   "level": 55,
+   "location": "Windscour Savannah",
+   "tier": "Minor",
+   "description": ""
+  },
+  {
+   "name": "Farkrag the Wanderer",
+   "level": 30,
+   "location": "Gweonid Forest, Falcorth Plains",
+   "tier": "Minor",
+   "description": ""
+  },
+  {
+   "name": "Tarian the Grim",
+   "level": 30,
+   "location": "Dewstone Plains",
+   "tier": "Minor",
+   "description": ""
+  },
+  {
+   "name": "Windlord",
+   "level": 30,
+   "location": "Arcum Iris, Lilyut",
+   "tier": "Minor",
+   "description": ""
+  },
+  {
+   "name": "Flamelord",
+   "level": 30,
+   "location": "Solis Headlands",
+   "tier": "Minor",
+   "description": ""
+  }
+ ]
+}

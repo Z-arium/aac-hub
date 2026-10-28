@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "wiki:import": "node scripts/wiki-import/import.mjs"
+    "wiki:import": "node scripts/wiki-import/import.mjs",
+    "wiki:extract": "node scripts/wiki-import/extract.mjs",
+    "wiki:check": "node --experimental-strip-types --no-warnings scripts/wiki-import/check-data.mjs"
   },
   "dependencies": {
     "marked": "^15.0.12",

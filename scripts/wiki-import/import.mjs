@@ -14,6 +14,7 @@ import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { parse } from "node-html-parser";
 import { categorize, isJunk } from "./categories.mjs";
+import { extract } from "./extract.mjs";
 
 const WIKI = "https://wiki.aa-classic.com";
 const API = `${WIKI}/api.php`;
@@ -23,7 +24,9 @@ const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), "../.
 const OUT = path.join(ROOT, "content", "wiki");
 const PAGES_DIR = path.join(OUT, "pages");
 const SEARCH_FILE = path.join(ROOT, "public", "wiki-search.json");
-const FORCE = process.argv.includes("--force");
+// Bump when the cleaning changes, so the next run re-downloads every page.
+const VERSION = 2;
+let FORCE = process.argv.includes("--force");
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -194,6 +197,7 @@ async function main() {
   fs.mkdirSync(path.dirname(SEARCH_FILE), { recursive: true });
   const previous = readJson(path.join(OUT, "index.json"), { pages: [] });
   const prevBySlug = new Map(previous.pages.map((p) => [p.slug, p]));
+  if (previous.version !== VERSION) FORCE = true;
 
   console.log("Listing pages…");
   const all = await queryAll(
@@ -269,6 +273,8 @@ async function main() {
         disablelimitreport: "1",
       });
       const root = cleanHtml(json.parse.text, resolveLink);
+      const first = root.querySelector("h1,h2,h3");
+      if (first && collapse(first.text) === p.title && !first.previousElementSibling) first.remove();
       const text = textOf(root);
       page = {
         slug,
@@ -298,9 +304,10 @@ async function main() {
 
   index.sort((a, b) => a.title.localeCompare(b.title));
   const categories = [...new Set(index.map((p) => p.category))].sort();
-  const out = { source: WIKI, license: "CC0 1.0", pages: index, categories, redirects };
+  const out = { version: VERSION, source: WIKI, license: "CC0 1.0", pages: index, categories, redirects };
   fs.writeFileSync(path.join(OUT, "index.json"), JSON.stringify(out, null, 1) + "\n");
   fs.writeFileSync(SEARCH_FILE, JSON.stringify(search));
+  extract();
   console.log(`Done: ${index.length} pages (${fetched} downloaded), ${Object.keys(redirects).length} redirects.`);
 }
 

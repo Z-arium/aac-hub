@@ -37,6 +37,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run wiki:import -- ${{ inputs.force && '--force' || '' }}
+      - name: Compare site data with the wiki
+        run: npm run wiki:check
 
       - name: Commit to this branch
         if: github.event_name == 'push'
