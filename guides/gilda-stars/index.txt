@@ -10,123 +10,188 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/3094372cf02062c3.css","style"]
-0:{"P":null,"b":"ryvfK4XX3e0dksnTw9sfj","p":"/aac-hub","c":["","guides","gilda-stars",""],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","gilda-stars","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/3094372cf02062c3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["guides",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gilda-stars","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:T169b,<p>Gilda Stars buy ships, mounts and gear upgrades. If you do everything below you can earn around 70 a day. Use the <a href="/aac-hub/tools/checklist">checklist</a> to keep track.</p>
+:HL["/aac-hub/_next/static/css/48a9101d44eabd33.css","style"]
+0:{"P":null,"b":"B3_0yag9Zq4-TCgy1WX7X","p":"/aac-hub","c":["","guides","gilda-stars",""],"i":false,"f":[[["",{"children":["guides",{"children":[["slug","gilda-stars","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/48a9101d44eabd33.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["guides",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gilda-stars","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T2dfb,<p>Gilda Stars buy ships, mounts and gear upgrades. If you do everything below you can earn around 70 a day. Use the <a href="/aac-hub/tools/checklist">checklist</a> to keep track.</p>
 <p><strong>Boss quests need no NPC.</strong> Every &quot;Defeat ...!&quot; boss quest is a <em>Path of Glory</em> quest. Help kill the boss and it completes. Each one pays once a day.</p>
-<h2>1. Raids (about 30 Gilda)</h2>
-<p>These are the biggest payouts. The <a href="/aac-hub/guides/daily-world-events">daily world events guide</a> has every step.</p>
+<p><strong>The raids pay the most</strong> (about 30 Gilda a day). Their steps are in the <a href="/aac-hub/guides/daily-world-events">daily world events guide</a>:</p>
 <table>
 <thead>
 <tr>
 <th>Event</th>
-<th>What pays</th>
 <th>Gilda</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Grimgast Rift</td>
-<td>The rift quests</td>
+<td><a href="/aac-hub/guides/daily-world-events#grimgast-rift">Grimgast Rift</a></td>
 <td>8</td>
 </tr>
 <tr>
-<td>Grimgast Rift</td>
-<td>Nightmare Blade and Nightmare Bowstring</td>
+<td><a href="/aac-hub/guides/daily-world-events#grimgast-nightmares">Grimgast Nightmares</a></td>
 <td>3 each</td>
 </tr>
 <tr>
-<td>Crimson Rift</td>
-<td>Hound of Kyrios</td>
+<td><a href="/aac-hub/guides/daily-world-events#hound-of-kyrios">Hound of Kyrios</a></td>
 <td>3</td>
 </tr>
 <tr>
-<td>Crimson Rift (Sungold Fields)</td>
-<td>Anthalon, who spawns after the rift</td>
+<td><a href="/aac-hub/guides/daily-world-events#anthalon">Anthalon</a></td>
 <td>3</td>
 </tr>
 <tr>
-<td>Whalesong Siege</td>
-<td>Possessed Jakar</td>
+<td><a href="/aac-hub/guides/daily-world-events#whalesong-siege">Whalesong Siege</a></td>
 <td>4</td>
 </tr>
 <tr>
-<td>Aegis Island</td>
-<td>Final Sealbreaker</td>
+<td><a href="/aac-hub/guides/daily-world-events#aegis-island">Aegis Island</a></td>
 <td>4</td>
 </tr>
 <tr>
-<td>Mistmerrow</td>
-<td>Kadum, after the battle</td>
+<td><a href="/aac-hub/guides/daily-world-events#mistmerrow-gates-and-kadum">Kadum</a></td>
 <td>4</td>
 </tr>
 <tr>
-<td>Luscas</td>
-<td>Lusca Awakening, plus the 5-kill quest</td>
+<td><a href="/aac-hub/guides/daily-world-events#luscas">Luscas</a></td>
 <td>1 + 1</td>
 </tr>
 </tbody></table>
-<h2>2. World bosses (3 Gilda each)</h2>
-<p>Join the raid in faction chat (<code>x</code> plus the boss name) and help with the kill.</p>
-<ul>
-<li><strong>Jola the Cursed</strong> in Exeloch, during his ritual.</li>
-<li><strong>Meina</strong> and <strong>Glenn</strong> in Sungold Fields. Raids call these three &quot;JMG&quot;.</li>
-<li><strong>Captain Rangora</strong> on Freedich Island, every 8 hours.</li>
-<li><strong>Dahuta&#39;s Champion Nazar</strong> in the Sunspeck Sea, every 4 hours.</li>
-<li><strong>Morpheus the Forsaken</strong> on Growlgate Isle, every 8 hours.</li>
-<li><strong>Hanure the Berserker</strong> in Hasla, Fridays. <strong>Hanure the Hunter</strong> in Hasla, every 14 hours.</li>
-<li><strong>Red Dragon</strong> in Karkasse Ridgelands (5 Gilda) and the <strong>Kraken</strong> at sea. See <a href="/aac-hub/timers">timers</a>.</li>
-<li><strong>Zaldrane the Enchantress</strong> in Sanddeep (3 Gilda).</li>
-</ul>
-<h2>3. Smaller bosses (1 Gilda each)</h2>
-<p>Most respawn every 4 to 8 hours, and many can be soloed at level 55. Good ones to chain:</p>
-<ul>
-<li>Solzreed Peninsula: Akanun the Tidelord (every hour), Gilneas, Castigant Reaper</li>
-<li>Arcum Iris: Karon the Herdlord (every 30 minutes), Rainbow Ostrich</li>
-<li>Villanelle: Reedpipe Leader Palaxis (every hour), Singing Greenman Shoon</li>
-<li>Others: Hellhook the Impaler (Lilyut Hills), Verith&#39;s Masterpiece (White Arden), Annulta the Yatamaton (Tigerspine Mountains), Werespider Arak and Jamerath the Shadowmage (Silent Forest), The General&#39;s Spirit (Perinoor Ruins)</li>
-<li>Level 55 Shadow Rift bosses: Daruda the Watcher (Cinderstone), The Croakfiend (Hellswamp), Tanis the Despoiler (Karkasse), Blightshade (Rookborne Basin), Goretusk the Leveler (Windscour Savannah), Yaksa Leader (Perinoor Ruins)</li>
-</ul>
-<h2>4. Ocean quests (5 Gilda)</h2>
+<h2 id="delphinad-ghost-ship">Delphinad Ghost Ship</h2>
+<p>A giant ghost ship in the <strong>Arcadian Sea</strong>. It spawns once a day and stays up for about 10 hours. Check <a href="/aac-hub/timers">timers</a>. You fight it at sea, so you need a ship with cannons or a seat on someone else&#39;s. Raids call it <strong>DGS</strong>.</p>
 <ol>
-<li><strong>Ghosts from the Depths</strong> (1 Gilda). Take it from any <strong>Archeologist</strong> (Toro, Roycia, Bruce, Carson, Waji, Lao Xiam and others). Sink ghost ships roaming the sea.</li>
-<li><strong>Ghost Ships of Delphinad</strong> (3 Gilda). Same Archeologist, once you have the quest above. Help sink the <strong>Delphinad Ghost Ship</strong>, which spawns daily in the Arcadian Sea (see <a href="/aac-hub/timers">timers</a>).</li>
-<li><strong>Enemies of Sea Trade</strong> (1 Gilda). Take it from <strong>Martus, Suiharan, Bormas, Elle or Sorgo</strong>. Kill the Seabugs, then find the targets in Ezna, Austera, Freedich Island, Growlgate Isle and Diamond Shores. Turn it in to the same NPCs.</li>
+<li><strong>Get the quests first.</strong> At the docks of a port town, find an <strong>Archeologist</strong> (Toro, Roycia, Burnar, Bruce, Lozinda, Karna, Carson, Hermas, Waji, Jeisson, Apitus, Lao Xiam, Bashudi and others).</li>
+<li>Take <strong>Ghosts from the Depths</strong>. That unlocks <strong>Ghost Ships of Delphinad</strong> from the same Archeologist. Take it as well.</li>
+<li>On <strong>Saturdays</strong>, also take the weekly <a href="/aac-hub/guides/weekly-activity-tokens#have-you-ever-seen-a-ghost">Have You Ever Seen A Ghost?</a> from the Shadow Daru. The same kill pays 33 Activity Tokens.</li>
+<li><strong>Find a ship raid.</strong> Watch faction chat for <code>x dgs</code> and join. Most groups sail warships, and the ghost ship hits hard, so going alone doesn&#39;t work.</li>
+<li><strong>Sail out</strong> to the Delphinad Ghost Ship in the Arcadian Sea.</li>
+<li><strong>Fight:</strong> man a cannon or help repair and crew your ship. Keep firing until it sinks. If your ship goes down, swim to another raid ship.</li>
+<li>When it sinks, <strong>Ghost Ships of Delphinad</strong> completes. Hand it in to an Archeologist.</li>
 </ol>
-<h2>5. Building quests (8 or more Gilda)</h2>
-<p>These are done at your own house or farm.</p>
-<ul>
-<li><strong>Workstation meals:</strong> cook 4 meals at a workstation (4 Gilda).</li>
-<li><strong>Farmhouse quests</strong> (2 or more Gilda).</li>
-<li><strong>Tradesman, Apothecary or Armorer</strong> building quests (2 or more Gilda).</li>
-</ul>
-<h2>6. Blue Salt dailies (5 Gilda)</h2>
-<p>Five quests at 1 Gilda each. Pick them up in the Blue Salt towns on your side of the world.</p>
-<p><strong>East</strong> (Caernord, Ynystere or Lutesong Harbor, Villanelle or Austera, Solis Headlands):</p>
+<p><strong>Rewards:</strong> <strong>3 Gilda Stars</strong>. Its loot also drops Growling Yawl Design Fragments (55 make a small warship).</p>
+<h2 id="ghosts-from-the-depths">Ghosts from the Depths</h2>
 <ol>
-<li><strong>Signs of the Salphira Cult:</strong> collect leashes outside the Palace Cellar in Mahadevi.</li>
-<li><strong>Raising a Wild Snowlion:</strong> raise a Wild Snowlion by caring for it.</li>
+<li>Take <strong>Ghosts from the Depths</strong> from an <strong>Archeologist</strong> at the docks of a port town.</li>
+<li>Sail out on a combat ship. Join a ship group if you can, because the quest is hard alone.</li>
+<li>Sink the <strong>ghost ships roaming the Arcadian Sea</strong> that the quest asks for.</li>
+<li>Hand it in to an Archeologist.</li>
+</ol>
+<p><strong>Rewards:</strong> <strong>1 Gilda Star</strong>. Finishing it also opens Ghost Ships of Delphinad (above).</p>
+<h2 id="enemies-of-sea-trade">Enemies of Sea Trade</h2>
+<ol>
+<li>Take <strong>Enemies of Sea Trade</strong> from <strong>Martus, Suiharan, Bormas, Elle or Sorgo</strong>, the naval quest NPCs at the docks.</li>
+<li>Sail out and kill the <strong>Seabugs</strong> the quest marks on your map.</li>
+<li>Find the targets it lists in <strong>Ezna, Austera, Freedich Island, Growlgate Isle and Diamond Shores</strong>.</li>
+<li>Hand it in to any of the same NPCs.</li>
+</ol>
+<p><strong>Rewards:</strong> <strong>1 Gilda Star</strong>.</p>
+<h2 id="jola-meina-and-glenn">Jola, Meina and Glenn</h2>
+<p>These three world bosses are called <strong>JMG</strong> in chat. Each pays 3 Gilda Stars a day.</p>
+<ol>
+<li>Watch faction chat for <code>x jmg</code>, or for <code>x jola</code> / <code>x meina</code> / <code>x glenn</code>.</li>
+<li><strong>Jola the Cursed:</strong> go to <strong>Exeloch</strong>, where he is performing a ritual, and help kill him.</li>
+<li><strong>Meina</strong> and <strong>Glenn:</strong> go to <strong>Sungold Fields</strong> and help kill each one.</li>
+<li><strong>Defeat Jola the Cursed!</strong>, <strong>Defeat Meina!</strong> and <strong>Defeat Glenn!</strong> complete on their own.</li>
+</ol>
+<p><strong>Rewards:</strong> <strong>3 Gilda Stars</strong>, 2 Clear Synthium Shards and 7 Growthstones each. Jola also drops Jola&#39;s Scaly Frill and Meina drops Meina&#39;s Ring.</p>
+<h2 id="large-world-bosses">Large world bosses</h2>
+<p>Each of these pays <strong>3 Gilda Stars</strong> a day through its own Path of Glory quest. The Red Dragon pays 5.</p>
+<ol>
+<li>Pick a boss that is up soon:<ul>
+<li><strong>Captain Rangora</strong>, Freedich Island, every 8 hours</li>
+<li><strong>Dahuta&#39;s Champion Nazar</strong>, Sunspeck Sea, every 4 hours</li>
+<li><strong>Morpheus the Forsaken</strong>, Growlgate Isle, every 8 hours</li>
+<li><strong>Hanure the Hunter</strong>, Hasla, every 14 hours</li>
+<li><strong>Zaldrane the Enchantress</strong>, Sanddeep</li>
+<li>Scheduled ones are on <a href="/aac-hub/timers">timers</a>: <strong>Red Dragon</strong> (Karkasse Ridgelands), <strong>Kraken</strong> and <strong>Hanure the Berserker</strong> (Hasla)</li>
+</ul>
+</li>
+<li>Join the raid in faction chat (<code>x</code> plus the boss name).</li>
+<li>Help with the kill. The quest completes on its own.</li>
+</ol>
+<h2 id="minor-world-bosses">Minor world bosses</h2>
+<p>These pay <strong>1 Gilda Star</strong> each, and most can be soloed at level 55. Each has its own Path of Glory quest, so do as many as you like.</p>
+<ol>
+<li>Pick a route. Fast respawns first:<ul>
+<li><strong>Solzreed Peninsula:</strong> Akanun the Tidelord (every hour), Gilneas, Castigant Reaper</li>
+<li><strong>Arcum Iris:</strong> Karon the Herdlord (every 30 minutes), Rainbow Ostrich</li>
+<li><strong>Villanelle:</strong> Reedpipe Leader Palaxis (every hour), Singing Greenman Shoon</li>
+<li><strong>Elsewhere (every 4 hours):</strong> Hellhook the Impaler (Lilyut Hills), Verith&#39;s Masterpiece (White Arden), Annulta the Yatamaton (Tigerspine Mountains), Werespider Arak and Jamerath the Shadowmage (Silent Forest), The General&#39;s Spirit (Perinoor Ruins)</li>
+<li><strong>Level 55 Shadow Rift bosses (8 to 14 hours):</strong> Daruda the Watcher (Cinderstone), The Croakfiend (Hellswamp), Tanis the Despoiler (Karkasse), Blightshade (Rookborne Basin), Goretusk the Leveler (Windscour Savannah), Yaksa Leader (Perinoor Ruins)</li>
+</ul>
+</li>
+<li>Fly or ride to the boss and kill it.</li>
+<li>Each quest completes on its own.</li>
+</ol>
+<h2 id="workstation-meals">Workstation meals</h2>
+<p>You need a <strong>Farmer&#39;s Workstation</strong> on your land.</p>
+<ol>
+<li>Gather the base ingredients for each meal: <strong>15 Cultivated Ginseng, 50 Rice and 25 Garlic</strong>.</li>
+<li>Add the meat for each meal:<ul>
+<li><strong>Hearty Meal:</strong> 5 Raw Chicken Meat</li>
+<li><strong>Premium Hearty Meal:</strong> 5 Raw Duck Meat</li>
+<li><strong>Rare Hearty Meal:</strong> 5 Raw Goose Meat</li>
+</ul>
+</li>
+<li>Go to your Workstation and take its daily cooking quests.</li>
+<li>Cook each meal at the Workstation and hand it in.</li>
+</ol>
+<p><strong>Rewards:</strong> 1 Gilda Star per meal quest. The wiki counts <strong>4 Gilda</strong> a day from the Workstation.</p>
+<h2 id="farmhouse-quests">Farmhouse quests</h2>
+<p>Farmhouses (Thatched, Harvester&#39;s, Rancher&#39;s and Miner&#39;s Farmhouse) offer daily quests worth <strong>2 or more Gilda Stars</strong>.</p>
+<ol>
+<li>Go to your Farmhouse.</li>
+<li>Open its daily quests from the building.</li>
+<li>Do what it asks, usually farming or raising tasks on your land, and turn it in at the Farmhouse.</li>
+</ol>
+<p><em>These steps haven&#39;t been confirmed in game yet. If something is different, let us know.</em></p>
+<h2 id="tradesman-apothecary-and-armorer-quests">Tradesman, Apothecary and Armorer quests</h2>
+<p>The <strong>Tradesman&#39;s Manor</strong>, <strong>Apothecary&#39;s Manor</strong> and <strong>Armorer&#39;s Manor</strong> each offer daily quests worth <strong>2 or more Gilda Stars</strong>.</p>
+<ol>
+<li>Go to your Manor.</li>
+<li>Open its daily quests from the building.</li>
+<li>Craft or deliver what it asks for, then turn it in at the Manor.</li>
+</ol>
+<p><em>These steps haven&#39;t been confirmed in game yet. If something is different, let us know.</em></p>
+<h2 id="proficiency-quests">Proficiency quests</h2>
+<p>Once you reach <strong>50,000 proficiency</strong> in <strong>Mining, Gathering, Farming or Husbandry</strong>, a daily quest for that skill opens. Each one is worth <strong>1 Gilda Star</strong>.</p>
+<ol>
+<li>Raise the skill to 50,000 proficiency by spending labor in it.</li>
+<li>Take the skill&#39;s daily proficiency quest.</li>
+<li>Spend labor in that skill, for example mining veins or harvesting crops, until the quest is done.</li>
+<li>Turn it in. With all four skills at 50,000, that&#39;s 4 Gilda Stars a day.</li>
+</ol>
+<p><em>These steps haven&#39;t been confirmed in game yet. If something is different, let us know.</em></p>
+<h2 id="blue-salt-dailies">Blue Salt dailies</h2>
+<p>Five quests, <strong>1 Gilda Star each</strong>. Take them from the <strong>Blue Salt Wanderer</strong> and the <strong>Animal Trainer</strong> on your side of the world.</p>
+<p><strong>East.</strong> The NPCs are in Caernord (Ynystere), Lutesong Harbor (Villanelle) and Austera (Solis Headlands).</p>
+<ol>
+<li><strong>Signs of the Salphira Cult:</strong> collect 12 Hellhound leashes outside the <strong>Palace Cellar</strong> in Mahadevi.</li>
+<li><strong>Raising a Wild Snowlion:</strong> raise the Snowlion you are given by caring for it until it grows.</li>
 <li><strong>Raising a Malfunctioning Leomorph:</strong> raise it the same way.</li>
 <li><strong>A Rare Perfume:</strong> hand in 30 Chopped Produce, Dried Flowers, Ground Grain or Ground Spices.</li>
-<li><strong>Guerilla Marketing:</strong> place vases in Tigerspine or Lilyut.</li>
+<li><strong>Guerilla Marketing:</strong> unlocks after A Rare Perfume. Place vases around the Tigerspine Mountains.</li>
 </ol>
-<p><strong>West</strong> (Marianople or Seachild Wharf, Cinderstone or Ezna, Two Crowns):</p>
+<p><strong>West.</strong> The NPCs are in Seachild Wharf (Cinderstone), Ezna (Two Crowns) and Marianople.</p>
 <ol>
-<li><strong>Roadsend in Danger:</strong> collect the Faulty Gunpowder near the Roadsend Guardpost.</li>
-<li><strong>Raising a Wild Horse</strong></li>
-<li><strong>Raising a Wild Elk</strong></li>
-<li><strong>A Rare Perfume</strong> (same as east)</li>
-<li><strong>Guerilla Marketing</strong> (same as east)</li>
+<li><strong>Roadsend in Danger:</strong> collect 8 Faulty Gunpowder around the <strong>Roadsend Guardpost</strong>.</li>
+<li><strong>Raising a Wild Horse:</strong> raise the foal you are given until it grows.</li>
+<li><strong>Raising a Wild Elk:</strong> raise it the same way.</li>
+<li><strong>A Rare Perfume:</strong> the same as in the east.</li>
+<li><strong>Guerilla Marketing:</strong> the same as in the east.</li>
 </ol>
-<h2>7. Other quick ones</h2>
-<ul>
-<li><strong>Diamond Shores bridge and wall</strong> (2 Gilda): the Colonizing Auroria quests in your faction base. Steps are in <a href="/aac-hub/guides/guild-missions">guild missions</a>.</li>
-<li><strong>Ahnimar, watering the Darus</strong> (1 Gilda).</li>
-<li><strong>Proficiency tasks</strong> (1 Gilda each): mining, gathering, farming and husbandry.</li>
-</ul>
-7:["$","article",null,{"className":"mx-auto max-w-3xl","children":[["$","$L3",null,{"href":"/guides","className":"text-sm text-accent-2 hover:underline","children":"← All guides"}],["$","p",null,{"className":"mt-6 text-sm font-medium text-accent","children":"Progression"}],["$","h1",null,{"className":"mt-1 text-3xl font-bold","children":"Gilda Stars every day"}],["$","p",null,{"className":"mt-2 text-muted","children":"Every daily that pays Gilda Stars, where to pick each one up, and what to do."}],"$undefined",["$","div",null,{"className":"prose-guide mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}]
-13:["$","div",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":[["$","p",null,{"children":["Last updated ","2026-10-28","."]}],["$","p",null,{"className":"mt-1","children":["Sources:"," ",[["$","span","https://wiki.aa-classic.com/Gilda_Star",{"children":[false,["$","a",null,{"href":"https://wiki.aa-classic.com/Gilda_Star","className":"underline hover:text-text","children":"wiki.aa-classic.com/Gilda_Star"}]]}],["$","span","https://aa-classic.com/database/quests/6797",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/6797","className":"underline hover:text-text","children":"aa-classic.com/database/quests/6797"}]]}],["$","span","https://aa-classic.com/database/quests/6792",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/6792","className":"underline hover:text-text","children":"aa-classic.com/database/quests/6792"}]]}],["$","span","https://aa-classic.com/database/quests/6798",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/6798","className":"underline hover:text-text","children":"aa-classic.com/database/quests/6798"}]]}],["$","span","https://aa-classic.com/database/quests/5971",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/5971","className":"underline hover:text-text","children":"aa-classic.com/database/quests/5971"}]]}],["$","span","https://aa-classic.com/database/quests/5969",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/5969","className":"underline hover:text-text","children":"aa-classic.com/database/quests/5969"}]]}],["$","span","https://aa-classic.com/database/quests/7619",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/7619","className":"underline hover:text-text","children":"aa-classic.com/database/quests/7619"}]]}]]]}]]}]
+<p>Hand each one in where you took it.</p>
+<h2 id="ahnimar-watering-the-darus">Ahnimar: watering the Darus</h2>
+<p>A custom daily in <strong>Ahnimar</strong> worth <strong>1 Gilda Star</strong>.</p>
+<ol>
+<li>Fly or ride to the <strong>Ahnimar Community Center</strong>.</li>
+<li>Take the watering quest from the Daru there.</li>
+<li>Water what the quest marks on your map.</li>
+<li>Turn it in at the Community Center.</li>
+</ol>
+<p><em>These steps haven&#39;t been confirmed in game yet. If something is different, let us know.</em></p>
+7:["$","article",null,{"className":"mx-auto max-w-3xl","children":[["$","$L3",null,{"href":"/guides","className":"text-sm text-accent-2 hover:underline","children":"← All guides"}],["$","p",null,{"className":"mt-6 text-sm font-medium text-accent","children":"Progression"}],["$","h1",null,{"className":"mt-1 text-3xl font-bold","children":"Gilda Stars every day"}],["$","p",null,{"className":"mt-2 text-muted","children":"Every daily that pays Gilda Stars, step by step. Where to pick each one up, what to do, and where to turn it in."}],"$undefined",["$","div",null,{"className":"prose-guide mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}]
+13:["$","div",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":[["$","p",null,{"children":["Last updated ","2026-10-28","."]}],["$","p",null,{"className":"mt-1","children":["Sources:"," ",[["$","span","https://wiki.aa-classic.com/Gilda_Star",{"children":[false,["$","a",null,{"href":"https://wiki.aa-classic.com/Gilda_Star","className":"underline hover:text-text","children":"wiki.aa-classic.com/Gilda_Star"}]]}],["$","span","https://wiki.aa-classic.com/World_Bosses",{"children":[", ",["$","a",null,{"href":"https://wiki.aa-classic.com/World_Bosses","className":"underline hover:text-text","children":"wiki.aa-classic.com/World_Bosses"}]]}],["$","span","https://aa-classic.com/database/quests/6797",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/6797","className":"underline hover:text-text","children":"aa-classic.com/database/quests/6797"}]]}],["$","span","https://aa-classic.com/database/quests/6792",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/6792","className":"underline hover:text-text","children":"aa-classic.com/database/quests/6792"}]]}],["$","span","https://aa-classic.com/database/quests/6798",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/6798","className":"underline hover:text-text","children":"aa-classic.com/database/quests/6798"}]]}],["$","span","https://aa-classic.com/database/quests/5971",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/5971","className":"underline hover:text-text","children":"aa-classic.com/database/quests/5971"}]]}],["$","span","https://aa-classic.com/database/quests/5969",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/5969","className":"underline hover:text-text","children":"aa-classic.com/database/quests/5969"}]]}],["$","span","https://aa-classic.com/database/quests/7619",{"children":[", ",["$","a",null,{"href":"https://aa-classic.com/database/quests/7619","className":"underline hover:text-text","children":"aa-classic.com/database/quests/7619"}]]}],["$","span","https://www.magicgameworld.com/archeage-unchained-daily-naval-quests/",{"children":[", ",["$","a",null,{"href":"https://www.magicgameworld.com/archeage-unchained-daily-naval-quests/","className":"underline hover:text-text","children":"www.magicgameworld.com/archeage-unchained-daily-naval-quests/"}]]}],["$","span","https://vindictiveonline.com/forums/threads/list-of-daily-quests-for-east-west-gilda.4629/",{"children":[", ",["$","a",null,{"href":"https://vindictiveonline.com/forums/threads/list-of-daily-quests-for-east-west-gilda.4629/","className":"underline hover:text-text","children":"vindictiveonline.com/forums/threads/list-of-daily-quests-for-east-west-gilda.4629/"}]]}]]]}]]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
 14:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Gilda Stars every day | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Every daily that pays Gilda Stars, where to pick each one up, and what to do."}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L14","3",{}]],"error":null,"digest":"$undefined"}
+b:{"metadata":[["$","title","0",{"children":"Gilda Stars every day | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Every daily that pays Gilda Stars, step by step. Where to pick each one up, what to do, and where to turn it in."}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L14","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"
