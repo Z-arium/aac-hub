@@ -4,8 +4,7 @@ const NAV = [
   { href: "/guides", label: "Guides" },
   { href: "/timers", label: "Timers" },
   { href: "/tools", label: "Tools" },
-  { href: "/database/world-bosses", label: "Bosses" },
-  { href: "/database/festivals", label: "Festivals" },
+  { href: "/database", label: "Database" },
   { href: "/videos", label: "Videos" },
 ];
 
