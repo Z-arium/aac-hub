@@ -18,7 +18,7 @@ const RULES = [
   ["Gear & Regrading", [
     /Gear\b/, /^Gearing/, /Regrad/, /^Gemming/, /Weapons?$/, /^Obsidian/, /Accessories$/, /Earring/, /Ring$/, /Necklace$/, /Costume/,
     /Undergarments/, /^Crests$/, /^Guild Cloak$/, /^Cometshard Staff$/, /^Serp Sleeves$/, /^Soulforged anvil$/, /^Jousting Lances$/,
-    /^Catch-up Gear Box$/, /^Fusion [Aa]lembics?$/, /^Undying Flame$/, /^Brave Warrior's Medal$/, /^Gliders$/,
+    /^Catch-up Gear Box$/, /^Custom weapon skins$/, /^Fusion [Aa]lembics?$/, /^Undying Flame$/, /^Brave Warrior's Medal$/, /^Gliders$/,
   ]],
   ["Ships & Naval", [/^Ships$/, /^Cannons$/, /^Sails$/, /^Rudders$/, /^Radars$/, /^Figureheads$/, /^Enoan Galleon$/, /^Eznan Cutter$/, /^Growling Yawl/, /^Ship /]],
   ["Housing & Land", [/Housing/, /^Owning Land$/, /Farmhouse$/, /^Building Designs$/, /^Designs$/, /^Castle/, /^Guide:Working at Castles$/, /^Tax Certificate$/, /^Hay Bale$/, /^Fishing Stand$/, /Workbench$/]],
@@ -28,8 +28,9 @@ const RULES = [
   ]],
   ["Professions & Life Skills", [/^Proficiency$/, /^Fishing/, /^Mining$/, /^Dawnsdrop/, /^RecipeBox$/, /^Leadership$/, /^Anchoring Emblem$/]],
   ["Zones & Dungeons", [/^Map$/, /^Auroria$/, /^Snowfang Isle$/, /^Swirling Meadow$/, /^Rum Runner Rapids$/, /^Ayanad Library$/, /^Starfall$/, /^Evenbards$/, /^Shroudlights$/]],
-  ["New Players", [/^Getting Started$/, /^New Player/, /^Adventurer's Guide$/, /^FAQ$/, /^Joining Classic/, /^I'm Lost/, /^Aquestria questline$/, /^Abbreviations$/, /^Daily Schedule$/, /^Buffs & Potions$/, /^Status Effects$/, /^Titles$/]],
+  ["New Players", [/^Getting Started$/, /^New Player/, /^Adventurer's Guide$/, /^FAQ$/, /^Frequently Asked Questions$/, /^Joining Classic/, /^I'm Lost/, /^Aquestria questline$/, /^Abbreviations$/, /^Daily Schedule$/, /^Buffs & Potions$/, /^Status Effects$/, /^Titles$/]],
   ["Interface & Setup", [/^Addon/, /^Settings$/, /^User Interface$/, /^In Game Menu$/, /^Setting Up/]],
+  ["Items", [/^Abyssal Shard$/, /^Mysterious Chest$/, /^Zephyr Lamp$/, /^Image Items$/, /^Rubiole$/]],
   ["Community", [/\(Player\)$/, /^Guilds$/, /^Active Adventurers/]],
 ];
 
@@ -39,7 +40,7 @@ export function categorize(title) {
 }
 
 // Wiki housekeeping pages that are not articles.
-const JUNK = [/^\d+x\d+$/, /\.css$/, /\.js$/, /^Sandbox/, /^Test Page$/, /^Template example$/, /^Main Page Temp$/, /^No$/];
+const JUNK = [/^\d+x\d+$/, /\.css$/, /\.js$/, /^Sandbox/, /^Test Page$/, /^Template example$/, /^Main Page Temp$/, /^No$/, /^Main Page$/];
 
 export function isJunk(title) {
   return JUNK.some((re) => re.test(title));
