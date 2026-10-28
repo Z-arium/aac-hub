@@ -8,6 +8,7 @@ An all-in-one site for [ArcheAge Classic](https://aa-classic.com), in the spirit
 | --- | --- | --- |
 | Home | `/` | Featured guides, upcoming timers, latest videos, tools |
 | Guides | `/guides` | Markdown files in `content/guides` |
+| Wiki | `/wiki` | The whole AAClassic wiki, imported into `content/wiki`, with categories and search |
 | Timers | `/timers` | Live countdowns, browser alerts, per-event mute |
 | Regrade calculator | `/tools/regrade` | Wiki rates, expected attempts and cost, simulator |
 | Daily & weekly checklist | `/tools/checklist` | Saved in the browser, clears at reset |
@@ -36,6 +37,27 @@ Set one of these in `.env.local` (see `.env.example`):
 ## Game data
 
 Game data lives in `src/data` and comes from the [AAClassic wiki](https://wiki.aa-classic.com/Main_Page) and the official [timers page](https://aa-classic.com/timers). Event times are stored in server time (US Eastern). Entries with `verified: false` still need an in-game check.
+
+## Wiki import
+
+`/wiki` is a cleaned-up, searchable copy of every article on the [AAClassic wiki](https://wiki.aa-classic.com) (CC0). Each page links back to its source.
+
+```bash
+npm run wiki:import            # only downloads pages edited since the last run
+npm run wiki:import -- --force # re-download everything
+```
+
+The importer (`scripts/wiki-import`) uses the MediaWiki API, waits 750 ms between requests (`WIKI_DELAY_MS` to change it) and writes:
+
+- `content/wiki/index.json`: every page's title, category, summary and last edit, plus redirects
+- `content/wiki/pages/<slug>.json`: cleaned HTML, headings, every table as rows of text, and the source link
+- `public/wiki-search.json`: the text index the search box loads
+
+The wiki has no categories of its own, so `scripts/wiki-import/categories.mjs` sorts pages by title. Add a rule there when a new page lands in "General".
+
+Tools can read wiki tables with `getWikiTables(slug)` from `src/lib/wiki.ts`.
+
+The **Wiki import** GitHub Action runs weekly (and from the Actions tab) and opens a "Wiki refresh" pull request when anything changed. For that, turn on *Settings → Actions → General → Allow GitHub Actions to create and approve pull requests*. A push that changes the importer commits a fresh import to that branch.
 
 ## Adding a guide
 

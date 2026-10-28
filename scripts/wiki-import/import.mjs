@@ -75,7 +75,7 @@ const KEEP_CLASSES = new Set(["wikitable", "sortable", "infobox", "gallery", "th
 const KEEP_STYLE = new Set(["color", "text-align", "font-weight", "font-style", "width", "vertical-align"]);
 const DROP_SELECTORS = [
   ".mw-editsection", "script", "style", "link", "meta", "#toc", ".toc", ".noprint", ".mw-empty-elt",
-  ".citizen-ui-icon", ".mw-jump-link", "noscript",
+  ".citizen-ui-icon", ".mw-jump-link", "noscript", "iframe", "object", "embed", "form",
 ];
 
 /** Cleans one parsed page: absolute images, local links, no wiki chrome. */
@@ -96,6 +96,10 @@ function cleanHtml(html, resolveLink) {
     // Image links point at File: pages; unwrap so the image is not a link.
     if (a.classList.contains("mw-file-description") || a.classList.contains("image")) {
       a.replaceWith(a.innerHTML);
+      return;
+    }
+    if (/^\s*javascript:/i.test(href)) {
+      a.removeAttribute("href");
       return;
     }
     a.setAttribute("href", resolveLink(href));
@@ -129,7 +133,7 @@ function cleanHtml(html, resolveLink) {
     }
     if (el.getAttribute("id") && !/^h[1-6]$/i.test(el.tagName)) el.removeAttribute("id");
     for (const attr of Object.keys(el.attributes)) {
-      if ((attr.startsWith("data-") && attr !== "data-src") || ["typeof", "about", "lang", "dir"].includes(attr)) el.removeAttribute(attr);
+      if ((attr.startsWith("data-") && attr !== "data-src") || attr.toLowerCase().startsWith("on") || ["typeof", "about", "lang", "dir"].includes(attr)) el.removeAttribute(attr);
     }
   });
 
