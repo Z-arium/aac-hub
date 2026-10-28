@@ -3,6 +3,7 @@ import GuideCard from "@/components/GuideCard";
 import ToolGrid from "@/components/ToolGrid";
 import UpcomingTimers from "@/components/UpcomingTimers";
 import VideoGrid from "@/components/VideoGrid";
+import { DATABASE } from "@/data/tools";
 import { getGuides } from "@/lib/guides";
 import { getVideos } from "@/lib/youtube";
 
@@ -50,6 +51,11 @@ export default async function Home() {
       <section>
         <SectionHeader title="Tools" href="/tools" linkText="All tools" />
         <ToolGrid />
+      </section>
+
+      <section>
+        <SectionHeader title="Database" href="/database" linkText="Browse the database" />
+        <ToolGrid items={DATABASE} />
       </section>
     </div>
   );

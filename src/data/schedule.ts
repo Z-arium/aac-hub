@@ -86,6 +86,16 @@ export const EVENTS: ScheduledEvent[] = [
     slots: [{ day: 6, time: "05:00" }],
   },
   {
+    id: "delphinad-ghost-ship",
+    name: "Delphinad Ghost Ship",
+    category: "world-boss",
+    slots: [{ day: "daily", time: "14:15" }],
+    location: "Arcadian Sea",
+    rewards: "3 Gilda Stars (daily kill quest); weekly Activity Token quest on Saturdays",
+    notes: "Stays up for 12 hours. Time from the wiki's Gilda Star page.",
+    wiki: "https://wiki.aa-classic.com/Gilda_Star",
+  },
+  {
     id: "freedich-gold-trader",
     name: "Freedich Gold Trader",
     category: "commerce",
