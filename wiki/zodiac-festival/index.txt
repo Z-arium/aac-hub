@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","zodiac-festival",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","zodiac-festival","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","zodiac-festival","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T1e8a,<p><i>"Do you believe in fate? Your path is foretold by the stars, Player."</i>
+</p>
+
+<h2 id="Festival_title">Festival title</h2>
+<p>In order to get the title from the event player must buy a <span style="width:32px; vertical-align:middle"><span><span><img src="https://wiki.aa-classic.com/images/thumb/8/8b/Constellation_Jar.png/32px-Constellation_Jar.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/8/8b/Constellation_Jar.png 1.5x" loading="lazy"></span></span><span><span><span><img src="https://wiki.aa-classic.com/images/thumb/5/5e/Grade1.png/32px-Grade1.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/5/5e/Grade1.png 1.5x" loading="lazy"></span></span></span></span> <span style="color: rgb(186, 151, 109)">Constellation Jar</span> from Merit Badge shop with <span style="width:32px; vertical-align:middle"><span><span><img src="https://wiki.aa-classic.com/images/thumb/2/26/Merit_Badge.png/32px-Merit_Badge.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/2/26/Merit_Badge.png 1.5x" loading="lazy"></span></span><span><span><span><img src="https://wiki.aa-classic.com/images/thumb/5/5e/Grade1.png/32px-Grade1.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/5/5e/Grade1.png 1.5x" loading="lazy"></span></span></span></span> <span style="color: rgb(186, 151, 109)">Merit Badge</span>&#160;× 15. The Constellation Jar will give out randomly one of the twelve titles to the player. The title will stay: it can't be changed to another or player can't acquire more titles.
+</p>
+<h2 id="Compatibility_of_the_Constellations">Compatibility of the Constellations</h2>
+<p>Only certain constellations are compatible together and players can do the sapling quest only with matching constellation. Below is the list of the compatible constellations. 
+</p>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Players constellation
+</th>
+<th>Compatible Constellation
+</th></tr>
+<tr>
+<td>Bow
+</td>
+<td>Crown
+<p>Blind Eye
+</p>
+</td></tr>
+<tr>
+<td>Boat Horn
+</td>
+<td>Chariot
+<p>Leopard
+</p>
+</td></tr>
+<tr>
+<td>Bugle
+</td>
+<td>Wand
+<p>Brier
+</p>
+</td></tr>
+<tr>
+<td>Unicorn
+</td>
+<td>Trident
+<p>Hut
+</p>
+</td></tr>
+<tr>
+<td>Blind Eye
+</td>
+<td>Bow
+<p>Crown
+</p>
+</td></tr>
+<tr>
+<td>Chariot
+</td>
+<td>Boat Horn
+<p>Leopard
+</p>
+</td></tr>
+<tr>
+<td>Wand
+</td>
+<td>Bugle
+<p>Brier
+</p>
+</td></tr>
+<tr>
+<td>Trident
+</td>
+<td>Unicorn
+<p>Hut
+</p>
+</td></tr>
+<tr>
+<td>Crown
+</td>
+<td>Blind Eye
+<p>Bow
+</p>
+</td></tr>
+<tr>
+<td>Leopard
+</td>
+<td>Boat Horn
+<p>Chariot
+</p>
+</td></tr>
+<tr>
+<td>Brier
+</td>
+<td>Bugle
+<p>Wand
+</p>
+</td></tr>
+<tr>
+<td>Hut
+</td>
+<td>Trident
+<p>Unicorn
+</p>
+</td></tr></tbody></table>
+<h2 id="Quests">Quests</h2>
+<h3 id="[Wheel_of_Destiny]"><span></span>[<b>Wheel of Destiny</b>]</h3>
+<p>Collect Zodiac Leaf 0/15
+</p><p>Other quests give the leaves to complete this one.
+</p><p><span style="width:32px; vertical-align:middle"><span><span><img src="https://wiki.aa-classic.com/images/thumb/8/83/Zodiac_Leaf.png/32px-Zodiac_Leaf.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/8/83/Zodiac_Leaf.png 1.5x" loading="lazy"></span></span><span><span><span><img src="https://wiki.aa-classic.com/images/thumb/3/35/Grade3.png/32px-Grade3.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/3/35/Grade3.png 1.5x" loading="lazy"></span></span></span></span> <span style="color: rgb(85, 143, 215)">Zodiac Leaf</span>
+</p><p><br>
+</p><p><br>
+</p>
+<h3 id="[The_Zodiac_Festival]"><span></span>[The Zodiac Festival]</h3>
+<p>Quani appears at 1p.m., 7p.m., and 12a.m. UTC.
+</p><p>Talk to NPC that appears only on certain times of the day.
+</p><p><br>
+</p>
+<h3 id="[The_Wish_Cairn]"><span></span>[The Wish Cairn]</h3>
+<p>Touch the stonepiles next to the sheep ranch.
+</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/9/90/Stone.jpg/300px-Stone.jpg" width="300" height="227" srcset="https://wiki.aa-classic.com/images/thumb/9/90/Stone.jpg/450px-Stone.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/9/90/Stone.jpg/600px-Stone.jpg 2x" loading="lazy"></span>
+</p><p><br>
+</p>
+<h3 id="[Astral_Aves]"><span></span>[Astral Aves]</h3>
+<p><span><img src="https://wiki.aa-classic.com/images/1/18/Owl_quest.png" width="45" height="46" loading="lazy"></span>
+</p><p>Quest gives an orb item that must be used on the owls to gather their feathers. Owls will spawn between 10p.m. and 8a.m. gametime.
+</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/6/66/Owl_feather.png/300px-Owl_feather.png" width="300" height="266" srcset="https://wiki.aa-classic.com/images/thumb/6/66/Owl_feather.png/450px-Owl_feather.png 1.5x, https://wiki.aa-classic.com/images/thumb/6/66/Owl_feather.png/600px-Owl_feather.png 2x" loading="lazy"></span>
+</p><p><br>
+</p>
+<h3 id="[Laying_on_the_Charms]"><span></span>[Laying on the Charms]</h3>
+<p>Collect 3/3 wool from the sheeps next to the festival area. 
+</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/b/ba/Sheep.jpg/300px-Sheep.jpg" width="300" height="227" srcset="https://wiki.aa-classic.com/images/thumb/b/ba/Sheep.jpg/450px-Sheep.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/b/ba/Sheep.jpg/600px-Sheep.jpg 2x" loading="lazy"></span>
+</p><p><br>
+</p>
+<h3 id="[The_Shoddy_Shepard]"><span></span>[The Shoddy Shepard]</h3>
+<p>Deliver 100 fabric to the little boy.
+</p><p><span><img src="https://wiki.aa-classic.com/images/d/d2/Sheepboi.png" width="256" height="261" loading="lazy"></span>
+</p><p><br>
+</p>
+<h2 id="Need_title_on_to_do">Need title on to do</h2>
+<p>[<b>Tree of Fate: CONSTELLATION NAME</b>] 
+In this quest player needs to find their compatible constellation player. After that both plant their saplings and use the other players sapling to make it flourish. After that player must collect Zodiac Leafs from their own sapling.
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/c/c8/Flourishing_sapling.png" width="185" height="258" loading="lazy"><figcaption>Flourishing sapling</figcaption></figure>
+<h2 id="Constellation_mark">Constellation mark</h2>
+<p><span><img src="https://wiki.aa-classic.com/images/9/96/Orb.png" width="105" height="171" loading="lazy"></span>
+</p><p>After getting the title, player can touch the pink orb in the middle of the festival area and get their constellations mark above their head.
+</p><p><span><img src="https://wiki.aa-classic.com/images/7/75/Bothornmark.png" width="141" height="210" loading="lazy"></span>
+</p><p>The constellation mark stay above the head only if the player has the title equipped. Once the title is changed to something else the mark disappears. The Kismet Star Shard item that is one of the rewards in the event can be placed at players house. If touched the item gives the constellation mark for the player if they have title equipped.
+</p><p><br>
+</p>
+<h3 id="Constellation_extra">Constellation extra</h3>
+<p>The Boat Horn Constellation represents confusion, exploration, and illusions.
+</p><p>The Bow Constellation represents concentration, searching, and vengeance.
+</p><p>The Blind Eye Constellation represents love, sacrifice, and the unseen.
+</p><p>The Brier constellation represents bad luck, curses, and despair.
+</p><p>The Bugle Constellation represents courage, warfare, and strategy.
+</p><p>The Chariot Constellation represents respect, cooperation, and balance.
+</p><p>The Crown Constellation represents glory, authority, and lineage.
+</p><p>The Hut Constellation represents humility, seclusion, and peace.
+</p><p>The Leopard Constellation represents obstacles, enemies, and corruption.
+</p><p>The Trident Constellation represents prosperity, fortune, and divine assistance.
+</p><p>The Unicorn Constellation represents purity, solitude, and nature.
+</p><p>The Wand Constellation represents wisdom, scholarship, and magic.
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/events-and-festivals","className":"text-accent-2 hover:underline","children":"Events & Festivals"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Zodiac Festival"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Zodiac_Festival","className":"underline hover:text-text","children":["AAClassic wiki page “","Zodiac Festival","”"]}]," ","(CC0), last edited ","Oct 25, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Festival_title",{"className":"","children":["$","a",null,{"href":"#Festival_title","className":"text-muted hover:text-accent","children":"Festival title"}]}],["$","li","Compatibility_of_the_Constellations",{"className":"","children":["$","a",null,{"href":"#Compatibility_of_the_Constellations","className":"text-muted hover:text-accent","children":"Compatibility of the Constellations"}]}],["$","li","Quests",{"className":"","children":["$","a",null,{"href":"#Quests","className":"text-muted hover:text-accent","children":"Quests"}]}],["$","li","[Wheel_of_Destiny]",{"className":"pl-3","children":["$","a",null,{"href":"#[Wheel_of_Destiny]","className":"text-muted hover:text-accent","children":"[Wheel of Destiny]"}]}],["$","li","[The_Zodiac_Festival]",{"className":"pl-3","children":["$","a",null,{"href":"#[The_Zodiac_Festival]","className":"text-muted hover:text-accent","children":"[The Zodiac Festival]"}]}],["$","li","[The_Wish_Cairn]",{"className":"pl-3","children":["$","a",null,{"href":"#[The_Wish_Cairn]","className":"text-muted hover:text-accent","children":"[The Wish Cairn]"}]}],["$","li","[Astral_Aves]",{"className":"pl-3","children":["$","a",null,{"href":"#[Astral_Aves]","className":"text-muted hover:text-accent","children":"[Astral Aves]"}]}],["$","li","[Laying_on_the_Charms]",{"className":"pl-3","children":["$","a",null,{"href":"#[Laying_on_the_Charms]","className":"text-muted hover:text-accent","children":"[Laying on the Charms]"}]}],["$","li","[The_Shoddy_Shepard]",{"className":"pl-3","children":["$","a",null,{"href":"#[The_Shoddy_Shepard]","className":"text-muted hover:text-accent","children":"[The Shoddy Shepard]"}]}],["$","li","Need_title_on_to_do",{"className":"","children":["$","a",null,{"href":"#Need_title_on_to_do","className":"text-muted hover:text-accent","children":"Need title on to do"}]}],["$","li","Constellation_mark",{"className":"","children":["$","a",null,{"href":"#Constellation_mark","className":"text-muted hover:text-accent","children":"Constellation mark"}]}],["$","li","Constellation_extra",{"className":"pl-3","children":["$","a",null,{"href":"#Constellation_extra","className":"text-muted hover:text-accent","children":"Constellation extra"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Zodiac Festival · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"\"Do you believe in fate? Your path is foretold by the stars, Player.\" Festival title In order to get the title from the event player must buy a Constellation Jar from Merit Badge shop with Merit Badge × 15. The…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

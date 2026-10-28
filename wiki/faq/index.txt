@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","faq",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","faq","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","faq","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T8ec,<p>Frequently asked questions for new players. Work in progress.
+</p>
+<h3 id="General">General</h3>
+<p><b>When was the server launched?</b>
+</p><p>August 2023. 
+</p><p><br>
+<b>If i start playing now will i be a lot behind of others regarding gear?</b> 
+</p><p>For short time yes. There is <a rel="noopener" href="https://wiki.aa-classic.com/Getting_Started#Step_3_-_Claim_Your_Catch_Up_Gear">catch-up box</a> the new player receives after reaching level 50.The gearset will bring the player to around 4k gearscore. 
+</p><p><br>
+<b>Is there land available if i start playing?</b>
+</p><p>Straight free plots no. There is demolitions happening time to time around the maps. Collecting enough gold to buy a land plot is another good way of getting one. There are also custom made <a href="/aac-hub/wiki/new-player-housing">new player housing zones</a> that are worth to check. They have certain conditions a player must meet in order to own land there. Darus add new player zones time to time in the game.
+</p><p><br>
+<b>Is Archeage Classic p2win?</b>
+</p><p>No. In the Marketplace there are no items that can help player to reach higher gearscore. There is plenty of outfits, glider skins, pets and vehicles sold with credits(real money) but players cant buy anything to speed up their progress.
+</p><p><br>
+<b>EU server when???</b>
+</p><p><span><img src="https://wiki.aa-classic.com/images/b/bd/Euserver.png" width="531" height="78" loading="lazy"></span>
+</p><p><br>
+</p>
+<h3 id="Discord">Discord</h3>
+<p><b>How to access the discord?</b>
+</p><p><a rel="noopener" href="https://discord.com/invite/aaclassic">https://discord.com/invite/aaclassic</a>
+</p><p><br>
+<b>I am new, where to ask questions in the discord?</b>
+</p><p><span><img src="https://wiki.aa-classic.com/images/c/cf/New_playerhelp.png" width="352" height="208" loading="lazy"></span>
+</p><p><br>
+</p>
+<h3 id="Webpages">Webpages</h3>
+<p><b>Is there a skill calculator that is up to date with this servers patch?</b>
+</p><p><a rel="noopener" href="https://aka-go.com/calc">Skill calculator</a>
+</p><p><br>
+<b>Is it possible to plan my gearset outside the game?</b>
+</p><p>Yes with <a rel="noopener" href="https://darugear.com/">DaruGear</a> calculator. Say thanks to <b>Boku</b> when u see him!
+</p><p><br>
+</p><p>Game
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/new-players","className":"text-accent-2 hover:underline","children":"New Players"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"FAQ"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/FAQ","className":"underline hover:text-text","children":["AAClassic wiki page “","FAQ","”"]}]," ","(CC0), last edited ","Aug 2, 2025",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]]}],["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],"$L11"]}]}]]}]
+11:["$","ul",null,{"className":"space-y-1","children":[["$","li","General",{"className":"pl-3","children":["$","a",null,{"href":"#General","className":"text-muted hover:text-accent","children":"General"}]}],["$","li","Discord",{"className":"pl-3","children":["$","a",null,{"href":"#Discord","className":"text-muted hover:text-accent","children":"Discord"}]}],["$","li","Webpages",{"className":"pl-3","children":["$","a",null,{"href":"#Webpages","className":"text-muted hover:text-accent","children":"Webpages"}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"FAQ · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Frequently asked questions for new players. Work in progress. General When was the server launched? August 2023. If i start playing now will i be a lot behind of others regarding gear? For short time yes. There is…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

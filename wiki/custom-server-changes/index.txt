@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","custom-server-changes",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","custom-server-changes","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","custom-server-changes","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T24c2,<p>AAClassic is a unique server as it runs on a much older version (3.5) than retail, on top of having its own set of custom changes.
+</p><p>Below is a list of notable custom changes on AAClassic that make it more fun and fair than other servers.
+</p>
+
+<h2 id="Marketplace">Marketplace</h2>
+<p>The Marketplace on AAClassic does not contain "Pay to Win" items unlike other servers. Only a few quality of life additions border the line of P2W (i.e., inventory slot increases, <a href="/aac-hub/wiki/daru-subscription-box">Daru Subscription Box</a>), otherwise everything else is cosmetic.
+</p>
+<h2 id="Vocation_&amp;_Economy"><span></span>Vocation &amp; Economy</h2>
+<h3 id="Replanting">Replanting</h3>
+<p>Replanting is a unique AAClassic feature. On some harvestables, you will find an interaction that allows you to harvest the resource and use a seed/sapling to put a new one in its place automatically. This quality of life feature is meant to make farming bundles and other resources much less manual labor and means players can spend more time in the world instead of having to spend precious time manually planting their fields.
+</p>
+<h3 id="Higher_Labor_&amp;_Rates"><span></span>Higher Labor &amp; Rates</h3>
+<p>AAClassic runs on a higher labor rate of 40 labor every 5 minute (offline AND online). AAClassic also has boosted labor consumption rates AND yield rates on activities such as sports fishing and commerce. This allows you to burn your labor and make money faster, reducing the amount of grind required.
+</p>
+<h3 id="Schematic_Scraps">Schematic Scraps</h3>
+<p>Ship component designs can now be evenstoned for Schematic Scraps. Schematic Scraps can be used to craft specific ship component designs that may otherwise be hard to find.
+</p>
+<h3 id="New_Recipes">New Recipes</h3>
+<p>Special recipes have been added to a variety of items such as Regrade Charms, Lucky Points, Lunarite and more. Because these items were primarily sourced from P2W RNG boxes previously, such recipes were added to make them farmable &amp; part of the economy.
+</p>
+<h3 id="Custom_Buffs">Custom Buffs</h3>
+<p>Custom recipes for buffs have been added to help free up buff slots and also provide an easier way to obtain loot drop buffs. You can find the recipes in the Folio menu 'o' by default.
+</p>
+<ul><li><b>Monarch of the Sea</b> (1hr): Kingdom's Shadow + Dahuta's Bubble effects. Select between +1800 Physical, Magical, or +810 Physical/Magical defenses.</li>
+<li><b>Spellbook: Bulwark / Spellbook: Authority</b> (1hr): Unstoppable Will + Secret Gift + Honor Goblet. Select between an defensive or offensive spellbook and include the stats you need the most!</li>
+<li><b>Pigglewiggle Feast / Pigglewiggle Stew</b> (1hr, 10 uses): Assorted Ribs + Jujube Juice + Jujube Sparkling Wine. Select between a delicious feast to boost your strength and agility or delight in a savory stew to increase your intellect and spirit.</li>
+<li><b>Glittering Charcoal Milk</b> (1hr): Grants you 20% increased loot drop.</li>
+<li><b>Mysterious Glittering Charcoal Milk</b>  (1hr): Grants you 50% increased loot drop.</li></ul>
+<h2 id="Events">Events</h2>
+<h3 id="Mistmerrow">Mistmerrow</h3>
+<p>Mistmerrow has an added kill quest to encourage PvP at the event that provides additional rewards.
+</p><p>Mistmerrow has been shortened from a duration of 30 minutes down to 20 minutes.
+</p>
+<h3 id="Crystalline_Bloodbath">Crystalline Bloodbath</h3>
+<p>The <a href="/aac-hub/wiki/crystalline-bloodbath">Crystalline Bloodbath</a> is a completely custom event that currently takes place every Friday that calls all who are interested to PvP in Diamond Shores, a common occurrence back in the old days of ArcheAge. Completing the event will provide you with 30 Activity Tokens as a reward.
+</p>
+<h3 id="Preparing_for_the_Fish_Market">Preparing for the Fish Market</h3>
+<p>Every Saturday you can get a <a href="/aac-hub/wiki/fishing-quest">Fishing quest</a> from any Fish Stand to fish and sell 10 fish to get 20 Activity Tokens.
+</p>
+<h3 id="The_Crimson_Threat">The Crimson Threat</h3>
+<p>Every Sunday you can get a quest in Sungold, which requires to kill <a href="/aac-hub/wiki/anthalon">Anthalon</a> once. Completing this quest provides 15 Activity Tokens
+</p>
+<h3 id="Veroe_Harvest">Veroe Harvest</h3>
+<p><a href="/aac-hub/wiki/veroe-harvest-festival">Harvest Festival event</a> where factions fight over rice drops from flowers to deliver packs in certain location in Hasla. Faction that takes the most packs on drop location first wins. 
+</p>
+<h3 id="Meteor_Landing">Meteor Landing</h3>
+<p>At random timers, roughly once per day, a comet lands somewhere in the world, triggering waves of monsters and bosses. 
+</p>
+<h2 id="Map_areas">Map areas</h2>
+<h3 id="Swirling_Meadows">Swirling Meadows</h3>
+<p><a href="/aac-hub/wiki/new-player-housing">Swirling Meadows</a> as an area and extra land for housing in Ahnimar and Rokhala Mountains. 
+</p>
+<h3 id="Snowfang_Isle">Snowfang Isle</h3>
+<p>Snowy village in Miroir Tundra called <a href="/aac-hub/wiki/snowfang-isle">Snowfang Village</a> area with its own housing style. 
+</p>
+<h2 id="Gearing">Gearing</h2>
+<h3 id="Crafted_Seals">Crafted Seals</h3>
+<p>Similar to 3.5, AAClassic has items called "Mana Seals" which can be crafted with the reforging proficiency. They require varying mana wisp costs and allow a player to take any Epherium+ gear piece and make it a Sealed item again. This allows attempting to get the desired outcome, whether it be an upgradeable piece or a specific stat roll, but is not guaranteed. 
+</p>
+<h3 id="Honor_Economy">Honor Economy</h3>
+<p>On AAClassic, most honor items have been made tradeable. This allows players to acquire honor gems without needing to get honor yourself. This also allows making gold by farming and selling honor.
+</p><p>The 2nd gem slot is also a 100% slot rate.
+</p>
+<h3 id="Prestige_Economy">Prestige Economy</h3>
+<p>On AAClassic, most prestige gems have been made tradeable. This allows players to acquire prestige gems without needing to get prestige yourself. This also allows making gold by farming and selling prestige.
+</p>
+<h3 id="Obsidian_Materials_Tradability">Obsidian Materials Tradability</h3>
+<p>In an effort to promote a free market, AAClassic has set all obsidian materials as unbound. This allows players to farm obsidian materials as an extra revenue source.
+</p>
+<h2 id="Ships">Ships</h2>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/a/a9/Puffership.png/300px-Puffership.png" width="300" height="172" srcset="https://wiki.aa-classic.com/images/thumb/a/a9/Puffership.png/450px-Puffership.png 1.5x, https://wiki.aa-classic.com/images/thumb/a/a9/Puffership.png/600px-Puffership.png 2x" loading="lazy"><figcaption></figcaption></figure>
+<h3 id="Pufferfish_Ship">Pufferfish Ship</h3>
+<p>The Pufferfish Ship (sometimes called 'Puffership') is a small artillery warship equipped with a giant cannon pointing forwards. It has an elevated move speed when heading North or South. It's driving style is quite different from other boats and will require shorter impulses when turning, at the risk of flipping over.
+</p>
+<h3 id="Luxury_Liner">Luxury Liner</h3>
+<p>This absolute beast of a ship is available for players to make and use! It is very costly, slow but truly magnificent.
+</p>
+<h2 id="Misc_Additions">Misc Additions</h2>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/2/23/Mirage_Casino_Location.png/300px-Mirage_Casino_Location.png" width="300" height="179" srcset="https://wiki.aa-classic.com/images/thumb/2/23/Mirage_Casino_Location.png/450px-Mirage_Casino_Location.png 1.5x, https://wiki.aa-classic.com/images/thumb/2/23/Mirage_Casino_Location.png/600px-Mirage_Casino_Location.png 2x" loading="lazy"><figcaption>Location of the Casino</figcaption></figure>
+<h3 id="Mirage_Casino">Mirage Casino</h3>
+<p>The Mirage Isle casino is located immediately behind the building where you will spawn in Mirage Isle. 
+</p><p>Previously, the Mirage Isle casino was disabled in retail versions of the game due to EU gambling laws. 
+</p><p>Now enabled, you can purchase Bugira Coins from the merchant in the centre of the casino. Using these coins, you're free to interact with either of the 3 types of slot machines available for a chance to win up to 150x your bet.
+</p><p>The three types of slot machines have three separate prices, the base tier costing 1x Bugira coin per spin, the second costing 5x Bugira coins per spin, and the final costing 10x Bugira coins per spin.
+</p><p>An achievement set has been enabled with this, with the final reward being the title "Gambling Addict".
+</p>
+<h3 id="Merit_Quests">Merit Quests</h3>
+<p>Know as <b>AAA</b> the <a href="/aac-hub/wiki/active-adventurers-appreciated">Active Adventurers Appreciated</a> are custom added Merit Quests. Only these Merit Quests give small amount of <a href="/aac-hub/wiki/currencies">Activity Tokens</a> once completed with XP and gold. To activate them player needs to spend few Activity Tokens.
+</p>
+<h3 id="Addon_System">Addon System</h3>
+<p>AAClassic is the first server to have brought out an addon system. You can read more on the addons page <a href="/aac-hub/wiki/addons">Addons</a>
+</p>
+<h3 id="Custom_Weapon_Skins">Custom Weapon Skins</h3>
+<p>Competitions held by the Darus for the community to create <a href="/aac-hub/wiki/custom-weapon-skins">custom weapon skin</a> designs to make as weapon in the game world.
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/patch-notes","className":"text-accent-2 hover:underline","children":"Patch Notes"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Custom Server Changes"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Custom_Server_Changes","className":"underline hover:text-text","children":["AAClassic wiki page “","Custom Server Changes","”"]}]," ","(CC0), last edited ","Dec 7, 2025",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Marketplace",{"className":"","children":["$","a",null,{"href":"#Marketplace","className":"text-muted hover:text-accent","children":"Marketplace"}]}],["$","li","Vocation_&_Economy",{"className":"","children":["$","a",null,{"href":"#Vocation_&_Economy","className":"text-muted hover:text-accent","children":"Vocation & Economy"}]}],["$","li","Replanting",{"className":"pl-3","children":["$","a",null,{"href":"#Replanting","className":"text-muted hover:text-accent","children":"Replanting"}]}],["$","li","Higher_Labor_&_Rates",{"className":"pl-3","children":["$","a",null,{"href":"#Higher_Labor_&_Rates","className":"text-muted hover:text-accent","children":"Higher Labor & Rates"}]}],["$","li","Schematic_Scraps",{"className":"pl-3","children":["$","a",null,{"href":"#Schematic_Scraps","className":"text-muted hover:text-accent","children":"Schematic Scraps"}]}],["$","li","New_Recipes",{"className":"pl-3","children":["$","a",null,{"href":"#New_Recipes","className":"text-muted hover:text-accent","children":"New Recipes"}]}],["$","li","Custom_Buffs",{"className":"pl-3","children":["$","a",null,{"href":"#Custom_Buffs","className":"text-muted hover:text-accent","children":"Custom Buffs"}]}],["$","li","Events",{"className":"","children":["$","a",null,{"href":"#Events","className":"text-muted hover:text-accent","children":"Events"}]}],["$","li","Mistmerrow",{"className":"pl-3","children":["$","a",null,{"href":"#Mistmerrow","className":"text-muted hover:text-accent","children":"Mistmerrow"}]}],["$","li","Crystalline_Bloodbath",{"className":"pl-3","children":["$","a",null,{"href":"#Crystalline_Bloodbath","className":"text-muted hover:text-accent","children":"Crystalline Bloodbath"}]}],["$","li","Preparing_for_the_Fish_Market",{"className":"pl-3","children":["$","a",null,{"href":"#Preparing_for_the_Fish_Market","className":"text-muted hover:text-accent","children":"Preparing for the Fish Market"}]}],["$","li","The_Crimson_Threat",{"className":"pl-3","children":["$","a",null,{"href":"#The_Crimson_Threat","className":"text-muted hover:text-accent","children":"The Crimson Threat"}]}],["$","li","Veroe_Harvest",{"className":"pl-3","children":["$","a",null,{"href":"#Veroe_Harvest","className":"text-muted hover:text-accent","children":"Veroe Harvest"}]}],["$","li","Meteor_Landing",{"className":"pl-3","children":["$","a",null,{"href":"#Meteor_Landing","className":"text-muted hover:text-accent","children":"Meteor Landing"}]}],["$","li","Map_areas",{"className":"","children":["$","a",null,{"href":"#Map_areas","className":"text-muted hover:text-accent","children":"Map areas"}]}],["$","li","Swirling_Meadows",{"className":"pl-3","children":["$","a",null,{"href":"#Swirling_Meadows","className":"text-muted hover:text-accent","children":"Swirling Meadows"}]}],["$","li","Snowfang_Isle",{"className":"pl-3","children":["$","a",null,{"href":"#Snowfang_Isle","className":"text-muted hover:text-accent","children":"Snowfang Isle"}]}],["$","li","Gearing",{"className":"","children":["$","a",null,{"href":"#Gearing","className":"text-muted hover:text-accent","children":"Gearing"}]}],["$","li","Crafted_Seals",{"className":"pl-3","children":["$","a",null,{"href":"#Crafted_Seals","className":"text-muted hover:text-accent","children":"Crafted Seals"}]}],["$","li","Honor_Economy",{"className":"pl-3","children":["$","a",null,{"href":"#Honor_Economy","className":"text-muted hover:text-accent","children":"Honor Economy"}]}],["$","li","Prestige_Economy",{"className":"pl-3","children":["$","a",null,{"href":"#Prestige_Economy","className":"text-muted hover:text-accent","children":"Prestige Economy"}]}],["$","li","Obsidian_Materials_Tradability",{"className":"pl-3","children":["$","a",null,{"href":"#Obsidian_Materials_Tradability","className":"text-muted hover:text-accent","children":"Obsidian Materials Tradability"}]}],["$","li","Ships",{"className":"","children":["$","a",null,{"href":"#Ships","className":"text-muted hover:text-accent","children":"Ships"}]}],["$","li","Pufferfish_Ship",{"className":"pl-3","children":["$","a",null,{"href":"#Pufferfish_Ship","className":"text-muted hover:text-accent","children":"Pufferfish Ship"}]}],"$L13","$L14","$L15","$L16","$L17","$L18"]}]]}]}]
+13:["$","li","Luxury_Liner",{"className":"pl-3","children":["$","a",null,{"href":"#Luxury_Liner","className":"text-muted hover:text-accent","children":"Luxury Liner"}]}]
+14:["$","li","Misc_Additions",{"className":"","children":["$","a",null,{"href":"#Misc_Additions","className":"text-muted hover:text-accent","children":"Misc Additions"}]}]
+15:["$","li","Mirage_Casino",{"className":"pl-3","children":["$","a",null,{"href":"#Mirage_Casino","className":"text-muted hover:text-accent","children":"Mirage Casino"}]}]
+16:["$","li","Merit_Quests",{"className":"pl-3","children":["$","a",null,{"href":"#Merit_Quests","className":"text-muted hover:text-accent","children":"Merit Quests"}]}]
+17:["$","li","Addon_System",{"className":"pl-3","children":["$","a",null,{"href":"#Addon_System","className":"text-muted hover:text-accent","children":"Addon System"}]}]
+18:["$","li","Custom_Weapon_Skins",{"className":"pl-3","children":["$","a",null,{"href":"#Custom_Weapon_Skins","className":"text-muted hover:text-accent","children":"Custom Weapon Skins"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+19:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Custom Server Changes · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"AAClassic is a unique server as it runs on a much older version (3.5) than retail, on top of having its own set of custom changes. Below is a list of notable custom changes on AAClassic that make it more fun and fair…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L19","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

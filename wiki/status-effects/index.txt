@@ -1,0 +1,310 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","status-effects",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","status-effects","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","status-effects","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T274a,<p>Status Effects refer to temporary conditions or debuffs applied in combat through skills, Status effects play a key role in PvP and factor in to some Boss mechanics.
+</p><p>// more fluff about how it is applied through skills 
+</p>
+
+<h2 id="List_of_Status_Effects">List of Status Effects</h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Status
+</th>
+<th>Description
+</th>
+<th>Inflicted By
+</th>
+<th>Countered By
+</th></tr>
+<tr>
+<td><b>Bleed</b>
+</td>
+<td>Deals damage over stated duration.
+</td>
+<td>
+<ul><li>Piercing Shot (<a href="/aac-hub/wiki/archery">Archery</a>)</li>
+<li><a href="https://wiki.aa-classic.com/index.php?title=Weapon_Effect&action=edit&redlink=1" rel="noopener">Weapon Effect</a>: Axes and Greataxes</li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Burn</b>
+</td>
+<td>Deals damage over stated duration.
+</td>
+<td>
+<ul><li>Flamebolt (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Searing Rain (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Flame Barrier (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Meteor Strike (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Charm</b>
+</td>
+<td>Combos with other (<a href="/aac-hub/wiki/songcraft">Songcraft</a>) skills to empower them
+<p>when used on an enemy under the effects of charm.
+</p>
+</td>
+<td>
+<ul><li>Startling Strain (<a href="/aac-hub/wiki/songcraft">Songcraft</a>)</li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Conflagration</b>
+</td>
+<td>Deals damage over stated duration.
+</td>
+<td>
+<ul><li>Flamebolt (<a href="/aac-hub/wiki/sorcery">Sorcery</a>) when target is already under the effects of <a href="#Burn">Burn</a>.</li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Deep Freeze</b>
+</td>
+<td>Prevents movement and skill usage and makes target invulnerable to damage for duration of the effect.
+<p>Explodes when the target takes damage or the debuff runs out.
+</p><p>Causes magic damage upon exploding.
+</p>
+</td>
+<td>
+<ul><li>Freezing Arrow (<a href="/aac-hub/wiki/sorcery">Sorcery</a>) when the target is under the effect of <a href="#Freeze">Freeze</a></li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Distress</b>
+</td>
+<td>Decreases targets Move Speed -45%, Skill Damage -20%, Healing Effectiveness -60% and <a href="https://wiki.aa-classic.com/index.php?title=Attack_Speed&action=edit&redlink=1" rel="noopener">Attack Speed</a> -250
+</td>
+<td>
+<ul><li>Boastful Roar (<a href="/aac-hub/wiki/defense">Defense</a>)</li>
+<li>Tiger Strike (<a href="/aac-hub/wiki/battlerage">Battlerage</a>) when the target is under the effects of Delirium</li>
+<li>Behind Enemy Lines (<a href="/aac-hub/wiki/battlerage">Battlerage</a>) when target is <a href="#Snare">Snared</a></li></ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Electric Shock</b>
+</td>
+<td>Deals damage over stated duration to the target and spreads to targets within 2 meters.
+</td>
+<td>
+<ul><li>Arc Lightning (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Chain Lightning (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Gods' Whip (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Enervated</b>
+</td>
+<td>Decreases mama over time, decreases the effectiveness of healing, increases the duration of Stun and Trip
+</td>
+<td>Enervate (<a href="/aac-hub/wiki/witchcraft">Witchcraft</a>)
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Fear</b>
+</td>
+<td>Target is unable to use skills and is forced to run around for the duration.
+</td>
+<td>
+<ul><li>Insidious Whisper (<a href="/aac-hub/wiki/witchcraft">Witchcraft</a>)</li>
+<li>Banshee Wail (<a href="/aac-hub/wiki/witchcraft">Witchcraft</a>)</li>
+<li>Critical discord when target is under the effects of Charm (<a href="/aac-hub/wiki/songcraft">Songcraft</a>)</li></ul>
+</td>
+<td>
+<ul><li>Intensity (<a href="/aac-hub/wiki/archery">Archery</a>)</li>
+<li>Stillness (<a href="/aac-hub/wiki/occultism">Occultism</a>)</li></ul>
+</td></tr>
+<tr>
+<td><b>Ice Shard</b>
+</td>
+<td>Target is unable to move.
+</td>
+<td>
+<ul><li>Freezing Earth (<a href="/aac-hub/wiki/sorcery">Sorcery</a>) if the target is under the effects of Freeze</li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Impale</b>
+</td>
+<td>Target is unable or move or use skills.
+</td>
+<td>
+<ul><li>Hell Spear (<a href="/aac-hub/wiki/occultism">Occultism</a>)</li>
+<li>Skewer (<a href="/aac-hub/wiki/vitalism">Vitalism</a>)</li></ul>
+</td>
+<td>
+<ul><li>Shrug It Off (<a href="/aac-hub/wiki/auramancy">Auramancy</a>)</li></ul>
+</td></tr>
+<tr>
+<td><b>Mark</b>
+</td>
+<td>Decreases targets received healing -60% for the duration of the effect.
+<p>Deals damage equal to 80 times the number of attacks suffered during the marks duration when it expires.
+</p>
+</td>
+<td>
+<ul><li>Stalkers Mark (<a href="/aac-hub/wiki/shadowplay">Shadowplay</a>)</li></ul>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b>Poision</b>
+</td>
+<td>Deals damage over stated duration.
+</td>
+<td>
+<ul><li>Toxic Shot (<a href="/aac-hub/wiki/shadowplay">Shadowplay</a>)</li>
+<li>Summon Crows when target is under the effects of Imaple</li></ul>
+</td>
+<td>
+<ul><li>Freerunner (<a href="/aac-hub/wiki/shadowplay">Shadowplay</a>)</li></ul>
+</td></tr>
+<tr>
+<td><b>Shackle</b>
+</td>
+<td>Prevents target from using Melee and Ranged skills.
+</td>
+<td>
+<ul><li>Shadowsmite (<a href="/aac-hub/wiki/shadowplay">Shadowplay</a>)</li>
+<li>Concussive Arrow (<a href="/aac-hub/wiki/archery">Archery</a>)</li></ul>
+</td>
+<td>
+<ul><li>Snare (<a href="/aac-hub/wiki/archery">Archery</a>)</li>
+<li>Liberation (<a href="/aac-hub/wiki/auramancy">Auramancy</a>)</li></ul>
+</td></tr>
+<tr>
+<td><b>Shaken</b>
+</td>
+<td>Decreases targets Move Speed -27%, Skill Damage -8% and <a href="https://wiki.aa-classic.com/index.php?title=Attack_Speed&action=edit&redlink=1" rel="noopener">Attack Speed</a> -27%
+</td>
+<td>
+<ul><li>Thwart (<a href="/aac-hub/wiki/auramancy">Auramancy</a>)</li>
+<li>Mocking Howl (<a href="/aac-hub/wiki/defense">Defense</a>)</li>
+<li>Triple Slash (<a href="/aac-hub/wiki/battlerage">Battlerage</a>)</li></ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Silence</b>
+</td>
+<td>Prevents target from using magic skills
+</td>
+<td>
+<ul><li>Stillness (<a href="/aac-hub/wiki/occultism">Occultism</a>)</li>
+<li>Bull Rush (<a href="/aac-hub/wiki/battlerage">Battlerage</a>)</li></ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Sleep</b>
+</td>
+<td>Puts target to sleep, making them unable to move or use skills.
+<p>Target is awoken upon taking damage or if debuff duration runs out.
+</p>
+</td>
+<td>
+<ul><li>Leech (<a href="/aac-hub/wiki/auramancy">Auramancy</a>)</li>
+<li>Lassitude (<a href="/aac-hub/wiki/witchcraft">Witchcraft</a>)</li></ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Slow</b>
+</td>
+<td>Reduces targets Move Speed
+</td>
+<td>
+<ul><li>Charged Bolt (<a href="/aac-hub/wiki/archery">Archery</a>)</li>
+<li>Crippling Mire (<a href="/aac-hub/wiki/occultism">Occultism</a>)</li>
+<li>Freezing Arrow (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Flame Barrier (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Sunder Earth (<a href="/aac-hub/wiki/battlerage">Battlerage</a>)</li>
+<li>Quickstep (<a href="/aac-hub/wiki/songcraft">Songcraft</a>) when target is under the effects of <a href="#Charm">Charm</a></li></ul>
+<p>Note: Throw Dagger (<a href="/aac-hub/wiki/shadowplay">Shadowplay</a>) reduces movement speed but does not inflict the "slow" debuff,
+</p><p>however it will still combo with Charged Bolt (<a href="/aac-hub/wiki/archery">Archery</a>) to <a href="#Stun">Stun</a> targets.
+</p>
+</td>
+<td>
+<ul><li>Bondbreaker (<a href="/aac-hub/wiki/battlerage">Battlerage</a>)</li></ul>
+</td></tr>
+<tr>
+<td><b>Snare</b>
+</td>
+<td>Target is unable to move
+</td>
+<td>
+<ul><li>Mirror light (<a href="/aac-hub/wiki/vitalism">Vitalism</a>)</li>
+<li>Freezing Earth (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Snare (<a href="/aac-hub/wiki/archery">Archery</a>)</li>
+<li>Earthen Grip (<a href="/aac-hub/wiki/witchcraft">Witchcraft</a>)</li>
+<li>Charge (<a href="/aac-hub/wiki/battlerage">Battlerage</a>)</li>
+<li>Behind Enemy Lines (<a href="/aac-hub/wiki/battlerage">Battlerage</a>)</li></ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Stun</b>
+</td>
+<td>Target is unable to move, use skills and other actions.
+</td>
+<td>
+<ul><li>Startling Strain (<a href="/aac-hub/wiki/songcraft">Songcraft</a>)</li>
+<li>Overwhelm (<a href="/aac-hub/wiki/shadowplay">Shadowplay</a>)</li>
+<li>Frigid Tracks (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Shield Slam (<a href="/aac-hub/wiki/defense">Defense</a>)</li>
+<li>Banshee Wail (<a href="/aac-hub/wiki/witchcraft">Witchcraft</a>)</li>
+<li>Focal Concussion (<a href="/aac-hub/wiki/witchcraft">Witchcraft</a>)</li>
+<li>Charged Bolt (<a href="/aac-hub/wiki/archery">Archery</a>) when the target is under the effects of <a href="#Slow">Slow</a></li>
+<li>Crippling Mire (<a href="/aac-hub/wiki/occultism">Occultism</a>) when the target is under the effects of <a href="#Distress">Distress</a></li></ul>
+</td>
+<td>
+<ul><li>Shrug It Off (<a href="/aac-hub/wiki/auramancy">Auramancy</a>)</li>
+<li>Alarm Call (<a href="/aac-hub/wiki/songcraft">Songcraft</a>)</li></ul>
+</td></tr>
+<tr>
+<td><b>Trip</b>
+</td>
+<td>Target falls to the ground and is unable to use skills or move for the duration.
+</td>
+<td>
+<ul><li>Meteor Strike (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Ollo's Hammer (<a href="/aac-hub/wiki/defense">Defense</a>)</li>
+<li>Overwhelm (<a href="/aac-hub/wiki/shadowplay">Shadowplay</a>) when the target is under the effects of <a href="#Mark">Mark</a></li>
+<li>Shadowsmite when the target is under the effects of <a href="#Stun">Stun</a></li>
+<li>Triple Slash (<a href="/aac-hub/wiki/battlerage">Battlerage</a>) when the target is under the effects of <a href="#Snare">Snare</a></li>
+<li>Whirlwind Slash (<a href="/aac-hub/wiki/battlerage">Battlerage</a>) when the target is <a href="#Slow">Slowed</a></li></ul>
+</td>
+<td>
+<ul><li>Insulating Lens (<a href="/aac-hub/wiki/sorcery">Sorcery</a>)</li>
+<li>Redoubt (<a href="/aac-hub/wiki/defense">Defense</a>)</li></ul>
+</td></tr></tbody></table>
+<p><br>
+</p><p><br>
+</p><p><br>
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/new-players","className":"text-accent-2 hover:underline","children":"New Players"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Status Effects"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],false]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Status_Effects","className":"underline hover:text-text","children":["AAClassic wiki page “","Status Effects","”"]}]," ","(CC0), last edited ","Mar 14, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Status Effects · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Status Effects refer to temporary conditions or debuffs applied in combat through skills, Status effects play a key role in PvP and factor in to some Boss mechanics. // more fluff about how it is applied through skills…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","halcyona-necklace",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","halcyona-necklace","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","halcyona-necklace","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Tec6,<p>Halcyona Necklace's name comes from the place you get the materials for it, Halcyona War. By collecting <a href="/aac-hub/wiki/currencies">Warrior Medals</a> and going to the 
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/9/9c/Provenwarriorbench.png/300px-Provenwarriorbench.png" width="300" height="320" srcset="https://wiki.aa-classic.com/images/9/9c/Provenwarriorbench.png 1.5x" loading="lazy"><figcaption>Proven Warrior Workbench</figcaption></figure>
+<p>Proven Warrior Workbench in both factions bases you can create a really good necklace. 
+</p><p>First necklace you create is called Proven Warrior Necklace but the name changes while you upgrade it. The first necklace requires 3 <a href="/aac-hub/wiki/currencies">Warrior medals</a>. After that the amount increases after every upgrade. Once you get to rank 6 you need to choose which of the two effects / stats you want. <b>After rank 7 the necklace has high chance of downgrading back to rank 7. The necklace can't get destroyed while upgrading.</b> Good way to upgrade a necklace is to have two, using one and trying to upgrade other one higher until it can replace your current best one. 
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/a/a8/Optionsneck.png" width="323" height="400" loading="lazy"><figcaption>Necklace options at level 6</figcaption></figure>
+<table class="wikitable">
+<caption>Basic Necklace
+</caption>
+<tbody><tr>
+<th>Rank
+</th>
+<th>Name
+</th>
+<th>Medals required
+</th></tr>
+<tr>
+<td>1
+</td>
+<td>Proven Warrior Necklace
+</td>
+<td>3
+</td></tr>
+<tr>
+<td>2
+</td>
+<td>Brass Proven Warrior Necklace
+</td>
+<td>6
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>Bronze Proven Warrior Necklace
+</td>
+<td>9
+</td></tr>
+<tr>
+<td>4
+</td>
+<td>Silver Proven Warrior Necklace
+</td>
+<td>12
+</td></tr>
+<tr>
+<td>5
+</td>
+<td>Gold Proven Warrior Necklace
+</td>
+<td>15
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>Platinum Proven Warrior Necklace
+</td>
+<td>15
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>Amethyst Proven Warrior Necklace
+</td>
+<td>15
+</td></tr></tbody></table><figure><img src="https://wiki.aa-classic.com/images/d/d8/Rank7.png" width="461" height="434" loading="lazy"><figcaption>Necklace options at rank 7</figcaption></figure>
+<table class="wikitable">
+<caption>Daeier path
+</caption>
+<tbody><tr>
+<th>Rank
+</th>
+<th>Name
+</th>
+<th>Medals equired
+</th>
+<th>Extra items needed
+</th></tr>
+<tr>
+<td>8
+</td>
+<td>Sealed Jade Daeier Necklace
+</td>
+<td>15
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>9
+</td>
+<td>Sealed Diamond Daeier Necklace
+</td>
+<td>15
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>Sealed Archeum Daeier Necklace
+</td>
+<td>15
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>Sealed Archeum Daeier Necklace
+</td>
+<td>15
+</td>
+<td>1 x Large Jewelry Mana Wisp
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>Sealed Archeum Daeier Necklace
+</td>
+<td>15
+</td>
+<td>2 x Large Jewelry Mana Wisp
+</td></tr>
+<tr>
+<td>13
+</td>
+<td>Sealed Archeum Daeier Necklace
+</td>
+<td>15
+</td>
+<td>6 x Large Jewelry Mana Wisp
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption>Evernight path
+</caption>
+<tbody><tr>
+<th>Rank
+</th>
+<th>Name
+</th>
+<th>Medals required
+</th>
+<th>Extra items needed
+</th></tr>
+<tr>
+<td>8
+</td>
+<td>Sealed Jade Evernight Necklace
+</td>
+<td>15
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>9
+</td>
+<td>Sealed Diamond Evernight Necklace
+</td>
+<td>15
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>Sealed  Archeum Evernight Necklace
+</td>
+<td>15
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>Sealed Archeum Evernight Necklace
+</td>
+<td>15
+</td>
+<td>1 x Large Jewelry Mana Wisp
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>Sealed Archeum Evernight Necklace
+</td>
+<td>15
+</td>
+<td>2 x Large Jewelry Mana Wisp
+</td></tr>
+<tr>
+<td>13
+</td>
+<td>Sealed Archeum Evernight Necklace
+</td>
+<td>15
+</td>
+<td>6 x Large Jewelry Mana Wisp
+</td></tr></tbody></table>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Halcyona Necklace"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],false]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Halcyona_Necklace","className":"underline hover:text-text","children":["AAClassic wiki page “","Halcyona Necklace","”"]}]," ","(CC0), last edited ","Apr 3, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Halcyona Necklace · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Halcyona Necklace's name comes from the place you get the materials for it, Halcyona War. By collecting Warrior Medals and going to the Proven Warrior Workbench Proven Warrior Workbench in both factions bases you can…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

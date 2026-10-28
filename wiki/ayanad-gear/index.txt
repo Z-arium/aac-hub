@@ -1,0 +1,270 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","ayanad-gear",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","ayanad-gear","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ayanad-gear","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Tb57,<p>TBC!
+</p><p>Ayanad Gear is the second best Gear in the game and provides a strong, stat-driven alternative to Obsidian. Different to Obsidian, Ayanad is RNG based on stats, given that it is sealed and gives one of the pieces types randomly.
+</p>
+
+<h2 id="The_different_states">The different states</h2>
+<h3 id="Illustrious">Illustrious</h3>
+<p>Illustrious is the first step towards Ayanad and is crafted with no previous gear piece.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Gear Type
+</th>
+<th>Cloth
+</th>
+<th>Leather
+</th>
+<th>Plate
+</th></tr>
+<tr>
+<td><b>Desert</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Lake</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Lightning</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Meadow</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Ocean</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Quake</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Squall</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Stone</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Sunset</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Typhoon</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<h3 id="Magnificent">Magnificent</h3>
+<p>Magnificent is the second step towards Ayanad and requires a certain piece of Illustrious gear to be crafted.
+</p>
+<h3 id="Epherium">Epherium</h3>
+<p>Epherium is the third step towards Ayanad and requires a certain piece of Magnificent gear to be crafted.
+</p>
+<h3 id="Delphinad">Delphinad</h3>
+<p>Delphinad is the forelast step towards Ayanad and requires a certain piece of Epherium gear to be crafted.
+</p>
+<h3 id="Ayanad">Ayanad</h3>
+<p>Ayanad is the last step and requires a certain piece of Delphinad gear to be crafted.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Armor Piece
+</th>
+<th>Illustrious
+</th>
+<th>Magnificent
+</th>
+<th>Epherium
+</th>
+<th>Delphinad
+</th>
+<th>Ayanad
+</th></tr>
+<tr>
+<td>Head
+</td>
+<td>2 - 3
+</td>
+<td>5
+</td>
+<td>15
+</td>
+<td>75
+</td>
+<td>437 - 438
+</td></tr>
+<tr>
+<td>Chest
+</td>
+<td>4
+</td>
+<td>8
+</td>
+<td>24
+</td>
+<td>120
+</td>
+<td>700
+</td></tr>
+<tr>
+<td>Waist
+</td>
+<td>1 - 2
+</td>
+<td>2 - 4
+</td>
+<td>7 - 11
+</td>
+<td>45
+</td>
+<td>175 - 340
+</td></tr>
+<tr>
+<td>Wrist
+</td>
+<td>1 - 2
+</td>
+<td>2 - 4
+</td>
+<td>7 - 11
+</td>
+<td>45
+</td>
+<td>175 - 350
+</td></tr>
+<tr>
+<td>Hands
+</td>
+<td>2 - 3
+</td>
+<td>5
+</td>
+<td>15
+</td>
+<td>75
+</td>
+<td>437 - 438
+</td></tr>
+<tr>
+<td>Legs
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>18
+</td>
+<td>90
+</td>
+<td>525
+</td></tr>
+<tr>
+<td>Feet
+</td>
+<td>2 - 3
+</td>
+<td>5
+</td>
+<td>15
+</td>
+<td>75
+</td>
+<td>437 - 438
+</td></tr>
+<tr>
+<th>Weapon
+</th>
+<th>Illustrious
+</th>
+<th>Magnificent
+</th>
+<th>Epherium
+</th>
+<th>Delphinad
+</th>
+<th>Ayanad
+</th></tr>
+<tr>
+<td>Weapon
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>6
+</td>
+<td>30
+</td>
+<td>175
+</td></tr></tbody></table>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Ayanad Gear"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Ayanad_Gear","className":"underline hover:text-text","children":["AAClassic wiki page “","Ayanad Gear","”"]}]," ","(CC0), last edited ","Mar 23, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","The_different_states",{"className":"","children":["$","a",null,{"href":"#The_different_states","className":"text-muted hover:text-accent","children":"The different states"}]}],["$","li","Illustrious",{"className":"pl-3","children":["$","a",null,{"href":"#Illustrious","className":"text-muted hover:text-accent","children":"Illustrious"}]}],["$","li","Magnificent",{"className":"pl-3","children":["$","a",null,{"href":"#Magnificent","className":"text-muted hover:text-accent","children":"Magnificent"}]}],["$","li","Epherium",{"className":"pl-3","children":["$","a",null,{"href":"#Epherium","className":"text-muted hover:text-accent","children":"Epherium"}]}],["$","li","Delphinad",{"className":"pl-3","children":["$","a",null,{"href":"#Delphinad","className":"text-muted hover:text-accent","children":"Delphinad"}]}],["$","li","Ayanad",{"className":"pl-3","children":["$","a",null,{"href":"#Ayanad","className":"text-muted hover:text-accent","children":"Ayanad"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Ayanad Gear · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"TBC! Ayanad Gear is the second best Gear in the game and provides a strong, stat-driven alternative to Obsidian. Different to Obsidian, Ayanad is RNG based on stats, given that it is sealed and gives one of the pieces…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

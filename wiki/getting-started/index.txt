@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","getting-started",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","getting-started","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","getting-started","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T5a63,<p>If you are interested in starting out on ArcheAge Classic, this is a somewhat in depth guide on how to set up the game, what your first few hours of gameplay will look like, and what you can expect going forward after reaching max level.
+</p><p>Make sure to check out the <a href="/aac-hub/wiki/custom-server-changes">Custom Server Changes</a> page to see what makes ArcheAge Classic unqiue. If you're coming from legacy, check out the <a href="/aac-hub/wiki/joining-classic-from-retail">Joining Classic from Retail</a> page as well.
+</p>
+
+<h2 id="Installing">Installing</h2>
+<p>For a quick video guide on installing ArcheAge Classic, watch: <a rel="noopener" href="https://www.youtube.com/watch?v=DMnoSwndVBI">Installation &amp; Donation Guide</a> 
+</p><p><i>Please note: in regards to the installation video, the need to link your discord account to your in-game account is now no redundant and no longer required, you can ignore this step.</i>
+</p><p>To download the client go to <a rel="noopener" href="http://aa-classic.to">aa-classic.to</a> and make an account. Once you have made an account, click your profile name in the top right and navigate to the <b>Download</b> tab.
+</p><p><a rel="noopener" href="https://forum.aa-classic.com/index.php?threads/commonly-asked-questions-regarding-installation.519/">Installation FAQ</a>
+</p>
+<h2 id="First_Steps">First Steps</h2>
+<p><i>If you're still deciding what class you want to play, take a look at the <a href="/aac-hub/wiki/skill-trees">Skill Trees</a> page. Don't worry though, you can always change your skill trees and the Catch-up Gear Box gives you access to each type of gear set for different classes.</i>
+</p>
+<h3 id="Settings">Settings</h3>
+<p>You'll want to get your settings in place before you start playing. It's recommended that all players take a few moments to set up their hotkeys/action bars, preferred functions etc. Once you do this, you will want to <b>go to character select and then exit the game</b> completely to ensure all of your settings are saved. If you forget this and crash, ArcheAge is notorious for resetting any changes you made but did not save by going to character select.
+</p><p>Here are some QOL setting changes:
+</p>
+<ul><li>Game Settings
+<ul><li>Name Info
+<ul><li>Disable Friendly and Enemy Pet/Summon Names</li>
+<li>Uncheck Display Nation Name</li></ul></li>
+<li>Game Info
+<ul><li>Check Show Health Stats</li>
+<li>Check Show Mana Stats</li>
+<li>Check Close Tutorial (maybe not for brand new players!)</li>
+<li>Check View Frame Rate</li>
+<li>Set Quest Details Map Display to Unlimited</li></ul></li>
+<li>Functionality
+<ul><li>Skill Deployment Location (This is a preference for many players, see what it does and decide if its for you)</li>
+<li>Disable Camera Shake Effects</li>
+<li>Disable Quest Dialogue Close-ups (Unless you're roleplaying/reading Lore)</li>
+<li>Learn where the "Disable Travel Through Other Players' Portals" option is, you'll want to use it when fighting against players trying to grief you.</li>
+<li>If your PC is slow, Show Default Player Appearances can be helpful for your gameplay experience.</li>
+<li>Disable Chat Filter, the game's innate filter makes a lot of words censored for no reason and its more harm than good.</li></ul></li></ul></li></ul>
+<p>After that, set your Hotkeys how you like them, adjust your chat windows if you want. Then, <b>go to character select and then exit the game</b> (you will be glad you did).
+</p>
+<h2 id="Step_1:_Start_the_Main_Story_Quest_(Green_Quests)"><span></span>Step 1: Start the Main Story Quest (Green Quests)</h2>
+<figure><img alt="Yellow &amp; Green quests; Quest Rewards" src="https://wiki.aa-classic.com/images/thumb/b/b3/Questing_SS.png/650px-Questing_SS.png" width="650" height="148" srcset="https://wiki.aa-classic.com/images/b/b3/Questing_SS.png 1.5x" loading="lazy"><figcaption>Yellow &amp; Green quests; Quest Rewards</figcaption></figure>
+<p>This server has modified the Main Story Questline (green quests as many players will call them) compared to other servers to give players a few boosts as needed to propel them more quickly towards the more interesting part of the game.
+</p><p>To level efficiently, you should <b>only</b> do green quests - find the first one for your race and follow the quest line. You will receive <b>adventurer's growthstones</b> as you progress through the story line to keep you leveled without having to do the zone quests (yellow).
+</p><p>Continue doing green quests until you've completed the "Heading to Halcyona" Quest!
+</p>
+<ul><li>For Haranya, there is a Portal in Caernord (Ynystere) that will Teleport you to Halcyona</li>
+<li>Nuia races can just walk south to Halcyona as needed</li></ul>
+<p>Once you've Arrived in Solisa, you should be around level 37. Use all the Adventurer's Growthstones and open the last Equipment Gear Box of your choice before moving on!
+</p><p><i>Each race usually throws a small "gotcha" during the main story quest, if you get stuck, feel free to ask in our community help section on discord, your friends, or read the quest flavor text as it usually has context on where you need to head next.</i> 
+</p><p><i>If you've <a href="/aac-hub/wiki/im-lost-msq">lost your green quest</a>, try changing the Set Quest Details Map Display setting under Game Info to Unlimited. Also, when talking to Recruiter NPC's for quests, the Crimson Omen's Quest will have to be accepted first before the Green Quests you need shows up.</i> 
+</p><p><i>Note: For the <a href="https://wiki.aa-classic.com/index.php?title=Warborn&action=edit&redlink=1" rel="noopener">Warborn</a> green quest "chapter 3 page 12", head back inside of the Inn and talk to the NPC with the yellow questmarker, complete it and it will progress onto the green quest once again.</i>
+</p>
+<h2 id="Step_2:_Do_the_Main_Story_Quest_Until_Level_50">Step 2: Do the Main Story Quest Until Level 50</h2>
+<figure><img alt="End of core Main Story Quests" src="https://wiki.aa-classic.com/images/2/24/End_of_MSQ_location.png" width="269" height="220" loading="lazy"><figcaption>Where you'll be at the end of the core Main Story Quests</figcaption></figure>
+<p>After making it to Halcyona, the story quest is the same for all races. Most quests will be a "find this NPC"  type quest. You'll want to continue these quests (Green Quests only) through Halcyona, Hellswamp and then Sandeep until you've completed the Quest: <b>Across the Sea</b>
+</p><p><i>WARNING: These Zones (especially Halcyona) may sometimes be randomly littered with PvP and the Halcyona War Event, so your safety is no longer promised in these zones going forward.</i>
+</p><p>Once you complete this quest you'll be left staring out over the ocean (see image to the right). Use the rest of the Growthstones provided by the quest completion now until you are <b>at least Level 45.</b>
+</p><p>Now you can use your Teleport Book to teleport straight Kroloal Cradle (Teleport Book -&gt; Dungeons) for the next Green Quest. Zone into Kroloal Cradle and interact with the fire place just inside the entrance and continue following the Green Quest Line along.
+</p><p>
+Once you complete the quest <b>Arra's Ingriedients</b> (flower requirement has been removed), use the new Growthstones given to you again now before moving on to the next step. This should get you level 50. To continue, take the portal at the top of the Veroe Tower to Karkasse Ridgelands.</p><figure><img alt="How to access marketplace mail" src="https://wiki.aa-classic.com/images/1/16/Marketplace_Mail.png" width="293" height="171" loading="lazy"><figcaption>How to access marketplace mail</figcaption></figure>
+<h2 id="Step_3_-_Claim_Your_Catch_Up_Gear">Step 3 - Claim Your Catch Up Gear</h2>
+<p>Congrats on reaching level 50 - you should automatically receive your <a href="/aac-hub/wiki/catch-up-gear-box">Catch-up Gear Box</a> in your inventory. Open it up and equip the gear for your desired class.
+</p><p><i>It may be worth your time to read the <a href="/aac-hub/wiki/gearing-guide#Step_1)_Catch-up_Gear">Catch-up Gear portion of the Gearing Guide</a>. There is information about gemming the gear provided and filling out your slots not filled by the catch up gear.</i>
+</p>
+<h2 id="Step_4_(Optional)_-_Continue_the_Main_Story_Quest_(Getting_to_Auroria)"><span></span>Step 4 (Optional) - Continue the Main Story Quest (Getting to Auroria)</h2>
+<p><i>Note: For Chapter 11.1, you can use a Bound Hereafter Stone, purchased from a general merchant, to complete this quest. You <b>do not</b> need to clear the Ocleera Rift.</i> 
+</p><p>As a new player, you could go about your business however you want at this point. At Level 51, you will have no restrictions from playing normally - but it's recommended to continue the questline for some extra boosts in leveling until you've Reached the Following Quest: <b>The Riven Gates</b>. It is recommended that you stop your story quests once you get to the quests to craft an Obsidian Weapon.  
+</p><p>At this point, you will have also unlocked Chapter 99, which includes custom story quests to introduce players to certain world bosses and <a href="/aac-hub/wiki/activity-tokens">Activity Tokens</a>. Once you complete 99.1, you should receive 1 <a href="/aac-hub/wiki/activity-tokens">Activity Token</a> that can be used to unlock the <a href="/aac-hub/wiki/active-adventurers-appreciated">Active Adventurers Appreciated</a> daily merit quest. 
+</p><p>After that, you're all set to continue your adventures on AA Classic! 
+</p><p><i>It will take about 3-4 hours to get to the Riven Gates Quest with a moderate pace. Quicker if you have someone teleport to locations instead of having to make the walk. If you ever have any questions regarding anything else feel free to stop by the discord and ask the Player Helpers.</i>
+</p>
+<h2 id="Moving_Forward">Moving Forward</h2>
+<p>The catch up bundle enables you to get started with almost any activity you want without the initial grind. Before you dive in too deep though, it's generally a good idea to get level 55. 
+</p><p>If you're a new or returning player, make sure to check out the list of <a href="/aac-hub/wiki/abbreviations">common abbreviations</a> you might see in chat, so that you don't miss out on any content. 
+</p>
+<h3 id="Leveling_to_55">Leveling to 55</h3>
+<p>Levels 50-55 take significantly longer than 1-50. Level 55 unlocks key abilities and skill points for many skill trees. 
+</p><p>Some good ways to get XP at higher levels includes:
+</p>
+<ul><li>Using <a href="https://wiki.aa-classic.com/index.php?title=Labor&action=edit&redlink=1" rel="noopener">labor</a> (higher proficiency in the skill you use will result in more xp!)</li>
+<li>Sign Quests (daily, kill x mobs) in Golden Ruins</li>
+<li><a href="/aac-hub/wiki/ayanad-library">Ayanad Library</a> Dailies / Bosses</li>
+<li>Grinding mobs in <a href="/aac-hub/wiki/auroria">Auroria</a></li>
+<li>Completing World Event quests</li>
+<li>PvP in War / Conflict zones</li>
+<li>Killing <a href="/aac-hub/wiki/world-bosses">World Bosses</a> (growthstones as a reward)</li></ul>
+<h3 id="Making_Gold">Making Gold</h3>
+<p><i>For more information, check out the <a href="/aac-hub/wiki/earning-gold">Earning Gold</a> wiki page.</i>
+</p><p>The primary method of making gold in ArcheAge is using your labor to farm, craft, do trade runs, and much more. 
+</p><p>There are many different viable ways to make money. Some may be more labor efficient, but take significant time investment, while others may burn through your labor faster, but net you less profit. You can explore different options in the folio (default keybind: "o").
+</p><p>An important concept to understand in ArcheAge is "Silver Per Labor (s/l)". For example, crafting 3 logs that each cost 5 silver into a piece of lumber you can sell for 25 silver, which costs 5 labor to perform would net you 10 silver for 5 labor - or 2s/l. Ideally you want to find a high silver per labor task that allows you to burn your labor in a manner that fits to your playstyle and the amount of time you play.
+</p><p>Below is a list of some common money making methods. Take some time to figure out what fits your playstyle. 
+</p>
+<ul><li><a href="/aac-hub/wiki/commerce">Running trade packs</a></li>
+<li><a href="/aac-hub/wiki/fishing">Fishing</a></li>
+<li><a href="/aac-hub/wiki/larceny">Farming mob drops / coin purses</a></li>
+<li>Crafting</li>
+<li>Farming</li>
+<li><a href="/aac-hub/wiki/auroria#Burning_Logs_and_Mineral_Waters">Auroria Land</a></li></ul>
+<p>The more labor you invest into a given proficiency, the more labor efficient you will be doing those tasks are in the future.
+</p>
+<h3 id="New_Player_Housing">New Player Housing</h3>
+<p>On ArcheAge classic special housing zones have been reserved for new and returning players, these areas apply special restrictions to who can build in them, helping players begin their journey into the world. You can find out where they are for your faction, as well as reading about these restrictions, on the <a href="/aac-hub/wiki/new-player-housing">New Player Housing</a> page.
+</p>
+<h3 id="World_Events">World Events</h3>
+<p>ArcheAge has many different events going on all throughout the day. World events are essential to progressing by earning honor and items such as Warrior Medals. They are also an important part of ArcheAge's gameplay, so make sure to try them out. Each faction will generally start a raid for each event and you will see peoplg x'ing up in faction chat for each given event.
+</p><p><i>To see when each event is, check out the <a href="/aac-hub/wiki/event-calendar">Event Calendar</a>.</i>
+</p>
+<h4 id="PvP_World_Events">PvP World Events</h4>
+<p><i>The main focus of these events is PvP. Be ready to buff up and die.</i>
+</p>
+<ul><li><a href="/aac-hub/wiki/world-events#Halcyona_War">Golden Plains Battle (Halcyona)</a></li>
+<li><a href="/aac-hub/wiki/world-events#Mistmerrow_-_MM">Mistmerrow</a></li>
+<li><a href="/aac-hub/wiki/world-events#Lusca">Luscas</a></li>
+<li><a href="/aac-hub/wiki/abyssal-attack">Abyssal Attack</a></li>
+<li><a href="/aac-hub/wiki/crystalline-bloodbath">Crystalline Bloodbath</a></li></ul>
+<h4 id="PvE_World_events">PvE World events</h4>
+<p><i>PvP may not be the main focus of these events, but it can still happen at some. If it does, enjoy it!</i>
+</p>
+<ul><li><a href="/aac-hub/wiki/world-events#Crimson_Rift_-_CR">Crimson Rift</a> <i>(12:00 in game time)</i></li>
+<li><a href="/aac-hub/wiki/world-events#Grimgast_Rift_-_GR">Grimghast Rift</a> <i>(00:00 in game time)</i></li>
+<li><a href="/aac-hub/wiki/world-events#Mistmerrow_-_MM">Kadum / Hereafter Gates</a></li>
+<li><a href="https://wiki.aa-classic.com/index.php?title=Occlera_Rift&action=edit&redlink=1" rel="noopener">Ocleera Rift</a></li></ul>
+<h3 id="Gear">Gear</h3>
+<p><i>The various gear options can be found in the Equipment Encyclopedia (default keybind "shift-i").</i>
+</p><p><i>For more specific information about gearing, check out the <a href="/aac-hub/wiki/gearing-guide">Gearing Guide</a>.</i>
+</p><p><i>You can find player-made starter gear sets on <a rel="noopener" href="http://darugear.com">darugear.com</a>.</i>
+</p><p><i>One way to get an idea of what your gear should look like is to take a look at someone who plays your chosen class on the top gear score list. You won't be able to copy them exactly, but it should give you a good idea as to what pieces you'll want in different slots.</i>
+</p><p>The gear you receive from the <a href="/aac-hub/wiki/catch-up-gear-box">catch-up bundle</a> should suffice while you get started on the server. Since it's pretty good gear, upgrades to it may be a bit expensive. Before spending a bunch of money on gear, make sure you have a reliable way to make more money.
+</p>
+<h5 id="Crafted_Gear">Crafted Gear</h5>
+<p>This gear is crafted and tiered up in various ways, but generally with mana wisps and resources. Each time you tier up a piece of this type of gear, it has a chance to have one of many rolls which determines the stats the gear gives. Each piece has a specific roll that allows you to upgrade it to the next tier. 
+</p><p>Crafted gear of the same roll has set effects for 4-piece and 7-piece sets. 
+</p><p>This type of gear is tradeable at all times.
+</p>
+<h5 id="Dungeon_Gear">Dungeon Gear</h5>
+<p>Dungeon gear is initially acquired through dungeons and is a good source for early-game gearing as they have much <a href="/aac-hub/wiki/regrade-rates">higher chances of success when regrading</a>. Generally, players will acquire armor pieces from <a href="https://wiki.aa-classic.com/index.php?title=Greater_Howling_Abyss_(GHA)&action=edit&redlink=1" rel="noopener">Greater Howling Abyss (GHA)</a>, regrade them to Divine, then craft the piece into an <a href="/aac-hub/wiki/arias-autograph">Aria's Autograph</a> which can be opened into a chosen piece of armor from <a href="https://wiki.aa-classic.com/index.php?title=Mistsong_Summit_(MSS)&action=edit&redlink=1" rel="noopener">Mistsong Summit (MSS)</a> while maintaining the same grade. You will find that dungeon gear makes up the armor pieces for many of the starter gear sets on <a rel="noopener" href="http://darugear.com">darugear.com</a>. 
+</p><p>Dungeon gear is also notable for certain pieces that synergize well with specific classes. Most notably, almost every class is going to want <a href="/aac-hub/wiki/serp-sleeves">serp sleeves</a> for their arm slot. These are crafted by getting a full set of your class' from the dungeon <a href="/aac-hub/wiki/serpentis">Serpentis</a> in Exeloch and combining them into a single piece that goes in your arm slot. You may also see melee classes using a Seastorm Tricorne from "Sea of Drowned Love" (otherwise known as Dahuta).  
+</p>
+<h5 id="Obsidian_Gear">Obsidian Gear</h5>
+<figure><img alt="Auroria Gear Example" src="https://wiki.aa-classic.com/images/e/ea/Auroria_Gear_Example.png" width="236" height="559" loading="lazy"><figcaption>Auroria Gear Example</figcaption></figure>
+<p>This gear is also crafted, but it is tiered up using mana wisps and mob drops rather than RNG crafting. There are no obsidian waist or arm pieces. At higher tiers, each type of obsidian armor splits into 2 trees you can pick from when tiering it up to provide different stats or passives depending on what your class wants.
+</p><p>Obsidian gear binds on equip, but can be unbound by tiering it up. 
+</p><p>There are no obsidian accessories.
+</p>
+<h5 id="World_Gear">World Gear</h5>
+<p>World gear is gear acquired from mobs, world bosses, and various other sources.
+</p><p>The gear in the catch up bundle is generally better than world gear. However, the catch up bundle does not provide players armor for their belt or sleeves slot. A cheap option to fill these slots early on is Lost Garden Gear. Open the Auction House -&gt; Select Armor -&gt; Search "Auroria" to view all these pieces. Lost Garden Gear provides decent stats and a equip passive that boosts a specific ability (see image). 
+</p><p>Generally, you will use a mix of various types of gear in your eventual gear set. 
+</p>
+<h4 id="Lunagems_/_Lunafrosts"><span></span>Lunagems / Lunafrosts</h4>
+<p>Lunagems and Lunafrosts can be bought from the honor shop.
+</p><p>Lunagems (gems) slot into each armor piece and weapon you have and are extremely important for both gear score and actual gear effectiveness. Most importantly, you will want toughness and resilience gems in your armor as these will significantly improve your chance of surviving PvP encounters.
+</p><p>Lunafrosts (frosts) provide an additional enhancement to each piece of gear with a specific enhancement based on the frost type. 
+</p>
+<h4 id="Weapons">Weapons</h4>
+<p>For most classes, it's generally a good idea to improve your weapon before your armor.
+</p><p>Weapons have hidden passives that have a chance to proc when attacking.
+</p>
+<table class="wikitable">
+<caption>One handers
+</caption>
+<tbody><tr>
+<th>Weapon Type
+</th>
+<th>Attack Speed
+</th>
+<th>Effect
+</th></tr>
+<tr>
+<td>Dagger
+</td>
+<td>1.4
+</td>
+<td>Increases your attack speed for a short duration
+</td></tr>
+<tr>
+<td>Sword
+</td>
+<td>1.6
+</td>
+<td>Parries the next attack received
+</td></tr>
+<tr>
+<td>Katana
+</td>
+<td>1.5
+</td>
+<td>Your next attack will be a critical
+</td></tr>
+<tr>
+<td>Axe
+</td>
+<td>1.7
+</td>
+<td>Regen health equal to 2% damage dealt for 3 seconds
+</td></tr>
+<tr>
+<td>Club
+</td>
+<td>1.8
+</td>
+<td>10% chance to regen mana
+</td></tr>
+<tr>
+<td>Scepter
+</td>
+<td>1.8
+</td>
+<td>Chance on hit to decrease cast time for 7 seconds
+</td></tr>
+<tr>
+<td>Shortspear
+</td>
+<td>2
+</td>
+<td>Chance to greatly reduce the enemy's physical defense
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption>Two Handers
+</caption>
+<tbody><tr>
+<th>Weapon Type
+</th>
+<th>Attack Speed
+</th>
+<th>Effect
+</th></tr>
+<tr>
+<td>Greataxe
+</td>
+<td>2.2
+</td>
+<td>Chance to inflict bleed on the target for 14 seconds
+</td></tr>
+<tr>
+<td>Bow
+</td>
+<td>0.7
+</td>
+<td>Chance to poison the enemy and to increase DPS by 15 for 15 seconds.
+</td></tr>
+<tr>
+<td>Greatclub
+</td>
+<td>2.2
+</td>
+<td>Chance to stun enemy for 1.5 seconds
+</td></tr>
+<tr>
+<td>Longspear
+</td>
+<td>2.5
+</td>
+<td>Chance to greatly ignore enemy defenses
+</td></tr>
+<tr>
+<td>Nodachi
+</td>
+<td>2
+</td>
+<td>Chance for your next attack to be a critical attack
+</td></tr>
+<tr>
+<td>Staff
+</td>
+<td>2.3
+</td>
+<td>Chance to restore a small amount of mana when inflicting magic damage
+</td></tr>
+<tr>
+<td>Greatsword
+</td>
+<td>21
+</td>
+<td>Chance to parry the next attack when receiving damage
+</td></tr></tbody></table>
+<h4 id="Armor">Armor</h4>
+<p>There are 3 types of armor: <a href="https://wiki.aa-classic.com/index.php?title=Cloth_Armor&action=edit&redlink=1" rel="noopener">cloth</a>, <a href="https://wiki.aa-classic.com/index.php?title=Leather_Armor&action=edit&redlink=1" rel="noopener">leather</a>, and <a href="https://wiki.aa-classic.com/index.php?title=Plate_Armor&action=edit&redlink=1" rel="noopener">plate</a>. Mages and healers usually go cloth. Melee and archer usually go leather. Some tank classes can run plate, but it's less common.
+</p>
+<h4 id="Accessories">Accessories</h4>
+<p>Certain dungeon / quest line accessories are best in slot for certain classes such as:
+</p>
+<ul><li><a href="/aac-hub/wiki/halcyona-necklace">Halcyona Necklace</a></li>
+<li><a href="/aac-hub/wiki/dream-ring">Dream Ring</a></li>
+<li><a href="/aac-hub/wiki/ynystere-ring">Ynystere Ring</a></li>
+<li><a href="https://wiki.aa-classic.com/index.php?title=Library_Earring&action=edit&redlink=1" rel="noopener">Library Earring</a></li></ul>
+<p>While working towards these pieces or to fill your remaining slots, use crafted accessories or accessories dropped as loot from mobs. <a href="/aac-hub/wiki/activity-tokens">Activity Tokens</a> can also be exchanged for a decent set of accessories for starting players.
+</p>
+<h3 id="Housing">Housing</h3>
+<p>It's recommended you start working on housing after you are levelled up, as it can be a crucial component of your economy. 
+</p><p>For new players, <a href="/aac-hub/wiki/new-player-housing">New Player Housing</a> is available to give you an easier time finding your first bit of land.
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/new-players","className":"text-accent-2 hover:underline","children":"New Players"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Getting Started"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Getting_Started","className":"underline hover:text-text","children":["AAClassic wiki page “","Getting Started","”"]}]," ","(CC0), last edited ","Sep 13, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Installing",{"className":"","children":["$","a",null,{"href":"#Installing","className":"text-muted hover:text-accent","children":"Installing"}]}],["$","li","First_Steps",{"className":"","children":["$","a",null,{"href":"#First_Steps","className":"text-muted hover:text-accent","children":"First Steps"}]}],["$","li","Settings",{"className":"pl-3","children":["$","a",null,{"href":"#Settings","className":"text-muted hover:text-accent","children":"Settings"}]}],["$","li","Step_1:_Start_the_Main_Story_Quest_(Green_Quests)",{"className":"","children":["$","a",null,{"href":"#Step_1:_Start_the_Main_Story_Quest_(Green_Quests)","className":"text-muted hover:text-accent","children":"Step 1: Start the Main Story Quest (Green Quests)"}]}],["$","li","Step_2:_Do_the_Main_Story_Quest_Until_Level_50",{"className":"","children":["$","a",null,{"href":"#Step_2:_Do_the_Main_Story_Quest_Until_Level_50","className":"text-muted hover:text-accent","children":"Step 2: Do the Main Story Quest Until Level 50"}]}],["$","li","Step_3_-_Claim_Your_Catch_Up_Gear",{"className":"","children":["$","a",null,{"href":"#Step_3_-_Claim_Your_Catch_Up_Gear","className":"text-muted hover:text-accent","children":"Step 3 - Claim Your Catch Up Gear"}]}],["$","li","Step_4_(Optional)_-_Continue_the_Main_Story_Quest_(Getting_to_Auroria)",{"className":"","children":["$","a",null,{"href":"#Step_4_(Optional)_-_Continue_the_Main_Story_Quest_(Getting_to_Auroria)","className":"text-muted hover:text-accent","children":"Step 4 (Optional) - Continue the Main Story Quest (Getting to Auroria)"}]}],["$","li","Moving_Forward",{"className":"","children":["$","a",null,{"href":"#Moving_Forward","className":"text-muted hover:text-accent","children":"Moving Forward"}]}],["$","li","Leveling_to_55",{"className":"pl-3","children":["$","a",null,{"href":"#Leveling_to_55","className":"text-muted hover:text-accent","children":"Leveling to 55"}]}],["$","li","Making_Gold",{"className":"pl-3","children":["$","a",null,{"href":"#Making_Gold","className":"text-muted hover:text-accent","children":"Making Gold"}]}],["$","li","New_Player_Housing",{"className":"pl-3","children":["$","a",null,{"href":"#New_Player_Housing","className":"text-muted hover:text-accent","children":"New Player Housing"}]}],["$","li","World_Events",{"className":"pl-3","children":["$","a",null,{"href":"#World_Events","className":"text-muted hover:text-accent","children":"World Events"}]}],["$","li","Gear",{"className":"pl-3","children":["$","a",null,{"href":"#Gear","className":"text-muted hover:text-accent","children":"Gear"}]}],["$","li","Housing",{"className":"pl-3","children":["$","a",null,{"href":"#Housing","className":"text-muted hover:text-accent","children":"Housing"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Getting Started · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"If you are interested in starting out on ArcheAge Classic, this is a somewhat in depth guide on how to set up the game, what your first few hours of gameplay will look like, and what you can expect going forward after…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

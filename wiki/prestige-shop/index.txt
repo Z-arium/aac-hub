@@ -1,0 +1,265 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","prestige-shop",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","prestige-shop","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","prestige-shop","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T8ce7,<p>The <b>Prestige Shop</b> is a shop found in your Guild interface that sells a variety of gear, gems and consumables.
+</p>
+<h2 id="Shop">Shop</h2>
+<table class="wikitable" style="width: 830px">
+<tbody><tr>
+<th style="width: 338px">Item
+</th>
+<th style="width: 77px">Price
+</th>
+<th style="width: 338px">Item
+</th>
+<th style="width: 77px">Price
+</th></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/c/c7/GliderCustomizationGoldenWyrmkin.png/32px-GliderCustomizationGoldenWyrmkin.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/c/c7/GliderCustomizationGoldenWyrmkin.png/48px-GliderCustomizationGoldenWyrmkin.png 1.5x, https://wiki.aa-classic.com/images/c/c7/GliderCustomizationGoldenWyrmkin.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/40510">Glider Customization: Golden Wyrmwings</a>
+</td>
+<td style="text-align:right; vertical-align:middle">3000<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/8001095">Melee Basic Costume</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/8001096">Ranged Basic Costume</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/8001097">Magic Basic Costume</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/8001098">Healing Basic Costume</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/3/3f/IconTerritoryWorkPermit.png/32px-IconTerritoryWorkPermit.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/3/3f/IconTerritoryWorkPermit.png/48px-IconTerritoryWorkPermit.png 1.5x, https://wiki.aa-classic.com/images/3/3f/IconTerritoryWorkPermit.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/40365">Blank Territory Work Permit</a>
+</td>
+<td style="text-align:right; vertical-align:middle">30<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/4740">Pinion Portal: Halcyona</a>
+</td>
+<td style="text-align:right; vertical-align:middle">2<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/4741">Pinion Portal: Hasla</a>
+</td>
+<td style="text-align:right; vertical-align:middle">2<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/4742">Pinion Portal: Diamond Shores</a>
+</td>
+<td style="text-align:right; vertical-align:middle">3<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/4743">Pinion Portal: Mistmerrow</a>
+</td>
+<td style="text-align:right; vertical-align:middle">4<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/97/EpheriumArrowflashCloak.png/32px-EpheriumArrowflashCloak.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/97/EpheriumArrowflashCloak.png/48px-EpheriumArrowflashCloak.png 1.5x, https://wiki.aa-classic.com/images/9/97/EpheriumArrowflashCloak.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/38679">Epherium Arrowflash Cloak</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/5/5b/EpheriumHatchetbladeCloak.png/32px-EpheriumHatchetbladeCloak.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/5/5b/EpheriumHatchetbladeCloak.png/48px-EpheriumHatchetbladeCloak.png 1.5x, https://wiki.aa-classic.com/images/5/5b/EpheriumHatchetbladeCloak.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/38682">Epherium Hatchetblade Cloak</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/c/c1/EpheriumWindsongCloak.png/32px-EpheriumWindsongCloak.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/c/c1/EpheriumWindsongCloak.png/48px-EpheriumWindsongCloak.png 1.5x, https://wiki.aa-classic.com/images/c/c1/EpheriumWindsongCloak.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/38670">Epherium Windsong Cloak</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f9/EpheriumTwintailCloak.png/32px-EpheriumTwintailCloak.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f9/EpheriumTwintailCloak.png/48px-EpheriumTwintailCloak.png 1.5x, https://wiki.aa-classic.com/images/f/f9/EpheriumTwintailCloak.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/38673">Epherium Twintail Cloak</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/a/a4/EpheriumBastionCloak.png/32px-EpheriumBastionCloak.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/a/a4/EpheriumBastionCloak.png/48px-EpheriumBastionCloak.png 1.5x, https://wiki.aa-classic.com/images/a/a4/EpheriumBastionCloak.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/38676">Epherium Bastion Cloak</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/b0/MirrorofBoundaries.png/32px-MirrorofBoundaries.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/b0/MirrorofBoundaries.png/48px-MirrorofBoundaries.png 1.5x, https://wiki.aa-classic.com/images/b/b0/MirrorofBoundaries.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/40202">Mirror of Boundaries</a>
+</td>
+<td style="text-align:right; vertical-align:middle">8<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/8/8d/PeaceTreaty.png/32px-PeaceTreaty.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/8/8d/PeaceTreaty.png/48px-PeaceTreaty.png 1.5x, https://wiki.aa-classic.com/images/8/8d/PeaceTreaty.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/38925">Peace Treaty</a>
+</td>
+<td style="text-align:right; vertical-align:middle">80<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/b2/GuildFlare.png/32px-GuildFlare.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/b2/GuildFlare.png/48px-GuildFlare.png 1.5x, https://wiki.aa-classic.com/images/b/b2/GuildFlare.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39037">Guild Flare</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/c/c8/BloodArcheumCrystal.png/32px-BloodArcheumCrystal.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/c/c8/BloodArcheumCrystal.png/48px-BloodArcheumCrystal.png 1.5x, https://wiki.aa-classic.com/images/c/c8/BloodArcheumCrystal.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39576">Blood Archeum Crystal</a>
+</td>
+<td style="text-align:right; vertical-align:middle">20<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/97/GreaterWeaponTemper.png/32px-GreaterWeaponTemper.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/97/GreaterWeaponTemper.png/48px-GreaterWeaponTemper.png 1.5x, https://wiki.aa-classic.com/images/9/97/GreaterWeaponTemper.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39320">Greater Weapon Temper</a>
+</td>
+<td style="text-align:right; vertical-align:middle">30<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f1/GreaterArmorTemper.png/32px-GreaterArmorTemper.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f1/GreaterArmorTemper.png/48px-GreaterArmorTemper.png 1.5x, https://wiki.aa-classic.com/images/f/f1/GreaterArmorTemper.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39321">Greater Armor Temper</a>
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/bd/PioneerEarring.png/32px-PioneerEarring.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/bd/PioneerEarring.png/48px-PioneerEarring.png 1.5x, https://wiki.aa-classic.com/images/b/bd/PioneerEarring.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39055">Pioneer Earrings</a>
+</td>
+<td style="text-align:right; vertical-align:middle">2000<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/4/44/CloudstrikePanther.png/32px-CloudstrikePanther.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/4/44/CloudstrikePanther.png/48px-CloudstrikePanther.png 1.5x, https://wiki.aa-classic.com/images/4/44/CloudstrikePanther.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39564">Cloudstrike Panther</a>
+</td>
+<td style="text-align:right; vertical-align:middle">2000<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/ff/ClearEarthLunagem.png/32px-ClearEarthLunagem.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/ff/ClearEarthLunagem.png/48px-ClearEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/f/ff/ClearEarthLunagem.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39056">Clear Earth Lunagem: Tempest</a>
+</td>
+<td style="text-align:right; vertical-align:middle">3<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/b4/VividEarthLunagem.png/32px-VividEarthLunagem.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/b4/VividEarthLunagem.png/48px-VividEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/b/b4/VividEarthLunagem.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39057">Vivid Earth Lunagem: Tempest</a>
+</td>
+<td style="text-align:right; vertical-align:middle">9<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/8/80/LucidEarthLunagem.png/32px-LucidEarthLunagem.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/8/80/LucidEarthLunagem.png/48px-LucidEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/8/80/LucidEarthLunagem.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39058">Lucid Earth Lunagem: Tempest</a>
+</td>
+<td style="text-align:right; vertical-align:middle">30<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/c/ca/RadiantEarthLunagem.png/32px-RadiantEarthLunagem.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/c/ca/RadiantEarthLunagem.png/48px-RadiantEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/c/ca/RadiantEarthLunagem.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39613">Radiant Earth Lunagem: Tempest</a>
+</td>
+<td style="text-align:right; vertical-align:middle">66<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/40939">Vivid Earth Lunascale: Intercept</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39059">Vivid Earth Lunascale: Vitality</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39060">Vivid Earth Lunascale: Finesse</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39061">Vivid Earth Lunascale: Esoteric</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39062">Vivid Earth Lunascale: Celerity</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39063">Vivid Earth Lunascale: Impenetrable</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39064">Vivid Gale Lunascale: Aggro</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39065">Vivid Gale Lunascale: Consolation</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39066">Vivid Gale Lunascale: Overpower</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39067">Vivid Gale Lunascale: Solace</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39068">Vivid Gale Lunascale: Tempest</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39069">Vivid Gale Lunascale: Torrent</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39070">Vivid Gale Lunascale: Pierce</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39071">Vivid Gale Lunascale: Breakthrough</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/40938">Vivid Gale Lunascale: Clash</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/ff/Custom_Hoof-Harmony_Saddle.png/32px-Custom_Hoof-Harmony_Saddle.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/ff/Custom_Hoof-Harmony_Saddle.png/48px-Custom_Hoof-Harmony_Saddle.png 1.5x, https://wiki.aa-classic.com/images/f/ff/Custom_Hoof-Harmony_Saddle.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39835">Custom Hoof-Harmony Saddle</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/e/ee/Custom_Antler-Accord_Saddle.png/32px-Custom_Antler-Accord_Saddle.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/e/ee/Custom_Antler-Accord_Saddle.png/48px-Custom_Antler-Accord_Saddle.png 1.5x, https://wiki.aa-classic.com/images/e/ee/Custom_Antler-Accord_Saddle.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39839">Custom Antler-Accord Saddle</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/8/82/Custom_Anima-Alliance_Leomorph_Saddle.png/32px-Custom_Anima-Alliance_Leomorph_Saddle.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/8/82/Custom_Anima-Alliance_Leomorph_Saddle.png/48px-Custom_Anima-Alliance_Leomorph_Saddle.png 1.5x, https://wiki.aa-classic.com/images/8/82/Custom_Anima-Alliance_Leomorph_Saddle.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39843">Custom Anima-Alliance Leomorph Saddle</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/1/14/Custom_Mane-Morale_Saddle.png/32px-Custom_Mane-Morale_Saddle.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/1/14/Custom_Mane-Morale_Saddle.png/48px-Custom_Mane-Morale_Saddle.png 1.5x, https://wiki.aa-classic.com/images/1/14/Custom_Mane-Morale_Saddle.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39847">Custom Mane-Morale Saddle</a>
+</td>
+<td style="text-align:right; vertical-align:middle">150<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/6/6d/Hoof-Harmony_Horse_Armor_Crate.png/32px-Hoof-Harmony_Horse_Armor_Crate.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/6/6d/Hoof-Harmony_Horse_Armor_Crate.png/48px-Hoof-Harmony_Horse_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/6/6d/Hoof-Harmony_Horse_Armor_Crate.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39861">Hoof-Harmony Horse Armor Crate</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/9f/Antler-Accord_Elk_Armor_Crate.png/32px-Antler-Accord_Elk_Armor_Crate.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/9f/Antler-Accord_Elk_Armor_Crate.png/48px-Antler-Accord_Elk_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/9/9f/Antler-Accord_Elk_Armor_Crate.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39862">Antler-Accord Elk Armor Crate</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/8/8f/Anima-Alliance_Leomorph_Armor_Crate.png/32px-Anima-Alliance_Leomorph_Armor_Crate.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/8/8f/Anima-Alliance_Leomorph_Armor_Crate.png/48px-Anima-Alliance_Leomorph_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/8/8f/Anima-Alliance_Leomorph_Armor_Crate.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39863">Anima-Alliance Leomorph Armor Crate</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/6/67/Mane-Morale_Snowlion_Armor_Crate.png/32px-Mane-Morale_Snowlion_Armor_Crate.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/6/67/Mane-Morale_Snowlion_Armor_Crate.png/48px-Mane-Morale_Snowlion_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/6/67/Mane-Morale_Snowlion_Armor_Crate.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39864">Mane-Morale Snowlion Armor Crate</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/7/7f/Misagon%27s_Crystal.png/32px-Misagon%27s_Crystal.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/7/7f/Misagon%27s_Crystal.png/48px-Misagon%27s_Crystal.png 1.5x, https://wiki.aa-classic.com/images/7/7f/Misagon%27s_Crystal.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/8000966">Misagon's Crystal</a>
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/d/df/Misagon%27s_Hidden_Crate.png/32px-Misagon%27s_Hidden_Crate.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/d/df/Misagon%27s_Hidden_Crate.png/48px-Misagon%27s_Hidden_Crate.png 1.5x, https://wiki.aa-classic.com/images/d/df/Misagon%27s_Hidden_Crate.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/8001876">Misagon's Hidden Crate</a>
+</td>
+<td style="text-align:right; vertical-align:middle">8<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr></tbody></table>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/economy-and-trade","className":"text-accent-2 hover:underline","children":"Economy & Trade"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Prestige Shop"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],false]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Prestige_Shop","className":"underline hover:text-text","children":["AAClassic wiki page “","Prestige Shop","”"]}]," ","(CC0), last edited ","Sep 3, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Prestige Shop · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"The Prestige Shop is a shop found in your Guild interface that sells a variety of gear, gems and consumables. Shop Item Price Item Price Glider Customization: Golden Wyrmwings 3000 Melee Basic Costume 200 Ranged Basic…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

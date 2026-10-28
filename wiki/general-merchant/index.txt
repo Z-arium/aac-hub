@@ -1,0 +1,252 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","general-merchant",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","general-merchant","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","general-merchant","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T801a,<p>The <b>General Merchant</b> is a merchant NPC that sells a variety of general-purpose goods and supplies.
+</p>
+<h2 id="Shop">Shop</h2>
+<table class="wikitable" style="width: 830px">
+<tbody><tr>
+<th style="width: 325px">Item
+</th>
+<th style="width: 90px">Price
+</th>
+<th style="width: 325px">Item
+</th>
+<th style="width: 90px">Price
+</th></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/6/62/Archeage_oSu3DepR17.png/32px-Archeage_oSu3DepR17.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/6/62/Archeage_oSu3DepR17.png/48px-Archeage_oSu3DepR17.png 1.5x, https://wiki.aa-classic.com/images/6/62/Archeage_oSu3DepR17.png 2x" loading="lazy"></span>&#160; <a rel="noopener" href="https://aa-classic.com/database/item/39319">Weapon Temper</a>
+</td>
+<td style="text-align:right; vertical-align:middle">30<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f6/Archeage_lJHr9TZONc.png/32px-Archeage_lJHr9TZONc.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f6/Archeage_lJHr9TZONc.png/48px-Archeage_lJHr9TZONc.png 1.5x, https://wiki.aa-classic.com/images/f/f6/Archeage_lJHr9TZONc.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8000567">Armor Temper</a>
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/0/0b/Archeage_k2xaCIoQIl.png/32px-Archeage_k2xaCIoQIl.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/0/0b/Archeage_k2xaCIoQIl.png/48px-Archeage_k2xaCIoQIl.png 1.5x, https://wiki.aa-classic.com/images/0/0b/Archeage_k2xaCIoQIl.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/35898">Shatigon's Sand</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/5/5a/Archeage_aoHPGdy2SK.png/32px-Archeage_aoHPGdy2SK.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/5/5a/Archeage_aoHPGdy2SK.png/48px-Archeage_aoHPGdy2SK.png 1.5x, https://wiki.aa-classic.com/images/5/5a/Archeage_aoHPGdy2SK.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/19812">Evenstone</a>
+</td>
+<td style="text-align:right; vertical-align:middle">5<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/1/14/Archeage_NXYndSGGOH.png/32px-Archeage_NXYndSGGOH.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/1/14/Archeage_NXYndSGGOH.png/48px-Archeage_NXYndSGGOH.png 1.5x, https://wiki.aa-classic.com/images/1/14/Archeage_NXYndSGGOH.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/327">Dawnstone</a>
+</td>
+<td style="text-align:right; vertical-align:middle">5<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/9f/Archeage_VHga0hFq2V.png/32px-Archeage_VHga0hFq2V.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/9f/Archeage_VHga0hFq2V.png/48px-Archeage_VHga0hFq2V.png 1.5x, https://wiki.aa-classic.com/images/9/9f/Archeage_VHga0hFq2V.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/417">Bound Hereafter Stone</a>
+</td>
+<td style="text-align:right; vertical-align:middle">75<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/7/72/Archeage_r7V2uHYWwv.png/32px-Archeage_r7V2uHYWwv.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/7/72/Archeage_r7V2uHYWwv.png/48px-Archeage_r7V2uHYWwv.png 1.5x, https://wiki.aa-classic.com/images/7/72/Archeage_r7V2uHYWwv.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/9000136">Hellkissed Evenstone</a>
+</td>
+<td style="text-align:right; vertical-align:middle">5<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/d/d3/Archeage_T303ALguQD.png/32px-Archeage_T303ALguQD.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/d/d3/Archeage_T303ALguQD.png/48px-Archeage_T303ALguQD.png 1.5x, https://wiki.aa-classic.com/images/d/d3/Archeage_T303ALguQD.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/4045">Teleport Book</a>
+</td>
+<td style="text-align:right; vertical-align:middle">30<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/3/39/Archeage_NhfURNIOe6.png/32px-Archeage_NhfURNIOe6.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/3/39/Archeage_NhfURNIOe6.png/48px-Archeage_NhfURNIOe6.png 1.5x, https://wiki.aa-classic.com/images/3/39/Archeage_NhfURNIOe6.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8326">Blue Salt Knife</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/0/0c/Copper.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/0/0f/Archeage_bjYRBOlkUB.png/32px-Archeage_bjYRBOlkUB.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/0/0f/Archeage_bjYRBOlkUB.png/48px-Archeage_bjYRBOlkUB.png 1.5x, https://wiki.aa-classic.com/images/0/0f/Archeage_bjYRBOlkUB.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8329">Blue Salt Hammer</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/2/24/Archeage_6dZrfzvsGl.png/32px-Archeage_6dZrfzvsGl.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/2/24/Archeage_6dZrfzvsGl.png/48px-Archeage_6dZrfzvsGl.png 1.5x, https://wiki.aa-classic.com/images/2/24/Archeage_6dZrfzvsGl.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/43298">Shadow Daru Trader</a>
+</td>
+<td style="text-align:right; vertical-align:middle">20<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/4/4a/Archeage_oRdK8fo8hR.png/32px-Archeage_oRdK8fo8hR.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/4/4a/Archeage_oRdK8fo8hR.png/48px-Archeage_oRdK8fo8hR.png 1.5x, https://wiki.aa-classic.com/images/4/4a/Archeage_oRdK8fo8hR.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/43270">Transportation Ticket: "Follow"</a>
+</td>
+<td style="text-align:right; vertical-align:middle">2<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>50<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/2/26/Archeage_WcrWijFafj.png/32px-Archeage_WcrWijFafj.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/2/26/Archeage_WcrWijFafj.png/48px-Archeage_WcrWijFafj.png 1.5x, https://wiki.aa-classic.com/images/2/26/Archeage_WcrWijFafj.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8001364">Cloaked Strength Migration Talisman</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/b2/Archeage_YI6bv89giS.png/32px-Archeage_YI6bv89giS.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/b2/Archeage_YI6bv89giS.png/48px-Archeage_YI6bv89giS.png 1.5x, https://wiki.aa-classic.com/images/b/b2/Archeage_YI6bv89giS.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8001365">Cloaked Agility Migration Talisman</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/4/4d/Archeage_McGdobZnuX.png/32px-Archeage_McGdobZnuX.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/4/4d/Archeage_McGdobZnuX.png/48px-Archeage_McGdobZnuX.png 1.5x, https://wiki.aa-classic.com/images/4/4d/Archeage_McGdobZnuX.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8001366">Cloaked Stamina Migration Talisman</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/5/5d/Archeage_G5ocie1VCJ.png/32px-Archeage_G5ocie1VCJ.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/5/5d/Archeage_G5ocie1VCJ.png/48px-Archeage_G5ocie1VCJ.png 1.5x, https://wiki.aa-classic.com/images/5/5d/Archeage_G5ocie1VCJ.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8001367">Cloaked Intelligence Migration Talisman</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/5/5f/Archeage_T7wWhd0Rv5.png/32px-Archeage_T7wWhd0Rv5.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/5/5f/Archeage_T7wWhd0Rv5.png/48px-Archeage_T7wWhd0Rv5.png 1.5x, https://wiki.aa-classic.com/images/5/5f/Archeage_T7wWhd0Rv5.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8001368">Cloaked Spirit Migration Talisman</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/c/c2/Archeage_XYZgSYwSoz.png/32px-Archeage_XYZgSYwSoz.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/c/c2/Archeage_XYZgSYwSoz.png/48px-Archeage_XYZgSYwSoz.png 1.5x, https://wiki.aa-classic.com/images/c/c2/Archeage_XYZgSYwSoz.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/7744">Any-Post Owl</a>
+</td>
+<td style="text-align:right; vertical-align:middle">3<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/d/d7/Archeage_pSKNllWxkH.png/32px-Archeage_pSKNllWxkH.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/d/d7/Archeage_pSKNllWxkH.png/48px-Archeage_pSKNllWxkH.png 1.5x, https://wiki.aa-classic.com/images/d/d7/Archeage_pSKNllWxkH.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/29656">Specialization Snowflake</a>
+</td>
+<td style="text-align:right; vertical-align:middle">200<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/99/Archeage_jeR6DKMZl8.png/32px-Archeage_jeR6DKMZl8.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/99/Archeage_jeR6DKMZl8.png/48px-Archeage_jeR6DKMZl8.png 1.5x, https://wiki.aa-classic.com/images/9/99/Archeage_jeR6DKMZl8.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/23635">Vita Seed</a>
+</td>
+<td style="text-align:right; vertical-align:middle">5<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/e/e8/Archeage_aWSPUnVxRq.png/32px-Archeage_aWSPUnVxRq.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/e/e8/Archeage_aWSPUnVxRq.png/48px-Archeage_aWSPUnVxRq.png 1.5x, https://wiki.aa-classic.com/images/e/e8/Archeage_aWSPUnVxRq.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/18456">Scroll: Resurrection</a>
+</td>
+<td style="text-align:right; vertical-align:middle">40<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/1/12/Archeage_VCGExTnLmo.png/32px-Archeage_VCGExTnLmo.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/1/12/Archeage_VCGExTnLmo.png/48px-Archeage_VCGExTnLmo.png 1.5x, https://wiki.aa-classic.com/images/1/12/Archeage_VCGExTnLmo.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/41419">Family Certificate</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/Archeage_Ev8HRNhgAr.png/32px-Archeage_Ev8HRNhgAr.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/Archeage_Ev8HRNhgAr.png/48px-Archeage_Ev8HRNhgAr.png 1.5x, https://wiki.aa-classic.com/images/f/f4/Archeage_Ev8HRNhgAr.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8000678">Vehicle Upgrade Device</a>
+</td>
+<td style="text-align:right; vertical-align:middle">500<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/e/e4/Archeage_brfLJ3ckad.png/32px-Archeage_brfLJ3ckad.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/e/e4/Archeage_brfLJ3ckad.png/48px-Archeage_brfLJ3ckad.png 1.5x, https://wiki.aa-classic.com/images/e/e4/Archeage_brfLJ3ckad.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8000057">Farm Cart Design</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/1/1f/Archeage_MjtqhgezEm.png/32px-Archeage_MjtqhgezEm.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/1/1f/Archeage_MjtqhgezEm.png/48px-Archeage_MjtqhgezEm.png 1.5x, https://wiki.aa-classic.com/images/1/1f/Archeage_MjtqhgezEm.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8000961">Synthium Soap</a>
+</td>
+<td style="text-align:right; vertical-align:middle">120<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/4/47/Archeage_SuM8QT9bNN.png/32px-Archeage_SuM8QT9bNN.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/4/47/Archeage_SuM8QT9bNN.png/48px-Archeage_SuM8QT9bNN.png 1.5x, https://wiki.aa-classic.com/images/4/47/Archeage_SuM8QT9bNN.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/27319">Yellow Lure</a>
+</td>
+<td style="text-align:right; vertical-align:middle">6<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/2/20/Archeage_fGMGJiI9Ic.png/32px-Archeage_fGMGJiI9Ic.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/2/20/Archeage_fGMGJiI9Ic.png/48px-Archeage_fGMGJiI9Ic.png 1.5x, https://wiki.aa-classic.com/images/2/20/Archeage_fGMGJiI9Ic.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/27547">Green Lure</a>
+</td>
+<td style="text-align:right; vertical-align:middle">24<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/2/20/Archeage_ZJqhTDZ4UF.png/32px-Archeage_ZJqhTDZ4UF.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/2/20/Archeage_ZJqhTDZ4UF.png/48px-Archeage_ZJqhTDZ4UF.png 1.5x, https://wiki.aa-classic.com/images/2/20/Archeage_ZJqhTDZ4UF.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/27548">Blue Lure</a>
+</td>
+<td style="text-align:right; vertical-align:middle">42<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/7/7f/Archeage_OptHX7Obua.png/32px-Archeage_OptHX7Obua.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/7/7f/Archeage_OptHX7Obua.png/48px-Archeage_OptHX7Obua.png 1.5x, https://wiki.aa-classic.com/images/7/7f/Archeage_OptHX7Obua.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/27549">Red Lure</a>
+</td>
+<td style="text-align:right; vertical-align:middle">60<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/0/0d/Archeage_3PwB3trBAD.png/32px-Archeage_3PwB3trBAD.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/0/0d/Archeage_3PwB3trBAD.png/48px-Archeage_3PwB3trBAD.png 1.5x, https://wiki.aa-classic.com/images/0/0d/Archeage_3PwB3trBAD.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/41520">Rainbow Chum</a>
+</td>
+<td style="text-align:right; vertical-align:middle">5<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/e/e3/Archeage_EcGUJ6JtgV.png/32px-Archeage_EcGUJ6JtgV.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/e/e3/Archeage_EcGUJ6JtgV.png/48px-Archeage_EcGUJ6JtgV.png 1.5x, https://wiki.aa-classic.com/images/e/e3/Archeage_EcGUJ6JtgV.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/27313">Chum</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>80<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/5/5f/Archeage_Yfz2lX9yPZ.png/32px-Archeage_Yfz2lX9yPZ.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/5/5f/Archeage_Yfz2lX9yPZ.png/48px-Archeage_Yfz2lX9yPZ.png 1.5x, https://wiki.aa-classic.com/images/5/5f/Archeage_Yfz2lX9yPZ.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/32567">Ice Shovel</a>
+</td>
+<td style="text-align:right; vertical-align:middle">3<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/0/09/Archeage_HAATn9DIJK.png/32px-Archeage_HAATn9DIJK.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/0/09/Archeage_HAATn9DIJK.png/48px-Archeage_HAATn9DIJK.png 1.5x, https://wiki.aa-classic.com/images/0/09/Archeage_HAATn9DIJK.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/28003">Fishing License</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/0/09/Archeage_2qvfLkpQTc.png/32px-Archeage_2qvfLkpQTc.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/0/09/Archeage_2qvfLkpQTc.png/48px-Archeage_2qvfLkpQTc.png 1.5x, https://wiki.aa-classic.com/images/0/09/Archeage_2qvfLkpQTc.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/19034">Recovery Pouch Kit</a>
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/e/e4/Archeage_brfLJ3ckad.png/32px-Archeage_brfLJ3ckad.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/e/e4/Archeage_brfLJ3ckad.png/48px-Archeage_brfLJ3ckad.png 1.5x, https://wiki.aa-classic.com/images/e/e4/Archeage_brfLJ3ckad.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/7746">Bird's Eye Telescope Design</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/e/e4/Archeage_brfLJ3ckad.png/32px-Archeage_brfLJ3ckad.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/e/e4/Archeage_brfLJ3ckad.png/48px-Archeage_brfLJ3ckad.png 1.5x, https://wiki.aa-classic.com/images/e/e4/Archeage_brfLJ3ckad.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/7764">Star Chart</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/3/35/Archeage_ByqUOnyTxO.png/32px-Archeage_ByqUOnyTxO.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/3/35/Archeage_ByqUOnyTxO.png/48px-Archeage_ByqUOnyTxO.png 1.5x, https://wiki.aa-classic.com/images/3/35/Archeage_ByqUOnyTxO.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/27652">Pack Blueprint</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>50<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/7/74/Archeage_H44c3J8Acu.png/32px-Archeage_H44c3J8Acu.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/7/74/Archeage_H44c3J8Acu.png/48px-Archeage_H44c3J8Acu.png 1.5x, https://wiki.aa-classic.com/images/7/74/Archeage_H44c3J8Acu.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8001094">Building Management Permit</a>
+</td>
+<td style="text-align:right; vertical-align:middle">100<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/2/2e/Archeage_0pgFFhOUeU.png/32px-Archeage_0pgFFhOUeU.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/2/2e/Archeage_0pgFFhOUeU.png/48px-Archeage_0pgFFhOUeU.png 1.5x, https://wiki.aa-classic.com/images/2/2e/Archeage_0pgFFhOUeU.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8000938">Brilliant Mornstone</a>
+</td>
+<td style="text-align:right; vertical-align:middle">5<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/1/17/Archeage_YrDMWgVkZh.png/32px-Archeage_YrDMWgVkZh.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/1/17/Archeage_YrDMWgVkZh.png/48px-Archeage_YrDMWgVkZh.png 1.5x, https://wiki.aa-classic.com/images/1/17/Archeage_YrDMWgVkZh.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/29880">Fusion Alembic</a>
+</td>
+<td style="text-align:right; vertical-align:middle">20<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/c/cd/Archeage_VVecLWwtGD.png/32px-Archeage_VVecLWwtGD.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/c/cd/Archeage_VVecLWwtGD.png/48px-Archeage_VVecLWwtGD.png 1.5x, https://wiki.aa-classic.com/images/c/cd/Archeage_VVecLWwtGD.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/8000962">Extraction Alembic</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/b/b9/Archeage_H7rbVhmF10.png/32px-Archeage_H7rbVhmF10.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/b/b9/Archeage_H7rbVhmF10.png/48px-Archeage_H7rbVhmF10.png 1.5x, https://wiki.aa-classic.com/images/b/b9/Archeage_H7rbVhmF10.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/23705">Crest Bleach</a>
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/f4/Archeage_bQYEYlchuM.png/32px-Archeage_bQYEYlchuM.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/f4/Archeage_bQYEYlchuM.png/48px-Archeage_bQYEYlchuM.png 1.5x, https://wiki.aa-classic.com/images/f/f4/Archeage_bQYEYlchuM.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/15869">Flare</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/8/8f/Archeage_IgfCa1Ww2s.png/32px-Archeage_IgfCa1Ww2s.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/8/8f/Archeage_IgfCa1Ww2s.png/48px-Archeage_IgfCa1Ww2s.png 1.5x, https://wiki.aa-classic.com/images/8/8f/Archeage_IgfCa1Ww2s.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/15877">Glider Smokescreen</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>50<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/d/d9/Archeage_mh5zT1ZkD6.png/32px-Archeage_mh5zT1ZkD6.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/d/d9/Archeage_mh5zT1ZkD6.png/48px-Archeage_mh5zT1ZkD6.png 1.5x, https://wiki.aa-classic.com/images/d/d9/Archeage_mh5zT1ZkD6.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/15878">Glider Bomb</a>
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/9d/Archeage_z2P9Hthp2L.png/32px-Archeage_z2P9Hthp2L.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/9d/Archeage_z2P9Hthp2L.png/48px-Archeage_z2P9Hthp2L.png 1.5x, https://wiki.aa-classic.com/images/9/9d/Archeage_z2P9Hthp2L.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/30340">Flaming Pinion</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/9/93/Archeage_uoZwIffjx4.png/32px-Archeage_uoZwIffjx4.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/9/93/Archeage_uoZwIffjx4.png/48px-Archeage_uoZwIffjx4.png 1.5x, https://wiki.aa-classic.com/images/9/93/Archeage_uoZwIffjx4.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/4053">Memory Ink</a>
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/f/ff/Archeage_MEHhUHMTg3.png/32px-Archeage_MEHhUHMTg3.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/f/ff/Archeage_MEHhUHMTg3.png/48px-Archeage_MEHhUHMTg3.png 1.5x, https://wiki.aa-classic.com/images/f/ff/Archeage_MEHhUHMTg3.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/27735">Traveler's Campfire Creator</a>
+</td>
+<td style="text-align:right; vertical-align:middle">50<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr>
+<tr>
+<td style="vertical-align:middle"><span><img src="https://wiki.aa-classic.com/images/thumb/1/13/Archeage_ljqYv0nqTN.png/32px-Archeage_ljqYv0nqTN.png" width="32" height="32" srcset="https://wiki.aa-classic.com/images/thumb/1/13/Archeage_ljqYv0nqTN.png/48px-Archeage_ljqYv0nqTN.png 1.5x, https://wiki.aa-classic.com/images/1/13/Archeage_ljqYv0nqTN.png 2x" loading="lazy"></span> <a rel="noopener" href="https://aa-classic.com/database/item/9002402">Fishing Entrepreneur Permit</a>
+</td>
+<td style="text-align:right; vertical-align:middle">5000<span><img src="https://wiki.aa-classic.com/images/6/67/Gold.webp" width="20" height="20" loading="lazy"></span>
+</td></tr></tbody></table>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/economy-and-trade","className":"text-accent-2 hover:underline","children":"Economy & Trade"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"General Merchant"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],false]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/General_Merchant","className":"underline hover:text-text","children":["AAClassic wiki page “","General Merchant","”"]}]," ","(CC0), last edited ","Sep 3, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"General Merchant · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"The General Merchant is a merchant NPC that sells a variety of general-purpose goods and supplies. Shop Item Price Item Price Weapon Temper 30 Armor Temper 10 Shatigon's Sand 1 Evenstone 5 Dawnstone 5 Bound Hereafter…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

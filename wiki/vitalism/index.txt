@@ -1,0 +1,278 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","vitalism",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","vitalism","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vitalism","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T247a,<p>The Vitalism skillset is symbolized by <a href="https://wiki.aa-classic.com/index.php?title=Kyprosa&action=edit&redlink=1" rel="noopener">Kyprosa</a>, who was tasked with guarding the gate to the dream realm rather than participate in reality. Now, her disciples heal and revive fallen allies rather than participate in bloodbaths themselves, providing crucial life support in battle.
+</p><p>Optimized for combat support, Vitalism was designed for experienced users who can nimbly switch between different weapons for attacking and healing. Masters of this skillset can shift the tide of battle by healing their allies, or turn their power on themselves to survive nearly any assault.
+</p>
+<h2 id="List_of_skills">List of skills</h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Level
+</th>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Description
+</th>
+<th>Combos
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/b/b4/Holy_Bolt.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Holy Bolt
+</td>
+<td>Fires a bolt of holy light that deals Magic Damage.
+</td>
+<td>Inflicts +37% damage on <a href="/aac-hub/wiki/status-effects">Cursed</a> targets.
+<p>Heals allies Blessed by you as long as they are within 15m of the target.
+</p>
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/c/c8/Mirror_Light.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Mirror Light
+</td>
+<td>Caster/allies: Cures one debuff and increases received healing +15% for 1min30sec.
+<p>Enemies: Inflicts <a href="/aac-hub/wiki/status-effects">Snare</a> for 2sec. Increases received damage +12% and decreases healing effectiveness -30% for 20sec. Snare duration reduced -50% in PvP.
+</p>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/4/4a/Antithesis.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Antithesis
+</td>
+<td>Allies/caster: Instantly restores Health.
+<p>Enemies: Deals Magic Damage.
+</p>
+</td>
+<td>Reduces Antithesis cooldown -0.6 seconds while Inspired.
+<p>Eliminates the cast time of Antithesis for the duration of <a href="/aac-hub/wiki/auramancy">Spell Shield</a>.
+</p><p>Healing effectiveness increased +30% when cast on a friendly character under Resurgence.
+</p><p>Consumes a target's <a href="/aac-hub/wiki/status-effects">Charmed</a> debuff to inflict an additional +26% damage.
+</p>
+</td></tr>
+<tr>
+<td>15
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/e/eb/Resurgence.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Resurgence
+</td>
+<td>Regenerates Health over 10sec for you or an ally.
+</td>
+<td>
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/f/fe/Revive.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Revive
+</td>
+<td>Revives an ally and restores the XP lost at death in the same amount as Nui's resurrection.
+<p>Revived target: Restores 80% of max health and mana.
+</p><p><b>Can't be used during combat.</b>
+</p>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>25
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/9/92/Skewer.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Skewer
+</td>
+<td>Summons four skewers within a 20m circle at the target area, dealing Magic Damage and <a href="/aac-hub/wiki/status-effects">Impaling</a> enemies for 2.6sec, preventing all actions.
+<p>Skewers deal more damage where they overlap. When this skill levels up, it increases in both damage and cast time. 
+</p>
+</td>
+<td>Inflicts additional +45% damage on <a href="/aac-hub/wiki/status-effects">Impaled</a> targets.
+</td></tr>
+<tr>
+<td>30
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/1/12/Mend.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Mend
+</td>
+<td>Restores health to up to 10 allies within a 20m radius.
+<p>Affected allies are protected for a short period of time (does not stack with Insulating Lens).
+</p><p>Grants immunity to <a href="/aac-hub/wiki/status-effects">Fear</a>, but does not remove existing Fear effects.
+</p>
+</td>
+<td>Mend cooldown reduced -2.1 seconds while under Inspired.
+<p>Healing effectiveness increased +30% when cast on a friendly character under Resurgence. 
+</p><p>Increases Omnipotent Ward duration +100% if used while under the affects of Sacrifice. 
+</p><p>Consumes Sacrifice buff to grant Renewal to affected allies. 
+</p>
+</td></tr>
+<tr>
+<td>35
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/4/47/Aranzebs_Boon.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Aranzeb's Boon
+</td>
+<td>Increases all stats +30. Applies to caster and nearby raid members for 30minutes.
+</td>
+<td>
+</td></tr>
+<tr>
+<td>40
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/a/a4/Renewal_Icon.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Renewal
+</td>
+<td>Calls forth energy from the land to bless the caster or an ally for 30sec. Grants 25% chance to trigger Gradual Recovery whenever damaged by an attack, healing the user over short period. Ends when Gradual Recovery is triggered.
+</td>
+<td>
+</td></tr>
+<tr>
+<td>45
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/c/c2/Fervent_Healing.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Fervent Healing
+</td>
+<td>Instantly restores Health for you or an ally. When used repeatedly, this skill heals 25% more Health, but at the cost of more Mana and longer cooldown.
+<p>Can be used up to 5 times in a row. 
+</p>
+</td>
+<td>Cooldown reduced -1.2 seconds while under Inspired.
+</td></tr>
+<tr>
+<td>50
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/3/30/Infuse.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Infuse
+</td>
+<td>Consumes caster's mana to immediately restore the mana of up to 10 allies within 20m. Restores 8-11% of each target's max mana.
+</td>
+<td>Cosumes Sacrifice buff to grant Martyr's Boon to affected allies.
+</td></tr>
+<tr>
+<td>55
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/3/36/Whirlwinds_Blessing.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Whirlwind's Blessing
+</td>
+<td>Increases Attack Speed +250 and Move Speed +20% for allies within 30m, and decreases Attack Speed -175 and Move Speed -15% for enemies for 20 seconds.
+</td>
+<td>
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption>Passive skills
+</caption>
+<tbody><tr>
+<th>Required points
+</th>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td>2
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/4/46/Painful_Recharge.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Painful Recharge
+</td>
+<td>Converts 3% of received damage to mana.
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/8/8c/Quick_Recovery.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Quick Recovery
+</td>
+<td>Resets cooldowns on all Vitalism healing skills after receiving critical damage or critical healing. If Quick Recovery is triggered too often, it will be disabled for 12 seconds.
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/e/e1/Spirit_Growth_Icon.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Spirit Growth
+</td>
+<td>Increases Spirit +9%.
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/1/1c/Alms.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Alms
+</td>
+<td>Decreases Cast Time for all skills -6%.
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/c/c9/Invigorated_Healing.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Invigorated Healing
+</td>
+<td>Increases Critical Healing Bonus +25%.
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/8/82/Defiance.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Defiance
+</td>
+<td>Increases Magic Defense +500 for allies withing 15m radius. Grants Prayer effect every time Antithesis, Mend or Fervent Healing is cast.
+<p>Prayer:  
+</p>
+<ul><li>Decreases Cast Time -2% per stack.</li>
+<li>Triggers Sacrifice at 5 stacks.</li></ul>
+<p>Sacrifice: 
+</p>
+<ul><li>Consumes 12-16% of current health when triggered.</li>
+<li>Decreases Cast Time -10%.</li>
+<li>Adds powerful bonus effects to Mend and Infuse.</li>
+<li>Lasts 15sec.</li>
+<li>Prevents gaining stacks of Prayer for duration.</li></ul>
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/3/39/Joyous_Spirit.jpg" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Joyous Spirit
+</td>
+<td>Decreases Vitalism skill cooldown -20%. Increases Post-Cast Mana Regen based on Spirit whenever damage is received while below 40&amp; mana.
+</td></tr></tbody></table>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Vitalism"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],false]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Vitalism","className":"underline hover:text-text","children":["AAClassic wiki page “","Vitalism","”"]}]," ","(CC0), last edited ","Mar 16, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Vitalism · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"The Vitalism skillset is symbolized by Kyprosa, who was tasked with guarding the gate to the dream realm rather than participate in reality. Now, her disciples heal and revive fallen allies rather than participate in…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

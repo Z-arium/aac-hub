@@ -1,0 +1,280 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","dawnsdrop-watering-can",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","dawnsdrop-watering-can","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","dawnsdrop-watering-can","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T2b40,<p>The Dawnsdrop Watering Can is an addition to the <a href="/aac-hub/wiki/dawnsdrop-tools">Dawnsdrop Tools</a> custom content added in <a href="/aac-hub/wiki/patch-1-3-2">Patch 1.3.2</a>. The Dawnsdrop Pitchfork is a <a href="https://wiki.aa-classic.com/index.php?title=Farming&action=edit&redlink=1" rel="noopener">Farming</a> and <a href="https://wiki.aa-classic.com/index.php?title=Gathering&action=edit&redlink=1" rel="noopener">Gathering</a> tool that allows players to water crops and bundles in a large area without the need of having Water in your inventory. 
+</p>
+
+<h1 id="Grade_Effect">Grade Effect</h1>
+<table class="wikitable">
+<tbody><tr>
+<th>Grade
+</th>
+<th>Radius
+</th>
+<th>Cooldown
+</th></tr>
+<tr>
+<td><span style="color: rgb(119, 176, 100)">Dawnsdrop Watering Can</span>
+</td>
+<td style="text-align:right; vertical-align:middle">9m
+</td>
+<td style="text-align:right; vertical-align:middle">60.0s
+</td></tr>
+<tr>
+<td><span style="color: rgb(85, 143, 215)">Dawnsdrop Watering Can</span>
+</td>
+<td style="text-align:right; vertical-align:middle">10m
+</td>
+<td style="text-align:right; vertical-align:middle">59.4s
+</td></tr>
+<tr>
+<td><span style="color: rgb(215, 139, 6)">Dawnsdrop Watering Can</span>
+</td>
+<td style="text-align:right; vertical-align:middle">12m
+</td>
+<td style="text-align:right; vertical-align:middle">58.2s
+</td></tr>
+<tr>
+<td><span style="color: rgb(225, 120, 83)">Dawnsdrop Watering Can</span>
+</td>
+<td style="text-align:right; vertical-align:middle">13m
+</td>
+<td style="text-align:right; vertical-align:middle">57.6s
+</td></tr>
+<tr>
+<td><span style="color: rgb(249, 82, 82)">Dawnsdrop Watering Can</span>
+</td>
+<td style="text-align:right; vertical-align:middle">14m
+</td>
+<td style="text-align:right; vertical-align:middle">57.0s
+</td></tr></tbody></table>
+<h1 id="Starting_the_Questline">Starting the Questline</h1>
+<p>Requirements:
+</p>
+<ul><li>230,000 Farming Proficiency</li>
+<li>230,000 Gathering Proficiency</li></ul>
+<p>You do not need 230,000 proficiency in both.
+</p><p>Bring Dawnsdrop Wrists and Pants. 
+</p>
+<ol><li>Go to Sun's End (Halcyona Community Center).</li>
+<li>Water crops and flowers with your Dawnsdrops equipped for the Dawnsdrop Buffs.</li>
+<li>Get the quest from Neru in the Community Center.</li></ol>
+<p><i>Tip: It is recommended to also start the <a href="/aac-hub/wiki/dawnsdrop-pitchfork">Dawnsdrop Pitchfork</a> questline and progress these simultaneously as they often share objectives.</i>
+</p>
+<table class="wikitable" style="width: 100%">
+<caption style="text-align:center; vertical-align:middle">Summary
+</caption>
+<tbody><tr>
+<th style="width: 20%">Quest
+</th>
+<th style="width: 10%">Grade
+</th>
+<th style="width: 50%">Required Items
+</th>
+<th style="width: 20%">Labor Spend
+</th></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000091">1. The Art of Gardening</a>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000092">2. Every Drop Counts</a>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td>Water × 3,000
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000093">3. Tending To Your Garden</a>
+</td>
+<td><span style="color: rgb(85, 143, 215)">Rare</span>
+</td>
+<td>Use Dawnsdrop Watering Can × 100
+</td>
+<td>Gathering × 12,500
+<p>Farming × 12,500
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000094">4. The Delicate Crop</a>
+</td>
+<td><span style="color: rgb(85, 143, 215)">Rare</span>
+</td>
+<td>Corn × 10,000
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000095">5. The Delicate Flower</a>
+</td>
+<td><span style="color: rgb(215, 139, 6)">Heroic</span>
+</td>
+<td>Rose × 10,000
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000096">6. Thirsty Corn Seedlings</a>
+</td>
+<td><span style="color: rgb(215, 139, 6)">Heroic</span>
+</td>
+<td>Use Dawnsdrop Watering Can × 250
+</td>
+<td>Gathering × 20,000
+<p>Farming × 20,000
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000097">7. A Rare Harvest</a>
+</td>
+<td><span style="color: rgb(215, 139, 6)">Heroic</span>
+</td>
+<td>Collect Massive Corn × 1 from Marmas the Reaper in Greater Hadir Farm.
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000098">8. The Pumpkin Season</a>
+</td>
+<td><span style="color: rgb(225, 120, 83)">Unique</span>
+</td>
+<td>Pumpkin × 10,000
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000099">9. The Flower of Sound</a>
+</td>
+<td><span style="color: rgb(225, 120, 83)">Unique</span>
+</td>
+<td>Collect Singing Flower × 1 from Aria in Mistsong Summit.
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000100">10. Tending To Your Garden II</a>
+</td>
+<td><span style="color: rgb(225, 120, 83)">Unique</span>
+</td>
+<td>Use Dawnsdrop Watering Can × 500
+</td>
+<td>Gathering × 25,000
+<p>Farming × 25,000
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000101">11. A Drop In The Ocean</a> <i>(final)</i>
+</td>
+<td><span style="color: rgb(249, 82, 82)">Celestial</span>
+</td>
+<td><a rel="noopener" href="https://aa-classic.com/database/crafts/9000548">Craft 1× Dawnsdrop Watering Can</a>:<br><span style="color: rgb(225, 120, 83)">Dawnsdrop Watering Can (Unique)</span> × 1 · <span style="color: rgb(215, 139, 6)">Hugh Mungus Water Bucket</span> × 1 · Sunlight Archeum Essence × 5 · Archeum Ingot × 10 · Corn × 2,000
+</td>
+<td>—
+</td></tr></tbody></table>
+<h2 id="Grand_Dawnsdrop_Watering_Can"><span style="color: rgb(119, 176, 100)">Grand Dawnsdrop Watering Can</span></h2>
+<h3 id="1._The_Art_of_Gardening"><a rel="noopener" href="https://aa-classic.com/database/quests/9000091">1. The Art of Gardening</a></h3>
+<p>Turn in to Velaine in Sun's End. 
+</p>
+<h3 id="2._Every_Drop_Counts"><a rel="noopener" href="https://aa-classic.com/database/quests/9000092">2. Every Drop Counts</a></h3>
+<p>Requires the following materials:
+</p>
+<ul><li>Water × 3,000</li></ul>
+<p>Tip: Upgraded Farmhouses offer a means for collecting water at a much faster rate. It has also been found that the cooldown of collecting Water from the Pinnacled Witch House skin for the upgraded Farmhouses is the lowest out of all Farmhouses. 
+</p>
+<h2 id="Rare_Dawnsdrop_Watering_Can"><span style="color: rgb(85, 143, 215)">Rare Dawnsdrop Watering Can</span></h2>
+<h3 id="3._Tending_To_Your_Garden"><a rel="noopener" href="https://aa-classic.com/database/quests/9000093">3. Tending To Your Garden</a></h3>
+<ul><li>Use 12,500 Labor in Farming</li>
+<li>Use 12,500 Labor in Gathering</li>
+<li>Use your Dawnsdrop Watering Can 100 × times.</li></ul>
+<h3 id="4._The_Delicate_Crop"><a rel="noopener" href="https://aa-classic.com/database/quests/9000094">4. The Delicate Crop</a></h3>
+<p>Requires the following materials:
+</p>
+<ul><li>Corn × 10,000</li></ul>
+<h2 id="Heroic_Dawnsdrop_Watering_Can"><span style="color: rgb(215, 139, 6)">Heroic Dawnsdrop Watering Can</span></h2>
+<h3 id="5._The_Delicate_Flower"><a rel="noopener" href="https://aa-classic.com/database/quests/9000095">5. The Delicate Flower</a></h3>
+<p>Requires the following materials:
+</p>
+<ul><li>Rose × 10,000</li></ul>
+<h3 id="6._Thirsty_Corn_Seedlings"><a rel="noopener" href="https://aa-classic.com/database/quests/9000096">6. Thirsty Corn Seedlings</a></h3>
+<ul><li>Use 20,000 Labor in Farming</li>
+<li>Use 20,000 Labor in Gathering</li>
+<li>Use your Dawnsdrop Watering Can 250 × times.</li></ul>
+<h3 id="7._A_Rare_Harvest"><a rel="noopener" href="https://aa-classic.com/database/quests/9000097">7. A Rare Harvest</a></h3>
+<ul><li><i>Kill <a href="https://wiki.aa-classic.com/index.php?title=Hadir_Farm&action=edit&redlink=1" rel="noopener">Marmas the Reaper</a> from <a href="https://wiki.aa-classic.com/index.php?title=Hadir_Farm&action=edit&redlink=1" rel="noopener">Greater Hadir Farm</a> and collect Massive Corn × 1.</i></li></ul>
+<h2 id="Unique_Dawnsdrop_Watering_Can"><span style="color: rgb(225, 120, 83)">Unique Dawnsdrop Watering Can</span></h2>
+<h3 id="8._The_Pumpkin_Season"><a rel="noopener" href="https://aa-classic.com/database/quests/9000098">8. The Pumpkin Season</a></h3>
+<p>Requires the following materials:
+</p>
+<ul><li>Pumpkin × 10,000</li></ul>
+<h3 id="9._The_Flower_of_Sound"><a rel="noopener" href="https://aa-classic.com/database/quests/9000099">9. The Flower of Sound</a></h3>
+<ul><li><i>Kill <a href="https://wiki.aa-classic.com/index.php?title=Mistsong_Summit&action=edit&redlink=1" rel="noopener">Aria</a> from <a href="https://wiki.aa-classic.com/index.php?title=Mistsong_Summit&action=edit&redlink=1" rel="noopener">Mistsong Summit</a> and collect Singing Flower × 1.</i></li></ul>
+<h3 id="10._Tending_To_Your_Garden_II"><a rel="noopener" href="https://aa-classic.com/database/quests/9000100">10. Tending To Your Garden II</a></h3>
+<ul><li>Use 25,000 Labor in Farming</li>
+<li>Use 25,000 Labor in Gathering</li>
+<li>Use your Dawnsdrop Watering Can 500 × times.</li></ul>
+<h2 id="Celestial_Dawnsdrop_Watering_Can"><span style="color: rgb(249, 82, 82)">Celestial Dawnsdrop Watering Can</span></h2>
+<h3 id="11._A_Drop_In_The_Ocean"><a rel="noopener" href="https://aa-classic.com/database/quests/9000101">11. A Drop In The Ocean</a></h3>
+<ul><li>Craft the <span style="color: rgb(249, 82, 82)">Celestial Dawnsdrop Watering Can</span> at any Anvil.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th>Recipe
+</th>
+<th>Materials
+</th></tr>
+<tr>
+<td><span style="color: rgb(249, 82, 82)">Celestial Dawnsdrop Watering Can</span>
+</td>
+<td>1×<span style="color: rgb(225, 120, 83)">Unique Dawnsdrop Watering Can</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1×<span style="color: rgb(215, 139, 6)">Hugh Mungus Water Bucket</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>5×Sunlight Archeum Essence
+</td></tr>
+<tr>
+<td>
+</td>
+<td>10×Archeum Ingot
+</td></tr>
+<tr>
+<td>
+</td>
+<td>2,000×Corn
+</td></tr></tbody></table>
+<p>Tip: Upgraded Farmhouses offer a means for collecting water at a much faster rate. It has also been found that the cooldown of collecting Water from the Pinnacled Witch House skin for the upgraded Farmhouses is the lowest out of all Farmhouses. 
+</p>
+<h1 id="See_Also">See Also</h1>
+<ul><li><a href="/aac-hub/wiki/dawnsdrop-tools">Dawnsdrop Tools</a></li>
+<li><a href="/aac-hub/wiki/dawnsdrop-pickaxe">Dawnsdrop Pickaxe</a></li>
+<li><a href="/aac-hub/wiki/dawnsdrop-pitchfork">Dawnsdrop Pitchfork</a></li>
+<li><a href="/aac-hub/wiki/dawnsdrop-costume">Dawnsdrop Costume</a></li>
+<li><a href="https://wiki.aa-classic.com/index.php?title=Farming&action=edit&redlink=1" rel="noopener">Farming</a></li>
+<li><a href="https://wiki.aa-classic.com/index.php?title=Gathering&action=edit&redlink=1" rel="noopener">Gathering</a></li></ul>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/professions-and-life-skills","className":"text-accent-2 hover:underline","children":"Professions & Life Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Dawnsdrop Watering Can"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Dawnsdrop_Watering_Can","className":"underline hover:text-text","children":["AAClassic wiki page “","Dawnsdrop Watering Can","”"]}]," ","(CC0), last edited ","Sep 21, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Grand_Dawnsdrop_Watering_Can",{"className":"","children":["$","a",null,{"href":"#Grand_Dawnsdrop_Watering_Can","className":"text-muted hover:text-accent","children":"Grand Dawnsdrop Watering Can"}]}],["$","li","1._The_Art_of_Gardening",{"className":"pl-3","children":["$","a",null,{"href":"#1._The_Art_of_Gardening","className":"text-muted hover:text-accent","children":"1. The Art of Gardening"}]}],["$","li","2._Every_Drop_Counts",{"className":"pl-3","children":["$","a",null,{"href":"#2._Every_Drop_Counts","className":"text-muted hover:text-accent","children":"2. Every Drop Counts"}]}],["$","li","Rare_Dawnsdrop_Watering_Can",{"className":"","children":["$","a",null,{"href":"#Rare_Dawnsdrop_Watering_Can","className":"text-muted hover:text-accent","children":"Rare Dawnsdrop Watering Can"}]}],["$","li","3._Tending_To_Your_Garden",{"className":"pl-3","children":["$","a",null,{"href":"#3._Tending_To_Your_Garden","className":"text-muted hover:text-accent","children":"3. Tending To Your Garden"}]}],["$","li","4._The_Delicate_Crop",{"className":"pl-3","children":["$","a",null,{"href":"#4._The_Delicate_Crop","className":"text-muted hover:text-accent","children":"4. The Delicate Crop"}]}],["$","li","Heroic_Dawnsdrop_Watering_Can",{"className":"","children":["$","a",null,{"href":"#Heroic_Dawnsdrop_Watering_Can","className":"text-muted hover:text-accent","children":"Heroic Dawnsdrop Watering Can"}]}],["$","li","5._The_Delicate_Flower",{"className":"pl-3","children":["$","a",null,{"href":"#5._The_Delicate_Flower","className":"text-muted hover:text-accent","children":"5. The Delicate Flower"}]}],["$","li","6._Thirsty_Corn_Seedlings",{"className":"pl-3","children":["$","a",null,{"href":"#6._Thirsty_Corn_Seedlings","className":"text-muted hover:text-accent","children":"6. Thirsty Corn Seedlings"}]}],["$","li","7._A_Rare_Harvest",{"className":"pl-3","children":["$","a",null,{"href":"#7._A_Rare_Harvest","className":"text-muted hover:text-accent","children":"7. A Rare Harvest"}]}],["$","li","Unique_Dawnsdrop_Watering_Can",{"className":"","children":["$","a",null,{"href":"#Unique_Dawnsdrop_Watering_Can","className":"text-muted hover:text-accent","children":"Unique Dawnsdrop Watering Can"}]}],["$","li","8._The_Pumpkin_Season",{"className":"pl-3","children":["$","a",null,{"href":"#8._The_Pumpkin_Season","className":"text-muted hover:text-accent","children":"8. The Pumpkin Season"}]}],["$","li","9._The_Flower_of_Sound",{"className":"pl-3","children":["$","a",null,{"href":"#9._The_Flower_of_Sound","className":"text-muted hover:text-accent","children":"9. The Flower of Sound"}]}],["$","li","10._Tending_To_Your_Garden_II",{"className":"pl-3","children":["$","a",null,{"href":"#10._Tending_To_Your_Garden_II","className":"text-muted hover:text-accent","children":"10. Tending To Your Garden II"}]}],["$","li","Celestial_Dawnsdrop_Watering_Can",{"className":"","children":["$","a",null,{"href":"#Celestial_Dawnsdrop_Watering_Can","className":"text-muted hover:text-accent","children":"Celestial Dawnsdrop Watering Can"}]}],["$","li","11._A_Drop_In_The_Ocean",{"className":"pl-3","children":["$","a",null,{"href":"#11._A_Drop_In_The_Ocean","className":"text-muted hover:text-accent","children":"11. A Drop In The Ocean"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Dawnsdrop Watering Can · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"The Dawnsdrop Watering Can is an addition to the Dawnsdrop Tools custom content added in Patch 1.3.2. The Dawnsdrop Pitchfork is a Farming and Gathering tool that allows players to water crops and bundles in a large…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

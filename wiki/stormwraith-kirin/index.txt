@@ -1,0 +1,178 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","stormwraith-kirin",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","stormwraith-kirin","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","stormwraith-kirin","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T1dcd,<p><span><img alt="Mount in game" src="https://wiki.aa-classic.com/images/thumb/e/ee/Kirin.png/448px-Kirin.png" width="448" height="317" srcset="https://wiki.aa-classic.com/images/e/ee/Kirin.png 1.5x" loading="lazy"></span>
+</p>
+
+<h3 id="Skills">Skills</h3>
+<hr>
+<p><b>Base movement speed:</b> 11.5m/s
+</p>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Skill
+</th>
+<th>Icon
+</th>
+<th>Description
+</th>
+<th>Additional info
+</th></tr>
+<tr>
+<td>Run!
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/5/55/Run2.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases Pet Move Speed +80% for 10sec.
+<p>Can't be used while carrying trade pack.
+</p>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>Shred
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/7/78/Gnaw.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Sharpens caster's bite, dealing Physical Damage and an additional damage over 14 sec.
+<p>Can't be used while carrying trade pack.
+</p>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>Overwhelm
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/9/9a/Grr.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Pounce at and stun a faraway target.
+<p>Can't be used while carrying trade pack.
+</p>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>Guardian's Eyes
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/1/1d/Guardianseye.png" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases Stealth Detection +200%.
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>Evasive Leap
+</td>
+<td><figure><img src="https://wiki.aa-classic.com/images/6/66/Evasiveleap.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Stealths mount and rider and leaps forward 25m. Increases mount's Move Speed +50% for 2 seconds.
+<p>Leaps 35m if this skill is used while Run! is active.
+Can't be used while carrying trade pack.
+</p>
+</td>
+<td>Does not provide the speed boost if used during Run!
+</td></tr></tbody></table>
+<h3 id="Equipment">Equipment</h3>
+<hr>
+<p>Obtained as a reward for the final quest.
+</p>
+<h3 id="How_to_Obtain">How to Obtain</h3>
+<hr>
+<p>The Stormwraith Kirin is acquired by completing a 20 step quest line. 
+</p>
+<h3 id="Questline_Guide">Questline Guide</h3>
+<hr>
+<p>This questline begins at Hermit Thaelin, found inside a tower at the Riven Gates in Diamond Shores.
+</p><p><a rel="noopener" href="https://i.imgur.com/lUEtGkj.png">https://i.imgur.com/lUEtGkj.png</a>
+</p>
+<h5 id="Whispers_of_the_Past">Whispers of the Past</h5>
+<p>Accept the quest from Hermit Thaelin, and you will immediately be able to talk to them again and turn it in.
+</p>
+<h5 id="Echoes_in_the_Library">Echoes in the Library</h5>
+<p>You are required to obtain 5 Mysterious Manuscripts from Shelfwatchers in the first floor of the Ayanad Library.
+</p><p>Enter the Ayanad Library's first floor, the Encyclopedia Room, and use <a rel="noopener" href="https://docs.google.com/spreadsheets/d/1uQm0m112ckntigQJ-7TOkMYpD8VsCsYmAJs6ac9lU38/edit#gid=757087794">this map</a> to find Shelfwatchers. Kill them, they will drop a manuscript off each kill. <b>Only Shelfwatchers drop them, not Birch Shelfwatchers.</b>
+</p><p>Return to Hermit Thaelin at the Riven Gates tower with all 5 manuscripts.
+</p>
+<h5 id="A_Light_in_the_Dark">A Light in the Dark</h5>
+<p>Teleport to the Serpentis dungeon entrance in Exeloch, and speak to Lerman standing outside. Turn the quest in at Lerman.
+</p>
+<h5 id="The_Price_of_Knowledge">The Price of Knowledge</h5>
+<p>Teleport to the Hadir Farm dungeon entrance, and head east into the "overworld" version of Hadir Farm. You're looking for Executioner Nadan. Talk to them to turn in the quest.
+</p><p><a rel="noopener" href="https://i.imgur.com/KbzUHvy.png">https://i.imgur.com/KbzUHvy.png</a>
+</p>
+<h5 id="A_Grim_Exchange">A Grim Exchange</h5>
+<p>Teleport back to the Serpentis dungeon entrance in Exeloch, and speak to Lerman once again. They'll give you the next quest.
+</p>
+<h5 id="Shadows_Transcribed">Shadows Transcribed</h5>
+<p>Head back to Hermit Thaelin at the Riven Gates tower, and turn in your quest. Grab the next one.
+</p>
+<h5 id="Echoes_of_the_Hunt">Echoes of the Hunt</h5>
+<p>Teleport to Reedwind. Head to the mark on this screenshot, and interact with the floor that has a faint blue light glowing off it. This will be inside of an orc camp.
+</p><p><a rel="noopener" href="https://i.imgur.com/Mk1VpCn.png">https://i.imgur.com/Mk1VpCn.png</a>
+</p><p>Turn this quest in at Caduett in the Reedwind camp.
+</p>
+<h5 id="Map_to_the_Past">Map to the Past</h5>
+<p>Now head to the north east of Reedwind, underneath a small broken rock pillar, there is an old hunting camp to interact with. Just like the orc camp, here's a screenshot to help.
+</p><p><a rel="noopener" href="https://i.imgur.com/SGi5C7u.png">https://i.imgur.com/SGi5C7u.png</a>
+</p><p>Return to Caduett in the Reedwind camp.
+</p>
+<h5 id="A_Relic_Unearthed">A Relic Unearthed</h5>
+<p>Teleport to the Perinoor Community Center, heading towards the north side of the Skyfin Nest. Talk to Historian Parung. Here's a screenshot of the location.
+</p><p><a rel="noopener" href="https://i.imgur.com/o6deHIG.png">https://i.imgur.com/o6deHIG.png</a>
+</p>
+<h5 id="Beyond_Memory">Beyond Memory</h5>
+<p>After accepting the quest from Historian Parung, speak to Archeologist Soyu.
+</p>
+<h5 id="A_Catalyst_for_Connection">A Catalyst for Connection</h5>
+<p>Teleport back to Reedwind, and speak with Caduett one more time. 
+</p>
+<h5 id="Witches_of_the_Wind">Witches of the Wind</h5>
+<p>Teleport to Duskgleam in Rookborne Basin, and talk to Windwitch Antalija right beside the port in.
+</p>
+<h5 id="Shadows_and_Redemption">Shadows and Redemption</h5>
+<p>This step requires you to kill Lerman inside of the Serpentis dungeon. Assemble a group capable of clearing Serpentis, and head in.
+</p><p>Once killed, you'll complete the quest objective and be able to turn it back in at Duskgleam to Windwitch Antalija.
+</p>
+<h5 id="Elemental_Balance">Elemental Balance</h5>
+<p>Teleport to Perinoor Community Center, and this time, head to the "City Ruins" camp, south of your teleport. Talk to Archeologist Toro.
+</p>
+<h5 id="The_Essence_of_Balance">The Essence of Balance</h5>
+<p>Toro requires 5 Stone Spirit Anima. To acquire these, you must kill Yaska Warriors, found in the Skyfin Nest to the north east. Just like the shelfwatchers, <b>only Yaksa Warriors drop anima.</b>
+</p><p>Return to Archeologist Toro once you've collected all 5.
+</p>
+<h5 id="Creation_of_the_Hardened_Wisp">Creation of the Hardened Wisp</h5>
+<p>Teleport to Duskgleam, and speak with Windwitch Antalija again.
+</p>
+<h5 id="Chants_of_the_Wind">Chants of the Wind</h5>
+<p>Target Windwitch Antalija, open chat and type /cheer to complete the quest objective. Talk to her once she's been cheered on.
+</p><p>Everyone needs a little bit of support sometimes.
+</p>
+<h5 id="The_Ritual_of_Awakening">The Ritual of Awakening</h5>
+<p>You must protect the nearby spirit summoning. There is a glowing circle with a star in the middle of it, head to the center and interact to drop the summoning stone.
+</p>
+<h5 id="The_Storm_Awakens">The Storm Awakens</h5>
+<p>Take the quest item you just received, and speak to Hermit Thaelin in Diamond Shores at the Riven Gates tower. 
+</p><p><i><b>Reward:</b> Level 50 Stormwraith Kirin Mount</i> 
+</p>
+<h5 id="The_Wraith_of_the_Storm">The Wraith of the Storm</h5>
+<p>Speak to Hermit Thaelin, but with the Stormwraith Kirin summoned.
+</p><p><i><b>Reward:</b> Stormwraith Kirin Mount Armor</i>
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/world-bosses","className":"text-accent-2 hover:underline","children":"World Bosses"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Stormwraith Kirin"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Stormwraith_Kirin","className":"underline hover:text-text","children":["AAClassic wiki page “","Stormwraith Kirin","”"]}]," ","(CC0), last edited ","Sep 14, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Skills",{"className":"pl-3","children":["$","a",null,{"href":"#Skills","className":"text-muted hover:text-accent","children":"Skills"}]}],["$","li","Equipment",{"className":"pl-3","children":["$","a",null,{"href":"#Equipment","className":"text-muted hover:text-accent","children":"Equipment"}]}],["$","li","How_to_Obtain",{"className":"pl-3","children":["$","a",null,{"href":"#How_to_Obtain","className":"text-muted hover:text-accent","children":"How to Obtain"}]}],["$","li","Questline_Guide",{"className":"pl-3","children":["$","a",null,{"href":"#Questline_Guide","className":"text-muted hover:text-accent","children":"Questline Guide"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Stormwraith Kirin · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Skills Base movement speed: 11.5m/s Skill Icon Description Additional info Run! Increases Pet Move Speed +80% for 10sec. Can't be used while carrying trade pack. - Shred Sharpens caster's bite, dealing Physical Damage…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

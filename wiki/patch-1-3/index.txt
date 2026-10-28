@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","patch-1-3",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","patch-1-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","patch-1-3","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T4b57,<p>Since this patch is based on the 3.5 retail patch, here are the base patch notes:
+</p>
+
+<h3 id="Base_patch">Base patch</h3>
+<h4 id="General_Changes">General Changes</h4>
+<ul><li>Lunafrost effects can now be turned on or off in settings. No glow, no problem.</li>
+<li>The experience from levels 51 – 55 has been reduced as Ancestral Levels have been added to the game. They are now as follows:
+<ul><li>Level 51: 4,919,600</li>
+<li>Level 52: 5,760,440</li>
+<li>Level 53: 7,147,826</li>
+<li>Level 54: 9,437,013</li>
+<li>Level 55: 12,214,171</li></ul></li>
+<li>The Teleport Book now has a zone search option.</li>
+<li>The size of the Arena UI has been adjusted.</li>
+<li>Family and Guild Member’s houses, Farms, and Aquafarms are now displayed on the map.</li>
+<li>A building’s name is now displayed on the Building UI.</li>
+<li>A special visual effect has been added when a player founds an independent nation.</li>
+<li>New loading screens have been added for Erenor Eternal.</li>
+<li>11 new achievements relating to Abyssal Skills have been added.</li>
+<li>A new achievement for crafting Erenor Equipment is available.</li>
+<li>8 new Community Center Specialty achievements were added.</li>
+<li>7 new achievements related to Captain’s Protection were added.</li>
+<li>Some older achievements have been adjusted.</li>
+<li>Celebration Time: You may now open Worldgates while under Rebirth Trauma.</li>
+<li>Attacking Invincible targets now puts the player appropriately into combat.</li>
+<li>Skills can no longer be reset on the UI while in-combat, casting, transforming, or dead.</li>
+<li>Skill Saver’s activation time has been reduced from 10 seconds to 5 seconds.</li>
+<li>Miscellaneous Skills have been renamed to Special Skills.</li>
+<li>Equipment repair costs have been increased. Higher ranked items will require more money for repairs.</li>
+<li>Durability on items now decreases faster when players are attacked or attack others.</li>
+<li>Lunagem socketing costs have been increased.</li>
+<li>Quests and achievements related to removed crafting tiers have also been removed.</li>
+<li>New character animations have been added for specific debuffs: Pushed Back, Pulled, Shackle, Crows.</li>
+<li>Players can now attack while under the Dominator’s Authority debuff, but their attacking/healing against NPCs is drastically reduced.</li>
+<li>Go a cut above the rest: All females have 2 new hairstyles, while Dwarven women have 3 new hairstyles!</li>
+<li>Adjusted the guild tent's window size.</li>
+<li>Now the Petrification effect can be gradually decreased.</li>
+<li>Added a Rampage car for test drive on Mirage Isle.</li>
+<li>Increased the Escape time when it is used with a tradepack equipped.</li>
+<li>Removed floating lanterns in the background of Character Selection, Race Selection, Skill Selection and Appearance Selection Screens.</li>
+<li>Now Community UI has sound effects.</li>
+<li>Added the Great Failure description on Regrade UI.</li>
+<li>Now Daily Schedule displays information about Siege Time.</li></ul>
+<h4 id="World_Changes">World Changes</h4>
+<ul><li>Leviathan’s attack patterns have been adjusted. The overall goal is to differentiate the phases he fights in and reduce the difficulty of his fight.
+<ul><li>Leviathan will now begin to throw up all of the things he ate in the sea. This process begins in Phase 4 of the fight, and these tradepacks can be retrieved even if he is not killed. Swallowed Pouches can only be opened while on the ground and require 200 labor. The opening time is 45 seconds.</li>
+<li>Pushing Leviathan through more phases results in more Swallowed Pouches dropping.</li>
+<li>Swallowed Pouches can drop the following: Gold, Metallic Auroran Crate, Lost Metallic Crate. Uncommonly they can drop the Crimson Watch Research Box, Enoan Galleon Blueprint Fragment, and Vaultstones. Rarely they can drop a Book of Auroria.</li></ul></li>
+<li>The Battle of Mistmerrow is now 8 minutes shorter to reduce the amount of times you re-enact NASCAR.
+<ul><li>The Mistmerrow NPC spawn duration has also been reduced from 10 minutes to 7 minutes.</li></ul></li>
+<li>Only Epic level monsters in Crimson Rift, Grimghast Rift, and Crimson Army Counterattack battles drop loot now.</li>
+<li>The honor (pre server multiplier) awarded as a part of Crimson and Grimghast Rifts has been improved:
+<ul><li>Crimson Rift Stage 1 was increased from 50 to 200 Honor.</li>
+<li>Crimson Rift Stage 2 was increased from 150 to 300 Honor.</li>
+<li>Crimson Rift Stage 3 was increased from 150 to 700 Honor.</li>
+<li>Grimghast Rift Stage 1 was increased from 100 to 400 Honor.</li>
+<li>Grimghast Stage 2 was increased from 400 to 800 Honor.</li></ul></li>
+<li>Adjusted local plant spawns in Nuia and Haranya. Harvesting wild plants should become easier.</li>
+<li>New plants were added: Goldenbell Flower (Golden Ruins) and Singing Sea-Blite (Whalesong Harbor.) These plants can also be obtained for Lord’s Coins at Specialty Workbenches. They are used in crafting Auroria Specialty packs.</li>
+<li>Community Centers now have an “on sale board.” This board displays all on-sale buildings within the region for easy access.</li>
+<li>Added a "Board" in the Community Task Board. Allows to share the local information of the region where the community center is located.</li>
+<li>Players can now record recall points for Community Centers.</li>
+<li>The interior design of Community Centers have been spruced up. So fancy.</li>
+<li>The road connecting Ahnimar and Hellswamp has been widened.</li>
+<li>Dropping off Faction Materials Packs to the Diamond Shores bases can now upgrade them to a Rank 4 building! Once they reach Rank 4, they will add in a Trade Outlet required for Auroria trading. Beware, as letting the base be attacked means the Trade Outlet can be destroyed!</li>
+<li>Guards are now Level 55.</li>
+<li>Some NPCs now have Ancestral Levels. They can be cool too, you know.</li>
+<li>The Tower of Atonement in Sunbite Wilds now has a sound effect when you pray.</li>
+<li>Library instances now hold 120 players, up from 100.</li>
+<li>Faction Base Guide NPC: Adjusted the NPC's location in Marianople.</li>
+<li>Adjusted the respawn point in the Harani Governor's Office in Sunbite Wilds.</li>
+<li>Removed the unused Family quest board in the Blue Salt Brotherhood base.</li>
+<li>Mistsong Summit: Dochul now does not use the "Roof Tile Steps" skill if his HP is below 5%.</li>
+<li>Thunderwing Titan can now drop a new reward: The Thunderwing Hood!</li>
+<li>World Boss Statues are now Tradable if they weren't previously (including some newly added boss statues, collect them all!)</li></ul>
+<h4 id="Quests">Quests</h4>
+<ul><li>The main storyline continues! Players who have completed the quest, “A Strained Alliance” can accept a new quest from Scout Captain Camaro.</li>
+<li>Quests in the following areas have been removed or been adjusted to speed character leveling: Gweonid Forest, Solzreed Peninsula, Lilyut Hills, Dewstone Planes, White Arden, Marianople, Two Crowns, Falcorth Plains, Arcum Iris, Tigerspine Mountains, Mahadevi, Solis Headlands, Villanelle, Silent Forest, Ynystere.</li>
+<li>Blue Salt Trade routes have been adjusted, and some older routes have been discontinued due to the trade changes.</li>
+<li>Thunderwing now drops the Thunderwing Titan's feathers item that used in completing the quest "Slay the Titan."</li>
+<li>Kill the Final Sealbreaker: Adjusted the quest completion conditions. (The Shadowed Torch event in Aegis Island.) Must interact with the Erenor Gate to complete the quest.</li>
+<li>Now Crimson Rift Quests 1-3 are auto-completed when players accomplish the goal.
+<ul><li>Helping the War Effort</li>
+<li>Halting the Crimson Tide 1</li>
+<li>Halting the Crimson Tide 2</li>
+<li>Crimson Rift Rank 1</li>
+<li>Crimson Rift Rank 2</li>
+<li>Crimson Rift Rank 3</li></ul></li>
+<li>Now Grimghast Rift's Part 1 and Part 2 quests are accepted at the same time.</li>
+<li>Tofu Delivery and Suntofu Sale: Updated the quest story to make it fit better in the ArcheAge World.</li>
+<li>Improved the informative texts for Resident Quests that ask to craft local specialties.</li>
+<li>Added a quest description to “A Good Reputation?”</li>
+<li>Added a description of the quest goal for “Friends and Acquaintenances.”</li>
+<li>Adjusted the Merit Quest Specialty Crafting quest description.</li>
+<li>Edited the text in Hereafter Stone crafting quests in Lilyhut Hills and Tigerspine Mountains.</li>
+<li>World Bosses Quest: Removed the Final Sealbreaker from the quest goal.</li>
+<li>Fixed an issue where Stunned Deer for the quest "Wakey-Wakey" could be spawned normally(not stunned).</li>
+<li>Always It Is Dawn: fixed an issue where "Always It Is Dawn" could not appear on the completed quest log.</li>
+<li>Fixed an issue where some quests' start locations were incorrect in the Warborn Race Quest Chapter 6.</li></ul>
+<h4 id="PvP,_Arena,_Hero_System,_Sieges"><span></span>PvP, Arena, Hero System, Sieges</h4>
+<ul><li>4 Clear Lunagems and 19 Honorable Lunastones have been removed from the Honor Shop.</li>
+<li>The Arena ranking rewards have been adjusted to now include the Eternal grade as the top prize offering. The Items have remained the same.</li>
+<li>The Blood in the Sand Tournament rings have also had their grades adjusted to take Eternal into account.</li>
+<li>Adjusted the min/max participants of the Free-for-all Arena.</li>
+<li>Previous Total participants: 8 players ---&gt; Now Min 6 players - Max 12 players In Update 3.5, players will now receive rewards up to Rank 4 instead of Rank 5.</li>
+<li>You no longer have to be a hero to be able to use your Gold Evernight Ring or Silver Evernight Ring if you receive one from a Hero Reward.</li>
+<li>The Territory Farm, Territory Market, Territory Warehouse, Sovereign’s Vault, Territory Workshop, Military Headquarters, Diplomacy Headquarters, Advanced Territory Farm, and Prime Territory Farm now receive less siege damage. This change gives them about double their original durability.</li></ul>
+<h4 id="Family_Changes,_Guild_Changes"><span></span>Family Changes, Guild Changes</h4>
+<ul><li>The “All In The Family” set of quests now unlocks at level 30. Characters who have already unlocked the category will not have to unlock it again.</li>
+<li>When a Nation’s Peace Treaty is now rejected, they’ll receive only 50% of their Lord’s Coins back.</li>
+<li>Construction Material Production minimum time has been reduced from 20 hours to 8 hours.</li>
+<li>Territory Tax Rates are now displayed on the map.</li>
+<li>The Guild Leader’s name will always be on the top of the guild member list.</li>
+<li>Whalesong Harbor and Aegis Island monsters have been added to Guild Missions.</li>
+<li>Housing Deposits are no longer contributed to Peace Fund.</li></ul>
+<h4 id="Trading">Trading</h4>
+<ul><li>Trade Outlets have been added. They are alternative places to turn in tradepacks.</li>
+<li>The time it takes to receive rewards has been reduced from 22 hours to 8 hours.</li>
+<li>Interest rates on trade payments have been reduced from 5% to 2%.</li>
+<li>Special, safe passage boats now travel between the following Trade Outlets: Solis Headlands to Two Crowns, Solzreed Peninsula to Ynystere.
+<ul><li>Visit the Cargo Manager to purchase a Captain’s Protection pass for 15 gold or purchase one from the Vocation Store for 1,000 Vocation. While under the pass and on the boat, you cannot be attacked.</li>
+<li>The protection buff is removed when players leave the ship.</li></ul></li>
+<li>Shadow Merchants no longer accept trade packs.</li>
+<li>Adjusted prices of item sold by General Merchants and Seed and Sapling Merchants.
+<ul><li>Hereafter Stones: 75 silver</li>
+<li>Adjusted the price of Livestock, Sapling, and Seeds.</li></ul></li></ul>
+<h4 id="Regrading_&amp;_Crafting"><span></span>Regrading &amp; Crafting</h4>
+<ul><li>Regrading an item no longer resets tempering.</li>
+<li>The Regrade UI has received slightly updated terminology to better reflect game items.</li>
+<li>To better clarify what level a certain Regrade Charm can be used at, the Regrade Charm grades have been adjusted.</li>
+<li>Regrade success rates now vary depending on the item. S</li>
+<li>Regrade costs have been changed. Basic to Unique regrade costs have been reduced by about 21%, Unique through Divine grades cost about the same, and grades above Unique will cost more. Costs are now heavily based in the item’s performance and grade level.</li>
+<li>Regrade Charms can now be used on Ship and Pet Accessories.</li>
+<li>The estimated success rate of your Regrade is now displayed in the Regrade window.</li>
+<li>Reduced the Labor cost on crafting Illustrious from 1,400 to 600.</li>
+<li>Increased labor cost of crafting Ayanad from 800 to 1,250.</li>
+<li>Reduced the Nuri Forest Lumber required for crafting Aurora Storage Chest from 10 to 5.</li>
+<li>Reduced the amount of required Warrior’s Medals for crafting Delphinad/Ayanad Cloaks, but increased the amount of required materials obtained from Auroria hunting.</li>
+<li>Added mass production and salvaging recipes for Archeum.</li>
+<li>Added mass production recipes for Paper and Blank Scrolls.</li>
+<li>Added mass production recipes for Regrade Gems.</li>
+<li>Dewdrop Leather can now be found under Leather. Makes sense, right?</li>
+<li>Cloth costumes have been moved to the Cloth category. Surprise!</li>
+<li>Increased the amount of materials and labor required to make keys for Metal Crates. Reduced the number of keys that were created.</li>
+<li>Increased the amount of Archeum Essence and Revenant Soulstones in Soulforged Gear modification to Obsidian.</li>
+<li>Abyssal Shards required to make an Abyssal Crystal have been reduced from 40 to 30.</li>
+<li>The Hereafter Stone recipe has been adjusted. The new stones will require 30 labor, 6 stone, and 1 Charcoal Stabilizer to create 10 Hereafter Stones.</li>
+<li>Added a recipe for an Expanded Otherworld Storage Chest.</li>
+<li>Erenor Cloaks can be crafted at the Proven Warrior's Workbench for 450 Labor. Requires a Legendary Ayanad Cloak as a material. The grade of result item is Arcane.</li>
+<li>Increased the Labor cost in crafting Dungeon gear 50 -&gt; 100.</li>
+<li>Increased the required amount of Abyssal Shard in crafting Unique Dungeon Armor 10 -&gt; 12.</li>
+<li>Increased the required amount of Abyssal Shard in crafting Celestial Dungeon Armor 12 -&gt; 20.</li>
+<li>Now 12 temporary Mirage Weapons can be crafted at the Proven Warrior Workbench.</li>
+<li>Reduced the amount of Warrior’s Medals to create Delphinad cloaks from 500 to 300.</li>
+<li>Reduced the amount of Warrior’s Medals to create Ayanad cloaks from 800 to 500.</li>
+<li>Grimoires have been made obsolete and are now replaced with Combat Manuals, crafting recipes have been changed to reflect this</li>
+<li>Abyssal Crystals are now tradable</li></ul>
+<h4 id="Vocation_Related">Vocation Related</h4>
+<ul><li>Cages and Pens now offer more Fresh Fertilizer.</li>
+<li>Planting outside of protected land now costs no labor.</li>
+<li>Archeum Trees now offer 30% more Archeum per harvest.</li>
+<li>Regrade Braziers now offer more Regrade Gems.</li>
+<li>Certain Wild Harvest plants can now be obtained in the Vocation Badge shop to aid in reducing crafting difficulty: Blueberry Seeds, Beech Saplings, Vanilla Seeds, Black Pepper Seeds, and Chestnut Saplings can be obtained.</li>
+<li>Blueberry’s climate has been changed to Temperate, and they mature in about 14 hours and 18 minutes.</li>
+<li>Blueberry bushes now offer between 2 and 4 Blueberries.</li>
+<li>Archeum Essence now stacks up to 1,000 (previous was 100).</li>
+<li>Adjusted the sell price of Family Quest: Freshwater Sport Fishing.</li></ul>
+<h4 id="Items">Items</h4>
+<h4 id="Vehicles">Vehicles</h4>
+<ul><li>The length of time a drydock is protected, and the amount of gold required for a deposit has been changed.
+<ul><li>The Clipper ship dock deposit increased from 10 Gold to 30 Gold. Their protected time has been reduced from 3 days to 12 hours.</li>
+<li>The Merchant Schooner &amp; Fishing Boats dock deposit increased from 15 Gold to 45 Gold. Protected time is reduced from 3 days to 18 hours.</li>
+<li>Small Warship dock deposits increased from 12-25 Gold to 75 Gold. Protected time is reduced from 3 days to 36 hours.</li>
+<li>Medium Warship dock deposits increased from 100 Gold to 300 Gold. Protected time is reduced from 3 days to 108 hours.</li></ul></li>
+<li>The Ship Steering Wheel visual effects have been adjusted.</li>
+<li>When using the “Might of the Boar” skill on the Rampage car, the driver cannot dismount for 3 seconds.</li>
+<li>Players may jump into the passenger seat of a Rampage car in hostile zones.</li>
+<li>Lilyut Horse Armor now has text showing it can be equipped by a Hellwing Pegasus.</li>
+<li>Equipped ship components can now be repaired immediately with Shatigon’s Sand. This change has been made to aid in the Leviathan battle.</li></ul>
+<h4 id="Skills">Skills</h4>
+<p>See <a href="/aac-hub/wiki/ancestral-skills">Ancestral Skills</a> for a list of tooltips on Ancestral Skills
+</p><p>(Changes shown assuming lv55 skill trees.)
+</p><p><b>Shadowplay</b>
+</p><p>Wallop
+</p>
+<ul><li>Attack animation reduced from base 1.6sec -&gt; base 1sec.</li></ul>
+<p><b>Songcraft</b>
+</p><p>Critical Discord
+</p>
+<ul><li>Range reduced from 20m -&gt; 15m.</li></ul>
+<p>Startling Strain
+</p>
+<ul><li>Range reduced from 20m -&gt; 15m.</li></ul>
+<p>Ode to Recovery
+</p>
+<ul><li>Healing Power Coefficient reduced from 38% -&gt; 10%.</li>
+<li>Base Healing increased +53%.</li>
+<li>Now increases Received Healing +21-33% for all affected allies.</li></ul>
+<p><b>Defense</b>
+</p><p>Shield Slam
+</p>
+<ul><li>No longer combos with enervate.</li></ul>
+<p>Shield of Steel
+</p>
+<ul><li>Increases Physical Defense by +6% (Previously increased by a flat amount.)</li></ul>
+<p><b>Witchcraft</b>
+</p><p>Magic Detection
+</p>
+<ul><li>Increases Magic Defense by +5% (Previously increased by a flat amount.)</li></ul>
+<p><b>Vitalism</b>
+</p><p>Holy Bolt
+</p>
+<ul><li>Range reduced from 30m -&gt; 25m.</li>
+<li>Combo effect heals the caster for 50% less than normal.</li></ul>
+<h3 id="Custom_changes">Custom changes</h3>
+<ul><li>Daru Trinket Recipe Added: Lavender Light</li></ul>
+<ul><li><b>A new gearing path for newer players has been added, the Hasla Emerald weapon line. These weapons can be farmed and upgraded via synthesis of the previous Hasla weapons up to an Ayanad equivalent tiered weapon.</b></li></ul>
+<ul><li><b>New Festive Decor, items and other thematic goodies have been added:</b>
+<ul><li>Might Be a Witch Title</li>
+<li>Mischievous Title</li>
+<li>Spooky Anywhere Warehouse</li>
+<li>Spooky Pumpkin Bed</li>
+<li>Little Witch House</li>
+<li>Candy Basket</li>
+<li>Hallowtide Candies</li>
+<li>Bat Nap</li>
+<li>Spooky Hallowtide Window</li></ul></li></ul>
+<ul><li>The Toy Lantern has been added as a permanently craftable toy</li>
+<li>PvE damage on the Pufferfish Ship has been greatly reduced</li></ul>
+<ul><li>Erenor Lunafrosts have been modified and changed to be more attainable.</li></ul>
+<ul><li>New recipes for tempers to be crafted have been added</li>
+<li>The Berserker's Peace (Hanure Club) has been adjusted and will now buff every ally for 1 second, healing 3 ticks</li></ul>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/patch-notes","className":"text-accent-2 hover:underline","children":"Patch Notes"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Patch 1.3"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Patch_1.3","className":"underline hover:text-text","children":["AAClassic wiki page “","Patch 1.3","”"]}]," ","(CC0), last edited ","Nov 4, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Base_patch",{"className":"pl-3","children":["$","a",null,{"href":"#Base_patch","className":"text-muted hover:text-accent","children":"Base patch"}]}],["$","li","Custom_changes",{"className":"pl-3","children":["$","a",null,{"href":"#Custom_changes","className":"text-muted hover:text-accent","children":"Custom changes"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Patch 1.3 · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Since this patch is based on the 3.5 retail patch, here are the base patch notes: Base patch General Changes Lunafrost effects can now be turned on or off in settings. No glow, no problem. The experience from levels 51…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

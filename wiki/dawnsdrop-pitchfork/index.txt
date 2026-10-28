@@ -1,0 +1,526 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","dawnsdrop-pitchfork",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","dawnsdrop-pitchfork","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","dawnsdrop-pitchfork","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T4fd2,<p>The Dawnsdrop Pitchfork is an addition to the <a href="/aac-hub/wiki/dawnsdrop-tools">Dawnsdrop Tools</a> custom content added in <a href="https://wiki.aa-classic.com/index.php?title=Patch_1.3.4&action=edit&redlink=1" rel="noopener">Patch 1.3.4</a>. The Dawnsdrop Pitchfork is a <a href="https://wiki.aa-classic.com/index.php?title=Farming&action=edit&redlink=1" rel="noopener">Farming</a> and <a href="https://wiki.aa-classic.com/index.php?title=Gathering&action=edit&redlink=1" rel="noopener">Gathering</a> tool that allows players to harvest crops and bundles into crates, which can later be opened for their materials. Higher-grade pitchforks provide increased yields when the crates are opened.
+</p>
+
+<h1 id="Function">Function</h1>
+<p>The Dawnsdrop Pitchfork harvests a fully grown seed or bundle and converts it directly into a corresponding crate. Using the pitchfork does not consume Labor.
+</p><p>Labor is instead consumed when opening the resulting crate. This allows players to harvest their crops without immediately spending Labor and save the crates for later.
+</p><p>Higher-grade pitchforks also increase the amount of materials obtained when the crates are opened, making pitchforking more rewarding than conventional harvesting.
+</p><p>There is however one downside to "Pitchforking" as it is known by, that is that you manually have to replant your farms unlike when you use the regular automated replanting option. 
+</p><p>This means you now have two distinct ways of managing Farming and Gathering:
+</p>
+<ul><li>Active harvesting: Use the Pitchfork to harvest crops and bundles into crates. This provides increased yields but requires manually replanting crops.</li>
+<li>Passive/automated harvesting: Continue using the normal harvesting and automated replanting system. This requires less manual interaction but does not benefit from the Pitchfork's increased yields.</li></ul>
+<h1 id="Grade_Effect">Grade Effect</h1>
+<table class="wikitable">
+<caption style="text-align:center; vertical-align:middle"><big><b>Farming</b></big>
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>
+</th>
+<th colspan="3"><b>Seed</b>
+</th>
+<th colspan="3"><b>Bundle</b>
+</th></tr>
+<tr>
+<th>Grade
+</th>
+<th>Crate
+</th>
+<th style="text-align:center; vertical-align:middle">Product
+</th>
+<th style="text-align:center; vertical-align:middle">Hay Bale
+</th>
+<th style="text-align:center; vertical-align:middle">Royal Seed
+</th>
+<th style="text-align:center; vertical-align:middle">Product
+</th>
+<th style="text-align:center; vertical-align:middle">Hay Bale
+</th>
+<th style="text-align:center; vertical-align:middle">Royal Seed
+</th></tr>
+<tr>
+<td><span style="color: rgb(119, 176, 100)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td style="text-align:center; vertical-align:middle">3-4
+</td>
+<td style="text-align:center; vertical-align:middle">1
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">3-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(85, 143, 215)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td style="text-align:center; vertical-align:middle">3-4
+</td>
+<td style="text-align:center; vertical-align:middle">1
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">3-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(203, 114, 216)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-5
+</td>
+<td style="text-align:center; vertical-align:middle">1
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">3-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(215, 139, 6)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(85, 143, 215)">Rare</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-5
+</td>
+<td style="text-align:center; vertical-align:middle">1
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">3-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(225, 120, 83)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(85, 143, 215)">Rare</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-5
+</td>
+<td style="text-align:center; vertical-align:middle">1
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">3-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(249, 82, 82)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(203, 114, 216)">Arcane</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-6
+</td>
+<td style="text-align:center; vertical-align:middle">1
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">27-36
+</td>
+<td style="text-align:center; vertical-align:middle">3-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption style="text-align:center; vertical-align:middle"><big><b>Gathering</b></big>
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>
+</th>
+<th colspan="2"><b>Seed</b>
+</th>
+<th colspan="2"><b>Bundle</b>
+</th></tr>
+<tr>
+<th>Grade
+</th>
+<th>Crate
+</th>
+<th style="text-align:center; vertical-align:middle">Product
+</th>
+<th style="text-align:center; vertical-align:middle">Scented Leaf
+</th>
+<th style="text-align:center; vertical-align:middle">Product
+</th>
+<th style="text-align:center; vertical-align:middle">Scented Leaf
+</th></tr>
+<tr>
+<td><span style="color: rgb(119, 176, 100)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td style="text-align:center; vertical-align:middle">3-4
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(85, 143, 215)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td style="text-align:center; vertical-align:middle">3-4
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(203, 114, 216)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(215, 139, 6)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(85, 143, 215)">Rare</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(225, 120, 83)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(85, 143, 215)">Rare</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-5
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr>
+<tr>
+<td><span style="color: rgb(249, 82, 82)">Dawnsdrop Pitchfork</span>
+</td>
+<td><span style="color: rgb(203, 114, 216)">Arcane</span>
+</td>
+<td style="text-align:center; vertical-align:middle">4-6
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td>
+<td style="text-align:center; vertical-align:middle">27-36
+</td>
+<td style="text-align:center; vertical-align:middle">—
+</td></tr></tbody></table>
+<p><i>The drop rates for Scented Leaf and Royal Seed are unchanged by the Pitchfork and continue to scale with the player's Gathering or Farming Proficiency.</i> 
+</p><p><i>Tip: The Pitchfork also works on Aquafarms.</i> 
+</p>
+<h1 id="Starting_the_Questline">Starting the Questline</h1>
+<p>Requirements:
+</p>
+<ul><li>230,000 Farming Proficiency</li>
+<li>230,000 Gathering Proficiency</li></ul>
+<p>You do not need 230,000 proficiency in both.
+</p><p>Bring Dawnsdrop Wrists and Pants. 
+</p>
+<ol><li>Go to Sun's End (Halcyona Community Center).</li>
+<li>Water crops and flowers with your Dawnsdrops equipped for the Dawnsdrop Buffs.</li>
+<li>Get the quest from Neru in the Community Center.</li></ol>
+<p><i>Tip: It is recommended to also start the <a href="/aac-hub/wiki/dawnsdrop-watering-can">Dawnsdrop Watering Can</a> questline and progress these simultaneously as they often share objectives.</i>
+</p>
+<table class="wikitable" style="width: 100%">
+<caption style="text-align:center; vertical-align:middle">Summary
+</caption>
+<tbody><tr>
+<th style="width: 20%">Quest
+</th>
+<th style="width: 10%">Grade
+</th>
+<th style="width: 50%">Required Items
+</th>
+<th style="width: 20%">Labor Spend
+</th></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000102">1. The Art of Harvest</a>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000103">2. The Farmer's Burden</a>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000104">3. A Necessary Compromise</a>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td><i>Kill <a href="/aac-hub/wiki/zaldrane-the-enchantress">Zaldrane the Enchantress</a></i>
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000105">4. Tom's Pitchfork</a>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000106">5. A Blade in Need</a>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td>
+<td>Lumber × 200 · Iron Ingot × 100 · Archeum Ingot × 24 · Pure Gold Ore × 10 · Exquisite Diaphragm × 2
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000107">6. Tending To Your Harvest</a>
+</td>
+<td><span style="color: rgb(85, 143, 215)">Rare</span>
+</td>
+<td>Use Pitchfork with any crop × 500
+</td>
+<td>Farming × 30,000
+<p>Gathering × 30,000
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000108">7. Experimental Corn</a>
+</td>
+<td><span style="color: rgb(203, 114, 216)">Arcane</span>
+</td>
+<td>Interact with Hugh Mungus Corn × 4 <i>(quest supplies 4 seeds)</i>
+</td>
+<td>Farming × 30,000
+<p>Gathering × 30,000
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000109">8. A Farmer's Duty</a>
+</td>
+<td><span style="color: rgb(215, 139, 6)">Heroic</span>
+</td>
+<td>Interact with <span style="color: rgb(119, 176, 100)">Wheat Seed Bundle</span> × 500 · <span style="color: rgb(119, 176, 100)">Lily Seed Bundle</span> × 500
+</td>
+<td>Farming × 30,000
+<p>Gathering × 30,000
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000110">9. A Timely Return</a>
+</td>
+<td><span style="color: rgb(225, 120, 83)">Unique</span>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000111">10. Yet Another Compromise</a>
+</td>
+<td><span style="color: rgb(225, 120, 83)">Unique</span>
+</td>
+<td><i>Kill <a href="https://wiki.aa-classic.com/index.php?title=Twisted_Gate_Spawn&action=edit&redlink=1" rel="noopener">Twisted Gate Spawn</a></i>
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000112">11. Return To Major Tom</a>
+</td>
+<td><span style="color: rgb(225, 120, 83)">Unique</span>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000113">12. An Udderly Ridiculous Request</a>
+</td>
+<td><span style="color: rgb(225, 120, 83)">Unique</span>
+</td>
+<td>Interact with Hugh Mungus Cow × 4 <i>(quest supplies 4)</i>
+</td>
+<td>Farming × 30,000
+<p>Gathering × 30,000
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000114">13. A Special Rarity</a>
+</td>
+<td><span style="color: rgb(249, 82, 82)">Celestial</span>
+</td>
+<td>Interact with <span style="color: rgb(85, 143, 215)">Cactus Seed Bundle</span> × 500 · <span style="color: rgb(85, 143, 215)">Quinoa Seed Bundle</span> × 500 · <span style="color: rgb(85, 143, 215)">Cultivated Ginseng Seed Bundle</span> × 500
+</td>
+<td>Farming × 30,000
+<p>Gathering × 30,000
+</p>
+</td></tr>
+<tr>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000115">14. A Farmer's Tool</a> <i>(final)</i>
+</td>
+<td><span style="color: rgb(249, 82, 82)">Celestial</span>
+</td>
+<td>Use Azalea Harvest × 1 · <a rel="noopener" href="https://aa-classic.com/database/crafts/9000591">Craft 1× Dawnsdrop Pitchfork</a>:<br><span style="color: rgb(225, 120, 83)">Dawnsdrop Pitchfork (Unique)</span> × 1 · Anya Ingot × 22 · Starlight Archeum Essence × 5 · Diamond × 17 · Taris's Soul × 1
+</td>
+<td>—
+</td></tr></tbody></table>
+<h2 id="Grand_Dawnsdrop_Pitchfork"><span style="color: rgb(119, 176, 100)">Grand Dawnsdrop Pitchfork</span></h2>
+<h3 id="1._The_Art_of_Harvest"><a rel="noopener" href="https://aa-classic.com/database/quests/9000102">1. The Art of Harvest</a></h3>
+<p>Turn in to Landlord Tom in Sun's End. 
+</p>
+<h3 id="2._The_Farmer's_Burden"><span></span><a rel="noopener" href="https://aa-classic.com/database/quests/9000103">2. The Farmer's Burden</a></h3>
+<h3 id="3._A_Necessary_Compromise"><a rel="noopener" href="https://aa-classic.com/database/quests/9000104">3. A Necessary Compromise</a></h3>
+<ul><li>Kill <a href="/aac-hub/wiki/zaldrane-the-enchantress">Zaldrane the Enchantress</a> in eastern Hellswamp.</li></ul>
+<h3 id="4._Tom's_Pitchfork"><span></span><a rel="noopener" href="https://aa-classic.com/database/quests/9000105">4. Tom's Pitchfork</a></h3>
+<h3 id="5._A_Blade_in_Need"><a rel="noopener" href="https://aa-classic.com/database/quests/9000106">5. A Blade in Need</a></h3>
+<p>Requires the following materials:
+</p>
+<ul><li>Lumber × 200</li>
+<li>Iron Ingot × 100</li>
+<li>Archeum Ingot × 24</li>
+<li>Pure Gold Ore × 10</li>
+<li>Exquisite Diaphragm × 2</li></ul>
+<h2 id="Rare_Dawnsdrop_Pitchfork"><span style="color: rgb(85, 143, 215)">Rare Dawnsdrop Pitchfork</span></h2>
+<h3 id="6._Tending_To_Your_Harvest"><a rel="noopener" href="https://aa-classic.com/database/quests/9000107">6. Tending To Your Harvest</a></h3>
+<ul><li>Use 30,000 Labor in Farming</li>
+<li>Use 30,000 Labor in Gathering</li>
+<li>Use your Pitchfork on 500 × crops.</li></ul>
+<h2 id="Arcane_Dawnsdrop_Pitchfork"><span style="color: rgb(203, 114, 216)">Arcane Dawnsdrop Pitchfork</span></h2>
+<h3 id="7._Experimental_Corn"><a rel="noopener" href="https://aa-classic.com/database/quests/9000108">7. Experimental Corn</a></h3>
+<ul><li>Use 30,000 Labor in Farming</li>
+<li>Use 30,000 Labor in Gathering</li>
+<li>Interact Hugh Mungus Corn × 4 <i>(quest supplies 4 seeds)</i></li></ul>
+<p>NOTE: The Hugh Mungus Corn has the same size as a Majestic Tree, i.e. requires bare minimum a Lunar/Solar/Stellar Scarecrow Farm (16x16) to be placed.
+</p>
+<h2 id="Heroic_Dawnsdrop_Pitchfork"><span style="color: rgb(215, 139, 6)">Heroic Dawnsdrop Pitchfork</span></h2>
+<h3 id="8._A_Farmer's_Duty"><span></span><a rel="noopener" href="https://aa-classic.com/database/quests/9000109">8. A Farmer's Duty</a></h3>
+<ul><li>Use 30,000 Labor in Farming</li>
+<li>Use 30,000 Labor in Gathering</li>
+<li>Interact with <span style="color: rgb(119, 176, 100)">Wheat Seed Bundle</span> × 500</li>
+<li>Interact with <span style="color: rgb(119, 176, 100)">Lily Seed Bundle</span> × 500</li></ul>
+<p>Tip: Any interaction with the bundles count towards quest progress, this means watering them one by one, tending to wilted bundles and of course gathering them all count. 
+</p>
+<h2 id="Unique_Dawnsdrop_Pitchfork"><span style="color: rgb(225, 120, 83)">Unique Dawnsdrop Pitchfork</span></h2>
+<h3 id="9._A_Timely_Return"><a rel="noopener" href="https://aa-classic.com/database/quests/9000110">9. A Timely Return</a></h3>
+<h3 id="10._Yet_Another_Compromise"><a rel="noopener" href="https://aa-classic.com/database/quests/9000111">10. Yet Another Compromise</a></h3>
+<ul><li><i>Kill <a href="https://wiki.aa-classic.com/index.php?title=Twisted_Gate_Spawn&action=edit&redlink=1" rel="noopener">Twisted Gate Spawn</a> in western Hellswamp.</i></li></ul>
+<h3 id="11._Return_To_Major_Tom"><a rel="noopener" href="https://aa-classic.com/database/quests/9000112">11. Return To Major Tom</a></h3>
+<h3 id="12._An_Udderly_Ridiculous_Request"><a rel="noopener" href="https://aa-classic.com/database/quests/9000113">12. An Udderly Ridiculous Request</a></h3>
+<ul><li>Use 30,000 Labor in Farming</li>
+<li>Use 30,000 Labor in Gathering</li>
+<li>Interact with Hugh Mungus Cow × 4 <i>(quest supplies 4)</i></li></ul>
+<p>NOTE: The Hugh Mungus Cow has the same size as a Majestic Tree, i.e. requires bare minimum a Lunar/Solar/Stellar Scarecrow Farm (16x16) to be placed.
+</p>
+<h2 id="Celestial_Dawnsdrop_Pitchfork"><span style="color: rgb(249, 82, 82)">Celestial Dawnsdrop Pitchfork</span></h2>
+<h3 id="13._A_Special_Rarity"><a rel="noopener" href="https://aa-classic.com/database/quests/9000114">13. A Special Rarity</a></h3>
+<ul><li>Use 30,000 Labor in Farming</li>
+<li>Use 30,000 Labor in Gathering</li>
+<li>Interact with <span style="color: rgb(85, 143, 215)">Cactus Seed Bundle</span> × 500</li>
+<li>Interact with <span style="color: rgb(85, 143, 215)">Quinoa Seed Bundle</span> × 500</li>
+<li>Interact with <span style="color: rgb(85, 143, 215)">Cultivated Ginseng Seed Bundle</span> × 500</li></ul>
+<p>Tip: Any interaction with the bundles count towards quest progress, this means watering them one by one, tending to wilted bundles and of course gathering them all count. 
+</p>
+<h3 id="14._A_Farmer's_Tool"><span></span><a rel="noopener" href="https://aa-classic.com/database/quests/9000115">14. A Farmer's Tool</a></h3>
+<ul><li>Craft the <span style="color: rgb(249, 82, 82)">Celestial Dawnsdrop Pitchfork</span> at any Anvil.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th>Recipe
+</th>
+<th>Materials
+</th></tr>
+<tr>
+<td><span style="color: rgb(249, 82, 82)">Celestial Dawnsdrop Pitchfork</span>
+</td>
+<td>1×<span style="color: rgb(225, 120, 83)">Unique Dawnsdrop Pitchfork</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>22×Anya Ingot
+</td></tr>
+<tr>
+<td>
+</td>
+<td>5×Starlight Archeum Essence
+</td></tr>
+<tr>
+<td>
+</td>
+<td>17×Diamond
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1×Taris Soul
+</td></tr></tbody></table>
+<h1 id="See_Also">See Also</h1>
+<ul><li><a href="/aac-hub/wiki/dawnsdrop-tools">Dawnsdrop Tools</a></li>
+<li><a href="/aac-hub/wiki/dawnsdrop-pickaxe">Dawnsdrop Pickaxe</a></li>
+<li><a href="/aac-hub/wiki/dawnsdrop-watering-can">Dawnsdrop Watering Can</a></li>
+<li><a href="/aac-hub/wiki/dawnsdrop-costume">Dawnsdrop Costume</a></li>
+<li><a href="https://wiki.aa-classic.com/index.php?title=Farming&action=edit&redlink=1" rel="noopener">Farming</a></li>
+<li><a href="https://wiki.aa-classic.com/index.php?title=Gathering&action=edit&redlink=1" rel="noopener">Gathering</a></li></ul>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/professions-and-life-skills","className":"text-accent-2 hover:underline","children":"Professions & Life Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Dawnsdrop Pitchfork"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Dawnsdrop_Pitchfork","className":"underline hover:text-text","children":["AAClassic wiki page “","Dawnsdrop Pitchfork","”"]}]," ","(CC0), last edited ","Sep 13, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Grand_Dawnsdrop_Pitchfork",{"className":"","children":["$","a",null,{"href":"#Grand_Dawnsdrop_Pitchfork","className":"text-muted hover:text-accent","children":"Grand Dawnsdrop Pitchfork"}]}],["$","li","1._The_Art_of_Harvest",{"className":"pl-3","children":["$","a",null,{"href":"#1._The_Art_of_Harvest","className":"text-muted hover:text-accent","children":"1. The Art of Harvest"}]}],["$","li","2._The_Farmer's_Burden",{"className":"pl-3","children":["$","a",null,{"href":"#2._The_Farmer's_Burden","className":"text-muted hover:text-accent","children":"2. The Farmer's Burden"}]}],["$","li","3._A_Necessary_Compromise",{"className":"pl-3","children":["$","a",null,{"href":"#3._A_Necessary_Compromise","className":"text-muted hover:text-accent","children":"3. A Necessary Compromise"}]}],["$","li","4._Tom's_Pitchfork",{"className":"pl-3","children":["$","a",null,{"href":"#4._Tom's_Pitchfork","className":"text-muted hover:text-accent","children":"4. Tom's Pitchfork"}]}],["$","li","5._A_Blade_in_Need",{"className":"pl-3","children":["$","a",null,{"href":"#5._A_Blade_in_Need","className":"text-muted hover:text-accent","children":"5. A Blade in Need"}]}],["$","li","Rare_Dawnsdrop_Pitchfork",{"className":"","children":["$","a",null,{"href":"#Rare_Dawnsdrop_Pitchfork","className":"text-muted hover:text-accent","children":"Rare Dawnsdrop Pitchfork"}]}],["$","li","6._Tending_To_Your_Harvest",{"className":"pl-3","children":["$","a",null,{"href":"#6._Tending_To_Your_Harvest","className":"text-muted hover:text-accent","children":"6. Tending To Your Harvest"}]}],["$","li","Arcane_Dawnsdrop_Pitchfork",{"className":"","children":["$","a",null,{"href":"#Arcane_Dawnsdrop_Pitchfork","className":"text-muted hover:text-accent","children":"Arcane Dawnsdrop Pitchfork"}]}],["$","li","7._Experimental_Corn",{"className":"pl-3","children":["$","a",null,{"href":"#7._Experimental_Corn","className":"text-muted hover:text-accent","children":"7. Experimental Corn"}]}],["$","li","Heroic_Dawnsdrop_Pitchfork",{"className":"","children":["$","a",null,{"href":"#Heroic_Dawnsdrop_Pitchfork","className":"text-muted hover:text-accent","children":"Heroic Dawnsdrop Pitchfork"}]}],["$","li","8._A_Farmer's_Duty",{"className":"pl-3","children":["$","a",null,{"href":"#8._A_Farmer's_Duty","className":"text-muted hover:text-accent","children":"8. A Farmer's Duty"}]}],["$","li","Unique_Dawnsdrop_Pitchfork",{"className":"","children":["$","a",null,{"href":"#Unique_Dawnsdrop_Pitchfork","className":"text-muted hover:text-accent","children":"Unique Dawnsdrop Pitchfork"}]}],["$","li","9._A_Timely_Return",{"className":"pl-3","children":["$","a",null,{"href":"#9._A_Timely_Return","className":"text-muted hover:text-accent","children":"9. A Timely Return"}]}],["$","li","10._Yet_Another_Compromise",{"className":"pl-3","children":["$","a",null,{"href":"#10._Yet_Another_Compromise","className":"text-muted hover:text-accent","children":"10. Yet Another Compromise"}]}],["$","li","11._Return_To_Major_Tom",{"className":"pl-3","children":["$","a",null,{"href":"#11._Return_To_Major_Tom","className":"text-muted hover:text-accent","children":"11. Return To Major Tom"}]}],["$","li","12._An_Udderly_Ridiculous_Request",{"className":"pl-3","children":["$","a",null,{"href":"#12._An_Udderly_Ridiculous_Request","className":"text-muted hover:text-accent","children":"12. An Udderly Ridiculous Request"}]}],["$","li","Celestial_Dawnsdrop_Pitchfork",{"className":"","children":["$","a",null,{"href":"#Celestial_Dawnsdrop_Pitchfork","className":"text-muted hover:text-accent","children":"Celestial Dawnsdrop Pitchfork"}]}],["$","li","13._A_Special_Rarity",{"className":"pl-3","children":["$","a",null,{"href":"#13._A_Special_Rarity","className":"text-muted hover:text-accent","children":"13. A Special Rarity"}]}],["$","li","14._A_Farmer's_Tool",{"className":"pl-3","children":["$","a",null,{"href":"#14._A_Farmer's_Tool","className":"text-muted hover:text-accent","children":"14. A Farmer's Tool"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Dawnsdrop Pitchfork · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"The Dawnsdrop Pitchfork is an addition to the Dawnsdrop Tools custom content added in Patch 1.3.4. The Dawnsdrop Pitchfork is a Farming and Gathering tool that allows players to harvest crops and bundles into crates,…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

@@ -1,0 +1,298 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","starter-pets",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","starter-pets","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","starter-pets","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T22d5,<p>Back to <a href="/aac-hub/wiki/battle-pets">Battle Pets</a>
+</p><p>Starter Pets are categorized as pets that can be bought near stablehands in various community centers around the world of ArcheAge. They are each purchased for 10 silver each and are offered in 3 different variations.
+</p><p>These pets and their skills are listed below.
+</p>
+
+<h2 id="Sabrefang">Sabrefang</h2>
+<p>The sabrefang can be obtained from Jaun's Ranch in Villanelle. Next to the Stablehand, "Butcher Umei" it is offered in 3 variations; Tabby, Striped and Calico.
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/7/7b/Sabrefang.png/480px-Sabrefang.png" width="480" height="186" srcset="https://wiki.aa-classic.com/images/7/7b/Sabrefang.png 1.5x" loading="lazy"><figcaption>In order from left to right, Tabby - Striped - Calico</figcaption></figure>
+<table class="wikitable">
+<caption>Pet Skills
+</caption>
+<tbody><tr>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Level
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/2/25/Icon_skill_cat01.webp" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Smack
+</td>
+<td>25
+</td>
+<td>Attack dealing x Physical Damage with a chance to inflict stun for 2sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/b/be/Icon_skill_battle_pet02.webp" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Health Regen
+</td>
+<td>25
+</td>
+<td>Restores x amount of pet's health.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/4/4f/Icon_skill_cat03.webp" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Reflexes
+</td>
+<td>30
+</td>
+<td>Increases Critical and Evasion Rates <b>of the pet</b> by +30% for 10 sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/7/70/Icon_skill_cat04.webp" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Strong Claws
+</td>
+<td>35
+</td>
+<td>Increases the Attack <b>of the pet</b> by 40% for 10sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/0/04/Cat5.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Scratch
+</td>
+<td>40
+</td>
+<td>Attack dealing x Physical Damage, Inflicting a 14sec bleed dealing x damage.
+<p>Combo Effect: If target is bleeding, Increases the severity of Bleed effect.
+</p>
+</td></tr></tbody></table>
+<h2 id="Wolfhound">Wolfhound</h2>
+<p>The Wolfhound can be obtained from the Marianople Community Center, "Dawnsliver" and is available in 3 different variations; Black, White and Brown.
+</p>
+<table class="wikitable">
+<caption>Pet Skills
+</caption>
+<tbody><tr>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Level
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/b/b9/Wolf1.png" width="41" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Scratch
+</td>
+<td>25
+</td>
+<td>Basic Attack dealing x additional Physical Damage.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/6/64/Wolf2.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Health Regen
+</td>
+<td>25
+</td>
+<td>Restores x amount of pet's health.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/0/05/Wolf3.png" width="43" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Berserk
+</td>
+<td>30
+</td>
+<td><b>Pet</b> gains 1000 Attack Speed for 12sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/f/f8/Wolf4.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Overrun
+</td>
+<td>35
+</td>
+<td>Pet dashes into an enemy dealing x Physical Damage, Tripping them for 2sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/c/c8/Wolf5.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Guard Dog
+</td>
+<td>40
+</td>
+<td><b>PvE Only</b> Pet taunts an enemy forcing it to attack the pet.
+</td></tr></tbody></table>
+<h2 id="Mini-Miner">Mini-Miner</h2>
+<p>The Mini-Miner is obtainable in the Airain Rock Community Center, "Andelph" Next to Engineer Charlotte, It is available in 3 variations; Ruby, 
+</p>
+<table class="wikitable">
+<caption>Pet Skills
+</caption>
+<tbody><tr>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Level
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/b/b6/Miner1.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Strong Blow
+</td>
+<td>25
+</td>
+<td>Attacks an enemy dealing x Physical Damage.
+<p>Combo Effect: Bonus damage to bleeding targets.
+</p>
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/6/69/Miner2.png" width="43" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Self-Recovery
+</td>
+<td>25
+</td>
+<td>Restores x amount of pet's health over 3sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/c/ce/Miner3.png" width="43" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Engine Overload
+</td>
+<td>30
+</td>
+<td>Increases <b>pet's</b> Ranged, Magic, and Melee Power by +30 and increases Attack Speed by +516 for 10sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/6/67/Miner4.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Driller
+</td>
+<td>40
+</td>
+<td>Fires a ranged attack dealing x Physical Damage and Slowing its target for 3sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/d/d2/Miner5.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>That's MINE!
+</td>
+<td>50
+</td>
+<td>Fires a ranged attack dealing x Magical Damage for 3sec.
+<p>Triggers "Low Power" debuff preventing all other skills from being used for the duration of the debuff.
+</p>
+</td></tr></tbody></table>
+<h2 id="Thornboar">Thornboar</h2>
+<p>The Thornboar is obtainable in the Sunbite Wilds Communal Ranch, it is obtainable in 3 variations; Hedgealope, Leafcrusher and Steelspine.
+</p>
+<table class="wikitable">
+<caption>Pet Skills
+</caption>
+<tbody><tr>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Level
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/9/90/Boar1.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Gnaw
+</td>
+<td>25
+</td>
+<td>Attack dealing x amount of Physical Damage and causing the target to bleed for x damage over 14sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/9/9f/Healthregen.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Recover Health
+</td>
+<td>25
+</td>
+<td>Recovers x amount of pet's health.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/e/e3/Boar3.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Crouch
+</td>
+<td>30
+</td>
+<td>Buffs Pet returning 80% of received <b>Physical/Ranged</b> damage for 10sec.
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/b/b0/Boar4.png" width="41" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Kick Up Dirt
+</td>
+<td>35
+</td>
+<td>Ranged attack dealing x Ranged Damage and blinding the target.
+<p>Blinded target has reduced <b>Magical/Physical/Ranged</b> Accuracy for 3sec.
+</p>
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/c/c2/Boar5.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Body Slam
+</td>
+<td>50
+</td>
+<td><b>PvP/PvE</b> Dashes to target dealing x Physical Damage and taunting it.
+</td></tr></tbody></table>
+<h2 id="Black_Sabrefang">Black Sabrefang</h2>
+<figure><img src="https://wiki.aa-classic.com/images/1/1d/Blacksabrefanglocation.png" width="139" height="115" loading="lazy"><figcaption>Location of the Black Sabrefang in Mirage Isle</figcaption></figure><p>Different from the normal sabrefang pet, the Black Sabrefang is a pet obtainable in Mirage Isle for 5 Gilda. It is only obtainable in 1 variation.
+</p><table class="wikitable">
+<caption>Pet Skills
+</caption>
+<tbody><tr>
+<td>Icon
+</td>
+<td>Skill
+</td>
+<td>Level
+</td>
+<td>Description
+</td></tr>
+<tr>
+<td><figure><img src="https://wiki.aa-classic.com/images/3/32/Cat1.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Cat Steps
+</td>
+<td>25
+</td>
+<td>Increases movement speed of the <b>Caster and Pet</b> by 5% for 60sec.
+<p>If the Caster is carrying a Trade pack this bonus is increased to 30% increased movement speed. 
+</p>
+</td></tr></tbody></table><figure><img src="https://wiki.aa-classic.com/images/f/fb/Blackcat.png" width="181" height="239" loading="lazy"><figcaption></figcaption></figure>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/mounts-and-pets","className":"text-accent-2 hover:underline","children":"Mounts & Pets"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Starter Pets"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Starter_Pets","className":"underline hover:text-text","children":["AAClassic wiki page “","Starter Pets","”"]}]," ","(CC0), last edited ","Jul 16, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Sabrefang",{"className":"","children":["$","a",null,{"href":"#Sabrefang","className":"text-muted hover:text-accent","children":"Sabrefang"}]}],["$","li","Wolfhound",{"className":"","children":["$","a",null,{"href":"#Wolfhound","className":"text-muted hover:text-accent","children":"Wolfhound"}]}],["$","li","Mini-Miner",{"className":"","children":["$","a",null,{"href":"#Mini-Miner","className":"text-muted hover:text-accent","children":"Mini-Miner"}]}],["$","li","Thornboar",{"className":"","children":["$","a",null,{"href":"#Thornboar","className":"text-muted hover:text-accent","children":"Thornboar"}]}],["$","li","Black_Sabrefang",{"className":"","children":["$","a",null,{"href":"#Black_Sabrefang","className":"text-muted hover:text-accent","children":"Black Sabrefang"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Starter Pets · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Back to Battle Pets Starter Pets are categorized as pets that can be bought near stablehands in various community centers around the world of ArcheAge. They are each purchased for 10 silver each and are offered in 3…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

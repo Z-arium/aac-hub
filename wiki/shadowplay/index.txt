@@ -1,0 +1,297 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","shadowplay",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","shadowplay","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","shadowplay","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T2130,<h3 id="Active_Skills">Active Skills</h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Level
+</th>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Description
+</th>
+<th>Combos
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/0/07/Rapid_Strike_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Rapid Strike
+</td>
+<td>A swift, repeatable attack, dealing 134 Physical Damage to a single target.
+<p>Marks the target with each hit, reducing their Skill Damage -1% and Move Speed -2% per stack. 
+</p><p>Inflicts Shaken each time it reaches 5 stacks, further reducing their Skill Damage, Move Speed, and Attack Speed.
+</p><p>Backstabbing increases Melee Critical Rate +50%.
+</p><p><i>Does not trigger a global cooldown. Hold down for continuous use.</i>
+</p>
+</td>
+<td>Inflicts additional +23% damage on Tripped targets.
+<p><br>
+</p>
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/e/e6/Overwhelm_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Overwhelm
+</td>
+<td>Triggers a leap toward an enemy that deals 950 Physical Damage and stacks 1 Bloodthirst upon landing.
+<p>Also Stuns the enemy for 2.4sec. 
+<i>Can't be used while Snared.</i>
+</p>
+</td>
+<td>Increases Stun duration +1 second on Stalker's Marked targets.
+<p>Inflicts additional +70/0 damage on Stalker's Marked targets.
+</p>
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/3/3d/Drop_Back_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Drop Back
+</td>
+<td>Triggers a backwards leap to escape a dangerous area or back away from an enemy.
+<p>Eliminates the Cast Time for Flamebolt, Earthen Grip, and Sunder Earth for 2.5sec.
+</p><p><i>Can't be used while Snared.</i>
+</p>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>15
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/f/f8/Wallop_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Wallop
+</td>
+<td>Launches four attacks in quick succession dealing 2427 Physical Damage.
+<p>The first attack interrupts the target.
+</p><p>Every successful attack decreases Physical Defense —120.
+</p><p>Grants Bloodthirst for each of the first three attacks, then the fourth deals melee damage equal to 192 times your stacked Bloodthirst.
+</p>
+</td>
+<td>Inflicts additional +11% damage on Shaken targets.
+<p>Fourth attack triggers Blood Frenzy if used while at maximum stacks of Bloodthirst.
+</p><p><br>
+</p>
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/4/4b/Stalker%27s_Mark_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Stalker's Mark
+</td>
+<td>Inflicts 782 Ranged Damage and marks enemies for 15sec.
+<p>Mark Effect: Decreases received healing -60%.
+</p><p>Deals damage equal to 80 times the number of attacks suffered during the mark's duration when it expires.
+</p><p>Damage reduced -20% if target is within 8m.
+</p>
+</td>
+<td>Inflicts additional +38% damage on Poisoned targets.
+</td></tr>
+<tr>
+<td>25
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/b/b9/Stealth_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Stealth
+</td>
+<td>Prevents enemies from seeing you.
+<p>Any actions other than moving will cause stealth to end.
+</p><p>Stealth decreases Move Speed —5%.
+</p>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>30
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/6/6a/Toxic_Shot_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Toxic Shot
+</td>
+<td>Fires a toxic arrow, dealing an initial 2183 Ranged Damage and then Poisoning the target for 392 Magic Damage over 6sec.
+<p>Damage reduced -20% if target is within 8m.
+</p>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>35
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/9/90/Pin_Down_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Pin Down
+</td>
+<td>Delivers a powerful attack that deals 1782 Physical Damage.
+<p>Increases Critical Damage 60%.
+</p><p>Backstabbing increases Melee Critical Rate +34%.
+</p>
+</td>
+<td>Inflicts additional +42% damage on Shackled targets.
+</td></tr>
+<tr>
+<td>40
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/5/59/Shadowsmite_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Shadow Smite
+</td>
+<td>Launches a surprise attack, dealing Melee Physical damage equal to 277 times your stacked Bloodthirst and Shackling your target for 5.8sec.
+<p>Backstabbing adds Physical Damage equal to 400% of Melee Attack.
+</p><p><br>
+</p>
+</td>
+<td>Stunned targets are Tripped for 2.5 sec.
+<p>Inflicts additional +98% damage when the caster is Stealthed.
+</p><p>(Does not apply to Bloodthirst damage.)
+</p><p>Resets Stealth cooldown if used while under the effects of Bloodthirst Explosion.
+</p>
+</td></tr>
+<tr>
+<td>45
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/c/ce/Freerunner_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Free Runner
+</td>
+<td>Increases Move Speed +40.0%, Attack Speed +64, and Agility +180.
+<p><i>Grants immunity to Poison while in effect. Lasts 35sec.</i>
+</p>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>50
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/8/86/Shadow_Step_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Shadow Step
+</td>
+<td>Teleports caster behind an ally or enemy, reducing Aggro —50% for 15sec.
+<p>Increases Move Speed +50% for 3 seconds after casting.
+</p><p><i>Can't be used while Snared, and does not allow the caster to pass through obstacles.</i>
+</p>
+</td>
+<td>
+<p>N/A
+</p>
+</td></tr>
+<tr>
+<td>55
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/6/6d/Throw_Dagger.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Throw Dagger
+</td>
+<td>Flings a dagger that deals 4165 damage to a single enemy, then ricochets to 5 additional enemies within a 7m radius of the initial target, dealing less damage each hit.
+<p>Enemies hit: Decreases Attack Speed —666 and Move Speed -60%, and increases Cast Time+60%.
+</p><p>Grants 1 stack Of Bloodthirst for each target hit, u to a maximum of 6 stacks.
+</p><p><i>Lasts 3sec.</i>
+</p>
+</td>
+<td>Stalkers Marked targets grant double Bloodthirst
+<p>Increases range by 10m if used while under the effects of Drop Back.
+</p>
+</td></tr></tbody></table>
+<h3 id="Passive_Skills">Passive Skills</h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Required Points
+</th>
+<th>Icon
+</th>
+<th>Skill
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td>2
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/5/5e/Evasive_Counterstrike_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Evasive Counterstrike
+</td>
+<td>Triggers a counterattack when a Melee Attack is evaded.
+<p>Stacks 2 Bloodthirst when attacked.
+</p><p>This ability has a 12 sec cooldown once triggered.
+</p>
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/a/a4/Consecutive_Evasion_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Consecutive Evasion
+</td>
+<td>Increases Melee Evasion +18% for 7 seconds after a successful Evasion against melee attacks.
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/b/b1/Disregard_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Disregard
+</td>
+<td>Permanently decreases Aggro generation -20%.
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/8/8d/Loophole_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Loophole
+</td>
+<td>Decreases received Ranged Damage -30% for 3 seconds after receiving a Ranged Critical Hit.
+<p><i>This ability has a 20 sec cooldown once triggered.</i>
+</p>
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/f/f6/Piercing_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Piercing
+</td>
+<td>Increases Melee and Ranged Critical Rates +10% and Attack Speed +31 for 8 seconds after a successful Melee or Ranged Critical hit.
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/7/7e/Blood_Thirst_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Bloodthirst Intensified
+</td>
+<td>Increases accumulated Bloodthirst +2 times.
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/1/11/Shadow_Mastery_Icon.png" width="48" height="48" loading="lazy"></span>
+</td>
+<td>Shadow Mastery
+</td>
+<td>Decreases Shadowplay skill cooldown -20%.
+</td></tr></tbody></table>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Shadowplay"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Shadowplay","className":"underline hover:text-text","children":["AAClassic wiki page “","Shadowplay","”"]}]," ","(CC0), last edited ","Mar 17, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Active_Skills",{"className":"pl-3","children":["$","a",null,{"href":"#Active_Skills","className":"text-muted hover:text-accent","children":"Active Skills"}]}],["$","li","Passive_Skills",{"className":"pl-3","children":["$","a",null,{"href":"#Passive_Skills","className":"text-muted hover:text-accent","children":"Passive Skills"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Shadowplay · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Active Skills Level Icon Skill Description Combos 1 Rapid Strike A swift, repeatable attack, dealing 134 Physical Damage to a single target. Marks the target with each hit, reducing their Skill Damage -1% and Move Speed…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

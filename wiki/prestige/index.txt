@@ -1,0 +1,395 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","prestige",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","prestige","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","prestige","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T5629,<p><b>Prestige</b> is a <a href="/aac-hub/wiki/currencies">Currency</a> associated with <a href="/aac-hub/wiki/guilds">Guilds</a> in ArcheAge Classic. It is primarily earned by completing <b>Guild Missions</b>.
+</p><p>Prestige can be spent in the <a href="/aac-hub/wiki/prestige-shop">Prestige Shop</a> on a variety of guild-related items, upgrade materials, gems and other useful stuff.
+</p>
+<h2 id="Overview">Overview</h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Property
+</th>
+<th>Details
+</th></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td><a href="/aac-hub/wiki/currencies">Currency</a>
+</td></tr>
+<tr>
+<td><b>Icon</b>
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td><b>Primary Source</b>
+</td>
+<td><b>Guild Missions</b>
+</td></tr>
+<tr>
+<td><b>Primary Use</b>
+</td>
+<td><a href="/aac-hub/wiki/prestige-shop">Prestige Shop</a>
+</td></tr>
+<tr>
+<td><b>Required</b>
+</td>
+<td>Membership in a <a href="https://wiki.aa-classic.com/index.php?title=Guild&action=edit&redlink=1" rel="noopener">Guild</a>
+</td></tr></tbody></table>
+<h2 id="How_to_Earn_Prestige">How to Earn Prestige</h2>
+<p>Prestige is primarily earned by completing Guild Missions.
+</p>
+<h3 id="Guild_Missions">Guild Missions</h3>
+<p><b>Guild Missions</b> are one of the main sources of Prestige. Completing guild missions contributes Prestige to the character and also helps the guild progress.
+</p><p>The amount of Prestige awarded depends on the specific quest or activity.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Mission
+</th>
+<th>Guild XP
+</th>
+<th>Prestige
+</th>
+<th>Type
+</th></tr>
+<tr>
+<td>Colonizing Auroria
+</td>
+<td style="text-align:right; vertical-align:middle">20 XP
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Daily
+</td></tr>
+<tr>
+<td>Defending Auroria
+</td>
+<td style="text-align:right; vertical-align:middle">40 XP
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Daily
+</td></tr>
+<tr>
+<td>Gather Experia Patches
+</td>
+<td style="text-align:right; vertical-align:middle">0 XP
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Daily
+</td></tr>
+<tr>
+<td>Guild: Materials
+</td>
+<td style="text-align:right; vertical-align:middle">4 XP
+</td>
+<td style="text-align:right; vertical-align:middle">1<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Repeatable
+</td></tr>
+<tr>
+<td>World Bosses
+</td>
+<td style="text-align:right; vertical-align:middle">40 XP
+</td>
+<td style="text-align:right; vertical-align:middle">10<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Daily
+</td></tr></tbody></table>
+<p><span><img src="https://wiki.aa-classic.com/images/f/fd/AACGuildQuests.png" width="522" height="396" loading="lazy"></span>
+</p>
+<h4 id="Colonizing_Auroria">Colonizing Auroria</h4>
+<p>To complete this Guild Mission you can complete 1 of 5 daily quests found in your faction's Housing Province in Diamond Shores. 
+</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/a/a7/HousingProvinceDiamondShores.png/600px-HousingProvinceDiamondShores.png" width="600" height="213" srcset="https://wiki.aa-classic.com/images/thumb/a/a7/HousingProvinceDiamondShores.png/900px-HousingProvinceDiamondShores.png 1.5x, https://wiki.aa-classic.com/images/a/a7/HousingProvinceDiamondShores.png 2x" loading="lazy"></span>
+</p><p>The quests require you to craft an Archeum Bundle at the nearby Auroria Archeum Bench then taking them to repair the bridge, your faction base's walls or deliver to an NPC in your faction's base. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Quest
+</th>
+<th>Requirement
+</th>
+<th>Bundle Materials
+</th>
+<th>Guild XP
+</th>
+<th>Prestige
+</th></tr>
+<tr>
+<td>Construct the Haranyan/Nuian Alliance Bridge
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/30px-FaintArcheumBundle.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/45px-FaintArcheumBundle.png 1.5x, https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/60px-FaintArcheumBundle.png 2x" loading="lazy"></span> Faint Archeum Bundle
+</td>
+<td>6×<span><img src="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/30px-Starlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/45px-Starlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/9/9a/Starlight_Archeum_Dust.png 2x" loading="lazy"></span>
+</td>
+<td style="text-align:right; vertical-align:middle">3 XP
+</td>
+<td style="text-align:right; vertical-align:middle">3<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td>Reinforce the Ramparts
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/30px-FaintArcheumBundle.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/45px-FaintArcheumBundle.png 1.5x, https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/60px-FaintArcheumBundle.png 2x" loading="lazy"></span> Faint Archeum Bundle
+</td>
+<td>6×<span><img src="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/30px-Starlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/45px-Starlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/9/9a/Starlight_Archeum_Dust.png 2x" loading="lazy"></span>
+</td>
+<td style="text-align:right; vertical-align:middle">3 XP
+</td>
+<td style="text-align:right; vertical-align:middle">3<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td>A Grand Construction 1
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/30px-FaintArcheumBundle.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/45px-FaintArcheumBundle.png 1.5x, https://wiki.aa-classic.com/images/thumb/8/83/FaintArcheumBundle.png/60px-FaintArcheumBundle.png 2x" loading="lazy"></span> Faint Archeum Bundle
+</td>
+<td>6×<span><img src="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/30px-Starlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/45px-Starlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/9/9a/Starlight_Archeum_Dust.png 2x" loading="lazy"></span>
+</td>
+<td style="text-align:right; vertical-align:middle">4 XP
+</td>
+<td style="text-align:right; vertical-align:middle">3<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td>A Grand Construction 2
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/2/25/Clear_Archeum_Bundle.png/30px-Clear_Archeum_Bundle.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/2/25/Clear_Archeum_Bundle.png/45px-Clear_Archeum_Bundle.png 1.5x, https://wiki.aa-classic.com/images/thumb/2/25/Clear_Archeum_Bundle.png/60px-Clear_Archeum_Bundle.png 2x" loading="lazy"></span> Clear Archeum Bundle
+</td>
+<td>6×<span><img src="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/30px-Starlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/45px-Starlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/9/9a/Starlight_Archeum_Dust.png 2x" loading="lazy"></span> + 2×<span><img src="https://wiki.aa-classic.com/images/thumb/7/7b/Moonlight_Archeum_Dust.png/30px-Moonlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/7/7b/Moonlight_Archeum_Dust.png/45px-Moonlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/7/7b/Moonlight_Archeum_Dust.png 2x" loading="lazy"></span>
+</td>
+<td style="text-align:right; vertical-align:middle">8 XP
+</td>
+<td style="text-align:right; vertical-align:middle">5<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr>
+<tr>
+<td>A Grand Construction 3
+</td>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/3/38/Lucid_Archeum_Bundle.png/30px-Lucid_Archeum_Bundle.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/3/38/Lucid_Archeum_Bundle.png/45px-Lucid_Archeum_Bundle.png 1.5x, https://wiki.aa-classic.com/images/thumb/3/38/Lucid_Archeum_Bundle.png/60px-Lucid_Archeum_Bundle.png 2x" loading="lazy"></span> Lucid Archeum Bundle
+</td>
+<td>6×<span><img src="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/30px-Starlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/9/9a/Starlight_Archeum_Dust.png/45px-Starlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/9/9a/Starlight_Archeum_Dust.png 2x" loading="lazy"></span> + 2×<span><img src="https://wiki.aa-classic.com/images/thumb/7/7b/Moonlight_Archeum_Dust.png/30px-Moonlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/7/7b/Moonlight_Archeum_Dust.png/45px-Moonlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/7/7b/Moonlight_Archeum_Dust.png 2x" loading="lazy"></span> + 2×<span><img src="https://wiki.aa-classic.com/images/thumb/5/54/Sunlight_Archeum_Dust.png/30px-Sunlight_Archeum_Dust.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/5/54/Sunlight_Archeum_Dust.png/45px-Sunlight_Archeum_Dust.png 1.5x, https://wiki.aa-classic.com/images/5/54/Sunlight_Archeum_Dust.png 2x" loading="lazy"></span>
+</td>
+<td style="text-align:right; vertical-align:middle">12 XP
+</td>
+<td style="text-align:right; vertical-align:middle">6<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td></tr></tbody></table>
+<p><span><img src="https://wiki.aa-classic.com/images/0/0e/DiamondShoresPrestigeRoute.jpg" width="870" height="461" loading="lazy"></span>
+</p>
+<h4 id="Defending_Auroria">Defending Auroria</h4>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/d/d3/AACDiamondShoresSynthesisLocation.png/350px-AACDiamondShoresSynthesisLocation.png" width="350" height="279" srcset="https://wiki.aa-classic.com/images/d/d3/AACDiamondShoresSynthesisLocation.png 1.5x" loading="lazy"><figcaption>Spawn location of the Alemine Stragglers Bunkers.</figcaption></figure>
+<p>The most common way to complete this quest is by destroying an Alemine Stragglers Bunker using the Harpoon Cannons found in Diamond Shores. The Harpoon Cannons can be picked up from the many Harpoon Cannon Caches laying on the ground near the Alemine Stragglers Bunkers.
+</p><p>To complete this Guild Mission you can destroy any of the following:
+</p>
+<ul><li>Alemine Fortress</li>
+<li>Alemine Bunker</li>
+<li>Alemine Stragglers Bunker</li>
+<li>Alemine Assault Bunker</li>
+<li>Aust Mana Tower</li>
+<li>Mana Tower Idol</li>
+<li>Riven Gates Idol</li></ul>
+<h4 id="Gather_Experia_Patches">Gather Experia Patches</h4>
+<p>Can be completed by doing one of the following:
+</p>
+<ul><li>Gather Experia Sunflower Patch ×4</li>
+<li>Gather Experia Pumpkin Patch ×3</li>
+<li>Gather Experia Duck Patch ×2</li>
+<li>Gather Experia Pine Patch ×1</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th>Recipe
+</th>
+<th>Growth Time
+</th>
+<th>Material 1
+</th>
+<th>Material 2
+</th>
+<th>Material 3
+</th></tr>
+<tr>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/3/3d/Experia_Sunflower_Patch.png/30px-Experia_Sunflower_Patch.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/3/3d/Experia_Sunflower_Patch.png/45px-Experia_Sunflower_Patch.png 1.5x, https://wiki.aa-classic.com/images/thumb/3/3d/Experia_Sunflower_Patch.png/60px-Experia_Sunflower_Patch.png 2x" loading="lazy"></span> Experia Sunflower Patch
+</td>
+<td style="text-align:right; vertical-align:middle">4h
+</td>
+<td>25×<span style="color: rgb(119, 176, 100)">Sunflower Seed</span>
+</td>
+<td>4×Memory Ink
+</td>
+<td>3×<span style="color: rgb(203, 114, 216)">Scented Leaf</span>
+</td></tr>
+<tr>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/1/1c/Experia_Pumpkin_Patch.png/30px-Experia_Pumpkin_Patch.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/1/1c/Experia_Pumpkin_Patch.png/45px-Experia_Pumpkin_Patch.png 1.5x, https://wiki.aa-classic.com/images/thumb/1/1c/Experia_Pumpkin_Patch.png/60px-Experia_Pumpkin_Patch.png 2x" loading="lazy"></span> Experia Pumpkin Patch
+</td>
+<td style="text-align:right; vertical-align:middle">10h
+</td>
+<td>25×<span style="color: rgb(119, 176, 100)">Pumpkin Seed</span>
+</td>
+<td>10×Memory Ink
+</td>
+<td>5×<span style="color: rgb(203, 114, 216)">Royal Seed</span>
+</td></tr>
+<tr>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/9/9b/Experia_Duck_Patch.png/30px-Experia_Duck_Patch.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/9/9b/Experia_Duck_Patch.png/45px-Experia_Duck_Patch.png 1.5x, https://wiki.aa-classic.com/images/thumb/9/9b/Experia_Duck_Patch.png/60px-Experia_Duck_Patch.png 2x" loading="lazy"></span> Experia Duck Patch
+</td>
+<td style="text-align:right; vertical-align:middle">24h
+</td>
+<td>25×Duckling
+</td>
+<td>20×Memory Ink
+</td>
+<td>10×<span style="color: rgb(203, 114, 216)">Royal Seed</span>
+</td></tr>
+<tr>
+<td><span><img src="https://wiki.aa-classic.com/images/thumb/d/df/Experia_Pine_Patch.png/30px-Experia_Pine_Patch.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/d/df/Experia_Pine_Patch.png/45px-Experia_Pine_Patch.png 1.5x, https://wiki.aa-classic.com/images/thumb/d/df/Experia_Pine_Patch.png/60px-Experia_Pine_Patch.png 2x" loading="lazy"></span> Experia Pine Patch
+</td>
+<td style="text-align:right; vertical-align:middle">48h
+</td>
+<td>25×<span style="color: rgb(85, 143, 215)">Pine Sapling</span>
+</td>
+<td>45×Memory Ink
+</td>
+<td>1×<span style="color: rgb(203, 114, 216)">Heavy Hardwood</span>
+</td></tr></tbody></table>
+<h4 id="Guild:_Materials">Guild: Materials</h4>
+<p>This Guild Mission randomly gives you one of the following quests:
+</p>
+<ul><li>Guild: Fabric</li>
+<li>Guild: Leather</li>
+<li>Guild: Stone Brick</li>
+<li>Guild: Iron Ingot</li>
+<li>Guild: Lumber</li></ul>
+<p>As you can tell by their names they require certain basic materials to be completed however you also need Blue Salt Hammers. This Guild Mission is repeatable so when you complete the one you are given you are randomly given a new one. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Guild Mission
+</th>
+<th>Material 1
+</th>
+<th>Material 2
+</th></tr>
+<tr>
+<td>Guild: Fabric
+</td>
+<td>5×<span><img src="https://wiki.aa-classic.com/images/thumb/2/2b/Fabric.png/30px-Fabric.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/2/2b/Fabric.png/45px-Fabric.png 1.5x, https://wiki.aa-classic.com/images/2/2b/Fabric.png 2x" loading="lazy"></span> Fabric
+</td>
+<td>4×<span><img src="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/30px-Blue_Salt_Hammer.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/45px-Blue_Salt_Hammer.png 1.5x, https://wiki.aa-classic.com/images/a/a2/Blue_Salt_Hammer.png 2x" loading="lazy"></span> Blue Salt Hammer
+</td></tr>
+<tr>
+<td>Guild: Leather
+</td>
+<td>5×<span><img src="https://wiki.aa-classic.com/images/thumb/3/3d/Leather.png/30px-Leather.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/3/3d/Leather.png/45px-Leather.png 1.5x, https://wiki.aa-classic.com/images/3/3d/Leather.png 2x" loading="lazy"></span> Leather
+</td>
+<td>4×<span><img src="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/30px-Blue_Salt_Hammer.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/45px-Blue_Salt_Hammer.png 1.5x, https://wiki.aa-classic.com/images/a/a2/Blue_Salt_Hammer.png 2x" loading="lazy"></span> Blue Salt Hammer
+</td></tr>
+<tr>
+<td>Guild: Stone Brick
+</td>
+<td>5×<span><img src="https://wiki.aa-classic.com/images/thumb/6/6d/Stone_Brick.png/30px-Stone_Brick.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/6/6d/Stone_Brick.png/45px-Stone_Brick.png 1.5x, https://wiki.aa-classic.com/images/6/6d/Stone_Brick.png 2x" loading="lazy"></span> Stone Brick
+</td>
+<td>4×<span><img src="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/30px-Blue_Salt_Hammer.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/45px-Blue_Salt_Hammer.png 1.5x, https://wiki.aa-classic.com/images/a/a2/Blue_Salt_Hammer.png 2x" loading="lazy"></span> Blue Salt Hammer
+</td></tr>
+<tr>
+<td>Guild: Iron Ingot
+</td>
+<td>5×<span><img src="https://wiki.aa-classic.com/images/thumb/0/0a/Iron_Ingot.png/30px-Iron_Ingot.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/0/0a/Iron_Ingot.png/45px-Iron_Ingot.png 1.5x, https://wiki.aa-classic.com/images/0/0a/Iron_Ingot.png 2x" loading="lazy"></span> Iron Ingot
+</td>
+<td>4×<span><img src="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/30px-Blue_Salt_Hammer.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/45px-Blue_Salt_Hammer.png 1.5x, https://wiki.aa-classic.com/images/a/a2/Blue_Salt_Hammer.png 2x" loading="lazy"></span> Blue Salt Hammer
+</td></tr>
+<tr>
+<td>Guild: Lumber
+</td>
+<td>5×<span><img src="https://wiki.aa-classic.com/images/thumb/d/d3/Lumber.png/30px-Lumber.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/d/d3/Lumber.png/45px-Lumber.png 1.5x, https://wiki.aa-classic.com/images/d/d3/Lumber.png 2x" loading="lazy"></span> Lumber
+</td>
+<td>4×<span><img src="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/30px-Blue_Salt_Hammer.png" width="30" height="30" srcset="https://wiki.aa-classic.com/images/thumb/a/a2/Blue_Salt_Hammer.png/45px-Blue_Salt_Hammer.png 1.5x, https://wiki.aa-classic.com/images/a/a2/Blue_Salt_Hammer.png 2x" loading="lazy"></span> Blue Salt Hammer
+</td></tr></tbody></table>
+<h4 id="World_Bosses">World Bosses</h4>
+<p>This Guild Mission requires you to defeat one of the many <a href="/aac-hub/wiki/world-bosses">World Bosses</a> found in Erenor. 
+</p>
+<h3 id="Other_Sources">Other Sources</h3>
+<p><a href="https://wiki.aa-classic.com/index.php?title=Ocleera_Rift&action=edit&redlink=1" rel="noopener">Ocleera Rift</a> is an additional source of Prestige and Guild XP found on the western part of Diamond Shores.
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/d/d4/OcleeraQuestGiver.png/550px-OcleeraQuestGiver.png" width="550" height="234" srcset="https://wiki.aa-classic.com/images/thumb/d/d4/OcleeraQuestGiver.png/825px-OcleeraQuestGiver.png 1.5x, https://wiki.aa-classic.com/images/d/d4/OcleeraQuestGiver.png 2x" loading="lazy"><figcaption>Quest Giver location in western part of Diamond Shores</figcaption></figure>
+<table class="wikitable">
+<tbody><tr>
+<th>Quest
+</th>
+<th>Guild XP
+</th>
+<th>Prestige
+</th>
+<th>Location
+</th>
+<th>Type
+</th></tr>
+<tr>
+<td>Sprouting Ocleera's Marks
+</td>
+<td style="text-align:right; vertical-align:middle">2 XP
+</td>
+<td style="text-align:right; vertical-align:middle">2<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Quest Giver
+</td>
+<td>Daily
+</td></tr>
+<tr>
+<td>Engorged Ocleera's Marks
+</td>
+<td style="text-align:right; vertical-align:middle">3 XP
+</td>
+<td style="text-align:right; vertical-align:middle">2<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Quest Giver
+</td>
+<td>Daily
+</td></tr>
+<tr>
+<td>Monstrous Ocleera's Mark
+</td>
+<td style="text-align:right; vertical-align:middle">3 XP
+</td>
+<td style="text-align:right; vertical-align:middle">2<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>Quest Giver
+</td>
+<td>Daily
+</td></tr>
+<tr>
+<td>Kill the Hateful Ocleera
+</td>
+<td style="text-align:right; vertical-align:middle">8 XP
+</td>
+<td style="text-align:right; vertical-align:middle">4<span><img src="https://wiki.aa-classic.com/images/e/e9/PrestigeCurrencyIcon.png" width="20" height="24" loading="lazy"></span>
+</td>
+<td>In vicinity of Ocleera
+</td>
+<td>Daily
+</td></tr></tbody></table>
+<h2 id="Spending_Prestige">Spending Prestige</h2>
+<p>Prestige can be spent through the <a href="/aac-hub/wiki/prestige-shop">Prestige Shop</a>.
+</p><p>The Prestige Shop can be accessed through:
+</p>
+<dl><dd><b>Community → Guild → Manage → Prestige Shop</b></dd></dl>
+<p>The shop contains various items that can benefit individual players as well as their guild.
+</p>
+<h2 id="See_Also">See Also</h2>
+<ul><li><a href="/aac-hub/wiki/currencies">Currencies</a></li>
+<li><a href="/aac-hub/wiki/guilds">Guilds</a></li>
+<li><a href="/aac-hub/wiki/prestige-shop">Prestige Shop</a></li>
+<li><a href="/aac-hub/wiki/guild-cloak">Guild Cloak</a></li></ul>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/economy-and-trade","className":"text-accent-2 hover:underline","children":"Economy & Trade"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Prestige"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Prestige","className":"underline hover:text-text","children":["AAClassic wiki page “","Prestige","”"]}]," ","(CC0), last edited ","Sep 4, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Overview",{"className":"","children":["$","a",null,{"href":"#Overview","className":"text-muted hover:text-accent","children":"Overview"}]}],["$","li","How_to_Earn_Prestige",{"className":"","children":["$","a",null,{"href":"#How_to_Earn_Prestige","className":"text-muted hover:text-accent","children":"How to Earn Prestige"}]}],["$","li","Guild_Missions",{"className":"pl-3","children":["$","a",null,{"href":"#Guild_Missions","className":"text-muted hover:text-accent","children":"Guild Missions"}]}],["$","li","Other_Sources",{"className":"pl-3","children":["$","a",null,{"href":"#Other_Sources","className":"text-muted hover:text-accent","children":"Other Sources"}]}],["$","li","Spending_Prestige",{"className":"","children":["$","a",null,{"href":"#Spending_Prestige","className":"text-muted hover:text-accent","children":"Spending Prestige"}]}],["$","li","See_Also",{"className":"","children":["$","a",null,{"href":"#See_Also","className":"text-muted hover:text-accent","children":"See Also"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Prestige · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Prestige is a Currency associated with Guilds in ArcheAge Classic. It is primarily earned by completing Guild Missions. Prestige can be spent in the Prestige Shop on a variety of guild-related items, upgrade materials,…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

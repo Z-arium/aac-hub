@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","ynystere-ring",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","ynystere-ring","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ynystere-ring","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T13d4,<p>The Ynystere Ring is a questline ring often used by healers.
+</p>
+
+<h2 id="Getting_the_quest_starter">Getting the quest starter</h2>
+<p>You can obtain the Stone Orb from the end boss of any Greater Dungeon. It drops for everyone in the party and is a 100% drop chance. Right click to start the quest.
+</p><p><span><img src="https://wiki.aa-classic.com/images/2/22/Stone_orb.webp" width="200" height="151" loading="lazy"></span>
+</p>
+<h2 id="The_Strange_Stone">The Strange Stone</h2>
+<p>Report to Archeologist Burnar on Freedich Isle. (You will need to ride your boat here or ask someone for help. It is a contested PvP Area)
+</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/e/ee/Quest_1.webp/658px-Quest_1.webp.png" width="658" height="396" srcset="https://wiki.aa-classic.com/images/e/ee/Quest_1.webp 1.5x" loading="lazy"></span>
+</p>
+<h2 id="A_Fellow_Collector">A Fellow Collector</h2>
+<p>After talking to Archeologist Burnar he will send you to Apprentice Rudal who is located in Exeloch.
+</p><p><span><img src="https://wiki.aa-classic.com/images/6/62/Exeloch_Location.png" width="795" height="446" loading="lazy"></span>
+</p>
+<h2 id="Rudal's_Favor"><span></span>Rudal's Favor</h2>
+<p>Rudal will now send you to Diamond Shores to talk to Drillmaster Raysen.
+</p><p><span><img src="https://wiki.aa-classic.com/images/0/0f/Diamond_Shores.webp" width="760" height="415" loading="lazy"></span>
+</p>
+<h2 id="Consulting_an_Expert">Consulting an Expert</h2>
+<p>Drillmaster Raysen will send you to Nuimari to talk to Archeologist Hermas who will give you "The Kidella Ring Manuscript".
+</p><p><span><img src="https://wiki.aa-classic.com/images/4/4b/Nuimari.webp" width="760" height="422" loading="lazy"></span>
+</p><p><br>
+You will need to craft the Manuscript you received into a "The Kidella Ring" book and then place it in a house that you own then interact with the book to received the next quest. (You can use someone else's book if you do not have a house to put it in.)
+</p><p>You will need 10 paper, 1 Memory Ink and 5 Leather to craft the book.
+</p>
+<h2 id="The_Stuff_of_Legends">The Stuff of Legends</h2>
+<p>After Interacting with "The Kidella ring" book, You will need to head back to exeloch to talk to Apprentice Rudal again.
+</p>
+<h2 id="The_Ringbearer">The Ringbearer</h2>
+<p>Apprentice Rudal will send you to Asaji who is at the top of Veroe in Hasla. Take the elevator to reach the top if you can not find her.
+</p><p><span><img src="https://wiki.aa-classic.com/images/a/ad/Hasla.png" width="702" height="434" loading="lazy"></span>
+</p><p><br>
+Asaji will ask you to rescue Princess Surya who is in Kroloal Cradle. You will need to do the whole dungeon including the last boss to get her to spawn. <b>DO NOT LEAVE AND FORGET TO TALK TO HER.</b>
+</p><p>Talk to Asaji and accept the next quest.
+</p>
+<h2 id="A_Dangerous_Curse">A Dangerous Curse</h2>
+<p>Simply Return to Apprentice Rudar in Exeloch and you will receive the Arcane <b>Ynys Guardian Ring</b>.
+</p>
+<h2 id="Restoring_the_Ring">Restoring the Ring</h2>
+<p>Apprentice Rudar will now send you to Archaeologist Hermas in Nuimari again, You will then be sent to speak to Belstrom in Diamond Shores.
+</p><p><span><img src="https://wiki.aa-classic.com/images/0/00/Diamond_Shores2.webp" width="760" height="415" loading="lazy"></span>
+</p>
+<h2 id="A_Purifying_Spell">A Purifying Spell</h2>
+<p>Belstrom will ask you to collect a pretty hefty list of items to purify the ring.
+</p>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Items Needed
+</th>
+<th>Obtained From
+</th></tr>
+<tr>
+<td>20 Small Jewelry Mana Wisps
+</td>
+<td>Earrings and rings if Illustrious or higher (Auction House)
+</td></tr>
+<tr>
+<td>20 Abyssal Crystals
+</td>
+<td>
+<ul><li>Mobs in Serpentis</li>
+<li>Crafted with 40 Abyssal Shards, 1 Starlight Archeum Crystal, 3 Heat of Eternal Summer, and 1 Eternal Winter Chill</li></ul>
+</td></tr>
+<tr>
+<td>60 Mistmight Stones
+</td>
+<td>Daily Quests from the standard dungeon boards
+<ul><li>Palace Cellar</li>
+<li>Sharpwind Mines</li>
+<li>Hadir Farm</li>
+<li>Burnt Castle</li>
+<li>Kroloal Cradle</li>
+<li>Howling Abyss</li></ul>
+</td></tr>
+<tr>
+<td>150 Sunstrength Stones
+<p>(custom, halved)
+</p>
+</td>
+<td>Daily quests from greater dungeon board
+<ul><li>Greater Palace Cellar</li>
+<li>Greater Sharpwind Mines</li>
+<li>Greater Hadir Farm</li>
+<li>Greater Burnt Castle</li>
+<li>Greater Kroloal Cradle</li>
+<li>Greater Howling Abyss</li></ul>
+<p>Bosses in Greater Dungeons.
+</p>
+</td></tr></tbody></table>
+<p>Return to Belstrom in Diamond Shores once you have obtained all the items.
+</p>
+<h2 id="Rudal's_Reward"><span></span>Rudal's Reward</h2>
+<p>Belstrom will send you back to Apprentice Rudal in exeloch. He ill give you a Ynys Isle Gemstone.
+</p><p>Right click the gemstone to fuse it into your Ynys Guardian Ring. You will now receive the Unique <b>Holy Ynys Guardian Ring</b>!
+</p><p><br>
+<span><img src="https://wiki.aa-classic.com/images/9/9e/Holy_Ynys_Guardian_Ring.webp" width="208" height="452" loading="lazy"></span>
+</p><p><br>
+Congratulations you did it!
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Ynystere Ring"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Ynystere_Ring","className":"underline hover:text-text","children":["AAClassic wiki page “","Ynystere Ring","”"]}]," ","(CC0), last edited ","Aug 27, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Getting_the_quest_starter",{"className":"","children":["$","a",null,{"href":"#Getting_the_quest_starter","className":"text-muted hover:text-accent","children":"Getting the quest starter"}]}],["$","li","The_Strange_Stone",{"className":"","children":["$","a",null,{"href":"#The_Strange_Stone","className":"text-muted hover:text-accent","children":"The Strange Stone"}]}],["$","li","A_Fellow_Collector",{"className":"","children":["$","a",null,{"href":"#A_Fellow_Collector","className":"text-muted hover:text-accent","children":"A Fellow Collector"}]}],["$","li","Rudal's_Favor",{"className":"","children":["$","a",null,{"href":"#Rudal's_Favor","className":"text-muted hover:text-accent","children":"Rudal's Favor"}]}],["$","li","Consulting_an_Expert",{"className":"","children":["$","a",null,{"href":"#Consulting_an_Expert","className":"text-muted hover:text-accent","children":"Consulting an Expert"}]}],["$","li","The_Stuff_of_Legends",{"className":"","children":["$","a",null,{"href":"#The_Stuff_of_Legends","className":"text-muted hover:text-accent","children":"The Stuff of Legends"}]}],["$","li","The_Ringbearer",{"className":"","children":["$","a",null,{"href":"#The_Ringbearer","className":"text-muted hover:text-accent","children":"The Ringbearer"}]}],["$","li","A_Dangerous_Curse",{"className":"","children":["$","a",null,{"href":"#A_Dangerous_Curse","className":"text-muted hover:text-accent","children":"A Dangerous Curse"}]}],["$","li","Restoring_the_Ring",{"className":"","children":["$","a",null,{"href":"#Restoring_the_Ring","className":"text-muted hover:text-accent","children":"Restoring the Ring"}]}],["$","li","A_Purifying_Spell",{"className":"","children":["$","a",null,{"href":"#A_Purifying_Spell","className":"text-muted hover:text-accent","children":"A Purifying Spell"}]}],["$","li","Rudal's_Reward",{"className":"","children":["$","a",null,{"href":"#Rudal's_Reward","className":"text-muted hover:text-accent","children":"Rudal's Reward"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Ynystere Ring · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"The Ynystere Ring is a questline ring often used by healers. Getting the quest starter You can obtain the Stone Orb from the end boss of any Greater Dungeon. It drops for everyone in the party and is a 100% drop chance.…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

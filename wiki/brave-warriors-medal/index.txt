@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","brave-warriors-medal",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","brave-warriors-medal","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","brave-warriors-medal","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Tf28,<figure><img src="https://wiki.aa-classic.com/images/f/f0/Archeage_cyZHKOXXkw.png" width="296" height="226" loading="lazy"><figcaption></figcaption></figure>
+<p><b>Brave Warrior's Medals</b> are a special event currency introduced during the <a rel="noopener" href="https://aa-classic.com/news/3rd-anniversary-patch-notes">3rd Anniversary</a> celebration. They are primarily used to guarantee the crafting of <a href="/aac-hub/wiki/halcyona-necklace">Halcyona Necklaces</a> up to Rank 11.
+</p><p>Brave Warrior's Medals are obtained by participating in several faction PvP events during the anniversary celebration, including <a href="https://wiki.aa-classic.com/index.php?title=Mistmerrow_War&action=edit&redlink=1" rel="noopener">Mistmerrow War</a>, <a href="https://wiki.aa-classic.com/index.php?title=Golden_Plains_Battle&action=edit&redlink=1" rel="noopener">Golden Plains Battle</a>, <a href="/aac-hub/wiki/veroe-harvest-festival">Veroe Harvest Festival</a>, and <a href="https://wiki.aa-classic.com/index.php?title=Great_Heist&action=edit&redlink=1" rel="noopener">Great Heist</a>.
+</p>
+<h2 id="Obtaining">Obtaining</h2>
+<p>Brave Warrior's Medals can be obtained from the following events:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Event
+</th>
+<th>Source
+</th>
+<th>Quest
+</th></tr>
+<tr>
+<td><a href="https://wiki.aa-classic.com/index.php?title=Mistmerrow_War&action=edit&redlink=1" rel="noopener">Mistmerrow War</a>
+</td>
+<td>Point Rewards
+</td>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/6572">The Battle of Mistmerrow Basin</a>
+</td></tr>
+<tr>
+<td><a href="https://wiki.aa-classic.com/index.php?title=Golden_Plains_Battle&action=edit&redlink=1" rel="noopener">Golden Plains Battle</a>
+</td>
+<td>Victory Reward
+</td>
+<td>Obtained by interacting with the crystal
+</td></tr>
+<tr>
+<td><a href="/aac-hub/wiki/veroe-harvest-festival">Veroe Harvest Festival</a>
+</td>
+<td>Victory Reward
+</td></tr>
+<tr>
+<td><a href="https://wiki.aa-classic.com/index.php?title=The_Great_Heist&action=edit&redlink=1" rel="noopener">The Great Heist</a>
+</td>
+<td>Kill Quest &amp; Victory Rewards
+</td>
+<td><a rel="noopener" href="https://aa-classic.com/database/quests/9000220">Capibaras and Their Tendency for Murder</a> &amp; <a rel="noopener" href="https://aa-classic.com/database/quests/9000222">Great Golden Getaway</a>
+</td></tr></tbody></table>
+<p><b>Note:</b> Brave Warrior's Medals are an anniversary event currency and are only available from the designated anniversary event rewards.
+</p>
+<h2 id="Usage">Usage</h2>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/b/be/Archeage_2nHKDbRC8E.png/300px-Archeage_2nHKDbRC8E.png" width="300" height="255" srcset="https://wiki.aa-classic.com/images/b/be/Archeage_2nHKDbRC8E.png 1.5x" loading="lazy"><figcaption>It is recommended to only use this currency on Rank 11 as that will on average reduce the amount of Warrior's Medals you'll need for Rank 12 and beyond the most.</figcaption></figure>
+<p>Brave Warrior's Medals are used to guarantee the crafting of Halcyona Necklaces.
+</p><p>They can be used to craft Unsealed Halcyona Necklaces up to <b>Rank 11 (Epic)</b>, allowing players to bypass the normal randomness associated with obtaining a necklace of the desired rank.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Item
+</th>
+<th>Purpose
+</th></tr>
+<tr>
+<td>Brave Warrior's Medal
+</td>
+<td>Used to guarantee crafting a Rank 8–11 <a href="/aac-hub/wiki/halcyona-necklace">Halcyona Necklace</a>
+</td></tr></tbody></table>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/9/94/Archeage_gx566XBOhj.png/300px-Archeage_gx566XBOhj.png" width="300" height="479" srcset="https://wiki.aa-classic.com/images/thumb/9/94/Archeage_gx566XBOhj.png/450px-Archeage_gx566XBOhj.png 1.5x, https://wiki.aa-classic.com/images/9/94/Archeage_gx566XBOhj.png 2x" loading="lazy"><figcaption></figcaption></figure>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Brave Warrior's Medal"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Brave_Warrior's_Medal","className":"underline hover:text-text","children":["AAClassic wiki page “","Brave Warrior's Medal","”"]}]," ","(CC0), last edited ","Aug 30, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Obtaining",{"className":"","children":["$","a",null,{"href":"#Obtaining","className":"text-muted hover:text-accent","children":"Obtaining"}]}],["$","li","Usage",{"className":"","children":["$","a",null,{"href":"#Usage","className":"text-muted hover:text-accent","children":"Usage"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Brave Warrior's Medal · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Brave Warrior's Medals are a special event currency introduced during the 3rd Anniversary celebration. They are primarily used to guarantee the crafting of Halcyona Necklaces up to Rank 11. Brave Warrior's Medals are…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

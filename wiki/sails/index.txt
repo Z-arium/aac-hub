@@ -1,0 +1,935 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","sails",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","sails","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","sails","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T87df,<p>Back to <a href="/aac-hub/wiki/ships">Ships</a> or <a href="/aac-hub/wiki/ships">Galleons</a>
+</p><p><br>
+Sails in ArcheAge are the sole avenue for propulsion on most boats, (save fishing boats and speedboats) whilst some boats can be equipped with only one type of sail, Galleons, in particular, can be equipped with a variety of sails that have different pros and cons, we will explore these aforementioned sails in this wiki page.
+</p><p><br>
+</p><p>Starting with the most widely used sail on the majority of boats, The <b>Caernord Zephyr Triangular Rig.</b>
+</p><p><br>
+</p><p>This sail is the only equipable sail on the Adventurer's Clipper, Harpoon Clipper and Merchant Schooner. It does not have any additional tiers and can only be regraded, regrading gives the sail additional health and ship max movement speed.
+</p><p>The changes to the sail are listed by tier below.
+</p>
+<table class="wikitable">
+<caption>Caernord Zephyr Triangular Rig
+</caption>
+<tbody><tr>
+<th>Grade
+</th>
+<th>Equip Effect
+</th>
+<th>Health
+</th>
+<th>Repair Cost
+</th></tr>
+<tr>
+<td><b>Grand</b><figure><img src="https://wiki.aa-classic.com/images/8/8f/Grand_tri_sail.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +42%
+</td>
+<td>15,750
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Rare</b><figure><img src="https://wiki.aa-classic.com/images/a/af/Rare_tri_sail.png" width="41" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +44%
+</td>
+<td>16,500
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Arcane</b><figure><img src="https://wiki.aa-classic.com/images/d/dc/Arcane_tri_sail.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +46%
+</td>
+<td>17,250
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Heroic</b><figure><img src="https://wiki.aa-classic.com/images/6/6a/Heroic_tri_sail.png" width="40" height="39" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +48%
+</td>
+<td>18,000
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Unique</b><figure><img src="https://wiki.aa-classic.com/images/8/85/Unique_tri_sail.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +50%
+</td>
+<td>18,750
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Celestial</b><figure><img src="https://wiki.aa-classic.com/images/b/ba/Celestial_tri_sail.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +54%
+</td>
+<td>20,250
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Divine</b><figure><img src="https://wiki.aa-classic.com/images/4/41/Divine_tri_sail.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +60%
+</td>
+<td>22,500
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Epic</b><figure><img src="https://wiki.aa-classic.com/images/2/2d/Epic_tri_sail.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +66%
+</td>
+<td>24,750
+</td>
+<td>2 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Legendary</b><figure><img src="https://wiki.aa-classic.com/images/b/b1/Legendary_tri_sail.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +72%
+</td>
+<td>27,000
+</td>
+<td>3 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Mythic</b><figure><img src="https://wiki.aa-classic.com/images/6/6b/Mythic_tri_sail.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max Move Speed +80%
+</td>
+<td>30,000
+</td>
+<td>4 Shatigon's Sand
+</td></tr></tbody></table>
+<p>The weight of the sail is consistent at 1,500kg among all regrade tiers.
+</p><p><br>
+Moving on from sails that are regular boats, we arrive at sails that can be equipped exclusively on small warships (<a href="/aac-hub/wiki/eznan-cutter">Eznan Cutter</a>, <a href="/aac-hub/wiki/lutesong-junk">Lutesong Junk</a>, and the <a href="/aac-hub/wiki/growling-yawl-black-pearl">Growling Yawl (Black Pearl)</a>)
+</p><p>Beginning with the Lutesong Junk's default sail, The <b>Lutesong Zephyr Square Mainsail and Foresail.</b>
+</p><p>This sails primary attribute that sets it apart from other sails is its increase to ship handling, boasting higher turning speed, acceleration and reverse speed than any other sail.
+</p><p>Regrading this sail gives bonuses to its Turning Speed, Health, Acceleration, Reverse Speed, Movement Speed and Collision Damage, these increases are listed below side by side with Mainsail on the left and Foresail on the right. 
+</p>
+<table class="wikitable">
+<caption>Lutesong Zephyr Square Mainsail and Foresail
+</caption>
+<tbody><tr>
+<th>Grade
+</th>
+<th>Equip Effect
+</th>
+<th>Health
+</th>
+<th>Turning Speed
+</th>
+<th>Grade
+</th>
+<th>Equip Effect
+</th>
+<th>Health
+</th>
+<th>Turning Speed
+</th>
+<th>Repair Cost (Both)
+</th></tr>
+<tr>
+<td><b>Grand</b><figure><img src="https://wiki.aa-classic.com/images/9/9a/Grand_lutesong_mainsail.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +42%
+<p>Increases the ship's reverse speed +57%
+</p><p>Increases the ship's acceleration +3%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +7%
+</p>
+</td>
+<td>25,200
+</td>
+<td>Turning Speed +10%
+</td>
+<td><b>Grand</b><figure><img src="https://wiki.aa-classic.com/images/c/cb/Grand_lutesong2.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +42%
+<p>Increases the ship's reverse speed +57%
+</p><p>Increases the ship's acceleration +3%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>24,000
+</td>
+<td>Turning Speed +10%
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Rare</b><figure><img src="https://wiki.aa-classic.com/images/1/16/Rare_lutesong.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +44%
+<p>Increases the ship's reverse speed +64%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +9%
+</p>
+</td>
+<td>26,400
+</td>
+<td>Turning Speed +14%
+</td>
+<td><b>Rare</b><figure><img src="https://wiki.aa-classic.com/images/4/4f/Rare_lutesong2.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +44%
+<p>Increases the ship's reverse speed +64%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>26,400
+</td>
+<td>Turning Speed +14%
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Arcane</b><figure><img src="https://wiki.aa-classic.com/images/b/b6/Arcane_lutesong.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +46%
+<p>Increases the ship's reverse speed +66%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +11%
+</p>
+</td>
+<td>27,600
+</td>
+<td>Turning Speed +14%
+</td>
+<td><b>Arcane</b><figure><img src="https://wiki.aa-classic.com/images/f/ff/Arcane_lutesong2.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +46%
+<p>Increases the ship's reverse speed +66%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>27,600
+</td>
+<td>Turning Speed +14%
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Heroic</b><figure><img src="https://wiki.aa-classic.com/images/a/a2/Heroic_lutesong.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +48%
+<p>Increases the ship's reverse speed +68%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +13%
+</p>
+</td>
+<td>28,800
+</td>
+<td>Turning Speed +14%
+</td>
+<td><b>Heroic</b><figure><img src="https://wiki.aa-classic.com/images/5/53/Heroic_lutesong2.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +48%
+<p>Increases the ship's reverse speed +68%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>28,800
+</td>
+<td>Turning Speed +14%
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Unique</b><figure><img src="https://wiki.aa-classic.com/images/3/34/Unique_lutesong.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +50%
+<p>Increases the ship's reverse speed +70%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +15%
+</p>
+</td>
+<td>30,000
+</td>
+<td>Turning Speed +14%
+</td>
+<td><b>Unique</b><figure><img src="https://wiki.aa-classic.com/images/2/29/Screenshot_2024-07-21_002941.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +50%
+<p>Increases the ship's reverse speed +70%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>30,000
+</td>
+<td>Turning Speed +14%
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Celestial</b><figure><img src="https://wiki.aa-classic.com/images/e/e9/Celestial_lutesong.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +54%
+<p>Increases the ship's reverse speed +74%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +17%
+</p>
+</td>
+<td>32,400
+</td>
+<td>Turning Speed +14%
+</td>
+<td><b>Celestial</b><figure><img src="https://wiki.aa-classic.com/images/0/0b/Celestial_lutesong2.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +54%
+<p>Increases the ship's reverse speed +74%
+</p><p>Increases the ship's acceleration +5%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>32,400
+</td>
+<td>Turning Speed +14%
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Divine</b><figure><img src="https://wiki.aa-classic.com/images/6/60/Divine_lutesong.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +60%
+<p>Increases the ship's reverse speed +86%
+</p><p>Increases the ship's acceleration +7%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +19%
+</p>
+</td>
+<td>36,000
+</td>
+<td>Turning Speed +16%
+</td>
+<td><b>Divine</b><figure><img src="https://wiki.aa-classic.com/images/a/a0/Divine_lutesong2.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +60%
+<p>Increases the ship's reverse speed +86%
+</p><p>Increases the ship's acceleration +7%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>36,000
+</td>
+<td>Turning Speed +16%
+</td>
+<td>2 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Epic</b><figure><img src="https://wiki.aa-classic.com/images/a/a0/Epic_lutesong.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +66%
+<p>Increases the ship's reverse speed +92%
+</p><p>Increases the ship's acceleration +7%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +21%
+</p>
+</td>
+<td>39,600
+</td>
+<td>Turning Speed +16%
+</td>
+<td><b>Epic</b><figure><img src="https://wiki.aa-classic.com/images/8/81/Epic_lutesong2.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +66%
+<p>Increases the ship's reverse speed +92%
+</p><p>Increases the ship's acceleration +7%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>39,600
+</td>
+<td>Turning Speed +16%
+</td>
+<td>2 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Legendary</b><figure><img src="https://wiki.aa-classic.com/images/8/85/Legendary_lutesong.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +72%
+<p>Increases the ship's reverse speed +102%
+</p><p>Increases the ship's acceleration +10%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +23%
+</p>
+</td>
+<td>43,200
+</td>
+<td>Turning Speed +20%
+</td>
+<td><b>Legendary</b><figure><img src="https://wiki.aa-classic.com/images/6/61/Legendary_lutesong2.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +72%
+<p>Increases the ship's reverse speed +102%
+</p><p>Increases the ship's acceleration +10%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>43,200
+</td>
+<td>Turning Speed +20%
+</td>
+<td>3 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Mythic</b><figure><img src="https://wiki.aa-classic.com/images/7/7b/Mythic_lutesong.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +80%
+<p>Increases the ship's reverse speed +110%
+</p><p>Increases the ship's acceleration +10%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +25%
+</p>
+</td>
+<td>48,000
+</td>
+<td>Turning Speed +20%
+</td>
+<td><b>Mythic</b><figure><img src="https://wiki.aa-classic.com/images/6/6b/Mythic_lutesong_2.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's max move speed +80%
+<p>Increases the ship's reverse speed +110%
+</p><p>Increases the ship's acceleration +10%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>48,000
+</td>
+<td>Turning Speed +20%
+</td>
+<td>4 Shatigon's Sand
+</td></tr></tbody></table>
+<p>(text dump I know I'm sorry)
+</p><p>The weight of these two sails is consistent at 6,000kg for the mainsail and 2,000kg for the foresail, the distinction between Mainsail and Foresail is trading the scaling +x% ship collision damage of the mainsail for lighter weight thus faster boat speed of the foresail.
+</p><p>This goal of this sail is to have a boat that is highly maneuverable at low speeds, HP wise, this sail type comes in the middle between Growling Zephyr and Eznan Zephyr.
+</p><p>This sail is not generally seen in the wild and is only 'recommended' for very specific vessel loadouts.
+</p><p><br>
+</p><p>Moving on to, The <b>Eznan Zephyr Square Mainsail and Foresail.</b>
+</p><p>This sails primary attribute that sets it apart from other sails is its <i><b>increase in speed and decrease in siege damage upon receiving siege damage from enemy ships or world bosses</b></i>, aside from that, boasting the highest health stat of any small warship sail, coming as the tankiest sail compared to Lutesong Zephyr and Growling Zephyr sails.
+</p><p>Regrading this sail gives bonuses to Movement Speed, Collision Damage, Health, and further increases the movement speed you get when taking siege damage in addition to granting further damage negation upon receiving said siege damage, these increases are listed below side by side between the mainsail and foresail.
+</p>
+<table class="wikitable">
+<caption>Eznan Zephyr Square Mainsail and Foresail
+</caption>
+<tbody><tr>
+<th>Grade
+</th>
+<th>Equip Effects
+</th>
+<th>Health
+</th>
+<th>Grade
+</th>
+<th>Equip Effects
+</th>
+<th>Health
+</th>
+<th>Repair Cost
+</th></tr>
+<tr>
+<td><b>Grand</b><figure><img src="https://wiki.aa-classic.com/images/d/d1/Screenshot_2024-07-21_011611.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +42%
+<p>Ship move speed +15% and -0.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +7% 
+</p>
+</td>
+<td>31,500
+</td>
+<td><b>Grand</b><figure><img src="https://wiki.aa-classic.com/images/9/92/Screenshot_2024-07-21_011712.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +42%
+<p>Ship move speed +15% and -0.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>31,500
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Rare</b><figure><img src="https://wiki.aa-classic.com/images/e/eb/Screenshot_2024-07-21_011623.png" width="41" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +44%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +9% 
+</p>
+</td>
+<td>33,000
+</td>
+<td><b>Rare</b><figure><img src="https://wiki.aa-classic.com/images/0/0a/Screenshot_2024-07-21_011716.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +44%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>33,000
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Arcane</b><figure><img src="https://wiki.aa-classic.com/images/3/3b/Screenshot_2024-07-21_011627.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +46%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +11%
+</p>
+</td>
+<td>34,500
+</td>
+<td><b>Arcane</b><figure><img src="https://wiki.aa-classic.com/images/3/31/Screenshot_2024-07-21_011722.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +46%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>34,500
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Heroic</b><figure><img src="https://wiki.aa-classic.com/images/9/95/Screenshot_2024-07-21_011632.png" width="39" height="40" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +48%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+Decreases the ship's turning speed -30%
+Increases the ship's collision damage +13% 
+</p>
+</td>
+<td>36,000
+</td>
+<td><b>Heroic</b><figure><img src="https://wiki.aa-classic.com/images/c/cb/Screenshot_2024-07-21_011726.png" width="44" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +48%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>36,000
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Unique</b><figure><img src="https://wiki.aa-classic.com/images/1/13/Screenshot_2024-07-21_011637.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +50%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +15% 
+</p>
+</td>
+<td>37,500
+</td>
+<td><b>Unique</b><figure><img src="https://wiki.aa-classic.com/images/3/33/Screenshot_2024-07-21_011731.png" width="43" height="45" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +50%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>37,500
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Celestial</b><figure><img src="https://wiki.aa-classic.com/images/c/c3/Screenshot_2024-07-21_011645.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +54%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +17%
+</p>
+</td>
+<td>40,500
+</td>
+<td><b>Celestial</b><figure><img src="https://wiki.aa-classic.com/images/c/cb/Screenshot_2024-07-21_011739.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +54%
+<p>Ship move speed +20% and -1.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>40,500
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Divine</b><figure><img src="https://wiki.aa-classic.com/images/1/1e/Screenshot_2024-07-21_011650.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +60%
+<p>Ship move speed +26% and -2.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +19% 
+</p>
+</td>
+<td>45,000
+</td>
+<td><b>Divine</b><figure><img src="https://wiki.aa-classic.com/images/2/22/Screenshot_2024-07-21_011744.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +60%
+<p>Ship move speed +26% and -2.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>45,000
+</td>
+<td>2 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Epic</b><figure><img src="https://wiki.aa-classic.com/images/c/c1/Screenshot_2024-07-21_011654.png" width="43" height="45" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +66%
+<p>Ship move speed +26% and -2.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +21% 
+</p>
+</td>
+<td>49,500
+</td>
+<td><b>Epic</b><figure><img src="https://wiki.aa-classic.com/images/4/4b/Screenshot_2024-07-21_011749.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +66%
+<p>Ship move speed +26% and -2.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>49,500
+</td>
+<td>2 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Legendary</b><figure><img src="https://wiki.aa-classic.com/images/2/20/Screenshot_2024-07-21_011700.png" width="45" height="46" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +72%
+<p>Ship move speed +30% and -3.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +23% 
+</p>
+</td>
+<td>54,000
+</td>
+<td><b>Legendary</b><figure><img src="https://wiki.aa-classic.com/images/9/92/Screenshot_2024-07-21_011755.png" width="39" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +72%
+<p>Ship move speed +30% and -3.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>54,000
+</td>
+<td>3 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Mythic</b><figure><img src="https://wiki.aa-classic.com/images/4/4d/Screenshot_2024-07-21_011706.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +80%
+<p>Ship move speed +30% and -3.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +25% 
+</p>
+</td>
+<td>60,000
+</td>
+<td><b>Mythic</b><figure><img src="https://wiki.aa-classic.com/images/8/85/Screenshot_2024-07-21_011801.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +80%
+<p>Ship move speed +30% and -3.5% received siege damage after taking siege damage
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>60,000
+</td>
+<td>4 Shatigon's Sand
+</td></tr></tbody></table>
+<p>The weight of these two sails is consistent at 6,000kg for Mainsail and 2,000kg for Foresail, The only trade-off between these two sails is collision damage in exchange for a lighter sail resulting in faster ship move speed.
+</p><p>This sail is also not generally seen in the wild, however, I've anecdotally seen it more than the Lutesong Zephyr Square Sails.
+</p><p><br>
+The final small warship sail, The <b>Growling Zephyr Square Mainsail and Foresail.</b>
+</p><p>The primary attribute that makes this sail special is its gradual increase in ship move speed, upon taking siege damage this movement speed buff is reset back to 0 then gradually increases back up. Overall this sail comes in as the fastest of the three sail types but also the lowest HP of all three sail types.
+</p><p>Regrading this sail gives bonuses to ship move speed, collision damage, health and further increases bonus movement speed from the 'Forewind' buff, these increases are listed below side by side between the Mainsail and Foresail.
+</p>
+<table class="wikitable">
+<caption>Growling Zephyr Square Mainsail and Foresail
+</caption>
+<tbody><tr>
+<th>Grade
+</th>
+<th>Equip Effect
+</th>
+<th>Health
+</th>
+<th>Grade
+</th>
+<th>Equip Effect
+</th>
+<th>Health
+</th>
+<th>Repair Cost
+</th></tr>
+<tr>
+<td><b>Grand</b><figure><img src="https://wiki.aa-classic.com/images/7/70/Screenshot_2024-07-21_015237.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +40%
+<p>Gradually increases the ship's bonus move speed to +18%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +7%
+</p>
+</td>
+<td>15,750
+</td>
+<td><b>Grand</b><figure><img src="https://wiki.aa-classic.com/images/e/e3/Screenshot_2024-07-21_015325.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +40%
+<p>Gradually increases the ship's bonus move speed to +18%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>15,750
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Rare</b><figure><img src="https://wiki.aa-classic.com/images/f/fb/Screenshot_2024-07-21_015242.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +42%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +9%
+</p>
+</td>
+<td>16,500
+</td>
+<td><b>Rare</b><figure><img src="https://wiki.aa-classic.com/images/e/ea/Screenshot_2024-07-21_015331.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +42%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>16,500
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Arcane</b><figure><img src="https://wiki.aa-classic.com/images/8/83/Screenshot_2024-07-21_015246.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +44%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +11%
+</p>
+</td>
+<td>17,250
+</td>
+<td><b>Arcane</b><figure><img src="https://wiki.aa-classic.com/images/9/9b/Screenshot_2024-07-21_015336.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +44%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>17,250
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Heroic</b><figure><img src="https://wiki.aa-classic.com/images/7/7d/Screenshot_2024-07-21_015251.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +46%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +13%
+</p>
+</td>
+<td>18,000
+</td>
+<td><b>Heroic</b><figure><img src="https://wiki.aa-classic.com/images/3/31/Screenshot_2024-07-21_015341.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +46%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>18,000
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Unique</b><figure><img src="https://wiki.aa-classic.com/images/5/52/Screenshot_2024-07-21_015255.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +48%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +15%
+</p>
+</td>
+<td>18,750
+</td>
+<td><b>Unique</b><figure><img src="https://wiki.aa-classic.com/images/3/3e/Screenshot_2024-07-21_015346.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +48%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>18,750
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Celestial</b><figure><img src="https://wiki.aa-classic.com/images/a/aa/Screenshot_2024-07-21_015300.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +51%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +17%
+</p>
+</td>
+<td>20,250
+</td>
+<td><b>Celestial</b><figure><img src="https://wiki.aa-classic.com/images/c/cc/Screenshot_2024-07-21_015351.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +51%
+<p>Gradually increases the ship's bonus move speed to +24%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>20,250
+</td>
+<td>1 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Divine</b><figure><img src="https://wiki.aa-classic.com/images/b/b0/Screenshot_2024-07-21_015304.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +57%
+<p>Gradually increases the ship's bonus move speed to +30%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +19%
+</p>
+</td>
+<td>22,500
+</td>
+<td><b>Divine</b><figure><img src="https://wiki.aa-classic.com/images/b/bc/Screenshot_2024-07-21_015356.png" width="42" height="39" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +57%
+<p>Gradually increases the ship's bonus move speed to +30%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>22,500
+</td>
+<td>2 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Epic</b><figure><img src="https://wiki.aa-classic.com/images/5/5b/Screenshot_2024-07-21_015310.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +63%
+<p>Gradually increases the ship's bonus move speed to +30%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +21%
+</p>
+</td>
+<td>24,750
+</td>
+<td><b>Epic</b><figure><img src="https://wiki.aa-classic.com/images/9/9d/Screenshot_2024-07-21_015401.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +63%
+<p>Gradually increases the ship's bonus move speed to +30%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>24,750
+</td>
+<td>2 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Legendary</b><figure><img src="https://wiki.aa-classic.com/images/7/74/Screenshot_2024-07-21_015315.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +68%
+<p>Gradually increases the ship's bonus move speed to +36%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +23%
+</p>
+</td>
+<td>27,000
+</td>
+<td><b>Legendary</b><figure><img src="https://wiki.aa-classic.com/images/f/f2/Screenshot_2024-07-21_015405.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +68%
+<p>Gradually increases the ship's bonus move speed to +36%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>27,000
+</td>
+<td>3 Shatigon's Sand
+</td></tr>
+<tr>
+<td><b>Mythic</b><figure><img src="https://wiki.aa-classic.com/images/4/40/Screenshot_2024-07-21_015320.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +76%
+<p>Gradually increases the ship's bonus move speed to +36%
+</p><p>Decreases the ship's turning speed -30%
+</p><p>Increases the ship's collision damage +25%
+</p>
+</td>
+<td>30,000
+</td>
+<td><b>Mythic</b><figure><img src="https://wiki.aa-classic.com/images/8/8f/Screenshot_2024-07-21_015411.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+</td>
+<td>Increases the ship's move speed +76%
+<p>Gradually increases the ship's bonus move speed to +36%
+</p><p>Decreases the ship's turning speed -30%
+</p>
+</td>
+<td>30,000
+</td>
+<td>4 Shatigon's Sand
+</td></tr></tbody></table>
+<p>The weight of these two sails is consistent at 6,000kg for Mainsail and 2,000kg for Foresail, the one trade-off between these two sails is ship collision damage for a lighter sail resulting in faster ship move speed.
+</p><p>The other reason to select anything other than 2 Foresails is the functionality of the Forewind buff, If you use 2 Foresails, you will not get 2 instances of the Forewind buff, alternatively, you can equip your Mainsail in the front slot and your Foresail in the rear slot, this allows the larger hitbox of the Mainsail to block some incoming shots as well as clear a bit of headroom for any crew on the cannons.
+</p><p>These are by far the most common sail seen in the wild, and with good reason, for 99% of galleon uses these sails can and should be your choice.
+</p><p>[Enoan Sails, tbc]
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/ships-and-naval","className":"text-accent-2 hover:underline","children":"Ships & Naval"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Sails"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],false]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Sails","className":"underline hover:text-text","children":["AAClassic wiki page “","Sails","”"]}]," ","(CC0), last edited ","Jul 21, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Sails · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Back to Ships or Galleons Sails in ArcheAge are the sole avenue for propulsion on most boats, (save fishing boats and speedboats) whilst some boats can be equipped with only one type of sail, Galleons, in particular,…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

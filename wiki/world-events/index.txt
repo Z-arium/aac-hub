@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","world-events",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","world-events","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","world-events","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T40b5,<figure><img src="https://wiki.aa-classic.com/images/9/9f/GameTime.jpg" width="270" height="69" loading="lazy"><figcaption>In game time</figcaption></figure><p>Archeage Classic has a various amount of daily activities, this guide will go through most important ones and more of them will be added as the server progresses.
+</p>
+<h2 id="Crimson_Rift_-_CR">Crimson Rift - CR</h2><p>
+Crimson Rift better known as CR is one of the most common daily activities, you can join the raids for this activity by X-ing up in the Faction/Nation chat when groups are being made. It will reward you with 1000 <a href="/aac-hub/wiki/currencies">Honor Points</a> and 10 <a href="/aac-hub/wiki/leadership">Leadership</a>.</p><figure><img alt src="https://wiki.aa-classic.com/images/thumb/0/02/Cr1.jpg/371px-Cr1.jpg" width="371" height="186" srcset="https://wiki.aa-classic.com/images/thumb/0/02/Cr1.jpg/557px-Cr1.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/0/02/Cr1.jpg/742px-Cr1.jpg 2x" loading="lazy"><figcaption>CR Nuia Spawn Locations</figcaption></figure><p>
+This event takes place every 4 hours at 12:00 in game time. To check the time you can hover over the top right corner of your screen. </p><figure><img src="https://wiki.aa-classic.com/images/thumb/2/20/Creast.png/368px-Creast.png" width="368" height="198" srcset="https://wiki.aa-classic.com/images/thumb/2/20/Creast.png/552px-Creast.png 1.5x, https://wiki.aa-classic.com/images/thumb/2/20/Creast.png/736px-Creast.png 2x" loading="lazy"><figcaption>CR Haranya Spawn Locations</figcaption></figure><p>
+Take quests can be picked up from one of the guards in the Community Center and they will need to be returned once completed to acquire the rewards. </p><ul class="gallery">
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img src="https://wiki.aa-classic.com/images/thumb/0/02/Crq1.jpg/244px-Crq1.jpg" width="244" height="250" srcset="https://wiki.aa-classic.com/images/thumb/0/02/Crq1.jpg/366px-Crq1.jpg 1.5x, https://wiki.aa-classic.com/images/0/02/Crq1.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img src="https://wiki.aa-classic.com/images/thumb/e/ef/Crq2.jpg/250px-Crq2.jpg" width="250" height="245" srcset="https://wiki.aa-classic.com/images/e/ef/Crq2.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img src="https://wiki.aa-classic.com/images/thumb/5/54/Crq3.jpg/250px-Crq3.jpg" width="250" height="250" srcset="https://wiki.aa-classic.com/images/5/54/Crq3.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+</ul><p>This event is mostly PvE where you will defend against 3 waves of monsters and 2 bosses (Hounds) at the end.
+</p><p>The Hounds have a quest of their own, killing one of them will reward you with 3 <a href="/aac-hub/wiki/currencies">Guilda Stars</a> 2 <a href="/aac-hub/wiki/stat-costumes-undergarments">Clear Synthium Shards</a> and 7 Adventurer's Growthstone.
+</p><p>Bellow it will be shown the starting location of the rift and the end position where people will go to complete their quests and the most common callouts used to point the raid in the right direction.
+</p>
+<h2 id="Grimgast_Rift_-_GR">Grimgast Rift - GR</h2>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/7/76/Grboard.jpg/250px-Grboard.jpg" width="250" height="293" srcset="https://wiki.aa-classic.com/images/thumb/7/76/Grboard.jpg/375px-Grboard.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/7/76/Grboard.jpg/499px-Grboard.jpg 2x" loading="lazy"><figcaption>Community Center GR 1st quest</figcaption></figure>
+<p>Grimgast Rift better known as GR is one of the most common daily activities, you can join the raids for this activity by X-ing up in the Faction/Nation chat when groups are being made.
+</p><p>This event takes place every 4 hours at 00:00 in game time. To check the time you can hover over the top right corner of your screen.
+</p><p>The first quest you take from the wooden board in the Community Center and it will require you to deliver 10 materials to a NPC, these materials can be: stone brick, lumber, leather, fabric, iron ingot. 
+</p><p>
+After handing in the materials it will give a 2nd quest that requires you to deliver 2 packs to the trebuchet.</p><figure><img src="https://wiki.aa-classic.com/images/thumb/4/44/Gr1.jpg/417px-Gr1.jpg" width="417" height="202" srcset="https://wiki.aa-classic.com/images/thumb/4/44/Gr1.jpg/626px-Gr1.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/4/44/Gr1.jpg/834px-Gr1.jpg 2x" loading="lazy"><figcaption>1 - Pick up quest from Community Center | 2 - 1st quest completion and pack spawn location</figcaption></figure><ul class="gallery">
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/a/a9/Grquest1.jpg/250px-Grquest1.jpg" width="250" height="218" srcset="https://wiki.aa-classic.com/images/a/a9/Grquest1.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/1/19/Grquest2.jpg/250px-Grquest2.jpg" width="250" height="218" srcset="https://wiki.aa-classic.com/images/thumb/1/19/Grquest2.jpg/375px-Grquest2.jpg 1.5x, https://wiki.aa-classic.com/images/1/19/Grquest2.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+</ul><p>Bellow it will be shown the locations for and steps for GR quests completion.
+</p><figure><img src="https://wiki.aa-classic.com/images/thumb/f/f7/Greast.png/417px-Greast.png" width="417" height="226" srcset="https://wiki.aa-classic.com/images/thumb/f/f7/Greast.png/626px-Greast.png 1.5x, https://wiki.aa-classic.com/images/thumb/f/f7/Greast.png/834px-Greast.png 2x" loading="lazy"><figcaption>GR Haranya Quest Location</figcaption></figure>
+<p>Once the trebuchet is built you can pick up a harpoon that will help you kill the mobs for the quest. The quests auto complete after the mobs are defeated.
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/9/9f/Grharpoon.jpg/300px-Grharpoon.jpg" width="300" height="141" srcset="https://wiki.aa-classic.com/images/thumb/9/9f/Grharpoon.jpg/450px-Grharpoon.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/9/9f/Grharpoon.jpg/600px-Grharpoon.jpg 2x" loading="lazy"><figcaption>GR harpoons rack</figcaption></figure>
+<ul class="gallery">
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/f/fe/Grweapon1.jpg/250px-Grweapon1.jpg" width="250" height="166" srcset="https://wiki.aa-classic.com/images/f/fe/Grweapon1.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/4/4c/Grweapon2.jpg/250px-Grweapon2.jpg" width="250" height="203" srcset="https://wiki.aa-classic.com/images/4/4c/Grweapon2.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt="Needs to be removed with &quot;Time of Oblivion&quot; harpoon skill" src="https://wiki.aa-classic.com/images/8/82/Grdebuff.jpg" width="250" height="168" loading="lazy"></span></div>
+			<div>Needs to be removed with "Time of Oblivion" harpoon skill</div>
+		</li>
+</ul><p>After the two waves of mobs are defeated 2 hounds will spawn and each one will give you a quest reward. These ones have a special mechanic that will require the use of the 2nd skill on the harpoon to deal with it.
+</p><h2 id="Mistmerrow_-_MM">Mistmerrow - MM</h2>
+<p>Mistmerrow is a PvP event between Nuia, Haranya and the Pirate faction, where the three of them compete over the control of the towers in the map. The towers spawn in each basin of the map and need to be destroyed in order to be claimed.
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/d/d8/Mmmap.jpg/474px-Mmmap.jpg" width="474" height="272" srcset="https://wiki.aa-classic.com/images/thumb/d/d8/Mmmap.jpg/711px-Mmmap.jpg 1.5x, https://wiki.aa-classic.com/images/d/d8/Mmmap.jpg 2x" loading="lazy"><figcaption>Mistmerrow Map</figcaption></figure><p>At the start of the event you can get to Mistmerrow through one of the portals located in Capital Cities like Marianople (Nuia) and Austera (Haranya)
+</p><figure><img src="https://wiki.aa-classic.com/images/thumb/8/80/Mmportal.jpg/300px-Mmportal.jpg" width="300" height="250" srcset="https://wiki.aa-classic.com/images/thumb/8/80/Mmportal.jpg/450px-Mmportal.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/8/80/Mmportal.jpg/600px-Mmportal.jpg 2x" loading="lazy"><figcaption>Mistmerrow portal</figcaption></figure>
+<p>Before going inside, talk with the NPC in front of the portal and pick up the 2 quests. These will reward you with <a href="/aac-hub/wiki/currencies">Honor Points</a>, <a href="/aac-hub/wiki/currencies">Warrior Medals</a>, <a href="/aac-hub/wiki/stat-costumes-undergarments">Clear Synthium Shards</a> and <a href="/aac-hub/wiki/leadership">Leadership</a>.
+</p><p>
+One of the quests will be completed once you talk with the NPC in Mistmerrow and you will receive an additional quest that will require you to kill the towers inside.</p><ul class="gallery">
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/2/2f/Mm1.jpg/250px-Mm1.jpg" width="250" height="200" srcset="https://wiki.aa-classic.com/images/2/2f/Mm1.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/b/bf/Mm2.jpg/250px-Mm2.jpg" width="250" height="182" srcset="https://wiki.aa-classic.com/images/thumb/b/bf/Mm2.jpg/375px-Mm2.jpg 1.5x, https://wiki.aa-classic.com/images/b/bf/Mm2.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/1/11/Mm3.jpg/250px-Mm3.jpg" width="250" height="208" srcset="https://wiki.aa-classic.com/images/1/11/Mm3.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/c/cf/Mm4.jpg/250px-Mm4.jpg" width="250" height="237" srcset="https://wiki.aa-classic.com/images/thumb/c/cf/Mm4.jpg/375px-Mm4.jpg 1.5x, https://wiki.aa-classic.com/images/c/cf/Mm4.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+</ul><p>After Mistmerrow battle is done the zone will go in peace and 2 additional quests will appear at the NPCs in the middle, these will require to kill 3 gates that spawn in SE/W/NE Basins and Kadum that spawns in the middle of the map.</p><ul class="gallery">
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/b/b1/Kadum1.jpg/250px-Kadum1.jpg" width="250" height="203" srcset="https://wiki.aa-classic.com/images/b/b1/Kadum1.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/0/05/Kadum2.jpg/250px-Kadum2.jpg" width="250" height="173" srcset="https://wiki.aa-classic.com/images/thumb/0/05/Kadum2.jpg/375px-Kadum2.jpg 1.5x, https://wiki.aa-classic.com/images/0/05/Kadum2.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+</ul>
+<h2 id="Halcyona_War">Halcyona War</h2>
+<p>Halcyona War is a PvP event centered around destroying the enemy factions base.
+</p>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/d/d6/Halcy1.jpg/500px-Halcy1.jpg" width="500" height="298" srcset="https://wiki.aa-classic.com/images/thumb/d/d6/Halcy1.jpg/750px-Halcy1.jpg 1.5x, https://wiki.aa-classic.com/images/d/d6/Halcy1.jpg 2x" loading="lazy"><figcaption>Halcyona Map</figcaption></figure>
+<p>Pickup the first quest from the Capital City of your faction and enter the portal or teleport to with your own portal to Halcyona. There in your faction camp you will turn the first quest in and pickup a second quest that will require you to kill 10 enemies (this quest can be completed in a party or a raid).
+</p><p>
+The quests for this event reward you with <a href="/aac-hub/wiki/currencies">Honor Points</a>, <a href="/aac-hub/wiki/stat-costumes-undergarments">Clear Synthium Shards</a>, <a href="/aac-hub/wiki/currencies">Warrior Medals</a> and <a href="/aac-hub/wiki/leadership">Leadership</a>.</p><ul class="gallery">
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/0/03/Halcy2.jpg/242px-Halcy2.jpg" width="242" height="250" srcset="https://wiki.aa-classic.com/images/thumb/0/03/Halcy2.jpg/363px-Halcy2.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/0/03/Halcy2.jpg/485px-Halcy2.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/8/81/Halcyq1.jpg/250px-Halcyq1.jpg" width="250" height="186" srcset="https://wiki.aa-classic.com/images/thumb/8/81/Halcyq1.jpg/375px-Halcyq1.jpg 1.5x, https://wiki.aa-classic.com/images/8/81/Halcyq1.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/8/8b/Halcyq2.jpg/250px-Halcyq2.jpg" width="250" height="223" srcset="https://wiki.aa-classic.com/images/8/8b/Halcyq2.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+</ul><p>Once a faction destroys the enemy's base crystal you can loot the crystal for a Warrior Medal Chest that will reward between 5-10 Warrior Medals. If victorious you can return to the Community Center and pick up a buff that will last 2h.</p><ul class="gallery">
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/f/f5/Halcybuff1.jpg/250px-Halcybuff1.jpg" width="250" height="240" srcset="https://wiki.aa-classic.com/images/thumb/f/f5/Halcybuff1.jpg/375px-Halcybuff1.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/f/f5/Halcybuff1.jpg/500px-Halcybuff1.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 285px">
+			<div class="thumb" style="width: 280px"><span><img alt src="https://wiki.aa-classic.com/images/f/ff/Halcybuff2.jpg" width="250" height="210" loading="lazy"></span></div>
+			<div></div>
+		</li>
+</ul>
+<h2 id="Luscas">Luscas</h2>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/3/32/Luscamap.jpg/500px-Luscamap.jpg" width="500" height="329" srcset="https://wiki.aa-classic.com/images/thumb/3/32/Luscamap.jpg/750px-Luscamap.jpg 1.5x, https://wiki.aa-classic.com/images/3/32/Luscamap.jpg 2x" loading="lazy"><figcaption>Lusca spawn locations</figcaption></figure>
+<p>Lusca is a water PvP event located between Auroria and Freedich Island. You can pickup the quest from the NPC located in Diamond Shore Ezi's Light.
+</p><p>
+The quest will reward you with a good amount of Honor Points, 1 Gilda Star, Shatigon's Sand and Leadership.</p><ul class="gallery">
+		<li style="width: 335px">
+			<div class="thumb" style="width: 330px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/9/9a/Lusca1.jpg/237px-Lusca1.jpg" width="237" height="300" srcset="https://wiki.aa-classic.com/images/thumb/9/9a/Lusca1.jpg/356px-Lusca1.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/9/9a/Lusca1.jpg/475px-Lusca1.jpg 2x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+		<li style="width: 335px">
+			<div class="thumb" style="width: 330px"><span><img alt src="https://wiki.aa-classic.com/images/thumb/f/f7/Luscaquest.jpg/300px-Luscaquest.jpg" width="300" height="276" srcset="https://wiki.aa-classic.com/images/f/f7/Luscaquest.jpg 1.5x" loading="lazy"></span></div>
+			<div></div>
+		</li>
+</ul>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/a/a0/Lusca3.jpg/500px-Lusca3.jpg" width="500" height="307" srcset="https://wiki.aa-classic.com/images/thumb/a/a0/Lusca3.jpg/750px-Lusca3.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/a/a0/Lusca3.jpg/1000px-Lusca3.jpg 2x" loading="lazy"><figcaption>Lusca fight</figcaption></figure>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/events-and-festivals","className":"text-accent-2 hover:underline","children":"Events & Festivals"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"World Events"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/World_Events","className":"underline hover:text-text","children":["AAClassic wiki page “","World Events","”"]}]," ","(CC0), last edited ","Sep 25, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Crimson_Rift_-_CR",{"className":"","children":["$","a",null,{"href":"#Crimson_Rift_-_CR","className":"text-muted hover:text-accent","children":"Crimson Rift - CR"}]}],["$","li","Grimgast_Rift_-_GR",{"className":"","children":["$","a",null,{"href":"#Grimgast_Rift_-_GR","className":"text-muted hover:text-accent","children":"Grimgast Rift - GR"}]}],["$","li","Mistmerrow_-_MM",{"className":"","children":["$","a",null,{"href":"#Mistmerrow_-_MM","className":"text-muted hover:text-accent","children":"Mistmerrow - MM"}]}],["$","li","Halcyona_War",{"className":"","children":["$","a",null,{"href":"#Halcyona_War","className":"text-muted hover:text-accent","children":"Halcyona War"}]}],["$","li","Luscas",{"className":"","children":["$","a",null,{"href":"#Luscas","className":"text-muted hover:text-accent","children":"Luscas"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"World Events · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"In game time Archeage Classic has a various amount of daily activities, this guide will go through most important ones and more of them will be added as the server progresses. Crimson Rift - CR Crimson Rift better known…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

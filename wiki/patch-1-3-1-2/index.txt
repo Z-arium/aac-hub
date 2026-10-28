@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","patch-1-3-1-2",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","patch-1-3-1-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","patch-1-3-1-2","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Tc85,<p>Released on 06/11/2024
+</p>
+<ul><li>Fixed Rampage Upgrade Ticket being bound</li>
+<li>Fixed localization issue with selling specialty tooltip</li>
+<li>Jack-o-snack will now give 2 to 4 hallowtide candies.</li>
+<li>The Emerald Weapons have received new icons</li>
+<li>Fixed localization for Greenman Van.</li>
+<li>Fixed localization for Yata Vroom</li>
+<li>Fixed localization for Yata Kart</li>
+<li>Worm Compost has been reverted to its phase 2 11-hour decay</li>
+<li>Duplicate gilda pack crafts have been corrected.</li>
+<li>Reverted epherium ring and earring reforging to 18 wisps</li>
+<li>Reduced the quest requirement for "A Good Reputation" from 3 Kadum's Barks to 1</li>
+<li>Halcyona peace is back to lasting 2 hours</li>
+<li>Fixed duplicate alchemy oil crafts</li>
+<li>Fixed description on Pinnacled Witch House upgrade ticket.</li>
+<li>Fixed localization error with various hauler/freighter crafts</li>
+<li>Fixed localization with Crest Zephgr Tradepack</li>
+<li>Removed Hangover Cure's "Hangover" buff requirement</li>
+<li>Fixed pack requirement for Trade Run: Sailing to Solis Headlands</li>
+<li>Added leadership to WS/AI quests</li>
+<li>Fixed localization for Black Hello Kitty Roadster</li>
+<li>Added a crafting recipe to the Proven Warrior Workbench to convert Honorforged medals to Ancestral Warrior Medals</li>
+<li>Added an option to convert a Raised Mushroom House, Miner's Farmhouse, and Rancher's Farmhouse to Pinnacled Witch House</li>
+<li>Fixed localization with Daru Thanksgiving Gift</li>
+<li>A bug causing the Monday Kraken to spawn early has been fixed</li>
+<li>[Perform] Ode to Recovery has been adjusted back to its 3.0 balance</li>
+<li>Reedwind is back on a permanent War/Conflict cycle</li>
+<li>The Divine Blessings clock is back for 2 weeks!</li>
+<li>The Riven Gates now work with Bound Hereafter Stones</li>
+<li>The value of the packs for the Settlers event ("Sushi") has been increased back to previous values</li>
+<li>Treasure maps have seen a bug causing them to have coordinates set to 0 fixed. Existing maps with those coordinates (W 21.0.0, S 28.0.0) will be replaced manually, it may take some time.</li>
+<li>The issue with vehicles unsummoning when exiting Sunbite Wilds has been fixed</li>
+<li>The Hallowtide Candy cost for Stormduster was reduced to 150.</li>
+<li>Added new housing areas in: Ahnimar, Mahadevi, Solis, Rokhala</li>
+<li>Two new housing areas dedicated to new players have been opened. Read more about it <a href="/aac-hub/wiki/new-player-housing">here</a></li>
+<li>The Diamond Shores outpost has had their profits increased by 35% for Charcoal and Gold, and 25% for Gilda Stars.</li>
+<li>Localization for Reforging Recipes has been corrected</li>
+<li>A new Quest has been added to Fragment Researcher Soa: It will appear to anyone owning an Emerald Weapon and will allow them to turn it in for a new Infused Emerald. All experience and gems will be lost!</li>
+<li>Added Hallowtide Conversion recipes for Hallowtide Tokens to centralize into a single type</li>
+<li>UCC items will now have a larger tooltip, showing off the design on them instead of being tiny on the item icon itself</li>
+<li>All 1hr10mins peace timers are back to 2 hours</li></ul>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/patch-notes","className":"text-accent-2 hover:underline","children":"Patch Notes"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Patch 1.3.1.2"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],false]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Patch_1.3.1.2","className":"underline hover:text-text","children":["AAClassic wiki page “","Patch 1.3.1.2","”"]}]," ","(CC0), last edited ","Nov 6, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Patch 1.3.1.2 · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Released on 06/11/2024 Fixed Rampage Upgrade Ticket being bound Fixed localization issue with selling specialty tooltip Jack-o-snack will now give 2 to 4 hallowtide candies. The Emerald Weapons have received new icons…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

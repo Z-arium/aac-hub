@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","abyssal-shard",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","abyssal-shard","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","abyssal-shard","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Tc1e,<p>Abyssal Shards are a dungeon material primarily used for crafting and upgrading <a href="https://wiki.aa-classic.com/index.php?title=Dungeon_Equipment&action=edit&redlink=1" rel="noopener">Dungeon Equipment</a>. They are obtained from various dungeon-related sources and are commonly required in recipes for dungeon equipment and other dungeon-related items.
+</p>
+<h2 id="Details">Details</h2>
+<figure><img src="https://wiki.aa-classic.com/images/4/4c/Abyssal_Shard.png" width="296" height="256" loading="lazy"><figcaption></figcaption></figure>
+<table class="wikitable">
+<tbody><tr>
+<th>Property
+</th>
+<th>Value
+</th></tr>
+<tr>
+<td><b>Item Type</b>
+</td>
+<td>Material
+</td></tr>
+<tr>
+<td><b>Rarity</b>
+</td>
+<td><span style="color: rgb(119, 176, 100)">Grand</span>
+</td></tr>
+<tr>
+<td><b>Binding</b>
+</td>
+<td>Bind on Pickup
+</td></tr>
+<tr>
+<td><b>Max Stack</b>
+</td>
+<td>1,000
+</td></tr>
+<tr>
+<td><b>Vendor Price</b>
+</td>
+<td>18<span><img src="https://wiki.aa-classic.com/images/1/17/Silver.webp" width="20" height="20" loading="lazy"></span>
+</td></tr></tbody></table>
+<h2 id="Acquisition">Acquisition</h2>
+<figure><img src="https://wiki.aa-classic.com/images/thumb/0/03/Abyssal_Crystal_Disintegration.png/500px-Abyssal_Crystal_Disintegration.png" width="500" height="261" srcset="https://wiki.aa-classic.com/images/0/03/Abyssal_Crystal_Disintegration.png 1.5x" loading="lazy"><figcaption></figcaption></figure>
+<p>Abyssal Shards can be obtained from various <a href="https://wiki.aa-classic.com/index.php?title=Dungeon&action=edit&redlink=1" rel="noopener">Dungeon</a>-related sources, including dungeon quests and bounties.
+</p><p>They are primarily associated with the <a href="https://wiki.aa-classic.com/index.php?title=Greater_Dungeons&action=edit&redlink=1" rel="noopener">Greater Dungeons</a> and other dungeon content.
+</p><p>You can also disintegrate <a href="https://wiki.aa-classic.com/index.php?title=Abyssal_Crystal&action=edit&redlink=1" rel="noopener">Abyssal Crystals</a> to obtain 15x Abyssal Shards per at an Archeum Workbench. Abyssal Crystals have been made tradeable on ArcheAge Classic so you can purchase them from other players. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Material
+</th>
+<th>Quantity
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td>Abyssal Crystal
+</td>
+<td>1
+</td>
+<td>Abyssal Shard ×15
+</td></tr></tbody></table>
+<h2 id="Uses">Uses</h2>
+<p>Abyssal Shards are used as a material in a variety of dungeon-related crafting recipes, particularly for <a href="https://wiki.aa-classic.com/index.php?title=Dungeon_Equipment&action=edit&redlink=1" rel="noopener">Dungeon Equipment</a>.
+</p><p>They can also be combined to create an <a href="https://wiki.aa-classic.com/index.php?title=Abyssal_Crystal&action=edit&redlink=1" rel="noopener">Abyssal Crystal</a>.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Material
+</th>
+<th>Quantity
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td>Abyssal Shard
+</td>
+<td>30
+</td>
+<td><a href="https://wiki.aa-classic.com/index.php?title=Abyssal_Crystal&action=edit&redlink=1" rel="noopener">Abyssal Crystal</a> ×1
+</td></tr></tbody></table>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/items","className":"text-accent-2 hover:underline","children":"Items"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Abyssal Shard"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Abyssal_Shard","className":"underline hover:text-text","children":["AAClassic wiki page “","Abyssal Shard","”"]}]," ","(CC0), last edited ","Aug 30, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Details",{"className":"","children":["$","a",null,{"href":"#Details","className":"text-muted hover:text-accent","children":"Details"}]}],["$","li","Acquisition",{"className":"","children":["$","a",null,{"href":"#Acquisition","className":"text-muted hover:text-accent","children":"Acquisition"}]}],["$","li","Uses",{"className":"","children":["$","a",null,{"href":"#Uses","className":"text-muted hover:text-accent","children":"Uses"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Abyssal Shard · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Abyssal Shards are a dungeon material primarily used for crafting and upgrading Dungeon Equipment. They are obtained from various dungeon-related sources and are commonly required in recipes for dungeon equipment and…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

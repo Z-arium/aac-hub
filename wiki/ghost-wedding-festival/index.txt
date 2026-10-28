@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-7fd4fe41bda3f692.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/7d32059b5227a1ac.css","style"]
+0:{"P":null,"b":"cp7gSNcmzDVcsBA_oCsPh","p":"/aac-hub","c":["","wiki","ghost-wedding-festival",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","ghost-wedding-festival","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/7d32059b5227a1ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L2",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L2","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L2","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L2","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L2","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L2","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L2","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ghost-wedding-festival","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Te3d,<h3 id="Location">Location</h3>
+<p>Event is located in White Arden, <i>Ardenia</i>, Nuia side.
+</p>
+<h3 id="Quests">Quests</h3>
+<h4 id="[The_Ghost_Wedding]"><span></span>[The Ghost Wedding]</h4>
+<p>Arden Guard Finis starts the questline and he asks the player to talk to Delmin closer to the event area.
+</p><p><span><img src="https://wiki.aa-classic.com/images/9/93/Ardeniaguard.png" width="253" height="468" loading="lazy"></span>
+</p><p><br>
+</p>
+<h4 id="[Hauntingly_Beautiful]"><span></span>[Hauntingly Beautiful]</h4>
+<p>Delmin needs 3 Hereaftter Roses that can be picked up close at nearby tree. Gather tree and go back to Delmin.
+</p><p><span><img src="https://wiki.aa-classic.com/images/c/c8/Delmin.png" width="226" height="283" loading="lazy"></span>
+</p><p><span><img src="https://wiki.aa-classic.com/images/a/af/Hereafterroses.png" width="484" height="199" loading="lazy"></span>
+</p><p><br>
+</p>
+<h4 id="[A_Good_Cause]"><span></span>[A Good Cause]</h4>
+<p>Delmin gives another quest where she wants the player to craft an Donation Envelope (<b>click envelope icon</b>) and donating it into the box next to her. After donating go back to her. 
+</p><p><span><img src="https://wiki.aa-classic.com/images/c/c8/Delmin.png" width="226" height="283" loading="lazy"></span>
+</p><p><span><img src="https://wiki.aa-classic.com/images/0/02/Envelope.png" width="170" height="103" loading="lazy"></span>
+</p><p><span><img src="https://wiki.aa-classic.com/images/e/e1/Donationbox.png" width="142" height="224" loading="lazy"></span>
+</p><p>After donating the envelope Delmin will reward the player with the Guardian Token that can be used on the Groom and Pride to receive a Wedding Buff.
+</p><p><span><img src="https://wiki.aa-classic.com/images/d/d0/Guardianstoken.png" width="206" height="221" loading="lazy"></span>
+</p><p><span><img src="https://wiki.aa-classic.com/images/2/2c/Weddingbuff.png" width="543" height="377" loading="lazy"></span>
+</p><p>Receive buff by going close to the NPC:s and click F with the Guardian Token in the inventory. The buff lasts for 60min.
+</p><p><span><img src="https://wiki.aa-classic.com/images/c/c8/Weddingbessing.png" width="206" height="129" loading="lazy"></span>
+</p><p><br>
+</p>
+<h4 id="[The_Wedding_Crasher]"><span></span>[The Wedding Crasher]</h4>
+<p>Arden Guard Musician gives a quest to drive away a singing bard and investigate Suspicious Pirate Plushie. 
+</p><p>The Singing Bard appears at certain hours where players need to drive him away. After he is gone there will be the Plushie spawning that need to be investigated so the quest is completed.
+</p><p><i>For the EU region, the Singing Bard appears at 2pm, 7pm and 12am UTC.</i>
+</p><p><i>For the NA region, the Singing Bard appears at 7pm, 12am and 5am UTC.</i>
+</p><p><br>
+</p>
+<h4 id="[Stranded_in_White_Arden]"><span></span>[Stranded in White Arden]</h4>
+<p>Eldest Princess Esana gives a quest and asks for <i><b>3 BOUND</b></i> Hereafter stones so she can teleport back to Haranya. 
+</p><p><span><img src="https://wiki.aa-classic.com/images/9/97/Eldestprincessesana.png" width="310" height="391" loading="lazy"></span>
+</p>
+<h4 id="[Till_Death_Do_us_Part]"><span></span>[Till Death Do us Part]</h4>
+<p><span><img src="https://wiki.aa-classic.com/images/0/0d/Dias.png" width="259" height="337" loading="lazy"></span>
+</p><p>Dias needs help with crafting the wedding rings. Had to the Festival Gift Exchanger. Craft Wedding Ring with <i><b>3 BOUND</b></i> Hereafter stones. After crafting go back to him.
+</p><p><span><img src="https://wiki.aa-classic.com/images/f/f7/Weddingrings.png" width="302" height="213" loading="lazy"></span>
+</p>5:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L2",null,{"href":"/wiki/category/events-and-festivals","className":"text-accent-2 hover:underline","children":"Events & Festivals"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Ghost Wedding Festival"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]}],"$L12"]}]
+11:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Ghost_Wedding_Festival","className":"underline hover:text-text","children":["AAClassic wiki page “","Ghost Wedding Festival","”"]}]," ","(CC0), last edited ","Nov 14, 2025",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+12:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Location",{"className":"pl-3","children":["$","a",null,{"href":"#Location","className":"text-muted hover:text-accent","children":"Location"}]}],["$","li","Quests",{"className":"pl-3","children":["$","a",null,{"href":"#Quests","className":"text-muted hover:text-accent","children":"Quests"}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+13:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Ghost Wedding Festival · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Location Event is located in White Arden, Ardenia, Nuia side. Quests [The Ghost Wedding] Arden Guard Finis starts the questline and he asks the player to talk to Delmin closer to the event area. [Hauntingly Beautiful]…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
