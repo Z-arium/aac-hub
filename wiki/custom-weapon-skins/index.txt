@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,13 +10,13 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","custom-weapon-skins",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","custom-weapon-skins","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","custom-weapon-skins","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:T40bb,<h2 id="Star_Clad_skins">Star Clad skins</h2>
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","custom-weapon-skins",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","custom-weapon-skins","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","custom-weapon-skins","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T3a98,<h2 id="Star_Clad_skins">Star Clad skins</h2>
 <p>Currently the only skin from the Star Clad collection is the club. Star Clad club is only obtainable during Christmas event, where daily activities give candy canes that can be used to brake the big gift boxes in Austera and Marianople. The skins is a rare-ish drop and cant be traded between players.
 </p>
 <h3 id="Star_Clad_club">Star Clad club</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/2/22/Starclad_club.png/520px-Starclad_club.png" width="520" height="228" srcset="https://wiki.aa-classic.com/images/thumb/2/22/Starclad_club.png/780px-Starclad_club.png 1.5x, https://wiki.aa-classic.com/images/2/22/Starclad_club.png 2x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/95/9515c2701a30d6980ec960a9f7964f3cadbf386a.png" width="520" height="228" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -35,7 +35,7 @@ f:"$Sreact.suspense"
 <p>Thornbound collection is a set of skins that are being sold in the <a href="/aac-hub/wiki/currencies">Golden Token</a> shop. One weapon skins costs 1 Golden Token. 
 </p>
 <h3 id="Thornbound_Mercy_Club">Thornbound Mercy Club</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/358px-Thornbound_scepter_club.png" width="358" height="159" srcset="https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/537px-Thornbound_scepter_club.png 1.5x, https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/716px-Thornbound_scepter_club.png 2x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/e3/e3594d1d889f4da19b83f8ea56539acd5e779ea7.png" width="358" height="159" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -49,7 +49,7 @@ f:"$Sreact.suspense"
 <td>Crawling
 </td></tr></tbody></table>
 <h3 id="Cupid's_Fang_Dagger"><span></span>Cupid's Fang Dagger</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/e/e1/Thornbound_dagger.png/551px-Thornbound_dagger.png" width="551" height="278" srcset="https://wiki.aa-classic.com/images/e/e1/Thornbound_dagger.png 1.5x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/fb/fbc3509c399c642ca3e21a44b56fd82cdfef3501.png" width="551" height="278" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -63,7 +63,7 @@ f:"$Sreact.suspense"
 <td>Crawling
 </td></tr></tbody></table>
 <h3 id="Heartpiercer_Sword">Heartpiercer Sword</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/5/5e/Thornbound_sword.png/626px-Thornbound_sword.png" width="626" height="210" srcset="https://wiki.aa-classic.com/images/thumb/5/5e/Thornbound_sword.png/939px-Thornbound_sword.png 1.5x, https://wiki.aa-classic.com/images/5/5e/Thornbound_sword.png 2x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/53/53babc39d6e4b0cdd94322850f565bd4be6a686c.png" width="626" height="210" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -77,7 +77,7 @@ f:"$Sreact.suspense"
 <td>Crawling
 </td></tr></tbody></table>
 <h3 id="Lover's_Lament_Longspear"><span></span>Lover's Lament Longspear</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/541px-Thornbound_spear.png" width="541" height="191" srcset="https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/812px-Thornbound_spear.png 1.5x, https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/1082px-Thornbound_spear.png 2x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/ce/ce78a3dd48bffea0f36a5eff2a54e97448d014bb.png" width="541" height="191" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -91,7 +91,7 @@ f:"$Sreact.suspense"
 <td>Crawling
 </td></tr></tbody></table>
 <h3 id="Thornbound_Majesty_Scepter">Thornbound Majesty Scepter</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/342px-Thornbound_scepter_club.png" width="342" height="152" srcset="https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/513px-Thornbound_scepter_club.png 1.5x, https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/684px-Thornbound_scepter_club.png 2x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/e3/e3594d1d889f4da19b83f8ea56539acd5e779ea7.png" width="342" height="152" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -105,7 +105,7 @@ f:"$Sreact.suspense"
 <td>Crawling
 </td></tr></tbody></table>
 <h3 id="Thornbound_Ruin_Staff">Thornbound Ruin Staff</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/489px-Thornbound_scepter_club.png" width="489" height="217" srcset="https://wiki.aa-classic.com/images/thumb/3/35/Thornbound_scepter_club.png/734px-Thornbound_scepter_club.png 1.5x, https://wiki.aa-classic.com/images/3/35/Thornbound_scepter_club.png 2x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/e3/e3594d1d889f4da19b83f8ea56539acd5e779ea7.png" width="489" height="217" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -119,7 +119,7 @@ f:"$Sreact.suspense"
 <td>Crawling
 </td></tr></tbody></table>
 <h3 id="Lover's_Fury_Shortspear"><span></span>Lover's Fury Shortspear</h3>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/417px-Thornbound_spear.png" width="417" height="147" srcset="https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/626px-Thornbound_spear.png 1.5x, https://wiki.aa-classic.com/images/thumb/5/5c/Thornbound_spear.png/834px-Thornbound_spear.png 2x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/ce/ce78a3dd48bffea0f36a5eff2a54e97448d014bb.png" width="417" height="147" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -138,7 +138,7 @@ f:"$Sreact.suspense"
 <p>This hearty portal was an exclusive reward from 2025 Valentines day contest. Otherwise not available...for now.
 </p>
 <h4 id="Rosebound_Passage">Rosebound Passage</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/e/ec/Thornbound_passage.png/662px-Thornbound_passage.png" width="662" height="663" srcset="https://wiki.aa-classic.com/images/e/ec/Thornbound_passage.png 1.5x" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/0e/0ec75f3810d3ea86ac38b42e808e710ee46e5e60.png" width="662" height="663" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -155,13 +155,13 @@ f:"$Sreact.suspense"
 </p>
 <h2 id="Summer_Contest_2025_Weapon_skins">Summer Contest 2025 Weapon skins</h2>
 <p>One really cool feature about Archeage Classic are all kinds of custom events, different contest and particularly custom weapon design contest. This contest was held between <i>16.6.2025 - 13.7.2025</i>. Players were able to make their own unique designs that were voted by the community and later chosen by the Darus to become actual weapon skins in the game. 
-</p><p><span><img src="https://wiki.aa-classic.com/images/9/9a/Compeletesummercontestcrate.png" width="40" height="43" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/e2/e225598e84b78d038a078163e5fec5129bbb9528.png" width="40" height="43" loading="lazy"></span>
 </p><p>The first ever contest was themed with <b>Summer weapons</b> and they became part of the <b>Complete</b> <b>Summer Contest Crates</b> that are being sold in the Marketplace for 700 <a href="/aac-hub/wiki/currencies">credits</a>.
 </p><p><b>The item IDs can be used in the Dress Up addon to see them if unsure of how they look in the game.</b> 
 </p>
 <h3 id="Sword">Sword</h3>
 <h4 id="Great_Sharkfin">Great Sharkfin</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/3/38/Greatersharkfin.png" width="334" height="127" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/8b/8bf622c170778a44701a253d29ace2ed663c01b8.png" width="334" height="127" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -176,7 +176,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Greatsword">Greatsword</h3>
 <h4 id="Surf_Shredder">Surf Shredder</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/0/0d/Surfshredder.png" width="300" height="115" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/33/331a3ab9292b6fa277545a1d2c373b0e5b445ecc.png" width="300" height="115" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -191,7 +191,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Nodachi">Nodachi</h3>
 <h4 id="Sharkfin">Sharkfin</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/1/1f/Sharkfin.png" width="334" height="94" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/a8/a88c06aa441d112c554db5bde76e04d9cd7aec2b.png" width="334" height="94" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -206,7 +206,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Katana">Katana</h3>
 <h4 id="Bubble_Blade">Bubble Blade</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/6/6f/Bubbleblade.png" width="171" height="80" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/e9/e93d9c3700e4e3e52513b8a57b50bc1768841af2.png" width="171" height="80" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -221,7 +221,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Longspear">Longspear</h3>
 <h4 id="Jumbo_Skewer_Spear">Jumbo Skewer Spear</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/4/40/Jumboskewerspear.png" width="346" height="113" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/ce/cea5cee248220f415ba9a6895f73714614555ab8.png" width="346" height="113" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <caption>
@@ -237,7 +237,7 @@ f:"$Sreact.suspense"
 <td>Sunphira
 </td></tr></tbody></table>
 <h4 id="The_Pool_Noodle">The Pool Noodle</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/3/30/Thepoolnoodle.png" width="422" height="139" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/fb/fbfa963ae84e457dc44e346fa51e999d204f8625.png" width="422" height="139" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -254,7 +254,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Shortspear">Shortspear</h3>
 <h4 id="Skewer_Spear">Skewer Spear</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/5/57/Skewerspear.png" width="346" height="98" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/ae/ae7592cbe1334f0160e19fb82c4434ab95297dd3.png" width="346" height="98" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -270,7 +270,7 @@ f:"$Sreact.suspense"
 <p><br>
 </p>
 <h4 id="Sanddeep's_Edge"><span></span>Sanddeep's Edge</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/4/40/Saddeepsedge.png" width="196" height="78" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/88/880cf943fc26dec52bee822fbeca561b0637ad81.png" width="196" height="78" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -287,7 +287,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Shield">Shield</h3>
 <h4 id="Sunflower_Shield">Sunflower Shield</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/9/99/Sunflowershield.png" width="209" height="228" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/59/59cb64d48331bbf7f5a9cb3e371f60248c1e1280.png" width="209" height="228" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -301,7 +301,7 @@ f:"$Sreact.suspense"
 <td>Sunphira
 </td></tr></tbody></table>
 <h4 id="Depth_Titan's_Shield"><span></span>Depth Titan's Shield</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/6/6b/Depth_Titan%27s_Shield.png" width="236" height="229" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/09/09ba78cf89ed729ecac768285f2cced2e68c3571.png" width="236" height="229" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -315,7 +315,7 @@ f:"$Sreact.suspense"
 <td>lunacharskya
 </td></tr></tbody></table>
 <h4 id="Castaway_Life_Preserver">Castaway Life Preserver</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/f/f3/Castawaylifeporeserver.png" width="123" height="151" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/c4/c4b447b8876c02c3697e6ccc7fa695526caece4c.png" width="123" height="151" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -332,7 +332,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Flute">Flute</h3>
 <h4 id="Mermaids_Tale">Mermaids Tale</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/1/17/Themermaidstale.png" width="296" height="229" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/b6/b60b18f43cf4e46ee1d6671a9ed0a6f82b52f74e.png" width="296" height="229" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -347,7 +347,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Lute">Lute</h3>
 <h4 id="Cacophony_Below">Cacophony Below</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/4/4f/Cacophonybelow.png" width="189" height="88" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/2e/2e9d883c37aad1a39006d45b97b86e075a90de47.png" width="189" height="88" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -364,7 +364,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Dagger">Dagger</h3>
 <h4 id="Starfrost_Pop">Starfrost Pop</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/a/a4/Starfrostpop.png" width="284" height="143" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/5d/5d70da7b8d1a88429603040967c8f52f363111b0.png" width="284" height="143" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -380,7 +380,7 @@ f:"$Sreact.suspense"
 <p><br>
 </p>
 <h4 id="Enla’s_Grace"><span></span>Enla’s Grace</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/c/c5/Enlasgrace.png" width="144" height="56" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/f7/f730755dd43a4affb6940da23e97dd78a6f03ecc.png" width="144" height="56" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -397,7 +397,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Club">Club</h3>
 <h4 id="Seraph’s_Grace"><span></span>Seraph’s Grace</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/6/6b/Seraphsgrace.png" width="177" height="131" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/bf/bfe8290035122b402647515125de503c2ccd7a44.png" width="177" height="131" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -411,7 +411,7 @@ f:"$Sreact.suspense"
 <td>Chenbi
 </td></tr></tbody></table>
 <h4 id="Pearlbreaker">Pearlbreaker</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/1/1b/Pearlbraker.png" width="218" height="135" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/61/61f93b839b9210b0e0371593fba4955d3b9d17d6.png" width="218" height="135" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -425,7 +425,7 @@ f:"$Sreact.suspense"
 <td>Kimchi
 </td></tr></tbody></table>
 <h4 id="Hartlight">Hartlight</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/4/44/Hartlight.png" width="189" height="123" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/10/10db4798487aceb29c0a2e627e248fbf74ed7740.png" width="189" height="123" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -439,7 +439,7 @@ f:"$Sreact.suspense"
 <td>Doe
 </td></tr></tbody></table>
 <h4 id="Fraisefire_Mend">Fraisefire Mend</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/e/ed/Fraisefiremend.png" width="219" height="104" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/b7/b797c6d984816c1fed1899caa13dc1895717b3f7.png" width="219" height="104" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -456,7 +456,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Greatclub">Greatclub</h3>
 <h4 id="Pearlcrusher">Pearlcrusher</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/2/2d/Pearlcrusher.png" width="251" height="108" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/c6/c61ec174b4abea46f30614df7810fbb5c9b0919d.png" width="251" height="108" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -470,7 +470,7 @@ f:"$Sreact.suspense"
 <td>Kimchi
 </td></tr></tbody></table>
 <h4 id="Hartspire">Hartspire</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/8/83/Hartspire.png" width="208" height="108" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/35/35f4196563469e3dd9b2f7633ade0b1aefb82e6a.png" width="208" height="108" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -484,7 +484,7 @@ f:"$Sreact.suspense"
 <td>Doe
 </td></tr></tbody></table>
 <h4 id="Fraisefire_Bastion">Fraisefire Bastion</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/7/75/Fraisefirebloom.png" width="226" height="89" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/75/757cb39b72de1c4aea97a69426fd6db2f83f2309.png" width="226" height="89" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -501,7 +501,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Axe">Axe</h3>
 <h4 id="Eye_of_the_Sun">Eye of the Sun</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/c/c0/Eyeofthesun.png" width="186" height="99" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/dc/dcff32963e91062ec0fdb68ae3297428c73e2e5f.png" width="186" height="99" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -516,7 +516,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Greataxe">Greataxe</h3>
 <h4 id="Heart_of_the_Sun">Heart of the Sun</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/c/c4/Heartofthesun.png" width="276" height="148" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/5f/5f2cd3288f5fa0c2a66d328fca1741d782998028.png" width="276" height="148" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -531,7 +531,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Scepter">Scepter</h3>
 <h4 id="Fraisefire_Bloom">Fraisefire Bloom</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/7/75/Fraisefirebloom.png" width="226" height="89" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/75/757cb39b72de1c4aea97a69426fd6db2f83f2309.png" width="226" height="89" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -547,7 +547,7 @@ f:"$Sreact.suspense"
 <p><br>
 </p>
 <h4 id="Seal_of_the_Twin_Gods">Seal of the Twin Gods</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/4/4c/Sealofthetwingods.png" width="226" height="81" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/c8/c85bdbeaaa6abf40681447dde64ef126149f4021.png" width="226" height="81" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -562,7 +562,7 @@ f:"$Sreact.suspense"
 </td></tr></tbody></table>
 <h3 id="Staff">Staff</h3>
 <h4 id="Halo_of_the_Twin_Gods">Halo of the Twin Gods</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/d/d6/Haloofthetwingods.png" width="283" height="93" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/38/38409bbe960158a99eb162dfa9727d0759012446.png" width="283" height="93" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -576,7 +576,7 @@ f:"$Sreact.suspense"
 <td>Zzeddy
 </td></tr></tbody></table>
 <h4 id="Seawarden’s_Mast"><span></span>Seawarden’s Mast</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/d/d9/Seawardensmast.png" width="292" height="89" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/75/75d55807f8c6524c148c400babb2060442234814.png" width="292" height="89" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -593,7 +593,7 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="Bow">Bow</h3>
 <h4 id="Cherrybomb_Picnic">Cherrybomb Picnic</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/c/c4/Cherrybombpicnic.png" width="168" height="151" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/1f/1f5c7215c9653c1cc2f5339cc0d3b8088131f79e.png" width="168" height="151" loading="lazy"></span>
 </p>
 <table class="wikitable">
 <tbody><tr>
@@ -605,16 +605,479 @@ f:"$Sreact.suspense"
 <td>9001397
 </td>
 <td>Two
-</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Custom weapon skins"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],"$L14"]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Custom_weapon_skins","className":"underline hover:text-text","children":["AAClassic wiki page “","Custom weapon skins","”"]}]," ","(CC0), last edited ","Jan 26, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
-14:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Star_Clad_skins",{"className":"","children":["$","a",null,{"href":"#Star_Clad_skins","className":"text-muted hover:text-accent","children":"Star Clad skins"}]}],["$","li","Star_Clad_club",{"className":"pl-3","children":["$","a",null,{"href":"#Star_Clad_club","className":"text-muted hover:text-accent","children":"Star Clad club"}]}],["$","li","Thornbound_skins",{"className":"","children":["$","a",null,{"href":"#Thornbound_skins","className":"text-muted hover:text-accent","children":"Thornbound skins"}]}],["$","li","Thornbound_Mercy_Club",{"className":"pl-3","children":["$","a",null,{"href":"#Thornbound_Mercy_Club","className":"text-muted hover:text-accent","children":"Thornbound Mercy Club"}]}],["$","li","Cupid's_Fang_Dagger",{"className":"pl-3","children":["$","a",null,{"href":"#Cupid's_Fang_Dagger","className":"text-muted hover:text-accent","children":"Cupid's Fang Dagger"}]}],["$","li","Heartpiercer_Sword",{"className":"pl-3","children":["$","a",null,{"href":"#Heartpiercer_Sword","className":"text-muted hover:text-accent","children":"Heartpiercer Sword"}]}],["$","li","Lover's_Lament_Longspear",{"className":"pl-3","children":["$","a",null,{"href":"#Lover's_Lament_Longspear","className":"text-muted hover:text-accent","children":"Lover's Lament Longspear"}]}],["$","li","Thornbound_Majesty_Scepter",{"className":"pl-3","children":["$","a",null,{"href":"#Thornbound_Majesty_Scepter","className":"text-muted hover:text-accent","children":"Thornbound Majesty Scepter"}]}],["$","li","Thornbound_Ruin_Staff",{"className":"pl-3","children":["$","a",null,{"href":"#Thornbound_Ruin_Staff","className":"text-muted hover:text-accent","children":"Thornbound Ruin Staff"}]}],["$","li","Lover's_Fury_Shortspear",{"className":"pl-3","children":["$","a",null,{"href":"#Lover's_Fury_Shortspear","className":"text-muted hover:text-accent","children":"Lover's Fury Shortspear"}]}],["$","li","Portal_skins",{"className":"","children":["$","a",null,{"href":"#Portal_skins","className":"text-muted hover:text-accent","children":"Portal skins"}]}],["$","li","Summer_Contest_2025_Weapon_skins",{"className":"","children":["$","a",null,{"href":"#Summer_Contest_2025_Weapon_skins","className":"text-muted hover:text-accent","children":"Summer Contest 2025 Weapon skins"}]}],["$","li","Sword",{"className":"pl-3","children":["$","a",null,{"href":"#Sword","className":"text-muted hover:text-accent","children":"Sword"}]}],["$","li","Greatsword",{"className":"pl-3","children":["$","a",null,{"href":"#Greatsword","className":"text-muted hover:text-accent","children":"Greatsword"}]}],["$","li","Nodachi",{"className":"pl-3","children":["$","a",null,{"href":"#Nodachi","className":"text-muted hover:text-accent","children":"Nodachi"}]}],["$","li","Katana",{"className":"pl-3","children":["$","a",null,{"href":"#Katana","className":"text-muted hover:text-accent","children":"Katana"}]}],["$","li","Longspear",{"className":"pl-3","children":["$","a",null,{"href":"#Longspear","className":"text-muted hover:text-accent","children":"Longspear"}]}],["$","li","Shortspear",{"className":"pl-3","children":["$","a",null,{"href":"#Shortspear","className":"text-muted hover:text-accent","children":"Shortspear"}]}],["$","li","Shield",{"className":"pl-3","children":["$","a",null,{"href":"#Shield","className":"text-muted hover:text-accent","children":"Shield"}]}],["$","li","Flute",{"className":"pl-3","children":["$","a",null,{"href":"#Flute","className":"text-muted hover:text-accent","children":"Flute"}]}],["$","li","Lute",{"className":"pl-3","children":["$","a",null,{"href":"#Lute","className":"text-muted hover:text-accent","children":"Lute"}]}],["$","li","Dagger",{"className":"pl-3","children":["$","a",null,{"href":"#Dagger","className":"text-muted hover:text-accent","children":"Dagger"}]}],["$","li","Club",{"className":"pl-3","children":["$","a",null,{"href":"#Club","className":"text-muted hover:text-accent","children":"Club"}]}],["$","li","Greatclub",{"className":"pl-3","children":["$","a",null,{"href":"#Greatclub","className":"text-muted hover:text-accent","children":"Greatclub"}]}],["$","li","Axe",{"className":"pl-3","children":"$L15"}],"$L16","$L17","$L18","$L19"]}]]}]}]
-15:["$","a",null,{"href":"#Axe","className":"text-muted hover:text-accent","children":"Axe"}]
-16:["$","li","Greataxe",{"className":"pl-3","children":["$","a",null,{"href":"#Greataxe","className":"text-muted hover:text-accent","children":"Greataxe"}]}]
-17:["$","li","Scepter",{"className":"pl-3","children":["$","a",null,{"href":"#Scepter","className":"text-muted hover:text-accent","children":"Scepter"}]}]
-18:["$","li","Staff",{"className":"pl-3","children":["$","a",null,{"href":"#Staff","className":"text-muted hover:text-accent","children":"Staff"}]}]
-19:["$","li","Bow",{"className":"pl-3","children":["$","a",null,{"href":"#Bow","className":"text-muted hover:text-accent","children":"Bow"}]}]
+</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Custom weapon skins"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],"$L15"]}]
+16:T1899,
+== Star Clad skins ==
+
+Currently the only skin from the Star Clad collection is the club. Star Clad club is only obtainable during Christmas event, where daily activities give candy canes that can be used to brake the big gift boxes in Austera and Marianople. The skins is a rare-ish drop and cant be traded between players.
+
+=== Star Clad club ===
+[[File:Starclad club.png|520x520px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9000548
+|Crawling
+|}
+
+
+== Thornbound skins ==
+
+Thornbound collection is a set of skins that are being sold in the [[Currencies|Golden Token]] shop. One weapon skins costs 1 Golden Token. 
+
+=== Thornbound Mercy Club ===
+[[File:Thornbound scepter club.png|358x358px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001000
+|Crawling
+|}
+
+=== Cupid's Fang Dagger ===
+[[File:Thornbound dagger.png|551x551px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001006
+|Crawling
+|}
+
+=== Heartpiercer Sword ===
+[[File:Thornbound sword.png|626x626px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001003
+|Crawling
+|}
+
+=== Lover's Lament Longspear ===
+[[File:Thornbound spear.png|541x541px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001004
+|Crawling
+|}
+
+=== Thornbound Majesty Scepter ===
+[[File:Thornbound scepter club.png|342x342px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001001
+|Crawling
+|}
+
+=== Thornbound Ruin Staff ===
+[[File:Thornbound scepter club.png|489x489px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001005
+|Crawling
+|}
+
+=== Lover's Fury Shortspear ===
+[[File:Thornbound spear.png|417x417px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001002
+|Crawling
+|}
+
+
+== Portal skins ==
+
+This hearty portal was an exclusive reward from 2025 Valentines day contest. Otherwise not available...for now.
+
+==== Rosebound Passage ====
+[[File:Thornbound passage.png|663x663px]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001007
+|Crawling
+|}
+
+
+== Summer Contest 2025 Weapon skins ==
+One really cool feature about Archeage Classic are all kinds of custom events, different contest and particularly custom weapon design contest. This contest was held between ''16.6.2025 - 13.7.2025''. Players were able to make their own unique designs that were voted by the community and later chosen by the Darus to become actual weapon skins in the game. 
+
+[[File:Compeletesummercontestcrate.png]]
+
+The first ever contest was themed with '''Summer weapons''' and they became part of the '''Complete''' '''Summer Contest Crates''' that are being sold in the Marketplace for 700 [[Currencies|credits]].
+
+'''The item IDs can be used in the Dress Up addon to see them if unsure of how they look in the game.''' 
+
+=== Sword ===
+
+==== Great Sharkfin ====
+[[File:Greatersharkfin.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001338
+|Roisha
+|}
+
+=== Greatsword ===
+
+==== Surf Shredder ====
+[[File:Surfshredder.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001395
+|Dehling
+|}
+
+=== Nodachi ===
+
+==== Sharkfin ====
+[[File:Sharkfin.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001337
+|Roisha
+|}
+
+=== Katana ===
+
+==== Bubble Blade ====
+[[File:Bubbleblade.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001360
+|BigMyr
+|}
+
+=== Longspear ===
+
+==== Jumbo Skewer Spear ====
+[[File:Jumboskewerspear.png]]
+{| class="wikitable"
+|+
+!Item ID
+!Creator
+|-
+|9001333
+|Sunphira
+|}
+
+==== The Pool Noodle ====
+[[File:Thepoolnoodle.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001339
+|Powerpoint
+|}
+
+
+
+=== Shortspear ===
+
+==== Skewer Spear ====
+[[File:Skewerspear.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001332
+|Sunphira
+|}
+
+
+
+==== Sanddeep's Edge ====
+[[File:Saddeepsedge.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001388
+|Boku
+|}
+
+
+
+=== Shield ===
+
+==== Sunflower Shield ====
+[[File:Sunflowershield.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001334
+|Sunphira
+|}
+
+==== Depth Titan's Shield ====
+[[File:Depth Titan's Shield.png]]
+
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001335
+|lunacharskya
+|}
+
+==== Castaway Life Preserver ====
+[[File:Castawaylifeporeserver.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001358
+|Hamilton
+|}
+
+
+
+=== Flute ===
+
+==== Mermaids Tale ====
+[[File:Themermaidstale.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001336
+|Chenbi
+|}
+
+=== Lute ===
+
+==== Cacophony Below ====
+[[File:Cacophonybelow.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001400
+|Chenbi
+|}
+
+
+
+=== Dagger ===
+
+==== Starfrost Pop ====
+[[File:Starfrostpop.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001340
+|ZsasZ
+|}
+
+
+
+==== Enla’s Grace ====
+[[File:Enlasgrace.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001398
+|Oat
+|}
+
+
+
+=== Club ===
+
+==== Seraph’s Grace ====
+[[File:Seraphsgrace.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001386
+|Chenbi
+|}
+
+==== Pearlbreaker ====
+[[File:Pearlbraker.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001361
+|Kimchi
+|}
+
+==== Hartlight ====
+[[File:Hartlight.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001387
+|Doe
+|}
+
+==== Fraisefire Mend ====
+[[File:Fraisefiremend.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001385
+|BigMyr
+|}
+
+
+
+=== Greatclub ===
+
+==== Pearlcrusher ====
+[[File:Pearlcrusher.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001362
+|Kimchi
+|}
+
+==== Hartspire ====
+[[File:Hartspire.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001391
+|Doe
+|}
+
+==== Fraisefire Bastion ====
+[[File:Fraisefirebloom.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001390
+|BigMyr
+|}
+
+
+
+=== Axe ===
+
+==== Eye of the Sun ====
+[[File:Eyeofthesun.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001363
+|Sunraze
+|}
+
+=== Greataxe ===
+
+==== Heart of the Sun ====
+[[File:Heartofthesun.png]]
+
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001364
+|Sunraze
+|}
+
+=== Scepter ===
+
+==== Fraisefire Bloom ====
+[[File:Fraisefirebloom.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001389
+|BigMyr
+|}
+
+
+
+==== Seal of the Twin Gods ====
+[[File:Sealofthetwingods.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001359
+|Zzeddy
+|}
+
+=== Staff ===
+
+==== Halo of the Twin Gods ====
+[[File:Haloofthetwingods.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001357
+|Zzeddy
+|}
+
+==== Seawarden’s Mast ====
+[[File:Seawardensmast.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001392
+|Richy
+|}
+
+
+
+=== Bow ===
+
+==== Cherrybomb Picnic ====
+[[File:Cherrybombpicnic.png]]
+{| class="wikitable"
+!Item ID
+!Creator
+|-
+|9001397
+|Two
+|}13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$16"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Custom_weapon_skins","className":"underline hover:text-text","children":["AAClassic wiki page “","Custom weapon skins","”"]}]," ","(CC0), last edited ","Jan 26, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+15:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Star_Clad_skins",{"className":"","children":["$","a",null,{"href":"#Star_Clad_skins","className":"text-muted hover:text-accent","children":"Star Clad skins"}]}],["$","li","Star_Clad_club",{"className":"pl-3","children":["$","a",null,{"href":"#Star_Clad_club","className":"text-muted hover:text-accent","children":"Star Clad club"}]}],["$","li","Thornbound_skins",{"className":"","children":["$","a",null,{"href":"#Thornbound_skins","className":"text-muted hover:text-accent","children":"Thornbound skins"}]}],["$","li","Thornbound_Mercy_Club",{"className":"pl-3","children":["$","a",null,{"href":"#Thornbound_Mercy_Club","className":"text-muted hover:text-accent","children":"Thornbound Mercy Club"}]}],["$","li","Cupid's_Fang_Dagger",{"className":"pl-3","children":["$","a",null,{"href":"#Cupid's_Fang_Dagger","className":"text-muted hover:text-accent","children":"Cupid's Fang Dagger"}]}],["$","li","Heartpiercer_Sword",{"className":"pl-3","children":["$","a",null,{"href":"#Heartpiercer_Sword","className":"text-muted hover:text-accent","children":"Heartpiercer Sword"}]}],["$","li","Lover's_Lament_Longspear",{"className":"pl-3","children":["$","a",null,{"href":"#Lover's_Lament_Longspear","className":"text-muted hover:text-accent","children":"Lover's Lament Longspear"}]}],["$","li","Thornbound_Majesty_Scepter",{"className":"pl-3","children":["$","a",null,{"href":"#Thornbound_Majesty_Scepter","className":"text-muted hover:text-accent","children":"Thornbound Majesty Scepter"}]}],["$","li","Thornbound_Ruin_Staff",{"className":"pl-3","children":["$","a",null,{"href":"#Thornbound_Ruin_Staff","className":"text-muted hover:text-accent","children":"Thornbound Ruin Staff"}]}],["$","li","Lover's_Fury_Shortspear",{"className":"pl-3","children":["$","a",null,{"href":"#Lover's_Fury_Shortspear","className":"text-muted hover:text-accent","children":"Lover's Fury Shortspear"}]}],["$","li","Portal_skins",{"className":"","children":["$","a",null,{"href":"#Portal_skins","className":"text-muted hover:text-accent","children":"Portal skins"}]}],["$","li","Summer_Contest_2025_Weapon_skins",{"className":"","children":["$","a",null,{"href":"#Summer_Contest_2025_Weapon_skins","className":"text-muted hover:text-accent","children":"Summer Contest 2025 Weapon skins"}]}],["$","li","Sword",{"className":"pl-3","children":["$","a",null,{"href":"#Sword","className":"text-muted hover:text-accent","children":"Sword"}]}],["$","li","Greatsword",{"className":"pl-3","children":["$","a",null,{"href":"#Greatsword","className":"text-muted hover:text-accent","children":"Greatsword"}]}],["$","li","Nodachi",{"className":"pl-3","children":["$","a",null,{"href":"#Nodachi","className":"text-muted hover:text-accent","children":"Nodachi"}]}],["$","li","Katana",{"className":"pl-3","children":["$","a",null,{"href":"#Katana","className":"text-muted hover:text-accent","children":"Katana"}]}],["$","li","Longspear",{"className":"pl-3","children":["$","a",null,{"href":"#Longspear","className":"text-muted hover:text-accent","children":"Longspear"}]}],["$","li","Shortspear",{"className":"pl-3","children":["$","a",null,{"href":"#Shortspear","className":"text-muted hover:text-accent","children":"Shortspear"}]}],["$","li","Shield",{"className":"pl-3","children":["$","a",null,{"href":"#Shield","className":"text-muted hover:text-accent","children":"Shield"}]}],["$","li","Flute",{"className":"pl-3","children":["$","a",null,{"href":"#Flute","className":"text-muted hover:text-accent","children":"Flute"}]}],["$","li","Lute",{"className":"pl-3","children":["$","a",null,{"href":"#Lute","className":"text-muted hover:text-accent","children":"Lute"}]}],["$","li","Dagger",{"className":"pl-3","children":["$","a",null,{"href":"#Dagger","className":"text-muted hover:text-accent","children":"Dagger"}]}],["$","li","Club",{"className":"pl-3","children":["$","a",null,{"href":"#Club","className":"text-muted hover:text-accent","children":"Club"}]}],["$","li","Greatclub",{"className":"pl-3","children":["$","a",null,{"href":"#Greatclub","className":"text-muted hover:text-accent","children":"Greatclub"}]}],["$","li","Axe",{"className":"pl-3","children":"$L17"}],"$L18","$L19","$L1a","$L1b"]}]]}]}]
+17:["$","a",null,{"href":"#Axe","className":"text-muted hover:text-accent","children":"Axe"}]
+18:["$","li","Greataxe",{"className":"pl-3","children":["$","a",null,{"href":"#Greataxe","className":"text-muted hover:text-accent","children":"Greataxe"}]}]
+19:["$","li","Scepter",{"className":"pl-3","children":["$","a",null,{"href":"#Scepter","className":"text-muted hover:text-accent","children":"Scepter"}]}]
+1a:["$","li","Staff",{"className":"pl-3","children":["$","a",null,{"href":"#Staff","className":"text-muted hover:text-accent","children":"Staff"}]}]
+1b:["$","li","Bow",{"className":"pl-3","children":["$","a",null,{"href":"#Bow","className":"text-muted hover:text-accent","children":"Bow"}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-1a:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Custom weapon skins · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Star Clad skins Currently the only skin from the Star Clad collection is the club. Star Clad club is only obtainable during Christmas event, where daily activities give candy canes that can be used to brake the big gift…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L1a","3",{}]],"error":null,"digest":"$undefined"}
+1c:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Custom weapon skins · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Star Clad skins Currently the only skin from the Star Clad collection is the club. Star Clad club is only obtainable during Christmas event, where daily activities give candy canes that can be used to brake the big gift…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L1c","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"

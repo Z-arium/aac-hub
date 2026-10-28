@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,9 +10,9 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","cosmetic-costumes-imaging",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","cosmetic-costumes-imaging","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cosmetic-costumes-imaging","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:Tfff4,<p>Costume are a great way to customize the look of your character. In Archeage Classic there are wardrobe costumes that change the whole look of the character and appearance items that change only certain part of the characters appearance. These two can't be mixed together or used at the same time. Costumes are obtainable mainly through Marketplace with credits or rewards from events or achievements. Costumes can be little bit different looking depending of the played race or sex of the character. Some costumes can be dyed to customize the color of the costume.</p><figure><img src="https://wiki.aa-classic.com/images/thumb/6/6a/Item_fusion.png/300px-Item_fusion.png" width="300" height="462" srcset="https://wiki.aa-classic.com/images/6/6a/Item_fusion.png 1.5x" loading="lazy"><figcaption>Costume Fusion</figcaption></figure>
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","cosmetic-costumes-imaging",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","cosmetic-costumes-imaging","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cosmetic-costumes-imaging","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T10acc,<p>Costume are a great way to customize the look of your character. In Archeage Classic there are wardrobe costumes that change the whole look of the character and appearance items that change only certain part of the characters appearance. These two can't be mixed together or used at the same time. Costumes are obtainable mainly through Marketplace with credits or rewards from events or achievements. Costumes can be little bit different looking depending of the played race or sex of the character. Some costumes can be dyed to customize the color of the costume.</p><figure><img src="/aac-hub/wiki-files/6e/6e4b375420ad68857c7320a43adabad19640027d.png" width="300" height="462" loading="lazy"><figcaption>Costume Fusion</figcaption></figure>
 <h3 id="Costumes_slot">Costumes slot</h3>
 <p>Usually players have wardrobe costumes in their costume slot. The costume slot is the top one in character profile (default keybind "C"). From the tiny wheel players can choose Character Display settings. From there the helmet can be hidden and Back Slot Display decided what items are shown. Some wardrobe costumes have two different looks meaning players can toggle between Original and Alternate looks. Wardrobe costumes can also be hidden so the player can only see their characters gear. 
 </p>
@@ -40,7 +40,7 @@ f:"$Sreact.suspense"
 <th>Dyeable
 </th></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/3e/Classicservice.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0b/0b927b090b5df03c7b4318ccbe3b67528b197755.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Classic Service Uniform
 </td>
@@ -51,7 +51,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a0/Primservice.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c8/c8ed11767c18d752cef84b65e04fe1cc5880be23.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Prim Service Uniform
 </td>
@@ -62,7 +62,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/6f/Chimeraagent.png" width="42" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/6733d650222fe065d0ffea8f86e1f65f4f581bd3.png" width="42" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Chimera Agent Uniform
 </td>
@@ -73,7 +73,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/cc/Lotusmist.png" width="43" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/bb/bb0278cf58a3871f7f61ab0fda3cc0b7d5307da4.png" width="43" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Lotusmist Costume
 </td>
@@ -84,7 +84,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/ab/Passionatered.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/59/595f4d6be26f9cca2bd8b79f08e7a5ef513ecc5b.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Passionate Red Ribbon Outfit
 </td>
@@ -95,7 +95,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/2d/Rabbitfoot.png" width="42" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/28/28b23fe312d938e4a3c0aa2e792ab915b3dcbef1.png" width="42" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rabbit's Foot Uniform
 </td>
@@ -106,7 +106,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/70/Salliumgarbs.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c9/c9d40e45b214628b5600ca793f76349668647a04.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sallium Garbs
 </td>
@@ -117,7 +117,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e3/Angelicwhisper.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e1/e119d4f45f0de5d404fb48a6e39ea9f45b164851.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Angelic Whisper
 </td>
@@ -128,7 +128,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/45/Haughtyduelist.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e6/e632e2a254e7674eb2f3717e892167b368981eb9.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Haughty Duelist Costume
 </td>
@@ -139,7 +139,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/12/Classiqueball.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d6/d6da20130b4770c9a1cb53f2271030ffa20bc1be.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Classique Ball Attire
 </td>
@@ -150,7 +150,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b3/Dazzlingball.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/79/798e011c5a731974ec01f211d58eca3489d352e6.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dazzling Ball Attire
 </td>
@@ -161,7 +161,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d4/Purestarball.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/5d/5d680c414b32c9fcc6f2a1a9386b58a0452e4d23.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Purestar Ball Attire
 </td>
@@ -172,7 +172,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e3/Disguise.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/78/78dd91daa95ba884397fee431f3fa592480f45a6.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Royal's Disguise
 </td>
@@ -183,7 +183,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/04/Spoonlord.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/70/70ce03a938beef624db8ff45eb6e11c66f62146c.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rags of the Spoonlord
 </td>
@@ -194,7 +194,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e5/Goldendawn.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/56/563487d03363dc6f619b8564725d8562f9bac38e.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Golden Dawn Costume
 </td>
@@ -205,7 +205,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a8/Northern.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a6/a6c736939f55325e5dfad6ee5d0c3b2e126a1efe.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Northern Legion Costume
 </td>
@@ -216,7 +216,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a4/Drhealgood.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3b/3b866fbb64c6b6818090497ac51826e3a991d5a9.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Doctor Healgood
 </td>
@@ -227,7 +227,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/de/Nobleswhimsy.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/7e/7e9c6aeb4576ee970f4268f4e88f96f1d5659f33.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Noble's Whimsy Costume
 </td>
@@ -238,7 +238,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/92/Arasha.png" width="49" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/14/14d2263e3b63c90622551693d4fec770a7690141.png" width="49" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Arasha Nomad Costume
 </td>
@@ -249,7 +249,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/1f/Inochsbattle.png" width="47" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ac/acbb15ccfb2f75cf85f7806b437efdd5c4c19f0a.png" width="47" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Inoch's Battle Robes
 </td>
@@ -260,7 +260,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/56/Dragonhouse.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b4/b4be3b6ef3543b845e6a82a4939d17a426c18125.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dragon House Uniform
 </td>
@@ -271,7 +271,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/51/Krakenhouse.png" width="49" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b0/b06a08926b3c779764aa6a344e129ad96428fee4.png" width="49" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Kraken House Uniform
 </td>
@@ -282,7 +282,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/11/Leviathanhouse.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/22/22161976e44f50e4d1dd577075e12d9853cd3560.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Leviathan House Uniform
 </td>
@@ -293,7 +293,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d7/Wyvernhouse.png" width="47" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c8/c891461af8f24d9f6429f4b50a3eaff23ca6eb12.png" width="47" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Wyvern House Uniform
 </td>
@@ -304,7 +304,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/ca/Eggyweggy.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1a/1aabacfcad4970a37126a4feb2a53e8d7bb3b1fb.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Eggy-Weggy Costume
 </td>
@@ -315,7 +315,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5f/Hellokitty.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/9e/9e37d48562691599ce99c45b0cf9e1277fda62a7.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Hello Kitty Costume
 </td>
@@ -326,7 +326,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/46/Darkhellokitty.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/cb/cbe1160a4a88beac9fb6d73d091725f28218376e.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dark Hello Kitty Costume
 </td>
@@ -337,7 +337,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e7/Princeyateo.png" width="47" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/db/db79a5cb6d1780c37381e8cd5f1360533587e2c9.png" width="47" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Prince Yateo Costume
 </td>
@@ -348,7 +348,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/ae/Princessgreeniette.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/60/60e9d5dae7009ea813ef84a6ef6d96f86f443a04.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Princess Greeniette Costume
 </td>
@@ -359,7 +359,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/61/Dairyfarmer.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/55/55db826926def4c7a472a4c0eb5116066e7cf460.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dairy Farmer Costume
 </td>
@@ -370,7 +370,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d0/Milkmaid.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/4c/4c6d1d471efcfa8dc9f38d8244feeaab47132d66.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Milkmaid Costume
 </td>
@@ -381,7 +381,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c0/Puppyonesie.png" width="46" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/bb/bb7fc2d5a0664ef034cbd6b76fa85f40a05ccabb.png" width="46" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Puppy Onesie
 </td>
@@ -392,7 +392,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/77/Kittyonesie.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3e/3e798be3f94d9b352eb6cae60e8b8b012b16ca11.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Kitty Onesie
 </td>
@@ -403,7 +403,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/82/Wonderland.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/03/031623b8738e2377063a701d3cb173371ba6e967.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Wonderland Costume
 </td>
@@ -414,7 +414,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/55/Masquarade.png" width="41" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/90/9001303f896bb5380055387c779f5f0adafa0e14.png" width="41" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Masquerade Robes
 </td>
@@ -425,7 +425,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/3e/Denimmecha.png" width="52" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/03/030c5b4bc1d4394218c8bb1c1b0a54a547a8bc53.png" width="52" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Denim Mecha Coveralls
 </td>
@@ -436,7 +436,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f9/Scarletmecha.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/37/37da35717f85da1ecc831a9af3845137a257fd70.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Scarlet Mecha Coveralls
 </td>
@@ -447,7 +447,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5f/Chimeraceremonial.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f3/f3b24ec41bc4e362ca3f583f5749047d74af45f3.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Chimera Ceremonial Uniform
 </td>
@@ -458,7 +458,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/ce/Orchidnas.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/13/13b3623258cad7afc8efd814c6a9b4d6a7d7d985.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Orchidna's Snakeskin Shroud
 </td>
@@ -469,7 +469,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/7a/Captainslethaers.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/bc/bc07d01d39d9d024f4bfac0b6c5bf2c8dd2ed346.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Captain's Leathers
 </td>
@@ -480,7 +480,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/0a/Icefall.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/52/528c1aa555c19c4f698c7ec559f3c3601d7c2206.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Icefall Dynasty Robes
 </td>
@@ -491,7 +491,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/73/Blooddream.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/57/57bc58fa764b257722cf59664db9bec2b8cf5774.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blood Dream Dynasty Robes
 </td>
@@ -502,7 +502,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/61/Ebingleam.png" width="49" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/6f/6f5a280c4139bb794ea42695cfabf939a6685067.png" width="49" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Ebongleam Dynasty Robes
 </td>
@@ -513,7 +513,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/86/Puresky.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/70/7012bb430c505374ef82c0acd8640bac3a0fb6bc.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Pure Sky Dynasty Robes
 </td>
@@ -524,7 +524,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d4/Devilish.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c2/c221f483718fe31a127d2312c1b34f9babaa5abe.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Devilish Teamptation
 </td>
@@ -535,7 +535,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b6/Cowistoosleepy.png" width="49" height="46" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/8f/8fc549dfe8488deb018e99af36d2bcd7a8d35afe.png" width="49" height="46" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Cow Is Too Sleepy
 </td>
@@ -546,7 +546,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/61/Dairyfarmer.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/55/55db826926def4c7a472a4c0eb5116066e7cf460.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dairy Farmer: Denim
 </td>
@@ -557,7 +557,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b6/Navalservice.png" width="52" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3d/3d903b018948cd8baf7d9a743dc3f93869b259ce.png" width="52" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Naval Service Uniform
 </td>
@@ -568,7 +568,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/fb/Spotlessservice.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/5c/5c6f0fcdea24184b21a26d289322d8e02ceb82db.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Spotless Service Uniform
 </td>
@@ -579,7 +579,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/7b/Leopardpurr.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/4d/4d5c4db4c6d242b382c143821dad06d34dfea1be.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Leopard Purr Tattoo Bikini
 </td>
@@ -590,7 +590,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/02/Bubblegum.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/84/840f343e20eb60590659cdba4dcab99abbede245.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Bubblegum Swimwear
 </td>
@@ -601,7 +601,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/60/Fiery.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ec/eca1536df7c0723800a4ec37c439007c3603a08f.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Fiery Swimwear
 </td>
@@ -612,7 +612,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/ea/Kiwi.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ae/ae0b05298d5836cae0de1cd1b8678fca54361e34.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Kiwi Splash Swimwear
 </td>
@@ -623,7 +623,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/73/Indigogo.png" width="46" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/cd/cd95d62105889700049203be135a9d61b2828ad2.png" width="46" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Indigogo Dancer Swimwear
 </td>
@@ -634,7 +634,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/71/Suede.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/2d/2d068c91e66e2ef3399b8eb62e1eb2858f11b6a4.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Suede Swimwear
 </td>
@@ -645,7 +645,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/71/Blackpearl.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d9/d92cbdf8d1b5a68a4073ce1bafa9add666b7a8e1.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Black Pearl Swimwear
 </td>
@@ -656,7 +656,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/9c/Sunbleached.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/55/557c7d5a30fa3c1425fd3317fee2461238d85087.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sun-Bleached Swimwear
 </td>
@@ -667,7 +667,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d8/Mintyfresh.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/02/0290b5c0347319dfced655639e7c7cea93bba84b.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Minty Fresh Swimwear
 </td>
@@ -678,7 +678,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/cf/Polkadot.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/2f/2f7dd5559909ce5169364d305704c2500de6fa6d.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Flashy Polka Dot Swimwear
 </td>
@@ -689,7 +689,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/23/Sunstripe.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/35/352a7f7d0e92cec3af900afbbadc7e875d1c4067.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sunstripe Swimwear
 </td>
@@ -700,7 +700,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c1/Neondot.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/87/87300bd9bbd2561e9c93ed73124fcb2af57abb3c.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Neon Dot Swimwear
 </td>
@@ -711,7 +711,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/35/Breezy.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ac/acbf7648a1e4fe44202261d55050f823c1d09ee3.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Breezy Floral Swimwear
 </td>
@@ -722,7 +722,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b0/Leopardpurrswimwear.png" width="47" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b3/b39c9e94ee6b50b72e03becdac03043fcd865bce.png" width="47" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Leopard Purr Swimwear
 </td>
@@ -733,7 +733,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c2/Crocscale.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/cc/cc97461c2f742025eaa4f3b30d3540f7181fd0da.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Croc Scale Swimwear
 </td>
@@ -744,7 +744,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/37/Zebra.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/da/daf59bb7c385e702de738ccf91aa06ce62257443.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Zebra Splash Swimwear
 </td>
@@ -755,7 +755,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/46/Colordayze.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/25/25177db3f50ea91c9d527160c5a45eaeb687bc41.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Colordaze Swimwear
 </td>
@@ -766,7 +766,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f7/Summerbreeze.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/55/55dd45bed7105c2506baaf891ebcbe4dd9949538.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Summer Breeze Ensemble
 </td>
@@ -777,7 +777,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/03/Navaldots.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b2/b2fd34d6e6ac20cf81b1760a0603925c6a80560d.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Naval Dots Swimwear
 </td>
@@ -788,7 +788,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5a/Leaopardsroar.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/25/2550e907e85527022b753ac46bfb8260e69a0932.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Leopard's Roar Swimset
 </td>
@@ -799,7 +799,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/33/Panthersgrowl.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/fb/fbb42a9dbba2d7bd8f28956368912ed7ea525c43.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Panther's Growl Swimset
 </td>
@@ -810,7 +810,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b5/Bubblegumwear.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c8/c89a41293f6171b62f02075999ab126f6cc7fc57.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Bubblegum Swimset
 </td>
@@ -821,7 +821,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/01/Tropical.png" width="51" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/58/582e596979203ff5c55bcc198b96491fc62bfb77.png" width="51" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Tropical Swimset
 </td>
@@ -832,7 +832,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d0/Lilypad.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/7b/7b9c9bc8442d606d062e9a199b0025dc37f484d9.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Lilypad Swimset
 </td>
@@ -843,7 +843,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/82/Flirtyflop.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/60/60e380877c2a070f6c971664b6303d6e07fc79da.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Flirty Flip-Flops
 </td>
@@ -854,7 +854,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/ef/Islandflop.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/91/914e45cadf9b8a5a004dbc954538fabb15a7492f.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Island Time Flip-Flops
 </td>
@@ -865,7 +865,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8b/Sassy.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/85/85fbc19774ca35bc266c2eb933e6bf90378dc77b.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sassy Straw Hat
 </td>
@@ -876,7 +876,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5e/Fedora.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/bb/bb82c8b4f00d3f09cabb7ff520a2e24278a4b458.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Mystery Man Fedora
 </td>
@@ -887,7 +887,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/bc/Peppermint.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/be/be1786f778494d7312204a246de3dc22cfef1aa1.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Peppermint Bracelet
 </td>
@@ -898,7 +898,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/1b/Spearmint.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3a/3a7d832a2ea0250c1ae0085d579ecc5614fabb74.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Spearmint Bracelet
 </td>
@@ -909,7 +909,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8f/Apllemint.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/de/dea147164757b2c65270bc19623bde0a7b6bae33.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Applemint Bracelet
 </td>
@@ -920,7 +920,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/07/Doublemint.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/de/de104e991c8895334fdd660d5d56d25baf78f993.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Doublemint Bracelet
 </td>
@@ -931,7 +931,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/ab/Gunshow.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a6/a6475dd27aaff08483521312941f1c5b8a122ecb.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Gun-Show Tank
 </td>
@@ -942,7 +942,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/50/Bluegunshow.png" width="47" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ff/ff347e82e833256f8c9db4b2520aa7915c4e849c.png" width="47" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blue Gun-Show Tank
 </td>
@@ -953,7 +953,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/76/Kiwisplash.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3f/3fa5a08896cad0855b35deaf54e36e59c038e874.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Kiwi Splash Button Short-Sleeve
 </td>
@@ -964,7 +964,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5b/Crispbutton.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/34/348a98b107f85cfeec022d7ad897b89d316d137a.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Crisp Button Short-Sleeve
 </td>
@@ -975,7 +975,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/30/Classicjeans.png" width="47" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/27/272f45a198b3c77ed3cfc7eb1c676120d420398d.png" width="47" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Classic Jeans
 </td>
@@ -986,7 +986,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/36/Blush.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/24/24b234dec8c96c417651584b4010366c338eb00a.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blush Jeggings
 </td>
@@ -997,7 +997,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/90/Chartreuse.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/62/6270d0d0a8d32a1cc11adc3916afadc7c781b385.png" width="48" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Chartreuse Jeggings
 </td>
@@ -1008,7 +1008,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c0/Azure.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/18/18e22d5c38fe0af577179a5a9675f1118de8f622.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Azure Jeggings
 </td>
@@ -1019,7 +1019,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/2b/Bleached.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/2d/2d4d0efc986bdc5fc42e0b36fef344456c3cddc8.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Bleached Jeggings
 </td>
@@ -1030,7 +1030,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/97/Slate.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/04/0437c886807edec3dc72188eea0bee2d0071b97e.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Slate Jeans
 </td>
@@ -1041,7 +1041,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/35/Redtoe.png" width="51" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c1/c1a782e2a760ff8965140b27ab35afacd7702ac1.png" width="51" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Redtoe Sneakers
 </td>
@@ -1052,7 +1052,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f4/Bluetoe.png" width="47" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/03/03c93b02b695de8ed81105699f5164eefd1dd036.png" width="47" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Bluetoe Sneakers
 </td>
@@ -1063,7 +1063,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/39/Blacktoe.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/9d/9dcff41793ed99a9cd84d3dab3b4bf67c0632a77.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blacktoe Sneakers
 </td>
@@ -1074,7 +1074,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/0e/Blackpearlsneakers.png" width="52" height="46" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/81/81443b5f16a843370a6c2d449ddaa5510d7e7c69.png" width="52" height="46" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Black Pearl Sneakers
 </td>
@@ -1085,7 +1085,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/32/Burlap.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b3/b30eaf523cf05c44701363d82c89d8810669fb86.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Burlap Sneakers
 </td>
@@ -1096,7 +1096,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/ac/Skywalker.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/81/81841b441d43ba0a31597f7a101c808837d0ec1a.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Skywalker Sneakers
 </td>
@@ -1107,7 +1107,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b6/Sunkissed.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e7/e7a268fcb520e33fb6803563bbb14c544cf9c0e6.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sunkissed Sneakers
 </td>
@@ -1118,7 +1118,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/55/Ivory.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/5a/5a8cf806b007a81282db37be3c80b8cfe32c058d.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Ivory Sneakers
 </td>
@@ -1129,7 +1129,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/2d/Plaguedoctor.png" width="36" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e8/e8ffe89583abc0c2b50749f77e0228da40dfad77.png" width="36" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Plague Doctor Costume
 </td>
@@ -1140,7 +1140,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a9/Tombound.png" width="39" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/03/035eefaf7359de3e8debe70cada9f12b72a12941.png" width="39" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Tomb-Bound Wraps
 </td>
@@ -1151,7 +1151,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/60/Summerracer.png" width="39" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a9/a9a53c56d2b9bfda5c01684adf2785d7490e6766.png" width="39" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Summer Racer's Swimwear
 </td>
@@ -1162,7 +1162,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/cc/Summernights.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/78/786f7a12b3c949506fad5ecf00897a18ed71be90.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Summer Nights Swimwear
 </td>
@@ -1173,7 +1173,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c8/Inquisitor.png" width="37" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/4e/4ebe3f527e0d738c8a43ad1fa9ceac923de7c751.png" width="37" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Inquisitor's Robes
 </td>
@@ -1184,7 +1184,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/7a/Desertassassin.png" width="45" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a1/a136fdc3bd5df02535fdc6378c40d14298b85528.png" width="45" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Desert Assassin Plate
 </td>
@@ -1195,7 +1195,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/2c/Demonkiss.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/02/0261927187dc1531c6eb82f9a08586214f95ff23.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Demon's Kiss Costume
 </td>
@@ -1206,7 +1206,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/eb/Gatekeeper.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1a/1a7ee3db4fe19426b438a907f2b0feeae42d0857.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Garden Gatekeeper
 </td>
@@ -1217,7 +1217,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c7/Ceremonial.png" width="41" height="38" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/47/47908c1e8952de58463d2e8413e34ff759938a4e.png" width="41" height="38" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Ceremonial Commander's Attire
 </td>
@@ -1228,7 +1228,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e8/Eternalwish.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/fd/fd60cfa712b24881ece72f403896b18013da18b4.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Eternal Wish Raiment
 </td>
@@ -1239,7 +1239,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/cd/Icekissed.png" width="45" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f9/f94299f422404d908d004afe75c1dfbdef0750fa.png" width="45" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Icekissed Winter Festival Cocstume
 </td>
@@ -1250,7 +1250,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a7/Rosecostume.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b3/b3b6e9a5a097cfacfc38e2f7499d5e103a604ff8.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rose Costume
 </td>
@@ -1261,7 +1261,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/43/Oathbound.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/01/0115c863488202285b0fc53795babfe9df10c754.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Oathbound Plate
 </td>
@@ -1272,7 +1272,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b4/Wintermessenger.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/64/648e6c19b5f7f7a9241aa7fab7949043e17dfb5e.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Winter's Messenger Costume
 </td>
@@ -1283,7 +1283,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/0b/Winterfur.png" width="43" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/19/19daf9603ef5232af1374abd4eaf9f8869394c60.png" width="43" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Kyprosa's Wnter Furs
 </td>
@@ -1294,7 +1294,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/bf/Woollyfluffy.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f3/f3032417ca1af18c3e1dced7dc0483ec03639719.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Woolly Fluffy Coat
 </td>
@@ -1305,7 +1305,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/79/Alabaster.png" width="40" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/fa/fa7467f134fee7fa6974a3a91445879430d360e4.png" width="40" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Alabaster Perinoor Silks
 </td>
@@ -1316,7 +1316,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e9/Crimsonperinoor.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/82/82cdf9b78e85ada67cd2fbd006c4fbdc543abfe6.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Crimson Perinoor Silks
 </td>
@@ -1327,7 +1327,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/68/Midnightperinoor.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ff/ff171de88d32dfe75dd9c35bdf9bc36f344ab8e7.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Midnight Perinoor Silks
 </td>
@@ -1338,7 +1338,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/ea/Rousingrabbit.png" width="42" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0e/0ed0df4b6b0130165d8b651a237f76aa0e9e020e.png" width="42" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rousing Rabbit Pyjamas
 </td>
@@ -1349,7 +1349,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/86/Onyxkitsu.png" width="52" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d1/d18d593360f6944902457f147daecfd8ca302285.png" width="52" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Onyx Night Kitsu
 </td>
@@ -1360,7 +1360,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/ee/Whitekitsu.png" width="45" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ee/ee94bf0aab3f0a0c79c4497c7e4e4428ddaf3428.png" width="45" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>White Night Kitsu
 </td>
@@ -1371,7 +1371,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a5/Bloodmaw.png" width="44" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/22/221e5cc724ef88175f6400a012ca9bac4d31c50d.png" width="44" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Bloodmaw Eveningwear
 </td>
@@ -1382,7 +1382,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c4/Datenight.png" width="38" height="38" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c9/c9f6f0427d02876a98f22fa083887da487d5c575.png" width="38" height="38" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Date Night Costume
 </td>
@@ -1393,7 +1393,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5e/Darkdhaman.png" width="44" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/2b/2bac9f7aa276c4f734d23047d2413c6dd1107ff5.png" width="44" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dark Shaman's Raiment
 </td>
@@ -1404,7 +1404,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/73/Ballattire.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/6a/6aa2e9aecb831aa656513c19d0dab52d65399891.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Homecoming Ball Attire
 </td>
@@ -1415,7 +1415,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c8/Nobility.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a6/a63aac28f4d4b4bf17b4e57ac8159d747c355a27.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Wartime Nobility Costume
 </td>
@@ -1426,7 +1426,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8c/Midnightcotton.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/55/55fd9fa17fa0e3edede10dd98e0bb8b7a5416021.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Midnight Perinoor Cottons
 </td>
@@ -1437,7 +1437,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/cd/Blossom.png" width="40" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/71/71be2744af343ff9dfcece12557f7b3b10ead084.png" width="40" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blossom Perinoor Cottons
 </td>
@@ -1448,7 +1448,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/9b/Snowbright.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/86/86e8fe303cd044439a3d7aab78720b29eb410d4e.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Snowbright Perinoor Cottons
 </td>
@@ -1459,7 +1459,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8d/Beachracer.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f2/f2d51489b29a29f12332bd63d9010752f2c4c0b0.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Beach Racer's Swimwear
 </td>
@@ -1470,7 +1470,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/ab/Carelesswhisper.png" width="40" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f2/f25aa2c7c1224a8e2f27b077fc249d42f010283c.png" width="40" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Careless Whisper Raiment
 </td>
@@ -1481,7 +1481,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/74/Finalwhisper.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a9/a960b7c744a4b9aaa8c518330939168702db99ad.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Final Whisper Raiment
 </td>
@@ -1492,7 +1492,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/75/Faeyata.png" width="51" height="53" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/58/588d56673bcb141befff70d673fb60ba7104512d.png" width="51" height="53" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Fae Yata Costume
 </td>
@@ -1503,7 +1503,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/75/Faeyata.png" width="51" height="53" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/58/588d56673bcb141befff70d673fb60ba7104512d.png" width="51" height="53" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Fae Yata Chroma
 </td>
@@ -1514,7 +1514,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/83/Arrogantduelist.png" width="52" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3d/3d115882f7c936aadc9904d6c65fd084cc09c7a4.png" width="52" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Arrogant Duelist Costume
 </td>
@@ -1525,7 +1525,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/87/Winteryata.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c5/c5a866f172c9e0869e9631b5f86b782d99e24de6.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Winter Yata Costume
 </td>
@@ -1536,7 +1536,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/1c/Trueblueyata.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/30/30db00dd7264e684895417d79816409bb6e4985e.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>True Blue Yata Costume
 </td>
@@ -1547,7 +1547,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/7d/Cheerberryyata.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a8/a807d12063afece4ee8784b0db721227c6a5e941.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Cheerberry Yata Costume
 </td>
@@ -1558,7 +1558,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/57/Blackjacyata.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/19/1969f9bf6beae94b5ed50279857a250b00403ef9.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blackjack Yata Pirate Costume
 </td>
@@ -1569,7 +1569,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c5/Bloodyadorable.png" width="51" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ed/ed9aec80124ea693bbc5d2a7be5bbbb73c10d196.png" width="51" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Bloody Adorable Yata Pirate Costume
 </td>
@@ -1580,7 +1580,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a5/Withccraft.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/33/338a4616d4dd2a96e18498440717bc91e76c2afd.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dark Tear Witchcraft Disciple Costume
 </td>
@@ -1591,7 +1591,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e6/Shadowwplay.png" width="52" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/cd/cd5e4724d5906b1b346d8e6a78527475ddc10cd5.png" width="52" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dark Tear Shadowplay Disciple Costume
 </td>
@@ -1602,7 +1602,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/fa/Auramancy.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/70/703347083c05fa41edaf3d1f77fd6a1243a10de9.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dark Tear Auramancy Disciple Costume
 </td>
@@ -1613,7 +1613,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/07/Victoryball.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ea/eadc2cdbbed8e3efb57d9a8815541c50b71f3ccd.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Victory Ball Attire
 </td>
@@ -1624,7 +1624,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/db/Lordlyice.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b0/b07f58a9cc5a1d4e372e0f13883ea1485f2b906a.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Lordly Iceraven Robes
 </td>
@@ -1635,7 +1635,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/27/Silverwolfplate.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/99/99fa097c7d5592b642dfe3c0ba522e3761030a23.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Wrapped Silverwolf Plate
 </td>
@@ -1646,7 +1646,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/3d/Imperialhuntsman.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c3/c30cb49abd6887e27887e4b8d8d362d690c5ed81.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Wrapped Imperial Huntsman's Leathers
 </td>
@@ -1657,7 +1657,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/9e/Iceracen.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e2/e245105955a319a8026d81c4c88ac197364ea9d1.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Nightraven Robes
 </td>
@@ -1668,7 +1668,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/1e/Daruassassin.png" width="51" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/73/7301dc3fe36f04646d56055575e99fe3d8e240e1.png" width="51" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Shadow Daru Uniform
 </td>
@@ -1679,7 +1679,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/11/Firebrand.png" width="52" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/aa/aac6d09a2f8ea62e2030e5257d2436573afd34cb.png" width="52" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Firebrand Courtier's Robes
 </td>
@@ -1690,7 +1690,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/07/Lavenderlight.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/21/21039e805138b62fc0e2a1aa7587f247480ce1f3.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Lavender Light
 </td>
@@ -1701,7 +1701,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/3d/Darkemissary.png" width="51" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d2/d21409e68addddb222b79c6d4ab9c68cda1879e1.png" width="51" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dark Emissary Suit
 </td>
@@ -1712,7 +1712,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/91/Battlefae.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c9/c901e79dd7efdade16f1d49642657b0d19561599.png" width="49" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Battle Fae
 </td>
@@ -1723,7 +1723,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8d/Moonbear.png" width="51" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a6/a666cadc0fdbf7a99b8f95d25e547057ae07b686.png" width="51" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Moon Bear Chroma
 </td>
@@ -1734,7 +1734,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/08/Royalbloodraven.png" width="53" height="53" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/20/2025e1e91436e1b3d8cd5ecfeffcdf0e48d00462.png" width="53" height="53" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Royal Bloodraven Robes
 </td>
@@ -1745,7 +1745,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d4/Griffinuni.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d2/d20055deb4f401ea43fdf904192849f7b59d659e.png" width="50" height="52" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Griffin Guard Uniform
 </td>
@@ -1756,7 +1756,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/19/Shockplate.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/5e/5e374b1b7a800f7d291e72522438a7c55a0e2034.png" width="50" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Shock Conqueror Plate
 </td>
@@ -1767,7 +1767,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b3/Sovereignrobes.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1e/1e0d15ef0703a7fb39c7993d1fa52ea50a6f830b.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Old Sovereign's Robes
 </td>
@@ -1778,7 +1778,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/9a/Crimsonkingshoodie.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d4/d46930cc693e24c742f92084a9698d85fad8e594.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Crimson Kings Hoodie
 </td>
@@ -1789,7 +1789,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/40/Bluedevilshoodie.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/7d/7d281e9f3f55d3d7ea80f8983f43b4360f966b5f.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blue Devils Hoodie
 </td>
@@ -1800,7 +1800,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/7e/Dragoncultist.png" width="40" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e6/e6ba73e12096e412cefacc9e7544c10a1fda3aca.png" width="40" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dragon Cultist Duster
 </td>
@@ -1811,7 +1811,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/21/Dreadguard.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ae/ae5861a757f093563b8cc66c70dcec5b45da768c.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dread Guard Armor
 </td>
@@ -1822,7 +1822,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/40/Eclipseknight.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/68/6885926e657ebeedee52a733c040e3f0e192d924.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Eclipse Knight Costume
 </td>
@@ -1833,7 +1833,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/75/Eveningblossom.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/73/736c775c17bfcdfbfcb8d37a9e345b5681a3322d.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Evening Blossom Garb
 </td>
@@ -1844,7 +1844,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/ba/Rabbitqueen.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/cf/cf1b65e904cdb9135019a1d6d4f67705fa168ce9.png" width="41" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rabbit Queen Suit
 </td>
@@ -1855,7 +1855,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f3/Flamewolveshoodie.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ca/cabc2b538616988dcc04e2dc1d31fe645a614e5e.png" width="41" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Flamewolves Hoodie
 </td>
@@ -1866,7 +1866,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/88/Gearedgaslamp.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/6d/6d1d81ab82e59b84cb3141dd3830b42a2f9b4d18.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Geared Gaslamp Garb
 </td>
@@ -1877,7 +1877,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/40/Greenmanistoosleepy.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/18/181be923e6254714402756b88fea7937e4850e77.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Greenman Is Too Sleepy
 </td>
@@ -1888,7 +1888,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/63/Haranyannavy.png" width="39" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0d/0d11f080f0b7fc6497ea5160d530914131754771.png" width="39" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Haranyan Navy Uniform
 </td>
@@ -1899,7 +1899,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/41/Nuiannavy.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/46/464bcec024ee84101ad483ebb4890b19e0d93cf9.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Nuian Navy Uniform
 </td>
@@ -1910,7 +1910,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e5/Holidaysnowcow.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/fc/fc325b62a9739d3c991d432ddeefdd360c427f5f.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Holiday Snow Cow Costume
 </td>
@@ -1921,7 +1921,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/02/Aurorananvy.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/bb/bbc77c8ddc885dadaeb39db6f1568dc5eb8b5136.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Auroran Navy Uniform
 </td>
@@ -1932,7 +1932,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/06/Bigbear.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b4/b48c148bd8cecff04ffdbcded70bbbed1a843657.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Big Black Bear Is Too Sleepy
 </td>
@@ -1943,7 +1943,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/0c/Blacksands.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/9b/9b15fefb3313ba4de6df9d5024fc55a7a9f932e4.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Black Sand Costume
 </td>
@@ -1954,7 +1954,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b4/Immortalguardian.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0f/0f571b370099d33fbc3c38cc583d1cc7ef0b3072.png" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Immortal Guardian Robes
 </td>
@@ -1965,7 +1965,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/15/Legendaryassassin.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e7/e70e86c196db42c7e0129439e4aabf07bad61f05.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Legendary Assassin Costume
 </td>
@@ -1976,7 +1976,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/cf/Mischievouskid.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/62/62e13f8af979680a031ca63fa6fc5ac53da14f90.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Mischievous Kid Costume
 </td>
@@ -1987,7 +1987,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/38/Nutcracker.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/bc/bca74d00a97effa876b356e7396a425227613324.png" width="40" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Nutcracker Costume
 </td>
@@ -1998,7 +1998,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f5/Oathbreaker.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/4d/4da5ed972c8d813c3ae114775f141bd1184ddf85.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Oathbreaker Plate
 </td>
@@ -2009,7 +2009,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d6/Prieonerspride.png" width="42" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/36/369453e708de3a4bab6e312a68a223403f196918.png" width="42" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Prisoner's Pride
 </td>
@@ -2020,7 +2020,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/da/Pumpkincharmer.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/8a/8a4fc315f220cdbebc709ccb8e84a1b2d5c09e06.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Pumpkin Charmer Costume
 </td>
@@ -2031,7 +2031,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/72/Bunnyistoosleepy.png" width="44" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/5d/5d33300152559f6558fc477723a1af611ee2cb34.png" width="44" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rabbit Is Too Sleepy
 </td>
@@ -2042,7 +2042,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/ce/Recklessravager.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/2b/2b8ffd7d13f9abaf6649621176aa019a09af81ce.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Reckless Ravager's Plate
 </td>
@@ -2053,7 +2053,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/58/Werefoxrobes.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d9/d9163d003daa123f949e000c96188bb68c157501.png" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Werefox Robes
 </td>
@@ -2064,7 +2064,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/66/Owlpost.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0a/0a7c2ec946bd481672d34613ba6ba46051a53920.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Owl Post Uniform
 </td>
@@ -2075,7 +2075,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/35/Poinsettiawinter.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/49/49c33ca4f6d7a308b40fb4e6ce6c266db9ce3da0.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Poinsettia Winter Festival Costume
 </td>
@@ -2086,7 +2086,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5f/Sunzenith.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b7/b7a19e7dedfafd29ff9f4945bb3e3f4368847e2a.png" width="51" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sun Zenith Swimsuit
 </td>
@@ -2097,7 +2097,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/00/Tropicaloboard.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a0/a0c4faa9d1f61a3900e1610c146a679fdad5e69a.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Tropical Boardwalk Swimwear
 </td>
@@ -2108,7 +2108,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e9/Streetwear.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c4/c44d345036fe0f3eff04018edeac4bb755ec9b06.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Streetwear Outfit
 </td>
@@ -2119,7 +2119,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/85/Molang.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c3/c3a6b6a9303c714f7bb04f94f3d197d1ff9b0d7d.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rascal Molang Costume
 </td>
@@ -2130,7 +2130,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/6d/Seakrait.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/be/beac9c8984c97cb924778cc3131a87514d7d607f.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sea Krait Swimsuit
 </td>
@@ -2141,7 +2141,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/89/Splendid.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d2/d27906a74400caf19deecac441a8bfdddb0c1d7c.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Splendid Haze
 </td>
@@ -2152,7 +2152,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/eb/Andelps.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/57/57109c2063828580b81da100698657f75474def4.png" width="49" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Andelph Mechanic Workwear
 </td>
@@ -2163,7 +2163,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/01/Tahyangsbattleplate.png" width="46" height="46" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/44/44f08f48c8f6e7a54852ddd4fdc78e6e81675c40.png" width="46" height="46" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Tahyang's Battle Plate
 </td>
@@ -2174,7 +2174,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/22/Restless_dancerr.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3a/3a04568876f8fb2b00c97b9e5514ebbae06e58fd.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Restless Dancer Costume
 </td>
@@ -2185,7 +2185,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/44/Reedwind_champion.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/00/0013ea24b9fe72bf2fff22f2807496899696749f.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Reedwind Champion
 </td>
@@ -2196,7 +2196,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/46/Goldenphoenixregalia.png" width="47" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/df/dfe8160d39be46c5b1c22f1bed07921435be07fd.png" width="47" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Golden Phoenix Regalia
 </td>
@@ -2207,7 +2207,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/eb/Pumpkinhat.png" width="52" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/98/98f634ef71aedf6f349379f8438a3fcae3a37b7f.png" width="52" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Yata Pumpkin Hat
 </td>
@@ -2218,7 +2218,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/37/Toilntrouble.png" width="52" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f3/f3e4893a90c0d068e48904d46448c85581e243ef.png" width="52" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Toil and Trouble Hat
 </td>
@@ -2229,7 +2229,7 @@ f:"$Sreact.suspense"
 <td>
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/36/Boilnbubble.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/fa/fa04fc13458031540ca2b79ae1470d37b43ea93f.png" width="51" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Boil and Bubble Hat
 </td>
@@ -2240,7 +2240,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/24/Poisonedentrails.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/36/364066da2f17401a831b147f17f1543fb6ba832c.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Poisoned Entrails Hat
 </td>
@@ -2251,7 +2251,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c8/Sylvas_nocturnehead.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e9/e9f70e571a2afc91e3c52b34d8a7f6d5efffae59.png" width="50" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sylvas Nocturne Headgear
 </td>
@@ -2262,7 +2262,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/26/Sylvasnocturnetop.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/2a/2aaa311e24750712eaa2fb9b69a34e826857c355.png" width="50" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sylvas Nocturne Top
 </td>
@@ -2273,7 +2273,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f1/Sylvasnocturnebottom.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/66/66566d30090338935078ccbba01d91ccc79bb002.png" width="49" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sylvas Nocturne Bottoms
 </td>
@@ -2284,7 +2284,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/10/Sylvasnocturneshoes.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/df/dfdb32fa8c2ea6a15df2b1a4d46cb5b2d29fbaae.png" width="50" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sylvas Nocturne Shoes
 </td>
@@ -2295,7 +2295,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/82/Winterballattire.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/c9/c916486166e2a73ced0322be54ff0291e6bc6fff.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Winter Ball Attire
 </td>
@@ -2306,7 +2306,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/18/Icekissedwarriorcarb.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/51/51f82dace5e179ca9d210b90c47adc57330a2cc1.png" width="49" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Icekissed Warrior Carb
 </td>
@@ -2317,7 +2317,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/73/Mysteriousriddler.png" width="46" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/bd/bd5d2fc91c206d760ad7e53b2bb5957bb741f7e2.png" width="46" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Mysterious Riddler Costume
 </td>
@@ -2328,7 +2328,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8b/Nebeshelper.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1a/1ab23c6323e240e45af9e851f3053cb9486dbf03.png" width="47" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Nebes Helper Costume
 </td>
@@ -2339,7 +2339,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8c/Nebesicekissed.png" width="52" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d4/d49b4a0a0cba58a005f20f5b073950be9425a196.png" width="52" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Nebes Icekissed Helper Costume
 </td>
@@ -2350,7 +2350,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f3/Nodlewinter.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/8b/8bed3fb3c3532ac47dfc7ff39ddea604a7342e62.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Noble Winter Coat
 </td>
@@ -2361,7 +2361,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b0/Fireblack_dragonslayer.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/01/01281abb9c1273955c5c5605467d10bfcdf30814.png" width="48" height="51" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Fireblack Dargonslayer
 </td>
@@ -2372,7 +2372,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/98/Firebreath_dragonslayer.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f5/f5376011c7ae0a42231c53694a244d0ddd27ce6a.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Firebreath Dragonslayer
 </td>
@@ -2383,7 +2383,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/0a/Firewrought_dragonslayer.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/95/95ada35e13c9d1d83e62c334f8f48af88901cc78.png" width="48" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Firewrought Dragonslayer
 </td>
@@ -2394,7 +2394,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/2b/Eleganthanbok.png" width="52" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3f/3f21b8e6a0f7c6e03cb92788523b7a13827496a9.png" width="52" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Elegant Hanbok
 </td>
@@ -2405,7 +2405,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/66/Dawnsliver.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/da/da45f36240436e61140af81c3eb12868dd61a140.png" width="51" height="49" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dawnsliver Investigator Wardrobe
 </td>
@@ -2416,7 +2416,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/59/Jiangshi.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ad/ad0a433d001589ec24ef0700c894e75446d03f39.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Jiang Shi Costume
 </td>
@@ -2427,7 +2427,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/35/Bluedragon.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e5/e59695d655b427907964d16d00c32f2b699fa8ef.png" width="48" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blue Dragon Costume
 </td>
@@ -2438,7 +2438,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/83/Ipnysh.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/db/db3e8df33b235cb85181d4c09f0142018a90e6d0.png" width="50" height="50" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Ipnysh Warden Costume
 </td>
@@ -2449,7 +2449,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d3/Rowdyshoreleave.png" width="42" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/18/1845f87ea1d2154323ab2e2065301b07db2c2570.png" width="42" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rowdy Shore Leave Outfit
 </td>
@@ -2460,7 +2460,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/24/Shiningshoreleave.png" width="42" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/7b/7b6ccd292721acd21caf35c5a1e022c72613f035.png" width="42" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Shining Shore Leave Outfit
 </td>
@@ -2471,7 +2471,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/55/Spotlessshoreleave.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/95/95ac670ec797876e5d61e9de90af3f025256107b.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Spotless Shore Leave Outfit
 </td>
@@ -2482,7 +2482,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/4a/Noblesbeachgarment.png" width="43" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/15/1546e4358a9af823040b342f3051dbaeca2aeb2e.png" width="43" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Nobles Beach Garments
 </td>
@@ -2493,7 +2493,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/db/Faegreenman.png" width="43" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/aa/aa1c83c24ff56d013a37ce28294496d4d7ee3acf.png" width="43" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Fae Greenman Chroma
 </td>
@@ -2504,7 +2504,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/21/Springsonggreensman.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/56/56bbc1a96676924e8d76435670b67198859c85c6.png" width="42" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Springsong Greenman Suit
 </td>
@@ -2515,7 +2515,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/9e/Autumngreenman.png" width="44" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a0/a0bb4036a4523ed851daeb3dc8e1d81223fb7119.png" width="44" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Autumn Greenman Suit
 </td>
@@ -2526,7 +2526,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/61/Bloomingspringcow.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a3/a3ea421548da13a87f116d7d57052b697e6d9aa8.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Blooming Spring Cow Chroma
 </td>
@@ -2537,7 +2537,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a4/Giantslayer.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f6/f61f6f3bf9c84631c3675b71c9e8e57467f2aa23.png" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Giant Slayer Costume
 </td>
@@ -2548,7 +2548,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/1a/Lutesongceremonial.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/f2/f2e87b89ca744bc9bd9ed9ff94f7fcc719a18976.png" width="44" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Lutesong Ceremonial Robes
 </td>
@@ -2559,7 +2559,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5f/Sunsetspringtime.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/27/27ce89f36d525bfd77220ce0bd68c94abaa143f9.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Sunset Springtime
 </td>
@@ -2570,7 +2570,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/de/Embalmed.png" width="42" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/85/850968590bd9805eef80fabab8b2af9887b83f7a.png" width="42" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Embalmed Greenman Costume
 </td>
@@ -2581,7 +2581,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d1/Frankenyata.png" width="40" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/65/65fb3a81afe8b20b94b402caf5b02ce64cb38403.png" width="40" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Franken-Yata Costume
 </td>
@@ -2592,7 +2592,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/3d/Dragonhunter.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/57/5749ee83063051a34ff4bf1a02627030610067f2.png" width="42" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dragon Hunter
 </td>
@@ -2603,7 +2603,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/3e/Wintermaidenssarafan.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1a/1a417c12cce152746024db3befbe8b8b244ada89.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Winter Maidens Sarafan
 </td>
@@ -2614,7 +2614,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/58/Smileymrmittens.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ef/ef6ef15f6f05944d9c2c27b8e061c18ced593f1f.png" width="42" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Smiley Mr. Mittens Outfit
 </td>
@@ -2625,7 +2625,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/6a/Blacknight.png" width="45" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/5c/5cf63ce8cfa91f6778181472097a7ddbbc70031c.png" width="45" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Black Night Costume
 </td>
@@ -2636,7 +2636,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/ea/Ivorywavewyrm.png" width="45" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/69/6922da8b67116ec25b0925079d2b388a760ef699.png" width="45" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Ivory Wavewyrm Costume
 </td>
@@ -2647,7 +2647,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/7e/Coralwavewyrm.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/8c/8c74371816a2c551f8df1f69f55e68356952d251.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Coral Wavewyrm Costume
 </td>
@@ -2658,7 +2658,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8a/Abyssalwavewyrm.png" width="45" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/52/52c1b9102544780757ee4512132d2792953c327e.png" width="45" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Abyssal Wavewyrm Costume
 </td>
@@ -2669,7 +2669,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8b/Armoredwavewyrm.png" width="44" height="46" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0f/0fe294c7dbcb777c003dd809e1a54636702e2a09.png" width="44" height="46" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Armored Wavewyrm Costume
 </td>
@@ -2680,7 +2680,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/83/Passionatecostume.png" width="44" height="45" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b1/b168569c7f36f67cc3f7eca3b410661701176729.png" width="44" height="45" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Passionate Costume
 </td>
@@ -2691,7 +2691,7 @@ f:"$Sreact.suspense"
 <td>Yes
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/0a/Naraynawarriorcarb.png" width="43" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/73/7306932cecb2e79173bd0a95bf75860326058ce5.png" width="43" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Narayna Warrior Garb
 </td>
@@ -2702,7 +2702,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/ba/Righteousnui.png" width="46" height="46" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/65/65c638d0ca9bcdaba31e48af166af03270a6ba07.png" width="46" height="46" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Righteous Nui Chosen Uniform
 </td>
@@ -2713,7 +2713,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/12/Courageousnui.png" width="41" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/05/0563b23156d08c35bb8c63f1b226f723ebf6bbf1.png" width="41" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Courageous Nui Chosen Uniform
 </td>
@@ -2724,7 +2724,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8d/Vigilantnui.png" width="45" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/96/965db5752242408732357da709f8992e5aa26c27.png" width="45" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Vigilant Nui Chosen Uniform
 </td>
@@ -2735,7 +2735,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/4f/Twistedguardian.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/9a/9a5f05b7c99f81032c231b3078d993abcb60f166.png" width="44" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Twisted Lava Guardian
 </td>
@@ -2746,7 +2746,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/6e/Twilightguardian.png" width="42" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3a/3abbc2dfa5343aa3b941a9e86e10a01e98bbb30d.png" width="42" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Twilight Guardian
 </td>
@@ -2757,7 +2757,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/87/Delphianhat.png" width="43" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1b/1bd6f4d90f98aad92d0581e36168aa7cb00d5912.png" width="43" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Delphian Hat
 </td>
@@ -2768,7 +2768,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/87/Delphianslippers.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3d/3de98894e5559657fd867cf931fcf22bb76434e8.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Delphian Slippers
 </td>
@@ -2779,7 +2779,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/14/Delphianfrock.png" width="45" height="47" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/6a/6a6de54963d7850215c08911af0aa2d08d8f566c.png" width="45" height="47" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Delphian Frock
 </td>
@@ -2790,7 +2790,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/dd/Delphiangloves.png" width="45" height="44" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/91/9188983fc95144429772de2ee8e53d087c1465a7.png" width="45" height="44" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Delphian Gloves
 </td>
@@ -2801,7 +2801,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f8/Springblossomgarb.png" width="45" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ed/ed980620ec22e5fb4dd61d6866d301694fc8a942.png" width="45" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Spring Blossom Garb
 </td>
@@ -2812,7 +2812,7 @@ f:"$Sreact.suspense"
 <td>No
 </td></tr>
 <tr>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/db/Redhood.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/7f/7fcf272549af7f2afb117bb12da304adc93669fc.png" width="43" height="43" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Red Hood and Tail-Cut Wolf
 </td>
@@ -2821,11 +2821,1551 @@ f:"$Sreact.suspense"
 <td>Marketplace
 </td>
 <td>Yes
-</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Cosmetic Costumes & Imaging"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],"$L14"]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Cosmetic_Costumes_&_Imaging","className":"underline hover:text-text","children":["AAClassic wiki page “","Cosmetic Costumes & Imaging","”"]}]," ","(CC0), last edited ","Feb 5, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
-14:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Costumes_slot",{"className":"pl-3","children":["$","a",null,{"href":"#Costumes_slot","className":"text-muted hover:text-accent","children":"Costumes slot"}]}],["$","li","Image_Item",{"className":"pl-3","children":["$","a",null,{"href":"#Image_Item","className":"text-muted hover:text-accent","children":"Image Item"}]}],["$","li","Wardrobe_costumes_available_in_the_game",{"className":"","children":["$","a",null,{"href":"#Wardrobe_costumes_available_in_the_game","className":"text-muted hover:text-accent","children":"Wardrobe costumes available in the game"}]}]]}]]}]}]
+</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Cosmetic Costumes & Imaging"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],"$L15"]}]
+16:T58ef,Costume are a great way to customize the look of your character. In Archeage Classic there are wardrobe costumes that change the whole look of the character and appearance items that change only certain part of the characters appearance. These two can't be mixed together or used at the same time. Costumes are obtainable mainly through Marketplace with credits or rewards from events or achievements. Costumes can be little bit different looking depending of the played race or sex of the character. Some costumes can be dyed to customize the color of the costume.[[File:Item fusion.png|thumb|Costume Fusion]]
+
+=== Costumes slot ===
+Usually players have wardrobe costumes in their costume slot. The costume slot is the top one in character profile (default keybind "C"). From the tiny wheel players can choose Character Display settings. From there the helmet can be hidden and Back Slot Display decided what items are shown. Some wardrobe costumes have two different looks meaning players can toggle between Original and Alternate looks. Wardrobe costumes can also be hidden so the player can only see their characters gear. 
+=== Image Item ===
+Image item is a term for costumes that can be put on top of another item through Item Fusion. Usually players fuse [[Stat costumes and undergarments|Stat Costumes]] (bought from Guild shop) with the wardrobe costumes in order to get the stat and looks at the same time. All costumes need to be made into Image items by using Fusion Alembics on them once. Once the item is an Image Item it will have the tiny blue cross on the bottom left of the item icon. Without making an item into Image item it can't be used in fusion. 
+
+In the same way, other gear pieces, weapons etc. can be turned into Image items and be put on top of the gear you wish to actually use. Be careful not to make the items you wants stats from into the appearance item!
+
+
+[[Custom weapon skins|Custom Weapon skins]]
+
+== Wardrobe costumes available in the game ==
+You can preview most of these costumes in the marketplace shop and also with Dressup addon.
+{| class="wikitable sortable"
+|+Can be sorted by alphabetical order or search with CTRL + F
+!Icon
+!Name
+!Sex
+!How to obtain
+!Dyeable
+|-
+|[[File:Classicservice.png|center]]
+|Classic Service Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Primservice.png|center]]
+|Prim Service Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Chimeraagent.png|center]]
+|Chimera Agent Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Lotusmist.png|center]]
+|Lotusmist Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Passionatered.png|center]]
+|Passionate Red Ribbon Outfit
+| -
+|Marketplace
+|No
+|-
+|[[File:Rabbitfoot.png|center]]
+|Rabbit's Foot Uniform
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Salliumgarbs.png|center]]
+|Sallium Garbs
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Angelicwhisper.png|center]]
+|Angelic Whisper
+| -
+|Marketplace
+|No
+|-
+|[[File:Haughtyduelist.png|center]]
+|Haughty Duelist Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Classiqueball.png|center]]
+|Classique Ball Attire
+| -
+|Marketplace
+|No
+|-
+|[[File:Dazzlingball.png|center]]
+|Dazzling Ball Attire
+| -
+|Marketplace
+|No
+|-
+|[[File:Purestarball.png|center]]
+|Purestar Ball Attire
+| -
+|Marketplace
+|No
+|-
+|[[File:Disguise.png|center]]
+|Royal's Disguise
+| -
+|Marketplace
+|No
+|-
+|[[File:Spoonlord.png|center]]
+|Rags of the Spoonlord
+| -
+|Marketplace
+|No
+|-
+|[[File:Goldendawn.png|center]]
+|Golden Dawn Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Northern.png|center]]
+|Northern Legion Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Drhealgood.png|center]]
+|Doctor Healgood
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Nobleswhimsy.png|center]]
+|Noble's Whimsy Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Arasha.png|center]]
+|Arasha Nomad Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Inochsbattle.png|center]]
+|Inoch's Battle Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Dragonhouse.png|center]]
+|Dragon House Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Krakenhouse.png|center]]
+|Kraken House Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Leviathanhouse.png|center]]
+|Leviathan House Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Wyvernhouse.png|center]]
+|Wyvern House Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Eggyweggy.png|center]]
+|Eggy-Weggy Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Hellokitty.png|center]]
+|Hello Kitty Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Darkhellokitty.png|center]]
+|Dark Hello Kitty Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Princeyateo.png|center]]
+|Prince Yateo Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Princessgreeniette.png|center]]
+|Princess Greeniette Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Dairyfarmer.png|center]]
+|Dairy Farmer Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Milkmaid.png|center]]
+|Milkmaid Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Puppyonesie.png|center]]
+|Puppy Onesie
+| -
+|Marketplace
+|No
+|-
+|[[File:Kittyonesie.png|center]]
+|Kitty Onesie
+| -
+|Marketplace
+|No
+|-
+|[[File:Wonderland.png|center]]
+|Wonderland Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Masquarade.png|center]]
+|Masquerade Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Denimmecha.png|center]]
+|Denim Mecha Coveralls
+| -
+|Marketplace
+|No
+|-
+|[[File:Scarletmecha.png|center]]
+|Scarlet Mecha Coveralls
+| -
+|Marketplace
+|No
+|-
+|[[File:Chimeraceremonial.png|center]]
+|Chimera Ceremonial Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Orchidnas.png|center]]
+|Orchidna's Snakeskin Shroud
+| -
+|Marketplace
+|No
+|-
+|[[File:Captainslethaers.png|center]]
+|Captain's Leathers
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Icefall.png|center]]
+|Icefall Dynasty Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Blooddream.png|center]]
+|Blood Dream Dynasty Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Ebingleam.png|center]]
+|Ebongleam Dynasty Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Puresky.png|center]]
+|Pure Sky Dynasty Robes
+| -
+|Marketplace
+|No
+|-
+|[[File:Devilish.png|center]]
+|Devilish Teamptation
+| -
+|Marketplace
+|No
+|-
+|[[File:Cowistoosleepy.png|center]]
+|Cow Is Too Sleepy
+| -
+|Marketplace
+|No
+|-
+|[[File:Dairyfarmer.png|center]]
+|Dairy Farmer: Denim
+| -
+|Marketplace
+|No
+|-
+|[[File:Navalservice.png|center]]
+|Naval Service Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Spotlessservice.png|center]]
+|Spotless Service Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Leopardpurr.png|center]]
+|Leopard Purr Tattoo Bikini
+| -
+|Marketplace
+|No
+|-
+|[[File:Bubblegum.png|center]]
+|Bubblegum Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Fiery.png|center]]
+|Fiery Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Kiwi.png|center]]
+|Kiwi Splash Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Indigogo.png|center]]
+|Indigogo Dancer Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Suede.png|center]]
+|Suede Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Blackpearl.png|center]]
+|Black Pearl Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Sunbleached.png|center]]
+|Sun-Bleached Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Mintyfresh.png|center]]
+|Minty Fresh Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Polkadot.png|center]]
+|Flashy Polka Dot Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Sunstripe.png|center]]
+|Sunstripe Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Neondot.png|center]]
+|Neon Dot Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Breezy.png|center]]
+|Breezy Floral Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Leopardpurrswimwear.png|center]]
+|Leopard Purr Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Crocscale.png|center]]
+|Croc Scale Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Zebra.png|center]]
+|Zebra Splash Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Colordayze.png|center]]
+|Colordaze Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Summerbreeze.png|center]]
+|Summer Breeze Ensemble
+|Male
+|Marketplace
+|No
+|-
+|[[File:Navaldots.png|center]]
+|Naval Dots Swimwear
+|Female
+|Marketplace
+|No
+|-
+|[[File:Leaopardsroar.png|center]]
+|Leopard's Roar Swimset
+|Male
+|Marketplace
+|No
+|-
+|[[File:Panthersgrowl.png|center]]
+|Panther's Growl Swimset
+|Female
+|Marketplace
+|No
+|-
+|[[File:Bubblegumwear.png|center]]
+|Bubblegum Swimset
+|Female
+|Marketplace
+|No
+|-
+|[[File:Tropical.png|center]]
+|Tropical Swimset
+|Female
+|Marketplace
+|No
+|-
+|[[File:Lilypad.png|center]]
+|Lilypad Swimset
+|Female
+|Marketplace
+|No
+|-
+|[[File:Flirtyflop.png|center]]
+|Flirty Flip-Flops
+|Female
+|Marketplace
+|No
+|-
+|[[File:Islandflop.png|center]]
+|Island Time Flip-Flops
+|Male
+|Marketplace
+|No
+|-
+|[[File:Sassy.png|center]]
+|Sassy Straw Hat
+|Female
+|Marketplace
+|No
+|-
+|[[File:Fedora.png|center]]
+|Mystery Man Fedora
+|Male
+|Marketplace
+|No
+|-
+|[[File:Peppermint.png|center]]
+|Peppermint Bracelet
+| -
+|Marketplace
+|No
+|-
+|[[File:Spearmint.png|center]]
+|Spearmint Bracelet
+| -
+|Marketplace
+|No
+|-
+|[[File:Apllemint.png|center]]
+|Applemint Bracelet
+| -
+|Marketplace
+|No
+|-
+|[[File:Doublemint.png|center]]
+|Doublemint Bracelet
+| -
+|Marketplace
+|No
+|-
+|[[File:Gunshow.png|center]]
+|Gun-Show Tank
+|Male
+|Marketplace
+|No
+|-
+|[[File:Bluegunshow.png|center]]
+|Blue Gun-Show Tank
+|Male
+|Marketplace
+|No
+|-
+|[[File:Kiwisplash.png|center]]
+|Kiwi Splash Button Short-Sleeve
+|Male
+|Marketplace
+|No
+|-
+|[[File:Crispbutton.png|center]]
+|Crisp Button Short-Sleeve
+|Male
+|Marketplace
+|No
+|-
+|[[File:Classicjeans.png|center]]
+|Classic Jeans
+| -
+|Marketplace
+|No
+|-
+|[[File:Blush.png|center]]
+|Blush Jeggings
+| -
+|Marketplace
+|No
+|-
+|[[File:Chartreuse.png|center]]
+|Chartreuse Jeggings
+| -
+|Marketplace
+|No
+|-
+|[[File:Azure.png|center]]
+|Azure Jeggings
+| -
+|Marketplace
+|No
+|-
+|[[File:Bleached.png|center]]
+|Bleached Jeggings
+| -
+|Marketplace
+|No
+|-
+|[[File:Slate.png|center]]
+|Slate Jeans
+| -
+|Marketplace
+|No
+|-
+|[[File:Redtoe.png|center]]
+|Redtoe Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Bluetoe.png|center]]
+|Bluetoe Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Blacktoe.png|center]]
+|Blacktoe Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Blackpearlsneakers.png|center]]
+|Black Pearl Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Burlap.png|center]]
+|Burlap Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Skywalker.png|center]]
+|Skywalker Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Sunkissed.png|center]]
+|Sunkissed Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Ivory.png|center]]
+|Ivory Sneakers
+| -
+|Marketplace
+|No
+|-
+|[[File:Plaguedoctor.png|center]]
+|Plague Doctor Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Tombound.png|center]]
+|Tomb-Bound Wraps
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Summerracer.png|center]]
+|Summer Racer's Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Summernights.png|center]]
+|Summer Nights Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Inquisitor.png|center]]
+|Inquisitor's Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Desertassassin.png|center]]
+|Desert Assassin Plate
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Demonkiss.png|center]]
+|Demon's Kiss Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Gatekeeper.png|center]]
+|Garden Gatekeeper
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Ceremonial.png|center]]
+|Ceremonial Commander's Attire
+| -
+|Pre-Order Package
+|Yes
+|-
+|[[File:Eternalwish.png|center]]
+|Eternal Wish Raiment
+| -
+|Marketplace
+|No
+|-
+|[[File:Icekissed.png|center]]
+|Icekissed Winter Festival Cocstume
+| -
+|Marketplace
+|No
+|-
+|[[File:Rosecostume.png|center]]
+|Rose Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Oathbound.png|center]]
+|Oathbound Plate
+| -
+|Pre-Order Package
+|No
+|-
+|[[File:Wintermessenger.png|center]]
+|Winter's Messenger Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Winterfur.png|center]]
+|Kyprosa's Wnter Furs
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Woollyfluffy.png|center]]
+|Woolly Fluffy Coat
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Alabaster.png|center]]
+|Alabaster Perinoor Silks
+| -
+|Marketplace
+|No
+|-
+|[[File:Crimsonperinoor.png|center]]
+|Crimson Perinoor Silks
+| -
+|Marketplace
+|No
+|-
+|[[File:Midnightperinoor.png|center]]
+|Midnight Perinoor Silks
+| -
+|Marketplace
+|No
+|-
+|[[File:Rousingrabbit.png|center]]
+|Rousing Rabbit Pyjamas
+| -
+|Marketplace
+|No
+|-
+|[[File:Onyxkitsu.png|center]]
+|Onyx Night Kitsu
+| -
+|Marketplace
+|No
+|-
+|[[File:Whitekitsu.png|center]]
+|White Night Kitsu
+| -
+|Marketplace
+|No
+|-
+|[[File:Bloodmaw.png|center]]
+|Bloodmaw Eveningwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Datenight.png|center]]
+|Date Night Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Darkdhaman.png|center]]
+|Dark Shaman's Raiment
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Ballattire.png|center]]
+|Homecoming Ball Attire
+| -
+|Login Badge
+|No
+|-
+|[[File:Nobility.png|center]]
+|Wartime Nobility Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Midnightcotton.png|center]]
+|Midnight Perinoor Cottons
+| -
+|Marketplace
+|No
+|-
+|[[File:Blossom.png|center]]
+|Blossom Perinoor Cottons
+| -
+|Marketplace
+|No
+|-
+|[[File:Snowbright.png|center]]
+|Snowbright Perinoor Cottons
+| -
+|Marketplace
+|No
+|-
+|[[File:Beachracer.png|center]]
+|Beach Racer's Swimwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Carelesswhisper.png|center]]
+|Careless Whisper Raiment
+| -
+|Marketplace
+|No
+|-
+|[[File:Finalwhisper.png|center]]
+|Final Whisper Raiment
+| -
+|Marketplace
+|No
+|-
+|[[File:Faeyata.png|center]]
+|Fae Yata Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Faeyata.png|center]]
+|Fae Yata Chroma
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Arrogantduelist.png|center]]
+|Arrogant Duelist Costume
+| -
+|Player Appreciation Coin
+|No
+|-
+|[[File:Winteryata.png|center]]
+|Winter Yata Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Trueblueyata.png|center]]
+|True Blue Yata Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Cheerberryyata.png|center]]
+|Cheerberry Yata Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Blackjacyata.png|center]]
+|Blackjack Yata Pirate Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Bloodyadorable.png|center]]
+|Bloody Adorable Yata Pirate Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Withccraft.png|center]]
+|Dark Tear Witchcraft Disciple Costume
+| -
+|Library Materials
+|No
+|-
+|[[File:Shadowwplay.png|center]]
+|Dark Tear Shadowplay Disciple Costume
+| -
+|Library Materials
+|No
+|-
+|[[File:Auramancy.png|center]]
+|Dark Tear Auramancy Disciple Costume
+| -
+|Library Materials
+|No
+|-
+|[[File:Victoryball.png|center]]
+|Victory Ball Attire
+| -
+|Marketplace
+|No
+|-
+|[[File:Lordlyice.png|center]]
+|Lordly Iceraven Robes
+| -
+|Craftable, Tailoring
+|No
+|-
+|[[File:Silverwolfplate.png|center]]
+|Wrapped Silverwolf Plate
+| -
+|Craftable, Metalwork
+|No
+|-
+|[[File:Imperialhuntsman.png|center]]
+|Wrapped Imperial Huntsman's Leathers
+| -
+|Craftable, Leatherwork
+|No
+|-
+|[[File:Iceracen.png|center]]
+|Nightraven Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Daruassassin.png|center]]
+|Shadow Daru Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Firebrand.png|center]]
+|Firebrand Courtier's Robes
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Lavenderlight.png|center]]
+|Lavender Light
+| -
+|Marketplace
+|No
+|-
+|[[File:Darkemissary.png|center]]
+|Dark Emissary Suit
+| -
+|Marketplace
+|No
+|-
+|[[File:Battlefae.png|center]]
+|Battle Fae
+| -
+|Merit Badge
+|No
+|-
+|[[File:Moonbear.png|center]]
+|Moon Bear Chroma
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Royalbloodraven.png|center]]
+|Royal Bloodraven Robes
+| -
+|Territory Workbench
+|Yes
+|-
+|[[File:Griffinuni.png|center]]
+|Griffin Guard Uniform
+| -
+|Territory Workbench
+|Yes
+|-
+|[[File:Shockplate.png|center]]
+|Shock Conqueror Plate
+| -
+|Territory Workbench
+|Yes
+|-
+|[[File:Sovereignrobes.png|center]]
+|Old Sovereign's Robes
+| -
+|Golden Token shop
+|No
+|-
+|[[File:Crimsonkingshoodie.png|center]]
+|Crimson Kings Hoodie
+| -
+|Marketplace
+|No
+|-
+|[[File:Bluedevilshoodie.png|center]]
+|Blue Devils Hoodie
+| -
+|Marketplace
+|No
+|-
+|[[File:Dragoncultist.png|center]]
+|Dragon Cultist Duster
+| -
+|Marketplace
+|No
+|-
+|[[File:Dreadguard.png|center]]
+|Dread Guard Armor
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Eclipseknight.png|center]]
+|Eclipse Knight Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Eveningblossom.png|center]]
+|Evening Blossom Garb
+| -
+|Marketplace
+|No
+|-
+|[[File:Rabbitqueen.png|center]]
+|Rabbit Queen Suit
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Flamewolveshoodie.png|center]]
+|Flamewolves Hoodie
+| -
+|Marketplace
+|No
+|-
+|[[File:Gearedgaslamp.png|center]]
+|Geared Gaslamp Garb
+| -
+|Marketplace
+|No
+|-
+|[[File:Greenmanistoosleepy.png|center]]
+|Greenman Is Too Sleepy
+| -
+|Marketplace
+|No
+|-
+|[[File:Haranyannavy.png|center]]
+|Haranyan Navy Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Nuiannavy.png|center]]
+|Nuian Navy Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Holidaysnowcow.png|center]]
+|Holiday Snow Cow Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Aurorananvy.png|center]]
+|Auroran Navy Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Bigbear.png|center]]
+|Big Black Bear Is Too Sleepy
+| -
+|Marketplace
+|No
+|-
+|[[File:Blacksands.png|center]]
+|Black Sand Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Immortalguardian.png|center]]
+|Immortal Guardian Robes
+| -
+|Marketplace
+|No
+|-
+|[[File:Legendaryassassin.png|center]]
+|Legendary Assassin Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Mischievouskid.png|center]]
+|Mischievous Kid Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Nutcracker.png|center]]
+|Nutcracker Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Oathbreaker.png|center]]
+|Oathbreaker Plate
+| -
+|Marketplace
+|No
+|-
+|[[File:Prieonerspride.png|center]]
+|Prisoner's Pride
+| -
+|Marketplace
+|No
+|-
+|[[File:Pumpkincharmer.png|center]]
+|Pumpkin Charmer Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Bunnyistoosleepy.png|center]]
+|Rabbit Is Too Sleepy
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Recklessravager.png|center]]
+|Reckless Ravager's Plate
+| -
+|Marketplace
+|No
+|-
+|[[File:Werefoxrobes.png|center]]
+|Werefox Robes
+| -
+|Marketplace
+|No
+|-
+|[[File:Owlpost.png|center]]
+|Owl Post Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Poinsettiawinter.png|center]]
+|Poinsettia Winter Festival Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Sunzenith.png|center]]
+|Sun Zenith Swimsuit
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Tropicaloboard.png|center]]
+|Tropical Boardwalk Swimwear
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Streetwear.png|center]]
+|Streetwear Outfit
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Molang.png|center]]
+|Rascal Molang Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Seakrait.png|center]]
+|Sea Krait Swimsuit
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Splendid.png|center]]
+|Splendid Haze
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Andelps.png|center]]
+|Andelph Mechanic Workwear
+| -
+|Marketplace
+|No
+|-
+|[[File:Tahyangsbattleplate.png|center]]
+|Tahyang's Battle Plate
+| -
+|Marketplace
+|No
+|-
+|[[File:Restless dancerr.png|center]]
+|Restless Dancer Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Reedwind champion.png|center]]
+|Reedwind Champion
+| -
+|Marketplace
+|No
+|-
+|[[File:Goldenphoenixregalia.png|center]]
+|Golden Phoenix Regalia
+| -
+|Marketplace
+|No
+|-
+|[[File:Pumpkinhat.png|center]]
+|Yata Pumpkin Hat
+| -
+|Marketplace
+|No
+|-
+|[[File:Toilntrouble.png|center]]
+|Toil and Trouble Hat
+| -
+|Marketplace
+|
+|-
+|[[File:Boilnbubble.png|center]]
+|Boil and Bubble Hat
+| -
+|Marketplace
+|No
+|-
+|[[File:Poisonedentrails.png|center]]
+|Poisoned Entrails Hat
+| -
+|Marketplace
+|No
+|-
+|[[File:Sylvas nocturnehead.png|center]]
+|Sylvas Nocturne Headgear
+| -
+|Marketplace
+|No
+|-
+|[[File:Sylvasnocturnetop.png|center]]
+|Sylvas Nocturne Top
+| -
+|Marketplace
+|No
+|-
+|[[File:Sylvasnocturnebottom.png|center]]
+|Sylvas Nocturne Bottoms
+| -
+|Marketplace
+|No
+|-
+|[[File:Sylvasnocturneshoes.png|center]]
+|Sylvas Nocturne Shoes
+| -
+|Marketplace
+|No
+|-
+|[[File:Winterballattire.png|center]]
+|Winter Ball Attire
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Icekissedwarriorcarb.png|center]]
+|Icekissed Warrior Carb
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Mysteriousriddler.png|center]]
+|Mysterious Riddler Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Nebeshelper.png|center]]
+|Nebes Helper Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Nebesicekissed.png|center]]
+|Nebes Icekissed Helper Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Nodlewinter.png|center]]
+|Noble Winter Coat
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Fireblack dragonslayer.png|center]]
+|Fireblack Dargonslayer
+| -
+|Golden Token
+|No
+|-
+|[[File:Firebreath dragonslayer.png|center]]
+|Firebreath Dragonslayer
+| -
+|Golden Token
+|No
+|-
+|[[File:Firewrought dragonslayer.png|center]]
+|Firewrought Dragonslayer
+| -
+|Golden Token 
+|No
+|-
+|[[File:Eleganthanbok.png|center]]
+|Elegant Hanbok
+| -
+|Marketplace
+|No
+|-
+|[[File:Dawnsliver.png|center]]
+|Dawnsliver Investigator Wardrobe
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Jiangshi.png|center]]
+|Jiang Shi Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Bluedragon.png|center]]
+|Blue Dragon Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Ipnysh.png|center]]
+|Ipnysh Warden Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Rowdyshoreleave.png|center]]
+|Rowdy Shore Leave Outfit
+| -
+|Marketplace
+|No
+|-
+|[[File:Shiningshoreleave.png|center]]
+|Shining Shore Leave Outfit
+| -
+|Marketplace
+|No
+|-
+|[[File:Spotlessshoreleave.png|center]]
+|Spotless Shore Leave Outfit
+| -
+|Marketplace
+|No
+|-
+|[[File:Noblesbeachgarment.png|center]]
+|Nobles Beach Garments
+| -
+|Marketplace
+|No
+|-
+|[[File:Faegreenman.png|center]]
+|Fae Greenman Chroma
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Springsonggreensman.png|center]]
+|Springsong Greenman Suit
+| -
+|Marketplace
+|No
+|-
+|[[File:Autumngreenman.png|center]]
+|Autumn Greenman Suit
+| -
+|Marketplace
+|No
+|-
+|[[File:Bloomingspringcow.png|center]]
+|Blooming Spring Cow Chroma
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Giantslayer.png|center]]
+|Giant Slayer Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Lutesongceremonial.png|center]]
+|Lutesong Ceremonial Robes
+| -
+|Marketplace
+|No
+|-
+|[[File:Sunsetspringtime.png|center]]
+|Sunset Springtime
+| -
+|Marketplace
+|No
+|-
+|[[File:Embalmed.png|center]]
+|Embalmed Greenman Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Frankenyata.png|center]]
+|Franken-Yata Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Dragonhunter.png|center]]
+|Dragon Hunter
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Wintermaidenssarafan.png|center]]
+|Winter Maidens Sarafan
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Smileymrmittens.png|center]]
+|Smiley Mr. Mittens Outfit
+| -
+|Marketplace
+|No
+|-
+|[[File:Blacknight.png|center]]
+|Black Night Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Ivorywavewyrm.png|center]]
+|Ivory Wavewyrm Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Coralwavewyrm.png|center]]
+|Coral Wavewyrm Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Abyssalwavewyrm.png|center]]
+|Abyssal Wavewyrm Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Armoredwavewyrm.png|center]]
+|Armored Wavewyrm Costume
+| -
+|Marketplace
+|No
+|-
+|[[File:Passionatecostume.png|center]]
+|Passionate Costume
+| -
+|Marketplace
+|Yes
+|-
+|[[File:Naraynawarriorcarb.png|center]]
+|Narayna Warrior Garb
+| -
+|Marketplace
+|No
+|-
+|[[File:Righteousnui.png|center]]
+|Righteous Nui Chosen Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Courageousnui.png|center]]
+|Courageous Nui Chosen Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Vigilantnui.png|center]]
+|Vigilant Nui Chosen Uniform
+| -
+|Marketplace
+|No
+|-
+|[[File:Twistedguardian.png|center]]
+|Twisted Lava Guardian
+| -
+|Marketplace
+|No
+|-
+|[[File:Twilightguardian.png|center]]
+|Twilight Guardian
+| -
+|Marketplace
+|No
+|-
+|[[File:Delphianhat.png|center]]
+|Delphian Hat
+|Male / Female
+|Marketplace
+|No
+|-
+|[[File:Delphianslippers.png|center]]
+|Delphian Slippers
+|Male / Female
+|Marketplace
+|No
+|-
+|[[File:Delphianfrock.png|center]]
+|Delphian Frock
+|Male / Female
+|Marketplace
+|No
+|-
+|[[File:Delphiangloves.png|center]]
+|Delphian Gloves
+|Male / Female
+|Marketplace
+|No
+|-
+|[[File:Springblossomgarb.png|center]]
+|Spring Blossom Garb
+| -
+|Marketplace
+|No
+|-
+|[[File:Redhood.png|center]]
+|Red Hood and Tail-Cut Wolf
+| -
+|Marketplace
+|Yes
+|}13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$16"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Cosmetic_Costumes_&_Imaging","className":"underline hover:text-text","children":["AAClassic wiki page “","Cosmetic Costumes & Imaging","”"]}]," ","(CC0), last edited ","Feb 5, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+15:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Costumes_slot",{"className":"pl-3","children":["$","a",null,{"href":"#Costumes_slot","className":"text-muted hover:text-accent","children":"Costumes slot"}]}],["$","li","Image_Item",{"className":"pl-3","children":["$","a",null,{"href":"#Image_Item","className":"text-muted hover:text-accent","children":"Image Item"}]}],["$","li","Wardrobe_costumes_available_in_the_game",{"className":"","children":["$","a",null,{"href":"#Wardrobe_costumes_available_in_the_game","className":"text-muted hover:text-accent","children":"Wardrobe costumes available in the game"}]}]]}]]}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-15:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Cosmetic Costumes & Imaging · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Costume are a great way to customize the look of your character. In Archeage Classic there are wardrobe costumes that change the whole look of the character and appearance items that change only certain part of the…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","3",{}]],"error":null,"digest":"$undefined"}
+17:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Cosmetic Costumes & Imaging · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Costume are a great way to customize the look of your character. In Archeage Classic there are wardrobe costumes that change the whole look of the character and appearance items that change only certain part of the…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"

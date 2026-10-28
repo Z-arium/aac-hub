@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,10 +10,10 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","autumn-lore-festival",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","autumn-lore-festival","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","autumn-lore-festival","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:T18a7,<h2 id="Location">Location</h2>
-<p><span><img src="https://wiki.aa-classic.com/images/thumb/2/28/Emily.png/180px-Emily.png" width="180" height="377" srcset="https://wiki.aa-classic.com/images/thumb/2/28/Emily.png/271px-Emily.png 1.5x, https://wiki.aa-classic.com/images/2/28/Emily.png 2x" loading="lazy"></span>
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","autumn-lore-festival",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","autumn-lore-festival","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","autumn-lore-festival","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T151d,<h2 id="Location">Location</h2>
+<p><span><img src="/aac-hub/wiki-files/f6/f6f03c31b2d132cbb2f67188c9ca065da1bc77c6.png" width="180" height="377" loading="lazy"></span>
 </p><p>Festival Manager Emily will start off the Autumn Festival quest chain. The Festival is held at <b>Lilyut Hills in Bitterwind Plains</b>. 
 </p>
 <h2 id="Quests">Quests</h2>
@@ -23,75 +23,189 @@ f:"$Sreact.suspense"
 </p>
 <h3 id="[Autumn_Lore]"><span></span>[Autumn Lore]</h3>
 <p>Seasoned Art Dealer will give second quest to collect a story by using the Old Scroll.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/d/dc/Artdealer.png/181px-Artdealer.png" width="181" height="340" srcset="https://wiki.aa-classic.com/images/d/dc/Artdealer.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/9c/9c8a382449e7407739222e8a24210c931095e89d.png" width="181" height="340" loading="lazy"></span>
 </p><p><br>
 </p><p>This can be done by going next to the hut and clicking the scroll icon next to quest.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/f/f1/Collectstory.png/437px-Collectstory.png" width="437" height="392" srcset="https://wiki.aa-classic.com/images/f/f1/Collectstory.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/eb/ebd269cf7a25ea38e8169fb83f9c87f15ccba187.png" width="437" height="392" loading="lazy"></span>
 </p><p><br>
 </p>
 <h3 id="[A_Time_of_Tales]"><span></span>[A Time of Tales]</h3>
 <p>Astrologist Rave asks to bring her 30 Harvest Festival Coins. The reward is title "<b>Storyteller</b>". 
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/5/5d/Astrologistraeva.png/180px-Astrologistraeva.png" width="180" height="382" srcset="https://wiki.aa-classic.com/images/5/5d/Astrologistraeva.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/2e/2e03656c524c3708075a3424b05a08c342faf864.png" width="180" height="382" loading="lazy"></span>
 </p>
 <h4 id="Storyteller_title">Storyteller title</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/f/f5/Storyteller.png" width="208" height="126" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/f4/f4cf072fbda67a9bd623de2f4f40c10e87fdac02.png" width="208" height="126" loading="lazy"></span>
 </p><p><br>
 </p>
 <h3 id="[A_Gift_from_the_Evenbards]"><span></span>[A Gift from the Evenbards]</h3>
 <p>Nesila asks for Pagemasters Storage Chest to be crafted.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/e/e5/Evenbardnesila.png/179px-Evenbardnesila.png" width="179" height="445" srcset="https://wiki.aa-classic.com/images/e/e5/Evenbardnesila.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/75/7536a6684d7d877983d130f9cc2d24297664cac5.png" width="179" height="445" loading="lazy"></span>
 </p><p><br>
 </p>
 <h4 id="Pagemasters_Storage_Chest">Pagemasters Storage Chest</h4>
 <p>Chest can be crafted on the event site on Festival Gift Exchanger or in Mirage Island. Crafting the chest costs 100 <a href="/aac-hub/wiki/currencies">Daru Festival coins</a>.
-</p><p><span><img src="https://wiki.aa-classic.com/images/f/f4/Pagemasterschest.png" width="296" height="266" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/a6/a6f5065f5d6ccc16cd7db27cc231cc51734eaed8.png" width="296" height="266" loading="lazy"></span>
 </p><p><br>
 </p><p><br>
 </p>
 <h3 id="[Troubled_Story_Seller]"><span></span>[Troubled Story Seller]</h3>
 <p>Suspicious Storyteller asks to bring him 5 Glowing Ore Pieces. 
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/0/0f/Suspstoryteller.png/180px-Suspstoryteller.png" width="180" height="373" srcset="https://wiki.aa-classic.com/images/0/0f/Suspstoryteller.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/f3/f34b3aec7b685a37491ac02042373f706ce58dd3.png" width="180" height="373" loading="lazy"></span>
 </p><p><br>
 </p><p>The Glowing Ores can be found behind the hut and mined normally. Each mining uses 10 labor.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/1/1d/Glowingores.png/501px-Glowingores.png" width="501" height="315" srcset="https://wiki.aa-classic.com/images/1/1d/Glowingores.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/59/596679d1ca2c9a19d52026560d17cca1c5571499.png" width="501" height="315" loading="lazy"></span>
 </p><p><br>
 </p><p>After mining Suspicious Storyteller will give a quest to combine the Ores into Story Jar. Click the icon next to quest.
-</p><p><span><img src="https://wiki.aa-classic.com/images/5/51/Mysticalstoryjar.png" width="206" height="231" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/37/376e205465f960c89ed20df1eae7b79c6650b486.png" width="206" height="231" loading="lazy"></span>
 </p><p><br>
 </p>
 <h3 id="[A_Calming_Accompaniment]"><span></span>[A Calming Accompaniment]</h3>
 <p>Guest Author Orne asks to play a Lullaby by using the Calming Pipe 3 times.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/a/ab/Guestauthor.png/181px-Guestauthor.png" width="181" height="410" srcset="https://wiki.aa-classic.com/images/a/ab/Guestauthor.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/a2/a27b8c7c8432df04e33855daa6dfab22dea5ea5d.png" width="181" height="410" loading="lazy"></span>
 </p><p><br>
 </p><p>This can be done by finding Sleepless and Noisy children who wonder around the hill. Play the flute for them by targeting them and by going close to them. Flute icon next to the quest.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/e/e2/Sleeplesschild.png/482px-Sleeplesschild.png" width="482" height="371" srcset="https://wiki.aa-classic.com/images/e/e2/Sleeplesschild.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/f8/f8b1d116052a638d29e0bcb673f1b96939a081aa.png" width="482" height="371" loading="lazy"></span>
 </p><p><br>
 </p>
 <h3 id="[A_Poultry_Novel]"><span></span>[A Poultry Novel]</h3>
 <p>Nene the Hen asks to soother Blushing Chicken and collect A Base Instinct. 
-</p><p><span><img src="https://wiki.aa-classic.com/images/f/fd/Nenethehen.png" width="250" height="284" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/4d/4d8dee9123bf084d943877d48282d391d1e99a1e.png" width="250" height="284" loading="lazy"></span>
 </p><p><br>
 </p><p>The little chick can be found little bit downhill in the middle of the bushes. 
-</p><p><span><img src="https://wiki.aa-classic.com/images/4/4c/Chicky.png" width="141" height="206" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/75/75b91660248dc93651c0a02d1d9177792f77e1cd.png" width="141" height="206" loading="lazy"></span>
 </p><p><br>
 </p>
 <h3 id="[Authorial_Courtesy]"><span></span>[Authorial Courtesy]</h3>
 <p>Guest Author Rollo appears between 8 pm and 8am near the other quest NPCs. She asks to splash water on Doxing Guests around the fireplace. 
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/1/14/Guestauthorrollo0.png/209px-Guestauthorrollo0.png" width="209" height="345" srcset="https://wiki.aa-classic.com/images/1/14/Guestauthorrollo0.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/0e/0e2e411e00f33d0da120cc081766ef4219877955.png" width="209" height="345" loading="lazy"></span>
 </p><p>Target the npc and splash water by clicking the bucket icon next to quest information.
-</p><p><span><img src="https://wiki.aa-classic.com/images/c/c1/Dozingguests.png" width="295" height="274" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/6f/6f7f22eda2c8f7977d4b8bd98039885bd01340da.png" width="295" height="274" loading="lazy"></span>
 </p><p><br>
 </p>
 <h2 id="Festival_Buff">Festival Buff</h2>
 <h3 id="Sharing_Night_Bonfire">Sharing Night Bonfire</h3>
 <p>The grilled meats around the festival area give a buff that boosts production time and Move Speed.
-</p><p><span><img src="https://wiki.aa-classic.com/images/b/b3/Sharingn_ightbonfire.png" width="253" height="239" loading="lazy"></span>
-</p><p><span><img src="https://wiki.aa-classic.com/images/7/73/Delectablegrilledmeat.png" width="210" height="123" loading="lazy"></span>
-</p>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/events-and-festivals","className":"text-accent-2 hover:underline","children":"Events & Festivals"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Autumn Lore Festival"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],"$L14"]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Autumn_Lore_Festival","className":"underline hover:text-text","children":["AAClassic wiki page “","Autumn Lore Festival","”"]}]," ","(CC0), last edited ","Oct 10, 2025",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
-14:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Location",{"className":"","children":["$","a",null,{"href":"#Location","className":"text-muted hover:text-accent","children":"Location"}]}],["$","li","Quests",{"className":"","children":["$","a",null,{"href":"#Quests","className":"text-muted hover:text-accent","children":"Quests"}]}],["$","li","[Beginning_of_the_Festival]",{"className":"pl-3","children":["$","a",null,{"href":"#[Beginning_of_the_Festival]","className":"text-muted hover:text-accent","children":"[Beginning of the Festival]"}]}],["$","li","[Autumn_Lore]",{"className":"pl-3","children":["$","a",null,{"href":"#[Autumn_Lore]","className":"text-muted hover:text-accent","children":"[Autumn Lore]"}]}],["$","li","[A_Time_of_Tales]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Time_of_Tales]","className":"text-muted hover:text-accent","children":"[A Time of Tales]"}]}],["$","li","[A_Gift_from_the_Evenbards]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Gift_from_the_Evenbards]","className":"text-muted hover:text-accent","children":"[A Gift from the Evenbards]"}]}],["$","li","[Troubled_Story_Seller]",{"className":"pl-3","children":["$","a",null,{"href":"#[Troubled_Story_Seller]","className":"text-muted hover:text-accent","children":"[Troubled Story Seller]"}]}],["$","li","[A_Calming_Accompaniment]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Calming_Accompaniment]","className":"text-muted hover:text-accent","children":"[A Calming Accompaniment]"}]}],["$","li","[A_Poultry_Novel]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Poultry_Novel]","className":"text-muted hover:text-accent","children":"[A Poultry Novel]"}]}],["$","li","[Authorial_Courtesy]",{"className":"pl-3","children":["$","a",null,{"href":"#[Authorial_Courtesy]","className":"text-muted hover:text-accent","children":"[Authorial Courtesy]"}]}],["$","li","Festival_Buff",{"className":"","children":["$","a",null,{"href":"#Festival_Buff","className":"text-muted hover:text-accent","children":"Festival Buff"}]}],["$","li","Sharing_Night_Bonfire",{"className":"pl-3","children":["$","a",null,{"href":"#Sharing_Night_Bonfire","className":"text-muted hover:text-accent","children":"Sharing Night Bonfire"}]}]]}]]}]}]
+</p><p><span><img src="/aac-hub/wiki-files/28/2891da389278fa3b5c8652e5f837ee726a12f58a.png" width="253" height="239" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/e8/e8a96d3f6d07daeb8adc9baa97eb49d3b7c1f7a7.png" width="210" height="123" loading="lazy"></span>
+</p>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/events-and-festivals","className":"text-accent-2 hover:underline","children":"Events & Festivals"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Autumn Lore Festival"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],"$L15"]}]
+16:Tab2,== Location ==
+
+
+[[File:Emily.png|377x377px]]
+
+Festival Manager Emily will start off the Autumn Festival quest chain. The Festival is held at '''Lilyut Hills in Bitterwind Plains'''. 
+
+== Quests ==
+
+=== [Beginning of the Festival] ===
+Emily tells u to go to talk to Seasoned Art Dealer close by.
+
+
+
+=== [Autumn Lore] ===
+Seasoned Art Dealer will give second quest to collect a story by using the Old Scroll.
+
+[[File:Artdealer.png|340x340px]]
+
+
+
+This can be done by going next to the hut and clicking the scroll icon next to quest.
+
+[[File:Collectstory.png|437x437px]]
+
+
+
+=== [A Time of Tales] ===
+Astrologist Rave asks to bring her 30 Harvest Festival Coins. The reward is title "'''Storyteller'''". 
+
+[[File:Astrologistraeva.png|382x382px]]
+
+==== Storyteller title ====
+[[File:Storyteller.png]]
+
+
+=== [A Gift from the Evenbards] ===
+Nesila asks for Pagemasters Storage Chest to be crafted.
+
+[[File:Evenbardnesila.png|445x445px]]
+
+
+==== Pagemasters Storage Chest ====
+Chest can be crafted on the event site on Festival Gift Exchanger or in Mirage Island. Crafting the chest costs 100 [[Currencies|Daru Festival coins]].
+
+[[File:Pagemasterschest.png]]
+
+
+
+
+=== [Troubled Story Seller] ===
+Suspicious Storyteller asks to bring him 5 Glowing Ore Pieces. 
+
+[[File:Suspstoryteller.png|373x373px]]
+
+
+
+The Glowing Ores can be found behind the hut and mined normally. Each mining uses 10 labor.
+
+[[File:Glowingores.png|501x501px]]
+
+
+
+After mining Suspicious Storyteller will give a quest to combine the Ores into Story Jar. Click the icon next to quest.
+
+[[File:Mysticalstoryjar.png]]
+
+
+
+=== [A Calming Accompaniment] ===
+Guest Author Orne asks to play a Lullaby by using the Calming Pipe 3 times.
+
+[[File:Guestauthor.png|410x410px]]
+
+
+
+This can be done by finding Sleepless and Noisy children who wonder around the hill. Play the flute for them by targeting them and by going close to them. Flute icon next to the quest.
+
+[[File:Sleeplesschild.png|482x482px]]
+
+
+
+=== [A Poultry Novel] ===
+Nene the Hen asks to soother Blushing Chicken and collect A Base Instinct. 
+
+[[File:Nenethehen.png]]
+
+
+
+The little chick can be found little bit downhill in the middle of the bushes. 
+
+[[File:Chicky.png]]
+
+
+=== [Authorial Courtesy] ===
+
+
+Guest Author Rollo appears between 8 pm and 8am near the other quest NPCs. She asks to splash water on Doxing Guests around the fireplace. 
+
+[[File:Guestauthorrollo0.png|345x345px]]
+
+Target the npc and splash water by clicking the bucket icon next to quest information.
+
+[[File:Dozingguests.png]]
+
+
+== Festival Buff ==
+
+=== Sharing Night Bonfire ===
+The grilled meats around the festival area give a buff that boosts production time and Move Speed.
+
+[[File:Sharingn ightbonfire.png]]
+
+[[File:Delectablegrilledmeat.png]]13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$16"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Autumn_Lore_Festival","className":"underline hover:text-text","children":["AAClassic wiki page “","Autumn Lore Festival","”"]}]," ","(CC0), last edited ","Oct 10, 2025",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+15:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Location",{"className":"","children":["$","a",null,{"href":"#Location","className":"text-muted hover:text-accent","children":"Location"}]}],["$","li","Quests",{"className":"","children":["$","a",null,{"href":"#Quests","className":"text-muted hover:text-accent","children":"Quests"}]}],["$","li","[Beginning_of_the_Festival]",{"className":"pl-3","children":["$","a",null,{"href":"#[Beginning_of_the_Festival]","className":"text-muted hover:text-accent","children":"[Beginning of the Festival]"}]}],["$","li","[Autumn_Lore]",{"className":"pl-3","children":["$","a",null,{"href":"#[Autumn_Lore]","className":"text-muted hover:text-accent","children":"[Autumn Lore]"}]}],["$","li","[A_Time_of_Tales]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Time_of_Tales]","className":"text-muted hover:text-accent","children":"[A Time of Tales]"}]}],["$","li","[A_Gift_from_the_Evenbards]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Gift_from_the_Evenbards]","className":"text-muted hover:text-accent","children":"[A Gift from the Evenbards]"}]}],["$","li","[Troubled_Story_Seller]",{"className":"pl-3","children":["$","a",null,{"href":"#[Troubled_Story_Seller]","className":"text-muted hover:text-accent","children":"[Troubled Story Seller]"}]}],["$","li","[A_Calming_Accompaniment]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Calming_Accompaniment]","className":"text-muted hover:text-accent","children":"[A Calming Accompaniment]"}]}],["$","li","[A_Poultry_Novel]",{"className":"pl-3","children":["$","a",null,{"href":"#[A_Poultry_Novel]","className":"text-muted hover:text-accent","children":"[A Poultry Novel]"}]}],["$","li","[Authorial_Courtesy]",{"className":"pl-3","children":["$","a",null,{"href":"#[Authorial_Courtesy]","className":"text-muted hover:text-accent","children":"[Authorial Courtesy]"}]}],["$","li","Festival_Buff",{"className":"","children":["$","a",null,{"href":"#Festival_Buff","className":"text-muted hover:text-accent","children":"Festival Buff"}]}],["$","li","Sharing_Night_Bonfire",{"className":"pl-3","children":["$","a",null,{"href":"#Sharing_Night_Bonfire","className":"text-muted hover:text-accent","children":"Sharing Night Bonfire"}]}]]}]]}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-15:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Autumn Lore Festival · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Location Festival Manager Emily will start off the Autumn Festival quest chain. The Festival is held at Lilyut Hills in Bitterwind Plains. Quests [Beginning of the Festival] Emily tells u to go to talk to Seasoned Art…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","3",{}]],"error":null,"digest":"$undefined"}
+17:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Autumn Lore Festival · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Location Festival Manager Emily will start off the Autumn Festival quest chain. The Festival is held at Lilyut Hills in Bitterwind Plains. Quests [Beginning of the Festival] Emily tells u to go to talk to Seasoned Art…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"

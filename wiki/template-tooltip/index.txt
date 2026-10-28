@@ -1,0 +1,97 @@
+1:"$Sreact.fragment"
+2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
+4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+8:I[4431,[],"OutletBoundary"]
+a:I[5278,[],"AsyncMetadataOutlet"]
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+11:I[7150,[],""]
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","template-tooltip",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","template-tooltip","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","template-tooltip","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:Ta10,<p>Shows the in-game style tooltip card of any item. The template finds out what kind of item it is from the item ID and uses the right card: <a href="/aac-hub/wiki/template-mount">Template:Mount</a> for mounts, <a href="/aac-hub/wiki/template-glider">Template:Glider</a> for gliders and Magithopters, and <a href="/aac-hub/wiki/template-consumable">Template:Consumable</a> for everything else (potions, food, talismans, tokens, crates ...).
+</p><p><b>Usage</b>
+</p>
+<pre>{{Tooltip|9002466}}</pre>
+<ul><li>The only required parameter is the item ID.</li>
+<li>The kind of item is read from the data stored by <code>sync_wiki_data.py</code> (<code>Module:Data/Cards/...</code>). An ID that is not stored yet is looked up live (one request to the API) until the script has been run.</li>
+<li>float (optional): <code>right</code>, <code>left</code> or <code>center</code>, passed on to the card.</li>
+<li>speed (optional): only used by mounts, replaces the speed from the API.</li>
+<li>use (optional): replaces the "Use:" text of the card (gliders and consumables).</li>
+<li>A new card type is added in <code>Module:Tooltip</code>: one line in the table REGISTRY (category of the item → template).</li>
+<li>Needs <code>Module:Tooltip</code>, <code>Module:DataStore</code> and the card templates.</li></ul>
+<p><b>Examples</b>
+</p>
+<pre>{{Tooltip|9002466}}
+{{Tooltip|8001101|float=right}}
+{{Tooltip|36793}}</pre>
+<section><header><p>No description.</p></header><table class="wikitable sortable"><caption><p>Template parameters<mw:edittemplatedata page="Template:Tooltip"></mw:edittemplatedata></p></caption><thead><tr><th colspan="2">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Item ID</th><td><code>1</code></td><td><p>The item ID, for example 9002466</p><dl></dl></td><td>Number</td><td>required</td></tr><tr><th>Position</th><td><code>float</code></td><td><p>Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.</p><dl><dt>Suggested values</dt><dd><code>right</code> <code>left</code> <code>center</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Speed (mounts)</th><td><code>speed</code></td><td><p>Optional. Only for mounts: replaces the speed from the API.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Use text</th><td><code>use</code></td><td><p>Optional. Replaces the "Use:" text of the card (gliders and consumables).</p><dl></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>13:T990,<includeonly>{{#if:{{#invoke:Tooltip|stored|{{{1|}}}}}||{{#clear_external_data:}}{{#get_web_data:
+url=https://api.sermeatball.com/wiki/items/{{{1|}}}
+|format=json with jsonpath
+|data=tcat=$.category_name
+|suppress error
+}}}}{{ {{#invoke:Tooltip|template|id={{{1|}}}|live={{#external_value:tcat}}}} |{{{1|}}}|float={{{float|}}}|speed={{{speed|}}}|use={{{use|}}}}}</includeonly><noinclude>
+Shows the in-game style tooltip card of any item. The template finds out what kind of item it is from the item ID and uses the right card: [[Template:Mount]] for mounts, [[Template:Glider]] for gliders and Magithopters, and [[Template:Consumable]] for everything else (potions, food, talismans, tokens, crates ...).
+
+'''Usage'''
+<pre>{{Tooltip|9002466}}</pre>
+
+* The only required parameter is the item ID.
+* The kind of item is read from the data stored by <code>sync_wiki_data.py</code> (<code>Module:Data/Cards/...</code>). An ID that is not stored yet is looked up live (one request to the API) until the script has been run.
+* float (optional): <code>right</code>, <code>left</code> or <code>center</code>, passed on to the card.
+* speed (optional): only used by mounts, replaces the speed from the API.
+* use (optional): replaces the "Use:" text of the card (gliders and consumables).
+* A new card type is added in <code>Module:Tooltip</code>: one line in the table REGISTRY (category of the item → template).
+* Needs <code>Module:Tooltip</code>, <code>Module:DataStore</code> and the card templates.
+
+'''Examples'''
+<pre>{{Tooltip|9002466}}
+{{Tooltip|8001101|float=right}}
+{{Tooltip|36793}}</pre>
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Item ID",
+			"description": "The item ID, for example 9002466",
+			"type": "number",
+			"required": true
+		},
+		"float": {
+			"label": "Position",
+			"description": "Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.",
+			"type": "string",
+			"suggestedvalues": [
+				"right",
+				"left",
+				"center"
+			]
+		},
+		"speed": {
+			"label": "Speed (mounts)",
+			"description": "Optional. Only for mounts: replaces the speed from the API.",
+			"type": "string"
+		},
+		"use": {
+			"label": "Use text",
+			"description": "Optional. Replaces the \"Use:\" text of the card (gliders and consumables).",
+			"type": "string"
+		}
+	},
+	"paramOrder": [
+		"1",
+		"float",
+		"speed",
+		"use"
+	]
+}
+</templatedata></noinclude>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/templates","className":"text-accent-2 hover:underline","children":"Templates"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Template:Tooltip"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$13"}]]}],"$L14"]}],false]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Template:Tooltip","className":"underline hover:text-text","children":["AAClassic wiki page “","Template:Tooltip","”"]}]," ","(CC0), last edited ","Oct 26, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+15:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Template:Tooltip · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Shows the in-game style tooltip card of any item. The template finds out what kind of item it is from the item ID and uses the right card: Template:Mount for mounts, Template:Glider for gliders and Magithopters, and…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","3",{}]],"error":null,"digest":"$undefined"}
+10:"$b:metadata"

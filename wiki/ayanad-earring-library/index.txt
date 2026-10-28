@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,8 +10,8 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","ayanad-earring-library",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","ayanad-earring-library","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ayanad-earring-library","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","ayanad-earring-library",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","ayanad-earring-library","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ayanad-earring-library","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
 12:T3092,<p>!Page still under construction! <a rel="noopener" href="https://www.ign.com/wikis/archeage/Ayanad_Earring#17._Into_the_Light">IGN Guide</a>
 </p><p>The <a>Ayanad Earring</a> is a multi-stage self upgrading reward from a lengthy questline.
 </p><p><b>Quest 1: Orb Of Secrets</b>
@@ -210,10 +210,303 @@ f:"$Sreact.suspense"
 <li><b>Heart of Ayanad Manacore</b> &#160;</li></ul>
 <p>Combine all of the above with the Ayanad Heartstone given by Slevin to create a Glowing Ayanad Heartstone.
 </p><p>Talk to Slevin again for your Celestial Great Ayanad Earring.
-</p>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Ayanad Earring (Library)"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],false]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Ayanad_Earring_(Library)","className":"underline hover:text-text","children":["AAClassic wiki page “","Ayanad Earring (Library)","”"]}]," ","(CC0), last edited ","Mar 20, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+</p>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/gear-and-regrading","className":"text-accent-2 hover:underline","children":"Gear & Regrading"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Ayanad Earring (Library)"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],false]}]
+15:T2607,!Page still under construction! [https://www.ign.com/wikis/archeage/Ayanad_Earring#17._Into_the_Light IGN Guide]
+
+The [[Ayanad Earring (Library)|Ayanad Earring]] is a multi-stage self upgrading reward from a lengthy questline.
+
+'''Quest 1: Orb Of Secrets'''
+
+To begin kill [[Recordkeeper Wynn]] he will drop an item for everyone in your party called [[Unknown Orb]]. Click on the orb to begin a quest, [[Orb of Secrets]].
+
+Simply talk to [[Lemian]] on the Floor 1 Lobby of the Library,  [[Introspect Path]]. He will lead you to the next quest requirements. 
+
+'''<u>Quest 2: Special Collection</u>''' 
+
+Lemian will send you to Floor 1 of the Library to look for 3 items. They are located in the rooms below.
+
+Part 1 – A6
+
+Part 2 – H6
+
+Part 3 – F4
+
+You will need to go to these rooms and click on the book on the floor that will teleport you up. Look around for the item. It should be glowing or have a line indicator above it. 
+
+<u>After collecting all 3 parts, talk to Lemian again.</u>
+
+
+
+'''<u>Quest 3: Aranzeb’s Student</u>'''
+
+Lemian will then send you to meet Belstrom. <u>He is located north of the Library, on the overlooking hill above the West Purification Node.</u>
+
+
+
+'''<u>Quest 4: Orb’s Identity</u>'''
+
+Belstrom will ask you to bring him 30 [[Ayanad Wizard Token|Ayanad Wizard’s Tokens]]. Hopefully, you have enough of these on you already from doing [[library dailies]].
+
+Simply talk to Belstrom again to get your Rare [[Lost Ayanad Earring]].
+
+
+
+'''<u>Quest 5: Bound</u>'''
+
+After talking to Belstrom, go back to Library Floor 1, room A6. Teleport up via the book on the ground and go to the secret door in front of the glowing book.
+
+'''''Remember to equip your Lost Ayanad Earring from this point on, while doing the following quests.'''''
+
+
+
+'''<u>Quest 6: Stena's Spellbook</u>'''
+
+After talking to Belstrom, go back to Library Floor 1, room H6. Teleport up via the book on the ground and go to the secret door. In this room, there is a giant bookcase called Stena’s Bookshelf. You will need a party to defeat this boss.
+
+Talk to Belstrom after you obtain the item.
+
+
+
+'''<u>Quest 7: Gildaron's Heart</u>'''
+
+Go back to Library Floor 1, room F4. Teleport up via the book on the ground and go to the secret door. In this room, there is a big dog called Gildaron the Disobedient. You will need a party to defeat this boss.
+
+Talk to Belstrom after you obtain the item.
+
+
+
+'''<u>Quest 8: Freeing Slevin</u>'''
+
+Go to Slevin in Floor 1, A6. He will ask you to collect '''3''' [[Ayanad Senior Council Manaprint|Ayanad Senior Council Manaprints]] from any of the library dungeon bosses; ''Recordkeeper Wynn,''
+
+''Halnaak or Alexander.''
+
+After that, talk to Belstrom again for the Arcane [[Solemn Ayanad Earring]].
+
+
+
+'''<u>Quest 9: A Speedy Recovery</u>'''
+
+Go to Slevin in Floor 1, A6. He will ask you to collect 3 Ayanad Senior Council Manaprints from any of the library dungeon bosses; Recordkeeper Wynn, Halnaak or Alexander.
+
+After obtaining the Ayanad Senior Council Manaprints , return to Slevin.
+
+
+
+'''<u>Quest 10: The Ghostly Mage</u>'''
+
+Slevin will send you to Floor 2 of the Library. Talk to Mage Miller’s Spirit in the Inkcalm Chamber (G8).
+
+
+
+'''<u>Quest 11: An End to the Bloodshed</u>'''
+
+Mage Miller’s Spirit will ask you to collect the following:
+
+* Secret Garden Soulstone - Guardian Golem - Floor 2, A7 
+* Secret Study Soulstone - Halnaak’s Secret Study Guard - Floor 2, F1 
+* 10 Ayanad Council Manaprints
+** Kaylin the Rimewriter - Floor 1 
+** Stena the Vile - Floor 1 
+** Runert the Titan - Floor 2 
+** Study Page Ecktom - Floor 2
+** Captain Jergant - Floor 3 
+** Head Librarian Tinnereph - Floor 3 
+** Fifth Stage Chest - Corner Reading Room 
+
+
+
+'''<u>Quest 12: Disarming the Library</u>'''
+
+<u>Combine the following:</u>
+
+* Tri-Dimensional Magic Scroll (given to you by NPC when you obtain this quest),
+* a Solemn Ayanad Earring and
+* 30 Ayanad Wizard’s Tokens to make an Anima Cube.
+
+<u>After making the Anima Cube, you have to obtain 1500 Anima Fragments. Follow these steps to obtain them.</u>
+
+* Go to Floor 3 and look for Ayanad Guard Mage or Librarian Mage. Pls refer to this document for specific locations.
+* Target the mage and right click on the Anima Cube. As you are channelling, you will get the Anima Fragments.
+* You get 5 Anima Fragments per channel. The mob will aggro to you after you are done channelling, but you can reset it by running out of the room.
+* The Anima Cube cannot be used in combat.
+
+When you are done, return to Mage Miller’s Spirit in the Inkcalm Chamber on the second floor of G8 for your Heroic Gleaming Ayanad Earring.
+
+
+
+'''<u>Quest 13: Captive Souls</u>''' 
+
+Talk to Belstrom in Diamond Shores to begin this quest.
+
+Talk to Gatekeeper Priest Marquad on Ynys Isle. Chat with Gatekeeper Priest Marquad.
+
+
+
+'''<u>Quest 14: Nui's Breath</u>'''
+
+Collect Nui’s Breath from Gatekeeper Priest Marquad. Deliver the Nui’s Breath to Belstrom in Diamond Shores.
+
+
+
+'''<u>Quest 15: A Potent Spell</u>'''
+
+Belstrom will give you a Magic Conversion Scroll. Combine the following to make a Blessed Spellstone.
+
+* '''60 Ayanad Wizard’s Tokens - Complete Library Dailies'''  
+* '''10 Ayanad Owl Rubellites'''
+** Gildaron the Disobedient - Floor 1, F4
+** Stena’s Bookshelf - Floor 1, H6
+* '''10 Ayanad Owl Topazes'''
+** Guardian Golem - Floor 2, A7 
+** Halnaak’s Secret Study Guard - Floor 2, F1 
+* '''10 Ayanad Owl Aquamarines'''
+** Screaming Archives Secret Study Guard - Floor 3, G6 
+** Tinnereph’s Secret Study Guard - Floor 3, C6
+
+<u>Return to Belstrom in Diamond Shores.</u>
+
+
+
+'''<u>Quest 16: Magic and Manaprints</u>'''
+
+Collect the following items:
+
+* '''20 Ayanad Senior Council Manaprint'''
+** Recordkeeper Wynn
+** Halnaak  
+** Alexander  
+* '''20 Ayanad Council Manaprints'''
+** Kaylin the Rimewriter - Floor 1 
+** Stena the Vile - Floor 1 
+** Runert the Titan - Floor 2 
+** Study Page Ecktom - Floor 2 
+** Captain Jergant - Floor 3 
+** Head Librarian Tinnereph - Floor 3 
+** Fifth Stage Chest - Corner Reading Room 
+* '''20 Ayanad Anima''' 
+** Combine 15 Nayah Crystal Shard to get 1 Nayah Crystal. Click on it to get a quest. 
+** Complete the quest to get 1 Ayanad Anima. You can do this quest once a day. 
+
+<u>Return to Belstrom in Diamond Shores.</u>
+
+
+
+'''<u>Quest 17: Into the Light</u>'''
+
+Collect Hereafter Lodestone and deliver it to Mage Miller’s Spirit in Floor 2, G8. Then talk to Slevin at Floor 1 A6 for your Unique Brilliant Ayanad Earring.
+
+
+
+'''<u>Quest 18: Puzzles and Paintings</u>''' 
+
+Combine all 3 paintings to get Denistrio’s Sealbreaker Scroll.
+
+If another player has completed this step of the questline and has his scroll placed in a public house, you can simply interact with the scroll to complete this step. Return to Slevin at Floor 1 A6.
+
+
+
+<u>'''Quest 19: The Price of Power'''</u>
+
+Collect the following items:
+
+* '''100 Ayanad Wizard’s Tokens'''
+** Completing Library Dailies  
+* '''10 Ayanad Owl Rubellites'''
+** Gildaron the Disobedient - Floor 1, F4 
+** Stena’s Bookshelf - Floor 1, H6 
+* '''10 Ayanad Owl Topaze'''s
+** Guardian Golem - Floor 2, A7 
+** Halnaak’s Secret Study Guard - Floor 2, F1 
+* '''10 Ayanad Owl Aquamarines'''
+** Screaming Archives Secret Study Guard - Floor 3, G6 
+** Tinnereph’s Secret Study Guard -Floor 3, C6 
+* '''1 Ayanad Opal'''
+** Obtained by completing the quest [[The Light of Glory]] 
+
+
+
+'''<u>Quest 20: The Frost Guardian</u>'''
+
+Talk to Slevin in Floor 1 A6.
+
+Collect Denistrios’s Damaged Staff at Floor 3 E2.
+
+Return to Slevin.
+
+
+
+'''<u>Quest 21: The Final Touches</u>'''
+
+Collect the following items:
+
+* 100 Ayanad Wizard’s Tokens
+** Completing Library Dailies  
+* 10 Ayanad Senior Council Manaprint
+** Recordkeeper Wynn
+** Halnaak
+** Alexander
+* 10 Ayanad Council Manaprint
+** Kaylin the Rimewriter - Floor 1 
+** Stena the Vile - Floor 1 
+** Runert the Titan - Floor 2 
+** Study Page Ecktom - Floor 2 
+** Captain Jergant - Floor 3 
+** Head Librarian Tinnereph - Floor 3 
+** Fifth Stage Chest Corner Reading Room 
+* 10 Ayanad Anima
+** Combine 15 Nayah Crystal Shard to get 1 Nayah Crystal. Click on it to get a quest.  Complete the quest to get 1 Ayanad Anima. You can do this quest once a day. 
+* 4 Archemage’s Manastone
+** Complete Ayanad Library Bounty 10, First Floor Bounty 10, Second Floor Bounty 10 or Third Floor Bounty 10.
+** NOTE: After patch 2.9, you can purchase the manastone from the Evening Botanica for 500 Gilda Stars each.
+
+Return to Slevin in Heart of Ayanad, top floor lobby.
+
+
+----'''<u>PHASE 2</u>''' 
+
+
+
+'''<u>Quest 22: The Heart of Ayanad</u>'''
+
+Kill the Heart of Ayanad Golem located at the top floor of the library, beside Alexander‘s instance entrance.
+
+Collect the Heart of Ayanad Manacore.
+
+One person in your party will need to have the Unique Ayanad Earring.
+
+Talk to Slevin who is now at the entrance of the Heart of Ayanad.
+
+
+
+'''<u>Quest 23: A Hero's Reward</u>'''
+
+Collect the following items:
+
+* '''10 Ayanad Senior Council Manaprint'''
+** Recordkeeper Wynn
+** Halnaak
+** Alexander
+* '''10 Ayanad Council Manaprint'''
+** Kaylin the Rimewriter - Floor 1 
+** Stena the Vile - Floor 1 
+** Runert the Titan - Floor 2 
+** Study Page Ecktom - Floor 2 
+** Captain Jergant - Floor 3
+** Head Librarian Tinnereph - Floor 3
+** Fifth Stage Chest - Corner Reading Room 
+* '''10 Ayanad Anima'''
+** Combine 15 Nayah Crystal Shard to get 1 Nayah Crystal. Click on it to get a quest.
+** Complete the quest to get 1 Ayanad Anima. You can do this quest once a day. 
+* '''80 Starlight Archeum Essences'''
+* '''Heart of Ayanad Manacore'''  
+
+Combine all of the above with the Ayanad Heartstone given by Slevin to create a Glowing Ayanad Heartstone.
+
+Talk to Slevin again for your Celestial Great Ayanad Earring.13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$15"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Ayanad_Earring_(Library)","className":"underline hover:text-text","children":["AAClassic wiki page “","Ayanad Earring (Library)","”"]}]," ","(CC0), last edited ","Mar 20, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-14:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Ayanad Earring (Library) · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"!Page still under construction! IGN Guide The Ayanad Earring is a multi-stage self upgrading reward from a lengthy questline. Quest 1: Orb Of Secrets To begin kill Recordkeeper Wynn he will drop an item for everyone in…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L14","3",{}]],"error":null,"digest":"$undefined"}
+16:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Ayanad Earring (Library) · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"!Page still under construction! IGN Guide The Ayanad Earring is a multi-stage self upgrading reward from a lengthy questline. Quest 1: Orb Of Secrets To begin kill Recordkeeper Wynn he will drop an item for everyone in…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L16","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"

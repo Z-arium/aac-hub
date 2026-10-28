@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,9 +10,9 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","abyssal-skills",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","abyssal-skills","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","abyssal-skills","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:T5ed9,<figure><img src="https://wiki.aa-classic.com/images/thumb/7/76/StartingLoc.jpg/600px-StartingLoc.jpg" width="600" height="332" srcset="https://wiki.aa-classic.com/images/thumb/7/76/StartingLoc.jpg/900px-StartingLoc.jpg 1.5x, https://wiki.aa-classic.com/images/7/76/StartingLoc.jpg 2x" loading="lazy"><figcaption>Starting Location Abyssal Skill Questline</figcaption></figure>
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","abyssal-skills",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","abyssal-skills","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","abyssal-skills","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T605b,<figure><img src="/aac-hub/wiki-files/e6/e68c5173a2fb4eecc1152cc0b201ff884e31a82a.jpg" width="600" height="332" loading="lazy"><figcaption>Starting Location Abyssal Skill Questline</figcaption></figure>
 
 <h2 id="Acquiring_the_abyssal_skills"><big>Acquiring the abyssal skills</big></h2>
 <p>First, level the skill tree that you want Abyssal mode on, to level 55.<br>Then, talk to Belstrom in Diamond Shores. He is at the northwestern area as shown on the map below. He will set you on a questline to speak to various NPCs at different locations.<br>
@@ -81,7 +81,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b6/Hateful_Hunter.webp" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/2b/2b425a5727b53af40db265b581a48087061494e3.webp" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Hateful Hunter
 </td>
@@ -92,7 +92,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/1/19/34092.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/cc/ccfe6f73b32a2705c55df67bcc4da8d71b28e70f.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Serpent Sight
 </td>
@@ -106,7 +106,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/41/Risinghateread.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/67f2921bd14d94fdd70199c9eb97ee5e008fadb1.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -117,7 +117,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/97/34288.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d0/d0a54e6e5c098a23446a87a6b371ed7c1562b7a3.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Hunting Pack
 </td>
@@ -143,7 +143,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/20/Profane_prayers.jpg" width="37" height="38" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d1/d1ed9b8360c741acfbeef386c25e9d7171114951.jpg" width="37" height="38" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Profane Prayers
 </td>
@@ -154,7 +154,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/56/Abyssalpetrification.jpg" width="39" height="38" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/40/40d66aec7e281696211225b8e8f9b47017e91905.jpg" width="39" height="38" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Abyssal Petrification
 </td>
@@ -165,7 +165,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/41/Risinghateread.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/67f2921bd14d94fdd70199c9eb97ee5e008fadb1.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -176,7 +176,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/49/Defydeath.jpg" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/10/101dde771e7c2cbbdd5c020addc71230f8e488fb.jpg" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Defy Death
 </td>
@@ -206,7 +206,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b4/Occpassive.jpg" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d7/d70c57fb7656f25a9f7311ca462aaf59e0fafb9d.jpg" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Gleeful
 <p>Destruction
@@ -219,7 +219,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/cc/Occskill1.jpg" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1d/1dc32d3c142e074c6fcd70caaaa0e4c342e93460.jpg" width="41" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Cursed Thorns
 </td>
@@ -230,7 +230,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/49/Occskill2.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ca/cafc5d994626b8c92c5913c1bd9eeb9ccf14230a.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -241,7 +241,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/aa/Occskill3.jpg" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/86/862c22ae5d6a8c5c8df7a15ee4b00591985a6479.jpg" width="42" height="41" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Shadow Circle
 </td>
@@ -267,7 +267,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/97/301.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/95/95dbe8404e94bbd2228f687632e3dab137bf267c.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Wrathful Casting
 </td>
@@ -278,7 +278,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/09/34093.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/5c/5cfe6850b0940fdfcf67202980f4e0ef00949bae.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Void Leap
 </td>
@@ -289,7 +289,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/49/Occskill2.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ca/cafc5d994626b8c92c5913c1bd9eeb9ccf14230a.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -300,7 +300,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/66/34291.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/6b/6b3b45a9997c25d5cbd4a8eff045649498ed3430.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Serpent Strike
 </td>
@@ -326,7 +326,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/7a/302.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/41/4105443a9a5cf7e8a6d247d949a408b686a84ad7.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Murderous Intent
 </td>
@@ -337,7 +337,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/ae/34094.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/7c/7c76452964977073ee71a6ce3e4e9ba5b976cd44.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Venom Blades
 </td>
@@ -348,7 +348,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/49/Occskill2.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ca/cafc5d994626b8c92c5913c1bd9eeb9ccf14230a.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -359,7 +359,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a3/34300.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/db/db380a223542ed030d6e377608b383e580c2c100.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Assassination
 </td>
@@ -385,7 +385,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/d3/295.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/91/914b4c657c7eec32812d6af96a0d2cafe06a1ce8.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Raging Berserker
 </td>
@@ -396,7 +396,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/c/c0/34124.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3c/3c7e484e678278c603542713a2f6c12ee603ce9e.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Soulbound Blades
 </td>
@@ -407,7 +407,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/49/Occskill2.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/ca/cafc5d994626b8c92c5913c1bd9eeb9ccf14230a.jpg" width="43" height="42" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -418,7 +418,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/a/a0/34120.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/88/88cd9bfbc70c1b35431cac9666066e50e6448391.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Swordfall
 </td>
@@ -444,7 +444,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/6f/Spitefulcurses.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/fe/fe3c48d54837c72d2c30389ae5f60e1287cef48e.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Spiteful Curses
 </td>
@@ -455,7 +455,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/bb/Devour_hope.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/05/05a78d304af30f9425b4f81903e54e09f5ca6d73.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Devour Hope
 </td>
@@ -468,7 +468,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/41/Risinghateread.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/67f2921bd14d94fdd70199c9eb97ee5e008fadb1.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -479,7 +479,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/73/Stonesight.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/43/43217919ecf1564a707d48bdae3fb2a5602dc971.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Stonesight
 </td>
@@ -505,7 +505,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f8/Mercilessmanipulator.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/60/60c6d048f84f59b5801a37458433408f39d142c0.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Merciless Manipulator
 </td>
@@ -516,7 +516,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/9a/Crushinggrasp.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a1/a11b1c58cdbc8d4be315858528482d08ed8f2cca.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Crushing Grasp
 </td>
@@ -527,7 +527,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/41/Risinghateread.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/67f2921bd14d94fdd70199c9eb97ee5e008fadb1.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -538,7 +538,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/93/Abyssalwave.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/00/004036e1dbb102952f52b2b68b729eb2c593793f.png" width="39" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Abyssal Wave
 </td>
@@ -564,7 +564,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/86/303.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b7/b72744f3c19a3aaa7ed126c87a6809f79f84446e.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Seething Songs
 </td>
@@ -575,7 +575,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b6/34095.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/46/46491f5023e12bab1aa9282b761efb6796b3013a.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Abyssal Echoes
 </td>
@@ -586,7 +586,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/41/Risinghateread.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/67f2921bd14d94fdd70199c9eb97ee5e008fadb1.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -597,7 +597,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/97/34314.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a4/a47a335b4bbc68e131e83c3b58a74183b65a9b7b.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Polymorphic Resonance
 </td>
@@ -623,7 +623,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Passive
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/0/0d/297.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/98/984390b5756580b5a276f1c83c6d53a2bc2d0179.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Indomitable Rage
 </td>
@@ -634,7 +634,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/71/34089.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/7f/7f71ee7cb14eaab06a2dbaba111596b9cf083a90.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Shield Throw
 </td>
@@ -645,7 +645,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/4/41/Risinghateread.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/67f2921bd14d94fdd70199c9eb97ee5e008fadb1.jpg" width="38" height="39" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rising Hatred
 </td>
@@ -656,18 +656,396 @@ f:"$Sreact.suspense"
 <tr>
 <td>Active
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/e/e7/34148.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/aa/aa0ccb12b3041eb3503cb802529be14e93ccdbc6.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Cruel Binding
 </td>
 <td>4-6
 </td>
 <td><i>Tethers an enemy to a location for 4sec, pulling them back whenever they move 10m from that spot. Any additional charges are consumed on casting, increasing the duration up to a maximum of 10sec.</i>
-</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Abyssal Skills"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],"$L14"]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Abyssal_Skills","className":"underline hover:text-text","children":["AAClassic wiki page “","Abyssal Skills","”"]}]," ","(CC0), last edited ","Jan 22, 2025",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
-14:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Acquiring_the_abyssal_skills",{"className":"","children":["$","a",null,{"href":"#Acquiring_the_abyssal_skills","className":"text-muted hover:text-accent","children":"Acquiring the abyssal skills"}]}],["$","li","Leveling_Abyssal_Skills",{"className":"","children":["$","a",null,{"href":"#Leveling_Abyssal_Skills","className":"text-muted hover:text-accent","children":"Leveling Abyssal Skills"}]}],["$","li","Abyssal_Skills",{"className":"","children":["$","a",null,{"href":"#Abyssal_Skills","className":"text-muted hover:text-accent","children":"Abyssal Skills"}]}],["$","li","Archery",{"className":"pl-3","children":["$","a",null,{"href":"#Archery","className":"text-muted hover:text-accent","children":"Archery"}]}],["$","li","Vitalism",{"className":"pl-3","children":["$","a",null,{"href":"#Vitalism","className":"text-muted hover:text-accent","children":"Vitalism"}]}],["$","li","Occultism",{"className":"pl-3","children":["$","a",null,{"href":"#Occultism","className":"text-muted hover:text-accent","children":"Occultism"}]}],["$","li","Sorcery",{"className":"pl-3","children":["$","a",null,{"href":"#Sorcery","className":"text-muted hover:text-accent","children":"Sorcery"}]}],["$","li","Shadowplay",{"className":"pl-3","children":["$","a",null,{"href":"#Shadowplay","className":"text-muted hover:text-accent","children":"Shadowplay"}]}],["$","li","Battlerage",{"className":"pl-3","children":["$","a",null,{"href":"#Battlerage","className":"text-muted hover:text-accent","children":"Battlerage"}]}],["$","li","Witchcraft",{"className":"pl-3","children":["$","a",null,{"href":"#Witchcraft","className":"text-muted hover:text-accent","children":"Witchcraft"}]}],["$","li","Auramancy",{"className":"pl-3","children":["$","a",null,{"href":"#Auramancy","className":"text-muted hover:text-accent","children":"Auramancy"}]}],["$","li","Songcraft",{"className":"pl-3","children":["$","a",null,{"href":"#Songcraft","className":"text-muted hover:text-accent","children":"Songcraft"}]}],["$","li","Defense",{"className":"pl-3","children":["$","a",null,{"href":"#Defense","className":"text-muted hover:text-accent","children":"Defense"}]}]]}]]}]}]
+</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Abyssal Skills"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],"$L15"]}]
+16:T3d2a,[[File:StartingLoc.jpg|600px|thumb|Starting Location Abyssal Skill Questline]]
+
+== <big>Acquiring the abyssal skills</big> ==
+First, level the skill tree that you want Abyssal mode on, to level 55.<br>Then, talk to Belstrom in Diamond Shores. He is at the northwestern area as shown on the map below. He will set you on a questline to speak to various NPCs at different locations.<br>
+
+{| class="wikitable"
+|+ Quest Line
+|-
+! Starting NPC !! Location !! Quest Name & Description
+|-
+| Belstrom || Diamond Shores || '''A Darker Power'''<br> Belstrom will send you to Wanderer Arde in Karkasse Ridgelands. If you do not have a portal to get there, there is a portal gate at the top of Veroe in Hasla. 
+|-
+| Silent Watcher || Golden Ruins || '''A Twisting Path'''<br> The Silent Watcher will send you to Apprentice Rudal in Exeloch. If you do not have the portal, you can go to the Dungeon tab in your teleport book and port to Serpentis. 
+|-
+| Scout Captain Camaro  || Golden Ruins || '''Whispers from the Abyss'''<br> After this, you have to talk to Drillmaster Rhiona in Diamond Shores. There is portal gate from major cities like Marianople and Austera, Solis Headlands. 
+|-
+| Maynard || Ynys Island<br>(east of Solzreed Peninsula)  || '''Orchidna's Tale'''<br> Before you head to Ynys Island, it is important to have a Specialized Snowflake with you. You can buy it from a General Merchant for 200g. 
+|-
+| Lucius Quinto || Ynys Island || '''The Demon Queen'''<br> After talking to Lucius Quinto, use the teleport scroll in your bag to get in the Queen's Chamber. Talk to Damian. 
+|-
+| Skill Sword || Queen's Chamber || Select the skillset that you want to have Abyssal mode on by interacting with the respective sword. Then use the Specialization Snowflake to absorb the abyssal energy from the sword. After that, go to your skill page (K) and activate the abyssal button (looks like an eye under your skillset name
+|}
+
+== Leveling Abyssal Skills ==
+To obtain all the Abyssal skills you will need to level the selected skillset to 55 again, Except this time you will need to pay some items at certain points.
+* '''To reach level 25:''' Have level 24 completed, and 3 [Abyssal Crystal].
+* '''To reach level 40:''' Have level 39 completed, and 50 [Gilda Star]
+* '''To reach level 55:''' Have level 54 completed, and 100 [Warrior Medal]
+** These must be done for each skillset. Stock up!
+
+== Abyssal Skills ==
+
+=== Archery ===
+{| class="wikitable"
+|+Archery
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:Hateful_Hunter.webp|center]]
+|Hateful Hunter
+| -
+|''Charged Bolt, Piercing Shot, Concussive Arrow, Missile Rain, and Snipe regenerate Abyssal points.''
+|-
+|Active
+|[[File:34092.png|center]]
+|Serpent Sight
+|2
+|''Enhances your archery with Abyssal magic, transforming your attacks and gaining unparalleled range.''
+''Increases the base range of bow skills to 30m, but prevents movement. Replaces Endless Arrows with the slower but more powerful Fang Bolt (312% ranged attack!) for the duration.''
+
+''Lasts 5 seconds, or until the caster takes damage. Duration is reset with each successful Range Attack.''
+|-
+|Active
+|[[File:Risinghateread.jpg|center]]
+|Rising Hatred
+|2 - 4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:34288.png|center]]
+|Hunting Pack
+|4 - 6
+|''Summons a pack of spectral Snowlions to charge through your enemies, dealing damage and launching them into the air.No target required, shoots straight forward from the caster and ignores terrain. Any additional charges are consumed on casting, increasing the damage and number of snowlions. (Note: additional Snowlions increase the AoE.)If cast using 6 Abyssal Charges, enemies launched by this skill are temporarily prevented from using skills.''
+|}
+
+=== Vitalism ===
+{| class="wikitable"
+|+Vitalism
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive 
+|[[File:Profane prayers.jpg|center]]
+|Profane Prayers
+| -
+|Antithesis, Mirror Light, Mend, Fervent Healing, and Infuse each grant 1 Abyssal Charge whenever they're used on the caster or their allies.
+|-
+|Active
+|[[File:Abyssalpetrification.jpg|center]]
+|Abyssal Petrification
+|3
+|Removes all debuffs and aggro from a selected target and protects them against all damage for 18sec, but prevents them from moving  or taking actions for the duration. Using this skill on petrified target reverses the effects.
+|-
+|Active
+|[[File:Risinghateread.jpg|center]]
+|Rising Hatred
+|2 - 4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:Defydeath.jpg|center]]
+|Defy Death
+|4 - 6
+|Revives up to 6 allies withing 6m of the caster. All targets beyond the first must be in the same party or raid as the caster to be revived. Any additional charges are consumed on casting, increasing the health and mana of revived targets. Consuming 6 Abyssal Charges increases the affected range to 20m.
+'''Can be used in combat.''' 
+|}
+
+=== Occultism ===
+{| class="wikitable"
+|+Occultism
+!Type
+!Icon
+!Skill
+!Abyssal charges
+needed
+!Description
+|-
+|Passive
+|[[File:Occpassive.jpg|center]]
+|Gleeful
+Destruction
+| -
+|Mana Force, Hell Spear, Absorb Lifeforce, Summon Crows, and Crippling Mire each grant 1 Abyssal Charge whenever they're used on the caster or their allies.
+|-
+|Active
+|[[File:Occskill1.jpg|center]]
+|Cursed Thorns
+|2
+|Infects an enemy with cursed seeds for 15 seconds. Causes deadly thorns to sprout in their footsteps after a 4 second delay, inflicting Magic damage on surrounding enemies as they burst from the ground. Slows any enemies that pass through the area and deals continuous magic damage. Seeds sprout early if enemies step on them.
+|-
+|Active
+|[[File:Occskill2.jpg|center]]
+|Rising Hatred
+|2-4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:Occskill3.jpg|center]]
+|Shadow Circle
+|4-6
+|Summon a Shadow Circle for 20 seconds, allowing the caster to teleport in front of any target within the circle. Any additional Abyssal Charges are consumed on casting, increasing the number of times the caster can teleport. If cast while at 6 Abyssal Charges, the caster may teleport an unlimited number of times for the duration of the spell.
+|}
+
+=== Sorcery ===
+{| class="wikitable"
+|+Sorcery
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:301.png|center]]
+|Wrathful Casting
+| -
+|''Freezing Arrow, Arc Lightning, Searing Rain, Chain Lightning, and Meteor Strike regenerate Abyssal Points.''
+|-
+|Active
+|[[File:34093.png|center]]
+|Void Leap
+|1
+|''Teleports the caster to a random location 5-10m away.No cooldown. Each teleport costs another Abyssal Charge. Can’t be used while Snared.''
+|-
+|Active
+|[[File:Occskill2.jpg|center]]
+|Rising Hatred
+|2-4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:34291.png|center]]
+|Serpent Strike
+|4 - 6
+|''Summons a magical serpent that burrows underground, erupting beneath the target.Channeling skill, which can be stopped/completed early at any time by using the skill again during channeling. Requires 4 Abyssal Charges available to begin channeling, but can be cast using anywhere from 1-6 Abyssal Charges once channeling begins, increasing the damage dealt with each additional charge used.''
+|}
+
+=== Shadowplay ===
+{| class="wikitable"
+|+Shadowplay
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:302.png|center]]
+|Murderous Intent
+| -
+|''Wallop, Stalker’s Mark, Shadowsmite, Toxic Shock and Throw Dagger regenerate Abyssal points.''
+|-
+|Active
+|[[File:34094.png|center]]
+|Venom Blades
+|2
+|''hrows venomous knives at all enemies within a 5m radius around the caster.Inflicts initial Physical Damage to all targets (based on Melee Attack), then applies a poison debuff for Magic Damage over time (based on Magic Attack). This effect ignores Magic Defense.''
+|-
+|Active
+|[[File:Occskill2.jpg|center]]
+|Rising Hatred
+|2-4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:34300.png|center]]
+|Assassination
+|4-6
+|''Can only be cast while stealthed. Increases Shadowplay Skill Damage +12% for 4sec, and causes the caster to become impossible to target during that time.Any additional charges are consumed on casting, increasing the duration up to a total of 8sec.''
+|}
+
+=== Battlerage ===
+{| class="wikitable"
+|+Battlerage
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:295.png|center]]
+|Raging Berserker
+| -
+|''Charge, Whirlwind Slash, , Precision Strike, Tiger Strike, and Behind Enemy Lines regenerate Abyssal Points.''
+|-
+|Active
+|[[File:34124.png|center]]
+|Soulbound Blades
+|2
+|''hrows otherworldly blades that surround the target for the duration, inflicting damage to it and all nearby enemies.When Abyssal Battlerage reaches lv40, this skill improves. Skill damage increases, and each successful hit will now inflict -50 to the target’s Defense for a short time. This effect stacks.''
+|-
+|Active
+|[[File:Occskill2.jpg|center]]
+|Rising Hatred
+|2-4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:34120.png|center]]
+|Swordfall
+|4-6
+|''Summons a sword from the abyss and hits a target in front of you, dealing Physical Damage.Can be cast again immediately.If six Abyssal Points are used to activate the skill, the range of the attack is shortened but strengthened, which is dependent on the cast time of the skill.''
+|}
+
+=== Witchcraft ===
+{| class="wikitable"
+|+Witchcraft
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:Spitefulcurses.png|center]]
+|Spiteful Curses
+| -
+|Earthen Grip, Bubble Trap, Insidious Whisper, Lassitude, and Focal Concussion each grant 1 Abyssal Charges whenever they're used. 
+|-
+|Active
+|[[File:Devour hope.png|center]]
+|Devour Hope
+|2
+|Inflicts a crippling despair on your chosen victim for 5sec. Any skills cast during this debuff will have their cooldowns increased by +15 seconds.
+'''Can only be used in PvP.'''
+|-
+|Active
+|[[File:Risinghateread.jpg|center]]
+|Rising Hatred
+|2 - 4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:Stonesight.png|center]]
+|Stonesight
+|4 - 6
+|Unleashes the gaze of the terrifying Gorgon, petfiying all enemies facing the caster within 15m cone. Enemies remain petrified until the caster stops channeling. Any additional Abyssal Charges are consumed on casting, increasing the range of the skill.
+|}
+
+=== Auramancy ===
+{| class="wikitable"
+|+Auramancy
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:Mercilessmanipulator.png|center]]
+|Merciless Manipulator
+| -
+|Comet's Boon, Spell Shield, Vicious Implosion, Shrug It Off, and Liberation each grant 1 Abyssal Charge whenever they're used. 
+|-
+|Active
+|[[File:Crushinggrasp.png|center]]
+|Crushing Grasp
+|3
+|Creates a powerful gravity vortex around a chosen target after a short delay. Deals Magic Damage to all enemies in a 10m radius, pulling them to the target's location but leaves the initial target unharmed.
+|-
+|Active
+|[[File:Risinghateread.jpg|center]]
+|Rising Hatred
+|2 - 4 
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:Abyssalwave.png|center]]
+|Abyssal Wave
+|4 - 6
+|Shoots a wave of force up to 20m in front of you. Inflicts Magic Damage and knocks back all enemies it touches. Any additional Abyssal Charges are consumed on casting, inreasing the number of waves. Being struck by multiple waves in a row dramatically decreases enemies Move Speed. 
+|}
+
+=== Songcraft ===
+{| class="wikitable"
+|+Songcraft
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:303.png|center]]
+|Seething Songs
+| -
+|''Startling Strain, Dissonance, Rhythmic Renewal, Healing Hymn, and Alarm Call regenerate Abyssal points.''
+|-
+|Active
+|[[File:34095.png|center]]
+|Abyssal Echoes
+|3
+|''Ends all currently-active Perform skills, but creates lesser echoes of those abilities that continue on their own for up to 10 seconds. These echoes only affect the caster, and are not interrupted by casting non-perform skills. Using additional perform skills during this time will end the echoes early.''
+|-
+|Active
+|[[File:Risinghateread.jpg|center]]
+|Rising Hatred
+|2 - 4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:34314.png|center]]
+|Polymorphic Resonance
+|2
+|''Grants temporary immortality to allies within 15m.When subjected to fatal damage, affected allies instead transform into animals and recover a small amount of health. Polymorphed characters are immune to debuffs for the duration, but can still take damage. This skill has a base duration of 3sec, and any additional charges are consumed over time to extend the duration by 3 seconds each.If cast while at 6 Abyssal Charges, the base duration is 5sec and additional charges extend the duration by 5sec each.''
+|}
+
+=== Defense ===
+{| class="wikitable"
+|+Defense
+!Type
+!Icon
+!Skill
+!Abyssal charges needed
+!Description
+|-
+|Passive
+|[[File:297.png|center]]
+|Indomitable Rage
+| -
+|''Shield Slam, Bull Rush, Revitalizing Cheer, Mocking Howl, and Boastful Roar regenerate Abyssal Points.''
+|-
+|Active
+|[[File:34089.png|center]]
+|Shield Throw
+|2
+|''Hurls your shield at a target, dealing physical damage with a 100% chance to Critical Strike. Temporarily removes all benefits from your shield while projectile is in the air. If the enemy parries this attack, they become Disarmed, losing all functionality and benefits from their weapon for 6sec.''
+|-
+|Active
+|[[File:Risinghateread.jpg|center]]
+|Rising Hatred
+|2 - 4
+|Increases maximum Abyssal Charges +2 for 12 seconds. Prevents charges from naturally depleting for the duration, and doubles charges gained through using skills. Any additional Abyssal Charges are consumed on casting, increases the duration.
+|-
+|Active
+|[[File:34148.png|center]]
+|Cruel Binding
+|4-6
+|''Tethers an enemy to a location for 4sec, pulling them back whenever they move 10m from that spot. Any additional charges are consumed on casting, increasing the duration up to a maximum of 10sec.''
+|}13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$16"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Abyssal_Skills","className":"underline hover:text-text","children":["AAClassic wiki page “","Abyssal Skills","”"]}]," ","(CC0), last edited ","Jan 22, 2025",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+15:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","Acquiring_the_abyssal_skills",{"className":"","children":["$","a",null,{"href":"#Acquiring_the_abyssal_skills","className":"text-muted hover:text-accent","children":"Acquiring the abyssal skills"}]}],["$","li","Leveling_Abyssal_Skills",{"className":"","children":["$","a",null,{"href":"#Leveling_Abyssal_Skills","className":"text-muted hover:text-accent","children":"Leveling Abyssal Skills"}]}],["$","li","Abyssal_Skills",{"className":"","children":["$","a",null,{"href":"#Abyssal_Skills","className":"text-muted hover:text-accent","children":"Abyssal Skills"}]}],["$","li","Archery",{"className":"pl-3","children":["$","a",null,{"href":"#Archery","className":"text-muted hover:text-accent","children":"Archery"}]}],["$","li","Vitalism",{"className":"pl-3","children":["$","a",null,{"href":"#Vitalism","className":"text-muted hover:text-accent","children":"Vitalism"}]}],["$","li","Occultism",{"className":"pl-3","children":["$","a",null,{"href":"#Occultism","className":"text-muted hover:text-accent","children":"Occultism"}]}],["$","li","Sorcery",{"className":"pl-3","children":["$","a",null,{"href":"#Sorcery","className":"text-muted hover:text-accent","children":"Sorcery"}]}],["$","li","Shadowplay",{"className":"pl-3","children":["$","a",null,{"href":"#Shadowplay","className":"text-muted hover:text-accent","children":"Shadowplay"}]}],["$","li","Battlerage",{"className":"pl-3","children":["$","a",null,{"href":"#Battlerage","className":"text-muted hover:text-accent","children":"Battlerage"}]}],["$","li","Witchcraft",{"className":"pl-3","children":["$","a",null,{"href":"#Witchcraft","className":"text-muted hover:text-accent","children":"Witchcraft"}]}],["$","li","Auramancy",{"className":"pl-3","children":["$","a",null,{"href":"#Auramancy","className":"text-muted hover:text-accent","children":"Auramancy"}]}],["$","li","Songcraft",{"className":"pl-3","children":["$","a",null,{"href":"#Songcraft","className":"text-muted hover:text-accent","children":"Songcraft"}]}],["$","li","Defense",{"className":"pl-3","children":["$","a",null,{"href":"#Defense","className":"text-muted hover:text-accent","children":"Defense"}]}]]}]]}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-15:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Abyssal Skills · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Starting Location Abyssal Skill Questline Acquiring the abyssal skills First, level the skill tree that you want Abyssal mode on, to level 55. Then, talk to Belstrom in Diamond Shores. He is at the northwestern area as…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","3",{}]],"error":null,"digest":"$undefined"}
+17:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Abyssal Skills · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Starting Location Abyssal Skill Questline Acquiring the abyssal skills First, level the skill tree that you want Abyssal mode on, to level 55. Then, talk to Belstrom in Diamond Shores. He is at the northwestern area as…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"

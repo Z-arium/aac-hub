@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,9 +10,9 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","songcraft",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","songcraft","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","songcraft","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:T23b4,<p>// derp
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","songcraft",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","songcraft","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","songcraft","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T2461,<p>// derp
 </p>
 <h2 id="List_of_skills">List of skills</h2>
 <table class="wikitable">
@@ -32,7 +32,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>1
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/66/Critical_Discord.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/52/520658833ebd3c2b85d9e529c98ceea2e6b4e139.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Critical Discord
 </td>
@@ -43,7 +43,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>3
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/38/Startling_Strain.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/04/0438a89b28069af1a2401b75ae0d39f703991c13.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Startling Strain
 </td>
@@ -54,7 +54,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>10
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/9/91/Perform_Quickstep.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0a/0a7b604cabe27c339f87804589d3a0570c2872f9.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>[Perform] Quickstep
 </td>
@@ -65,7 +65,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>15
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/76/Dissonance.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/18/18550bc3223322937c7a0317c88385bdaf0f776d.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Dissonance
 </td>
@@ -82,7 +82,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>20
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/d/db/Healing_Hymn.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/67/679b110d6f4d69dffedfa79eba01cbbd9ebc5276.png" width="40" height="40" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Healing Hymn
 </td>
@@ -95,7 +95,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>25
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/6f/Hummingbird_Ditty.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/3d/3d08f85da0aad97c032b6375ba6751d683102395.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Hummingbird Ditty
 </td>
@@ -106,7 +106,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>30
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/80/Perform_Ode_to_Recovery.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/0f/0f6d0c0d757c177952ac8c9ffc91c9d42045ab1d.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>[Perform] Ode to Recovery
 </td>
@@ -119,7 +119,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>35
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/89/Rhythmic_Renewal.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/d4/d449e8e7ec2eb1a05c65ca36854be2c85b7eb807.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Rhytmic Renewal
 </td>
@@ -130,7 +130,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>40
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/76/Perform_Bulwark_Ballad.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/17/17d45ffe21b61a96eabde400cc339aeae47542e7.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>[Perform] Bulwark Ballad
 </td>
@@ -141,7 +141,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>45
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5a/Perform_Bloody_Chanty.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/42/42323e9b13a58bfd3b486e52c3b33fc904e4331c.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>[Perform] Bloody Chantey
 </td>
@@ -154,7 +154,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>50
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/8/8b/Alarm_Call.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/4e/4e21ce2bdf50386a26f38d286b8693ed7c7c4c64.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Alarm Call
 </td>
@@ -167,7 +167,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>55
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5c/Griefcadence.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/84/84e9c92dfb7c16d86c46a972c52309056bfb57b6.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>[Perform] Grief's Cadence
 </td>
@@ -192,7 +192,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>2
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/5/5a/Syncopation.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/46/461ccbb8dfe982c5eec94c62fd8d2f79ae024d8f.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Syncopation
 </td>
@@ -201,7 +201,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>4
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/2/2b/Hold_the_Note.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/23/233d6251503145f8dd8b05ea35b9849043b8229c.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Hold the Note
 </td>
@@ -210,7 +210,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>6
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/6/6d/Uptempo.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/73/734dddc19a6517cc95a58736ff59e29b273c9203.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Uptempo
 </td>
@@ -219,7 +219,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>7
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/7/70/Disc_performance.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/a0/a09283e40269a2e1162a17afd23e5b51da59478d.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Disciplined Performance
 </td>
@@ -235,7 +235,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>8
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/f/f7/Loudspeaker.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/1d/1d306741f0abbc2fdf55fcf1daf46b815e1382ba.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Loudspeaker
 </td>
@@ -244,7 +244,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>9
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/3/38/Allegretto.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/e2/e224eb7cc19ff81847cf8b5ba735dca2cfcfeb0e.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Allegretto
 </td>
@@ -253,15 +253,159 @@ f:"$Sreact.suspense"
 <tr>
 <td>10
 </td>
-<td><figure><img src="https://wiki.aa-classic.com/images/b/b8/Zeal.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
+<td><figure><img src="/aac-hub/wiki-files/b0/b0ef47ba49e6ea7c4a07c6575a731da5c85cea8b.png" width="48" height="48" loading="lazy"><figcaption></figcaption></figure>
 </td>
 <td>Zeal
 </td>
 <td>Every successful Critical Damage/Critical Healing effect increases all Critical Rates (including Healing) +5% and all Critical Damage/Healing +75% for 6 seconds. This ability has a 12sec cooldown once triggered.
-</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Songcraft"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],false]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Songcraft","className":"underline hover:text-text","children":["AAClassic wiki page “","Songcraft","”"]}]," ","(CC0), last edited ","Mar 15, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Songcraft"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],false]}]
+15:T157b,// derp
+
+== List of skills ==
+{| class="wikitable"
+|+Active skills
+!Level
+!Icon
+!Skill
+!Description
+!Combos
+|-
+|1
+|[[File:Critical Discord.png|center]]
+|Critical Discord
+|Deal Magic Damage. Increases Critical Hit Rate and Critical Healing +2% for 3 seconds. 
+|Consumes Charm effect on target to inflict [[Status Effects|Fear]].
+|-
+|3
+|[[File:Startling Strain.png|center]]
+|Startling Strain
+|[[Status Effects|Stuns]] an enemy for 2sec with special performance. After the [[Status Effects|Stun]] ends, the enemy is [[Status Effects|Charmed]] and susceptible to other Songcraft skill effects. Reduces caster's Cast Time -20% for 5 seconds. Does not stop a performance skill. 
+|Increases the duration of [[Status Effects|Charmed]] +50% on targets with Dissonance.
+|-
+|10
+|[[File:Perform Quickstep.png|center]]
+|[Perform] Quickstep
+|Plays lighthearted song for 30sec. Increases Move Speed +28-42% of allies withing 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. 
+|Charmed targets are [[Status Effects|Slowed]]. 
+|-
+|15
+|[[File:Dissonance.png|center]]
+|Dissonance
+|Plays clashing sounds to weaken and slow all enemies in a 5m radius.
+
+* Reduces Skill Damage -20%
+* Reduces Attack Speed -250
+* Increases Cast Time +20%
+* Reduces Magic Defense -320
+* Deals Magic Damage after 6 seconds
+* Does not stop Perform skills
+|
+|-
+|20
+|[[File:Healing Hymn.png|center]]
+|Healing Hymn
+|Plays healing song that instantly restores Health to an ally. The effect can travel to another 2 allies within 10m as long as they are not pets. Can continue to be transferred up to 3 times. 
+Does not stop Perform skills.
+|
+|-
+|25
+|[[File:Hummingbird Ditty.png|center]]
+|Hummingbird Ditty
+|Reduces Cast Time -9%. Applies to caster and nearby raid members for 30 minutes. 
+|
+|-
+|30
+|[[File:Perform Ode to Recovery.png|center]]
+|[Perform] Ode to Recovery
+|Plays healing song for you and your allies for 30sec. Restores health and increases Healing Power for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -20% during performance.
+|Inflicts magic damage per second on [[Status Effects|Charmed]] targets.
+Dissonance: Decreases an enemy's healing -10%.
+|-
+|35
+|[[File:Rhythmic Renewal.png|center]]
+|Rhytmic Renewal
+|Summons a healing spring that restores health to caster and all nearby allied every second for 60 seconds.
+|
+|-
+|40
+|[[File:Perform Bulwark Ballad.png|center]]
+|[Perform] Bulwark Ballad
+|Plays a song of the earth for 30sec. Increases Physical/Magic Defense for all allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. 
+|Decreases Physical/Magic Defense -50% on Charmed targets.
+|-
+|45
+|[[File:Perform Bloody Chanty.png|center]]
+|[Perform] Bloody Chantey
+|Plays a lively song for you and your allies for 20sec. Increases damage dealt. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. 
+|Decreases all skill damage -20% on Charmed targets.
+Dissonance: Decreases all accuracy -10%.
+|-
+|50
+|[[File:Alarm Call.png|center]]
+|Alarm Call
+|Lifts Stun and Sleep debuffs and grants immunity to allies within a 9m range every second for 15sec. Canceled by using other skill. 
+Can be used while Stunned. 
+|
+|-
+|55
+|[[File:Griefcadence.png|center]]
+|[Perform] Grief's Cadence
+|Plays a song of penitence for you and your allies for 30sec. Decreases debuff effects -30% for caster and allies within 22m. Effect increases the longer you play. Can only stack with other Perform skills and shares a cooldown with them. Decreases Aggro -10% during the performance. 
+|Increases debuff effects on Charmed targets +30%.
+Dissonance: Decrease an enemy's Block and Evasion -10%.
+|}
+{| class="wikitable"
+|+Passive skills
+!Required points
+!Icon
+!Skill
+!Description
+|-
+|2
+|[[File:Syncopation.png|center]]
+|Syncopation
+|Decreases the cast delay and the chance of interruption when hit -50%. 
+|-
+|4
+|[[File:Hold the Note.png|center]]
+|Hold the Note
+|Increases the performance time of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence +15 seconds.
+|-
+|6
+|[[File:Uptempo.png|center]]
+|Uptempo
+|Decreases Cast Time for all skills -5%.
+|-
+|7
+|[[File:Disc performance.png|center]]
+|Disciplined Performance
+|Decreases Received Magic Damage -30% for 3 seconds when Magic Critical Damage is received. This ability has a 20sec cooldown once triggered. Performance skills also grant the Rhytm buff every 3 seconds. 
+Rhytm:
+
+* Increases Healing Power and Magic Attack +7 per stack.
+* Decreases Songcraft Cooldowns -0.4 seconds per stack.
+* Lasts 9 seconds. 
+* Stacks up to 15 times.
+* Resets cooldown of Startling Strain whenever a target you have Charmed is killed. 
+|-
+|8
+|[[File:Loudspeaker.png|center]]
+|Loudspeaker
+|Increases the range of Quickstep, Ode to Recovery, Bloody Chantey, Bulwark Ballad and Grief's Cadence to 22m.
+|-
+|9
+|[[File:Allegretto.png|center]]
+|Allegretto
+|Decreases Stun and Silence duration -10%.
+|-
+|10
+|[[File:Zeal.png|center]]
+|Zeal
+|Every successful Critical Damage/Critical Healing effect increases all Critical Rates (including Healing) +5% and all Critical Damage/Healing +75% for 6 seconds. This ability has a 12sec cooldown once triggered.
+|}13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$15"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Songcraft","className":"underline hover:text-text","children":["AAClassic wiki page “","Songcraft","”"]}]," ","(CC0), last edited ","Mar 15, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-14:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Songcraft · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"// derp List of skills Active skills Level Icon Skill Description Combos 1 Critical Discord Deal Magic Damage. Increases Critical Hit Rate and Critical Healing +2% for 3 seconds. Consumes Charm effect on target to…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L14","3",{}]],"error":null,"digest":"$undefined"}
+16:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Songcraft · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"// derp List of skills Active skills Level Icon Skill Description Combos 1 Critical Discord Deal Magic Damage. Increases Critical Hit Rate and Critical Healing +2% for 3 seconds. Consumes Charm effect on target to…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L16","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"

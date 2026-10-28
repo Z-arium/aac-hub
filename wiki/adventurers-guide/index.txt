@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,15 +10,15 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","adventurers-guide",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","adventurers-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","adventurers-guide","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:T2b5f,<p>Adventurer's guide is new customly added tab in game. The Guide has Paths that are missions that need to be done in order to proceed to the next grade of missions. The mission are to help hew players navigate the game and see what kinda things are important at the get go.
-</p><p><span><img src="https://wiki.aa-classic.com/images/4/42/Adventurericon.png" width="67" height="66" loading="lazy"></span>
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","adventurers-guide",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","adventurers-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","adventurers-guide","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T28b2,<p>Adventurer's guide is new customly added tab in game. The Guide has Paths that are missions that need to be done in order to proceed to the next grade of missions. The mission are to help hew players navigate the game and see what kinda things are important at the get go.
+</p><p><span><img src="/aac-hub/wiki-files/4f/4fffb6be1b1e6538d5f4850cb33d997afb0acacb.png" width="67" height="66" loading="lazy"></span>
 </p>
 
 <h3 id="A_New_Adventure">A New Adventure</h3>
 <h4 id="Grand"><b>Grand</b></h4>
-<p><span><img src="https://wiki.aa-classic.com/images/6/66/Grand_adventurer.png" width="739" height="53" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/4c/4c01ae089531f4925aa4394d8561b16e3b3885b7.png" width="739" height="53" loading="lazy"></span>
 </p><p><br>
 </p>
 <p><b>REWARDS</b></p><blockquote><p><b>Ancestral Warrior Medal (x5)</b>
@@ -41,7 +41,7 @@ f:"$Sreact.suspense"
 </p>
 <h5 id="Vocation_Knowledge">Vocation Knowledge</h5>
 <p>Reach 10,000 proficiency on any profession. Proficiencies are harvesting and crafting actions in the game. Can be found under Skills &gt; usually K keybind.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/1/10/Profiociencyexample1.png/464px-Profiociencyexample1.png" width="464" height="481" srcset="https://wiki.aa-classic.com/images/1/10/Profiociencyexample1.png 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/09/091498c3d97d20720fdcfd88ae68130be26aa08c.png" width="464" height="481" loading="lazy"></span>
 </p>
 <h5 id="Till_Its_Like_It_Is">Till Its Like It Is</h5>
 <p>Do enough Blue Salt Brotherhood quests to obtain Scarecrow Design. Guide for the questline here &gt; <a rel="noopener" href="https://www.youtube.com/watch?v=PBCb4NqijDA">Hamiltons Guide for Blue Salt Brotherhood Guestline</a> (both nations in same video!)
@@ -50,15 +50,15 @@ f:"$Sreact.suspense"
 <p>Buy a Battle Pet. Battle Pets are animals or creatures that players can use to attack enemies to help with dps or combat in general. They can wear gear to better their stats. (Pokemon fights, lol.) 
 </p><p>Battle Pets can be obtained from different places but the easiest being pet stand that sell each pet for 10 silver. Two easy battle pets mentioned here are Cats and Wolfhounds. They both cost 10 silver per pet. 
 </p><p><b>Cat pet</b>
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/e/eb/Petcatranch.png/590px-Petcatranch.png" width="590" height="310" srcset="https://wiki.aa-classic.com/images/e/eb/Petcatranch.png 1.5x" loading="lazy"></span>
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/a/a5/Catpetlocation1.jpg/670px-Catpetlocation1.jpg" width="670" height="422" srcset="https://wiki.aa-classic.com/images/a/a5/Catpetlocation1.jpg 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/b0/b09b7b9527a1901b1c6d1d3bce79876554bcd124.png" width="590" height="310" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/0b/0bb9f6be235a838296a1f37433f1cc893e86f5bd.jpg" width="670" height="422" loading="lazy"></span>
 </p><p><b>Wolfhound Pet</b>
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/8/82/Wolfhoundpet.jpg/643px-Wolfhoundpet.jpg" width="643" height="385" srcset="https://wiki.aa-classic.com/images/8/82/Wolfhoundpet.jpg 1.5x" loading="lazy"></span>
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/0/0c/Wolfhoundlocation.jpg/715px-Wolfhoundlocation.jpg" width="715" height="449" srcset="https://wiki.aa-classic.com/images/0/0c/Wolfhoundlocation.jpg 1.5x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/a8/a89c7715af45be77cdddfa28d5fe00cee3a6be02.jpg" width="643" height="385" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/c7/c7a2644576dce96618b4809583be189f0349bb9d.jpg" width="715" height="449" loading="lazy"></span>
 </p><p><br>
 </p>
 <h4 id="Rare"><b>Rare</b></h4>
-<p><span><img src="https://wiki.aa-classic.com/images/e/e6/Rareadventurer.png" width="742" height="49" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/74/743e7adda616bdbf67cf8cdfbc99c42cf7f0c2b0.png" width="742" height="49" loading="lazy"></span>
 </p>
 <p><b>REWARDS</b></p><blockquote><p><b>Ancestral Warrior Medal (x5)</b>
 </p><p><b>Activity Tokens (x25)</b>
@@ -73,7 +73,7 @@ f:"$Sreact.suspense"
 </p>
 <h5 id="United_We_Stand_2">United We Stand</h5>
 <p>Make a new family or join existing one. When creating a family and adding a member to the family players must buy Family Certificate from any General Merchant. Family tab is under Community (SHIFT +V) by default.
-</p><p><span><img src="https://wiki.aa-classic.com/images/f/f7/Familycertificate.png" width="199" height="47" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/be/beb95c5d9e8666145b2f019654f37a6fcebf2c97.png" width="199" height="47" loading="lazy"></span>
 </p>
 <h5 id="Hounded_to_Death">Hounded to Death</h5>
 <p>Kill Hound of Kyrios. Join a CR raid in the nation chat and complete this task by killing one of the big bosses that spawns after the mobs are dead.
@@ -86,7 +86,7 @@ f:"$Sreact.suspense"
 </p>
 <h5 id="Into_The_Dungeon">Into The Dungeon</h5>
 <p>Complete the "Greater Bounty: Ancient Titan Musperosa" Quest. The quests can be found on task boards outside the dungeon entrance. Port to Greater Howling Abyss and defeat the last boss.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/c/c4/Taskboard.png/429px-Taskboard.png" width="429" height="294" srcset="https://wiki.aa-classic.com/images/thumb/c/c4/Taskboard.png/644px-Taskboard.png 1.5x, https://wiki.aa-classic.com/images/c/c4/Taskboard.png 2x" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/33/338ca4a052ae4f26a861fc622073ce2fc3f68a6a.png" width="429" height="294" loading="lazy"></span>
 </p>
 <h5 id="The_Ultimate_Gliding_Experience">The Ultimate Gliding Experience</h5>
 <p>Craft an Ultimate Glider. <a href="/aac-hub/wiki/gliders">How to Make the Basic Glider</a> explains where to get all the designs for the crafting. Crafting happens at Carpentry Workbench. 
@@ -94,7 +94,7 @@ f:"$Sreact.suspense"
 </p><p><br>
 </p>
 <h4 id="Arcane">Arcane</h4>
-<p><span><img src="https://wiki.aa-classic.com/images/c/c5/Arcaneadventurer.png" width="746" height="52" loading="lazy"></span>
+<p><span><img src="/aac-hub/wiki-files/7c/7c4d0de1cf2fab6bed6ace1cebd881a9796f29fc.png" width="746" height="52" loading="lazy"></span>
 </p>
 <p><b>REWARDS</b></p><blockquote><p><b><a href="/aac-hub/wiki/currencies">Priceless Coin</a></b>
 </p><p><b><a href="/aac-hub/wiki/currencies">Warrior Medals</a> (x50)</b>
@@ -114,8 +114,8 @@ f:"$Sreact.suspense"
 <p>Obtain Hasla Emerald Weapon or Craft an Artic Earthstone.
 </p><p>Making a Hasla Weapon do check the <a href="/aac-hub/wiki/emerald-weapons">written guide here</a> or  <a rel="noopener" href="https://www.youtube.com/watch?v=maKy27wSVLI">IcyZinHD guide video</a>. 
 </p><p>Just for the Arctic Earthstone players need to kill few mobs in Hasla or Karkasse, buy Faded Hasla Fragment from NPC in <b>Hasla Abandoned Drill Camp</b> and then craft the stone to complete the mission.
-</p><p><span><img src="https://wiki.aa-classic.com/images/f/ff/Articstone.png" width="290" height="115" loading="lazy"></span>
-</p><p><span><img src="https://wiki.aa-classic.com/images/6/68/Researchersoa.png" width="734" height="240" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/6d/6d1c18d9067fcd5a5b439144f2169a1989dbfa41.png" width="290" height="115" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/0a/0a1e0f94a80d27eeedd3768038ae0ba83343d844.png" width="734" height="240" loading="lazy"></span>
 </p>
 <h5 id="A_Tale_of_Pristine_Jewelry">A Tale of Pristine Jewelry</h5>
 <p>Start Dream Ring or Ynys Ring questline. 
@@ -124,11 +124,11 @@ f:"$Sreact.suspense"
 </p>
 <h5 id="Bigger_is_Better">Bigger is Better</h5>
 <p>Craft a Clipper. The Clipper designs are sold in Gilda star hop for 50 gilda each. After nuying the design place the drydock in water and start building. The drydock needs variable amounts of lumber-, fabric-, and iron packs. Clipper Materials can be found in Folio (O by default) and crafted in Shipyard Workbench.
-</p><p><span><img src="https://wiki.aa-classic.com/images/c/c8/Clipperdesign.png" width="429" height="71" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/de/deaff85c22907fcefef45c78572e32066d85ff85.png" width="429" height="71" loading="lazy"></span>
 </p>
 <h5 id="Time_for_Work">Time for Work</h5>
 <p>Obtain a Territory Work Permit. This can be bough from the guild shop with Prestige. Community &gt; Guild &gt; Prestige Shop
-</p><p><span><img src="https://wiki.aa-classic.com/images/a/ab/Blankterritoryworkpermit.png" width="187" height="46" loading="lazy"></span>
+</p><p><span><img src="/aac-hub/wiki-files/56/5618ebcd28b5245bafe50362dda4a6f5a87bfa00.png" width="187" height="46" loading="lazy"></span>
 </p><p><br>
 </p>
 <h4 id="Heroic"><b>Heroic</b></h4>
@@ -167,12 +167,203 @@ f:"$Sreact.suspense"
 </p>
 <h2 id="Guides">Guides</h2>
 <p>Guides are miniguides for world events in the game. They tell the player where to go and who to talk to to start the quest in order to finish the event and get the rewards.
-</p><p><span><img src="https://wiki.aa-classic.com/images/thumb/e/ee/Guidesadventurer.png/625px-Guidesadventurer.png" width="625" height="412" srcset="https://wiki.aa-classic.com/images/e/ee/Guidesadventurer.png 1.5x" loading="lazy"></span>
-</p>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/new-players","className":"text-accent-2 hover:underline","children":"New Players"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Adventurer's Guide"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],"$L14"]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Adventurer's_Guide","className":"underline hover:text-text","children":["AAClassic wiki page “","Adventurer's Guide","”"]}]," ","(CC0), last edited ","Feb 28, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
-14:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","A_New_Adventure",{"className":"pl-3","children":["$","a",null,{"href":"#A_New_Adventure","className":"text-muted hover:text-accent","children":"A New Adventure"}]}],["$","li","Other_Paths",{"className":"","children":["$","a",null,{"href":"#Other_Paths","className":"text-muted hover:text-accent","children":"Other Paths"}]}],["$","li","Classic",{"className":"pl-3","children":["$","a",null,{"href":"#Classic","className":"text-muted hover:text-accent","children":"Classic"}]}],["$","li","Starfall",{"className":"pl-3","children":["$","a",null,{"href":"#Starfall","className":"text-muted hover:text-accent","children":"Starfall"}]}],["$","li","Guides",{"className":"","children":["$","a",null,{"href":"#Guides","className":"text-muted hover:text-accent","children":"Guides"}]}]]}]]}]}]
+</p><p><span><img src="/aac-hub/wiki-files/c2/c28b51ca87c8b3b449cb47b24319a981866ba882.png" width="625" height="412" loading="lazy"></span>
+</p>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/new-players","className":"text-accent-2 hover:underline","children":"New Players"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Adventurer's Guide"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],"$L15"]}]
+16:T1b9a,Adventurer's guide is new customly added tab in game. The Guide has Paths that are missions that need to be done in order to proceed to the next grade of missions. The mission are to help hew players navigate the game and see what kinda things are important at the get go.
+
+[[File:Adventurericon.png]]
+
+=== A New Adventure ===
+
+==== '''Grand''' ====
+[[File:Grand adventurer.png]]
+
+
+
+'''REWARDS'''<blockquote>'''Ancestral Warrior Medal (x5)'''
+
+'''[[Currencies|Activity Tokens]] (x50)'''
+
+'''<u>Epherium Cloak Kit</u>'''
+
+* '''Sealed Epherium Cloak'''
+* '''Unique Auroran Synthesis Sotne (x4)'''
+
+'''[[Currencies|Warrior Medals]] (x50)'''</blockquote>
+
+
+===== Achieve Lv50 =====
+Get to lvl 50 by doing green quests and by using Adventurers Growthstones. > [https://www.youtube.com/watch?v=CWrWQZDozk4 Hamiltons Guide for New Players]
+
+===== United We Stand =====
+Make a new guild or join an existing guild. Pressing default key SHIFT + V opens the Community tab and under it is guild tab. Pick a guild that suits your playstyle or make your on by talking to the Guild Manager.
+
+===== Reach 4000 Gearscore =====
+Get your gearscore to 4000 or more. After getting to lvl 50 the achievement rewards the player with the catch up set called Soulforged Armor and Hellkissed Weapons and equipping these should bring the player to 4k gearscore.
+
+===== Vocation Knowledge =====
+Reach 10,000 proficiency on any profession. Proficiencies are harvesting and crafting actions in the game. Can be found under Skills > usually K keybind.
+
+[[File:Profiociencyexample1.png|481x481px]]
+
+===== Till Its Like It Is =====
+Do enough Blue Salt Brotherhood quests to obtain Scarecrow Design. Guide for the questline here > [https://www.youtube.com/watch?v=PBCb4NqijDA Hamiltons Guide for Blue Salt Brotherhood Guestline] (both nations in same video!)
+
+===== Gotta Catch Em All =====
+Buy a Battle Pet. Battle Pets are animals or creatures that players can use to attack enemies to help with dps or combat in general. They can wear gear to better their stats. (Pokemon fights, lol.) 
+
+Battle Pets can be obtained from different places but the easiest being pet stand that sell each pet for 10 silver. Two easy battle pets mentioned here are Cats and Wolfhounds. They both cost 10 silver per pet. 
+
+'''Cat pet'''
+ 
+[[File:Petcatranch.png|590x590px]]
+
+[[File:Catpetlocation1.jpg|670x670px]]
+
+'''Wolfhound Pet'''
+
+[[File:Wolfhoundpet.jpg|643x643px]]
+
+[[File:Wolfhoundlocation.jpg|715x715px]]
+
+
+==== '''Rare''' ====
+[[File:Rareadventurer.png]]
+
+'''REWARDS'''<blockquote>'''Ancestral Warrior Medal (x5)'''
+
+'''Activity Tokens (x25)'''
+
+'''Honor Points (x10 000)'''
+
+'''Warrior Medals (x50)'''
+
+'''Scroll: Seaskimmer Speedboat (15d)'''</blockquote>
+
+
+===== Achieve Lv55 =====
+Keep leveling up with the quests and Adventurer Growthstones. After those are done start going to the daily events to gain experience. Guides for bosses in Guides tab of the Adventurers Guide.
+
+===== United We Stand =====
+Make a new family or join existing one. When creating a family and adding a member to the family players must buy Family Certificate from any General Merchant. Family tab is under Community (SHIFT +V) by default.
+
+[[File:Familycertificate.png]]
+
+===== Hounded to Death =====
+Kill Hound of Kyrios. Join a CR raid in the nation chat and complete this task by killing one of the big bosses that spawns after the mobs are dead.
+
+===== Vocation Knowledge 2 =====
+Reach 40,000 proficiency on any profession.
+
+===== Crop Whisperer =====
+Build a Scarecrow Farm. Follow Hamiltons guide in order to get both designs 8x8 and 16x16. [[New Player Housing|Land for new player]] can be found in Swirling Meadow and occasionally other places.
+
+===== Into The Dungeon =====
+Complete the "Greater Bounty: Ancient Titan Musperosa" Quest. The quests can be found on task boards outside the dungeon entrance. Port to Greater Howling Abyss and defeat the last boss.
+
+[[File:Taskboard.png|429x429px]]
+
+===== The Ultimate Gliding Experience =====
+Craft an Ultimate Glider. [[Gliders|How to Make the Basic Glider]] explains where to get all the designs for the crafting. Crafting happens at Carpentry Workbench. 
+
+
+
+
+==== Arcane ====
+[[File:Arcaneadventurer.png]]
+
+'''REWARDS'''<blockquote>'''[[Currencies|Priceless Coin]]'''
+
+'''[[Currencies|Warrior Medals]] (x50)'''
+
+'''Arctic Earthstone (x50)'''
+
+'''Bound Spellbook: Authority (x10)'''</blockquote>
+
+===== Abyssal Knowledge =====
+To access Abyssal skills for each skillset players must complete a quest related to the skillset. [[Abyssal Skills|Guide for Abyssal Skills.]]
+
+===== Reach 4500 Gearscore =====
+Keep watching Hamiltons video linked before. There is also written guide, [[Gearing Guide]].
+===== Vocation Knowledge 3 =====
+Reach 90,000 proficiency on any profession.
+
+===== Emerald Weaponsmith =====
+Obtain Hasla Emerald Weapon or Craft an Artic Earthstone.
+
+Making a Hasla Weapon do check the [[Emerald Weapons|written guide here]] or  [https://www.youtube.com/watch?v=maKy27wSVLI IcyZinHD guide video]. 
+
+Just for the Arctic Earthstone players need to kill few mobs in Hasla or Karkasse, buy Faded Hasla Fragment from NPC in '''Hasla Abandoned Drill Camp''' and then craft the stone to complete the mission.
+
+[[File:Articstone.png]]
+
+[[File:Researchersoa.png]]
+
+===== A Tale of Pristine Jewelry =====
+Start Dream Ring or Ynys Ring questline. 
+
+[https://www.ign.com/wikis/archeage/Dream_Ring Written guide for Dream Ring questline].
+
+[https://www.ign.com/wikis/archeage/Ynys_Guardian_Ring Written guide for Ynys Guardian Ring questline].
+===== Bigger is Better =====
+Craft a Clipper. The Clipper designs are sold in Gilda star hop for 50 gilda each. After nuying the design place the drydock in water and start building. The drydock needs variable amounts of lumber-, fabric-, and iron packs. Clipper Materials can be found in Folio (O by default) and crafted in Shipyard Workbench.
+
+[[File:Clipperdesign.png]]
+
+===== Time for Work =====
+Obtain a Territory Work Permit. This can be bough from the guild shop with Prestige. Community > Guild > Prestige Shop
+
+[[File:Blankterritoryworkpermit.png]]
+
+
+
+==== '''Heroic''' ====
+===== The Dread Necromancer =====
+Kill Anthalon. [[Anthalon]] is a world boss that spawns in Sungold Fields after Auroria Crimson Rift is done. X up in the nation for x Anth to join a raid. Check more info from the Guide for Crimson Rift (Auroria).
+
+===== Epic Regrading Journey =====
+Regrade gearpiece to Divine once.
+
+===== Cloaked in Divinity =====
+Collect Divine-grade Epherium Cloak.
+
+===== Theres No Price For This =====
+Obtain a Priceless Coin. [[Priceless Coins|How to get Priceless Coins?]]
+
+===== Blessed By Tahyang =====
+Rank 1st-4th in a Mistmerrow Battle.
+
+
+
+==== '''Unique''' ====
+Coming soon.
+
+
+
+==== '''Celestial''' ====
+Coming soon.
+
+
+
+== Other Paths ==
+
+=== Classic ===
+-
+
+
+=== Starfall ===
+-
+
+
+
+== Guides ==
+Guides are miniguides for world events in the game. They tell the player where to go and who to talk to to start the quest in order to finish the event and get the rewards.
+
+[[File:Guidesadventurer.png|625x625px]]13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$16"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Adventurer's_Guide","className":"underline hover:text-text","children":["AAClassic wiki page “","Adventurer's Guide","”"]}]," ","(CC0), last edited ","Feb 28, 2026",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+15:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","A_New_Adventure",{"className":"pl-3","children":["$","a",null,{"href":"#A_New_Adventure","className":"text-muted hover:text-accent","children":"A New Adventure"}]}],["$","li","Other_Paths",{"className":"","children":["$","a",null,{"href":"#Other_Paths","className":"text-muted hover:text-accent","children":"Other Paths"}]}],["$","li","Classic",{"className":"pl-3","children":["$","a",null,{"href":"#Classic","className":"text-muted hover:text-accent","children":"Classic"}]}],["$","li","Starfall",{"className":"pl-3","children":["$","a",null,{"href":"#Starfall","className":"text-muted hover:text-accent","children":"Starfall"}]}],["$","li","Guides",{"className":"","children":["$","a",null,{"href":"#Guides","className":"text-muted hover:text-accent","children":"Guides"}]}]]}]]}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-15:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Adventurer's Guide · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Adventurer's guide is new customly added tab in game. The Guide has Paths that are missions that need to be done in order to proceed to the next grade of missions. The mission are to help hew players navigate the game…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","3",{}]],"error":null,"digest":"$undefined"}
+17:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Adventurer's Guide · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"Adventurer's guide is new customly added tab in game. The Guide has Paths that are missions that need to be done in order to proceed to the next grade of missions. The mission are to help hew players navigate the game…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"

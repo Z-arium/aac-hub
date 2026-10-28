@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[9016,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
-3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-bcedc956657b52f7.js"],""]
+3:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","681","static/chunks/app/wiki/%5Bslug%5D/page-a258c05d2a6b97ea.js"],""]
 4:I[5258,["730","static/chunks/44530001-6a14ce924906b4cd.js","619","static/chunks/619-ba102abea3e3d0e4.js","650","static/chunks/650-1b08e0cdfdaf7376.js","177","static/chunks/app/layout-f8aaa461e25cae93.js"],"default"]
 5:I[9766,[],""]
 6:I[8924,[],""]
@@ -10,9 +10,9 @@ c:I[4431,[],"ViewportBoundary"]
 e:I[4431,[],"MetadataBoundary"]
 f:"$Sreact.suspense"
 11:I[7150,[],""]
-:HL["/aac-hub/_next/static/css/44a25b4719d43eca.css","style"]
-0:{"P":null,"b":"NyepoifsXeEn4cNfjiZz9","p":"/aac-hub","c":["","wiki","archery",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","archery","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/44a25b4719d43eca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","archery","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:T21e2,<p>// Class overview
+:HL["/aac-hub/_next/static/css/ece186bd33b513c0.css","style"]
+0:{"P":null,"b":"L4C-9DTPirSUpXNkF1T_A","p":"/aac-hub","c":["","wiki","archery",""],"i":false,"f":[[["",{"children":["wiki",{"children":[["slug","archery","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aac-hub/_next/static/css/ece186bd33b513c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen antialiased","children":["$","$L2",null,{"children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"text-lg font-bold tracking-tight","children":[["$","span",null,{"className":"text-accent","children":"AA"}]," Classic Hub"]}],["$","nav",null,{"className":"flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted","children":[["$","$L3","/guides",{"href":"/guides","className":"hover:text-text","children":"Guides"}],["$","$L3","/wiki",{"href":"/wiki","className":"hover:text-text","children":"Wiki"}],["$","$L3","/timers",{"href":"/timers","className":"hover:text-text","children":"Timers"}],["$","$L3","/tools",{"href":"/tools","className":"hover:text-text","children":"Tools"}],["$","$L3","/database",{"href":"/database","className":"hover:text-text","children":"Database"}],["$","$L3","/videos",{"href":"/videos","className":"hover:text-text","children":"Videos"}]]}],["$","$L4",null,{}]]}]}],["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-16 border-t border-line py-8 text-sm text-muted","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-2 px-4","children":[["$","p",null,{"children":"A fan-made site for ArcheAge Classic. Not affiliated with the AAClassic team, XLGames or Kakao Games."}],["$","p",null,{"children":["Game data comes from the"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://wiki.aa-classic.com/Main_Page","children":"AAClassic wiki"}]," ","and the official"," ",["$","a",null,{"className":"underline hover:text-text","href":"https://aa-classic.com/timers","children":"timers page"}],". Spot a mistake? Times are in server time (US Eastern)."]}]]}]}]]}]}]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","archery","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:T226f,<p>// Class overview
 </p>
 
 <h2 id="List_Of_Skills">List Of Skills</h2>
@@ -32,7 +32,7 @@ f:"$Sreact.suspense"
 <tr>
 <td>1
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/1/14/Charged_Bolt_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/32/32bd64fc7e32fe6ae7dfd4ac196619b4ceb0ee28.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Charged Bolt
 </td>
@@ -49,7 +49,7 @@ Bubble Trapped targets are <a href="/aac-hub/wiki/status-effects#StunStunned">St
 <tr>
 <td>3
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/5/5e/Piercing_Shot_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/d6/d682ef7151430b8f9b036e6226036c10deb473c2.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Piercing Shot
 </td>
@@ -65,7 +65,7 @@ Increases severity of <a href="/aac-hub/wiki/status-effects#Slow">Slow</a> effec
 <tr>
 <td>10
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/3/34/Endless_Arrows_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/7b/7bdf46a64135f8abaf1b445af82802c7172ac344.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Endless Arrows
 </td>
@@ -81,7 +81,7 @@ Increases severity of <a href="/aac-hub/wiki/status-effects#Slow">Slow</a> effec
 <tr>
 <td>15
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/3/30/Double_Recurve_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/ec/ecea08de08161ae92e71884951c5554666ddf2e1.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Double Recurve
 </td>
@@ -95,7 +95,7 @@ Lasts 10sec.
 <tr>
 <td>20
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/a/a9/Deadeye_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/56/56687941123012320dd6aacb8ac9de481ca5d163.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Deadeye
 </td>
@@ -109,7 +109,7 @@ Lasts 10sec.
 <tr>
 <td>25
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/2/29/Snare_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/cc/cc7eb00f1f2f33e42ddc25df7536f4d04927a74d.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Snare
 </td>
@@ -123,7 +123,7 @@ Duration of <a href="/aac-hub/wiki/status-effects#Snare">Snare</a> decreases -50
 <tr>
 <td>30
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/9/9b/Float_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/0d/0d8a5c90f2c40693ecd4c5f5578cebcdbae4b151.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Float
 </td>
@@ -139,7 +139,7 @@ Prevents the use of skills with cast times.
 <tr>
 <td>35
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/f/fc/Boneyard_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/8d/8d33287c38a1d5ec18644947f76ea2cb330ba4b1.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Boneyard
 </td>
@@ -153,7 +153,7 @@ The bone prison disappears in 10 seconds if not destroyed.
 <tr>
 <td>40
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/f/fe/Concussive_Arrow_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/4c/4cdb0db16ce618eec0089c2dcebf29c2103dab58.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Concussive Arrow
 </td>
@@ -169,7 +169,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>45
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/a/a1/Missile_Rain_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/96/96d02d021a3fc7dbb28763625ee86cfaa4116a28.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Missile Rain
 </td>
@@ -180,7 +180,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>50
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/d/dc/Intensity_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/ad/adc020c6b04b59c15f87eb1cdf430754bc90e326.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Intensity
 </td>
@@ -191,7 +191,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>55
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/6/6b/Snipe_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/b1/b1656bc40477b1bd54efc1fec286c796d2a8eab2.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Snipe
 </td>
@@ -215,7 +215,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>2
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/d/df/Wild_Instincts_Icons.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/3f/3f5552ae9c0f07142e4869d359b601f318a91d84.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Wild Instincts
 </td>
@@ -224,7 +224,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>4
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/f/fc/Eagle_Eyes_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/3e/3eeec08b4b96a7e7d231e63c0c885ece3418ce73.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Eagle Eyes
 </td>
@@ -233,7 +233,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>6
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/7/78/Archery_Expertise_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/e6/e6bfcea4c3a1b90cc56407fa9bb6ae2056a11f0c.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Archery Expertise
 </td>
@@ -242,7 +242,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>7
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/b/b4/Evasion_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/01/01615fe2403afe3fc979f684fc0a294bccf3da78.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Evasion
 </td>
@@ -251,7 +251,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>8
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/1/10/Marksman_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/0c/0cb124f51c0e42774fa066d097597679b4dfdeec.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Marksman
 </td>
@@ -260,7 +260,7 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>9
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/7/7f/Sharpshooting_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/56/56176c3c6f1c7bf8f83f74b28a0f7cf7f3f4fa6e.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Sharpshooting
 </td>
@@ -276,16 +276,181 @@ Cannot be Evaded, Blocked or Parried.
 <tr>
 <td>10
 </td>
-<td><span><img src="https://wiki.aa-classic.com/images/c/ce/Feral_Claws_Icon.png" width="48" height="48" loading="lazy"></span>
+<td><span><img src="/aac-hub/wiki-files/f7/f79017a257c4a97ccc444ee1c2c7a82b89390740.png" width="48" height="48" loading="lazy"></span>
 </td>
 <td>Feral Claws
 </td>
 <td>Increases Archery skill damage +15%
-</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold","children":"Archery"}],["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}],"$L14"]}]
-13:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Archery","className":"underline hover:text-text","children":["AAClassic wiki page “","Archery","”"]}]," ","(CC0), last edited ","May 18, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
-14:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","List_Of_Skills",{"className":"","children":["$","a",null,{"href":"#List_Of_Skills","className":"text-muted hover:text-accent","children":"List Of Skills"}]}],["$","li","Active_Skills",{"className":"pl-3","children":["$","a",null,{"href":"#Active_Skills","className":"text-muted hover:text-accent","children":"Active Skills"}]}],["$","li","Passive_Skills",{"className":"pl-3","children":["$","a",null,{"href":"#Passive_Skills","className":"text-muted hover:text-accent","children":"Passive Skills"}]}]]}]]}]}]
+</td></tr></tbody></table>7:["$","div",null,{"className":"grid gap-8 lg:grid-cols-[1fr_16rem]","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L3",null,{"href":"/wiki","className":"text-accent-2 hover:underline","children":"Wiki"}]," / ",["$","$L3",null,{"href":"/wiki/category/classes-and-skills","className":"text-accent-2 hover:underline","children":"Classes & Skills"}]]}],["$","h1",null,{"className":"mt-3 text-3xl font-bold break-words","children":"Archery"}],false,["$","div",null,{"className":"prose-guide prose-wiki mt-6","dangerouslySetInnerHTML":{"__html":"$12"}}],false,"$L13","$L14"]}],"$L15"]}]
+16:T14ef,// Class overview
+
+== List Of Skills ==
+
+=== Active Skills ===
+{| class="wikitable"
+!Level
+!Icon
+!Skill
+!Description
+!Combos
+|-
+|1
+|[[File:Charged Bolt Icon.png|frameless]]
+|Charged Bolt
+|Fires a charged arrow at an enemy dealing Ranged Damage and [[Status Effects#Slow|Slowing]] Move Speed for 2.5sec.
+The skill cannot be evaded, blocked or parried.
+Damage is reduced by 20% if the target is within 8 meters.
+|Inflicts an additional +36% damage on [[Status Effects#StunStunned|Stunned]] targets.
+Slowed targets are [[Status Effects#Stun|Stunned]].
+Bubble Trapped targets are [[Status Effects#StunStunned|Stunned]] and pushed back.
+|-
+|3
+|[[File:Piercing Shot Icon.png|frameless]]
+|Piercing Shot
+|Fires a serrated arrow, dealing initial Ranged Damage and then Inflicting [[Status Effects#Bleed|Bleeding]] for Magic Damage over 14sec.
+Damage is reduced by 20% if the target is within 8 meters.
+|Increases severity of [[Status Effects#Bleed|Bleed]] on targets.
+Inflicts additional +27% damage over time on [[Status Effects#Poison|Poisoned]] targets.
+Increases severity of [[Status Effects#Slow|Slow]] effects on targets.
+|-
+|10
+|[[File:Endless Arrows Icon.png|frameless]]
+|Endless Arrows
+|Fires arrows that deal 52% of Ranged Attack as damage.
+Damage is reduced by 20% if the target is within 8 meters.
+''Does not trigger global cooldown, hold down for continuous use.''
+|Inflicts additional +24% damage on [[Status Effects#Slow|Slowed]] targets.
+Deals +33% additional damage to [[Status Effects#Poison|Poisoned]] targets.
+|-
+|15
+|[[File:Double Recurve Icon.png|frameless]]
+|Double Recurve
+|Increases Ranged Critical Rate +7%.
+Allows you to use Concussive Arrow without cast time.
+Lasts 10sec.
+|For duration, allows for use of Concussive Arrow while under the effects of Float.
+|-
+|20
+|[[File:Deadeye Icon.png|frameless]]
+|Deadeye
+|Standing still for 1 second or more temporarily increases Ranged Attack by +20.
+Deadeye buff lasts for 60 seconds,  but bonus damage ends with movement.
+''Does not trigger global cooldown.''
+| -
+|-
+|25
+|[[File:Snare Icon.png|frameless]]
+|Snare
+|Removes all [[Status Effects#Shackle|Shackle]] effects from the caster and inflicts [[Status Effects#Snare|Snare]] on enemies in a 5m area for 5.9sec.
+Reduces targets' Evasion, Block and Parry rates.
+Duration of [[Status Effects#Snare|Snare]] decreases -50% in PvP
+|Gains up to 30m of range if used while under the effects of Float.
+|-
+|30
+|[[File:Float Icon.png|frameless]]
+|Float
+|Lifts caster into the air for 12sec.
+Increases ranged skill range +7m and damage +30%, but prevents Defence and Magic Defence from reducing received damage.
+Prevents movement; cancelled again by using again.
+Can't be used while [[Status Effects#Snare|Snared]]
+Prevents the use of skills with cast times.
+| -
+|-
+|35
+|[[File:Boneyard Icon.png|frameless]]
+|Boneyard
+|Inflicts Ranged Damage on a target and all surrounding enemies within a 5m radius, confining them all in a Bone Prison.
+''Interrupts'' the target.
+The bone prison disappears in 10 seconds if not destroyed.
+| -
+|-
+|40
+|[[File:Concussive Arrow Icon.png|frameless]]
+|Concussive Arrow
+|Fires an arrow that explodes on contact, dealing Ranged damage and [[Status Effects#Shackle|Shackling]] all enemies within 6m of the target for 3.5sec.
+Interrupts the target.
+Cannot be Evaded, Blocked or Parried.
+|Inflicts an additional +51% damage on targets under the effects of Feral Aura.
+Gain a +40% bonus to your Defence Penetration for each rank of [[Status Effects#Bleed|Bleeding]] on the target.
+|-
+|45
+|[[File:Missile Rain Icon.png|frameless]]
+|Missile Rain
+|Showers a target area with arrows to deal Ranged Damage
+| -
+|-
+|50
+|[[File:Intensity Icon.png|frameless]]
+|Intensity
+|Gradually increases Ranged Critical Rate over 15sec. Grants immunity to [[Status Effects#Fear|Fear]]
+| -
+|-
+|55
+|[[File:Snipe Icon.png|frameless]]
+|Snipe
+|Shoots a powerful arrow of light at a chosen target, dealing Ranged Damage to it and all enemies in the arrows path.
+Enemies damaged by snipe are immune to it for 6 seconds.
+|Snared targets are [[Status Effects#Trip|Tripped]].
+|}
+
+=== Passive Skills ===
+{| class="wikitable"
+!Required Points
+!Icon
+!Skill
+!Description
+|-
+|2
+|[[File:Wild Instincts Icons.png|frameless]]
+|Wild Instincts
+|Increases Movement Speed +8%.
+|-
+|4
+|[[File:Eagle Eyes Icon.png|frameless]]
+|Eagle Eyes
+|Increases Ranged Accuracy +5% and Ranged Critical Rate +5%.
+|-
+|6
+|[[File:Archery Expertise Icon.png|frameless]]
+|Archery Expertise
+|Decreases cooldown for Piercing Shot, Charged Bolt, Stalkers Mark, Missile Rain, Toxic Shot and Snipe skills -10%.
+|-
+|7
+|[[File:Evasion Icon.png|frameless]]
+|Evasion
+|Increases Evasion +10%
+|-
+|8
+|[[File:Marksman Icon.png|frameless]]
+|Marksman
+|Increases range of all bow skills 5m. Increases Ranged Damage +17%
+|-
+|9
+|[[File:Sharpshooting Icon.png|frameless]]
+|Sharpshooting
+|Increases Ranged Critical rate +3% and Ranged Critical Damage +15%. Deadeye and Float now grant the Feral Mark buff,
+allowing the caster to inflict Feral Aura on enemies with each attack.
+
+Feral Aura:
+
+- Reduces the target's Defence -40 per stack.
+
+- Reduces the target's Evasion, Block, and Parry rates -0/5% per stack.
+
+- Explodes at max stacks, dealing damage and tripping the target.
+
+- Stacks up to 30 times.
+|-
+|10
+|[[File:Feral Claws Icon.png|frameless]]
+|Feral Claws
+|Increases Archery skill damage +15%
+|}
+__FORCETOC__13:["$","details",null,{"className":"mt-10 rounded-lg border border-line bg-panel","children":[["$","summary",null,{"className":"cursor-pointer px-4 py-2 text-sm text-muted hover:text-text","children":"View wiki source"}],["$","pre",null,{"className":"max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap","children":"$16"}]]}]
+14:["$","footer",null,{"className":"mt-10 border-t border-line pt-4 text-sm text-muted","children":["$","p",null,{"children":["From the"," ",["$","a",null,{"href":"https://wiki.aa-classic.com/Archery","className":"underline hover:text-text","children":["AAClassic wiki page “","Archery","”"]}]," ","(CC0), last edited ","May 18, 2024",". Spot something wrong? Fix it on the wiki and it will show up here on the next refresh."]}]}]
+15:["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20 rounded-xl border border-line bg-panel p-4 text-sm","children":[["$","h2",null,{"className":"mb-2 font-semibold","children":"On this page"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","List_Of_Skills",{"className":"","children":["$","a",null,{"href":"#List_Of_Skills","className":"text-muted hover:text-accent","children":"List Of Skills"}]}],["$","li","Active_Skills",{"className":"pl-3","children":["$","a",null,{"href":"#Active_Skills","className":"text-muted hover:text-accent","children":"Active Skills"}]}],["$","li","Passive_Skills",{"className":"pl-3","children":["$","a",null,{"href":"#Passive_Skills","className":"text-muted hover:text-accent","children":"Passive Skills"}]}]]}]]}]}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:null
-15:I[622,[],"IconMark"]
-b:{"metadata":[["$","title","0",{"children":"Archery · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"// Class overview List Of Skills Active Skills Level Icon Skill Description Combos 1 Charged Bolt Fires a charged arrow at an enemy dealing Ranged Damage and Slowing Move Speed for 2.5sec. The skill cannot be evaded,…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","3",{}]],"error":null,"digest":"$undefined"}
+17:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Archery · Wiki | AA Classic Hub"}],["$","meta","1",{"name":"description","content":"// Class overview List Of Skills Active Skills Level Icon Skill Description Combos 1 Charged Bolt Fires a charged arrow at an enemy dealing Ranged Damage and Slowing Move Speed for 2.5sec. The skill cannot be evaded,…"}],["$","link","2",{"rel":"icon","href":"/aac-hub/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","3",{}]],"error":null,"digest":"$undefined"}
 10:"$b:metadata"
