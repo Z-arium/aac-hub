@@ -145,7 +145,7 @@ function Profile({ userId, email }: { userId: string; email?: string }) {
       </form>
       <div className="space-y-4 rounded-xl border border-line bg-panel p-6">
         <h2 className="font-semibold">Your data</h2>
-        <p className="text-sm text-muted">Your daily and weekly checklist and timer alert settings are saved to your account and follow you to any device you sign in on.</p>
+        <p className="text-sm text-muted">Your daily and weekly checklist, timer alert settings and saved builds are saved to your account and follow you to any device you sign in on.</p>
         <div className="flex flex-wrap gap-3">
           <button className={button} onClick={() => supabase!.auth.signOut()}>
             Sign out

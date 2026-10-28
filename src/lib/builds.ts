@@ -72,19 +72,5 @@ export interface SavedBuild {
   saved: number;
 }
 
-const STORAGE_KEY = "aac-builds";
-
-export function loadSavedBuilds(): SavedBuild[] {
-  try {
-    const list = JSON.parse(localStorage.getItem(STORAGE_KEY) ?? "[]");
-    return Array.isArray(list) ? list : [];
-  } catch {
-    return [];
-  }
-}
-
-export function storeSavedBuilds(list: SavedBuild[]) {
-  try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
-  } catch {}
-}
+/** Browser storage key for saved builds; synced to the account when signed in. */
+export const SAVED_BUILDS_KEY = "aac-builds";
