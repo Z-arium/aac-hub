@@ -46,9 +46,16 @@ export function videoIds(text) {
 
 // "ArcheAge Classic" is the aa-classic.com server. Official ArcheAge, Unchained,
 // ArcheAge War, ArcheAge 2 and the Korean classic servers are other games.
-const CLASSIC = /archeage\s*classic|\baa\s*-?\s*classic\b|aa-classic\.com/i;
+// Russian and Korean titles are left out too: the site is in English, and
+// 4game's Russian "ArcheAge Classic" is a different server.
+const CLASSIC = /archeage\s*classic|aa-?classic\b|aa-classic\.com/i;
+// "AA Classic" alone is also a furniture shop, so it needs ArcheAge words nearby.
+const AA_CLASSIC = /\baa\s+classic\b/i;
 const ARCHEAGE = /archeage|\baa\b/i;
-const OTHER = /unchained|archeage\s*(?:war|2\b|ii\b|chronicles|begins|mobile)|aa\s*war|\bkakao\b|[가-힯]/i;
+const GAME =
+  /archeage|gilda|siege|labor|haranya|nuia|auroria|ayanad|mistmerrow|kraken|anthalon|hiram|regrade|trade ?pack|pvp|pve|glider/i;
+const OTHER = /unchained|archeage\s*(?:war|2\b|ii\b|chronicles|begins|mobile)|aa\s*war|\bkakao\b|classic\s*3\.5/i;
+const FOREIGN = /[\u0400-\u04ff\uac00-\ud7af]/;
 
 /**
  * Whether a video is about ArcheAge Classic. A video from a known Classic
@@ -56,8 +63,11 @@ const OTHER = /unchained|archeage\s*(?:war|2\b|ii\b|chronicles|begins|mobile)|aa
  */
 export function isClassic({ title, description = "" }, fromKnownChannel = false) {
   const text = `${title}\n${description}`;
-  if (OTHER.test(title)) return false;
-  if (CLASSIC.test(text)) return !OTHER.test(text) || CLASSIC.test(title);
+  if (OTHER.test(title) || FOREIGN.test(title)) return false;
+  const named =
+    CLASSIC.test(text) ||
+    (AA_CLASSIC.test(text) && (fromKnownChannel || GAME.test(text.replace(AA_CLASSIC, ""))));
+  if (named) return !OTHER.test(text) || CLASSIC.test(title) || AA_CLASSIC.test(title);
   return fromKnownChannel && ARCHEAGE.test(title) && !OTHER.test(text);
 }
 
