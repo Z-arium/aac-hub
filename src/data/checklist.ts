@@ -18,7 +18,30 @@ export interface ChecklistTask {
   wiki?: string;
   /** Slug of one of our guides. */
   guide?: string;
+  /** Ids of scheduled events in schedule.ts; the task shows the next start. */
+  events?: string[];
+  /** Where it falls in the day's route. Set from ROUTE below. */
+  phase: Phase;
 }
+
+export type Phase = "start" | "scheduled" | "rifts" | "anytime";
+
+export const PHASES: { id: Phase; name: string; blurb: string }[] = [
+  { id: "start", name: "Start of day", blurb: "Log in and get the quick ones going first." },
+  { id: "scheduled", name: "Scheduled events", blurb: "Sorted by what starts next, in your local time." },
+  { id: "rifts", name: "Rifts", blurb: "Run every 4 real hours on the in-game clock. Watch faction chat for \"x cr\", \"x gr\", \"x ws\"." },
+  { id: "anytime", name: "Between events", blurb: "Fill the gaps with these." },
+];
+
+// The order of a well-planned day. Every task id appears exactly once.
+const ROUTE: Record<Phase, string[]> = {
+  start: ["login", "aaa", "guild-start", "experia", "colonize", "ds-construction", "ahnimar", "meals", "farmhouse", "tradesman", "proficiency"],
+  scheduled: ["mistmerrow", "kadum", "halcyona", "luscas", "abyssal", "ghost-ship-daily", "ghost-ship", "large-boss"],
+  rifts: ["cr", "cr-hound", "anthalon", "crimson-threat", "gr", "gr-bosses", "whalesong", "aegis", "ocleera", "comet"],
+  anytime: ["blue-salt", "ocean-ghosts", "seabugs", "jola", "meina", "glenn", "minor-boss", "guild-boss", "defend", "library-1", "library-2", "library-3", "ayanad-agent", "library", "dungeons", "arena", "bloodbath", "fish-market"],
+};
+
+type TaskData = Omit<ChecklistTask, "phase">;
 
 export interface ChecklistCategory {
   id: string;
@@ -27,6 +50,7 @@ export interface ChecklistCategory {
 }
 
 export const CATEGORIES: ChecklistCategory[] = [
+  { id: "routine", name: "Daily routine", blurb: "The first things to do each day." },
   { id: "rifts", name: "Rifts & PvE events", blurb: "Honor, Leadership and Gilda from the raids that run all day." },
   { id: "pvp", name: "PvP", blurb: "Honor, Warrior Medals and Leadership." },
   { id: "gilda", name: "Gilda Stars", blurb: "Daily quests that pay Gilda Stars." },
@@ -36,7 +60,11 @@ export const CATEGORIES: ChecklistCategory[] = [
   { id: "tokens", name: "Activity Tokens", blurb: "The daily merit quest, and weekly quests you pick up on one day and finish any time that week." },
 ];
 
-const DAILY: ChecklistTask[] = [
+const DAILY: TaskData[] = [
+  // Daily routine
+  { id: "login", category: "routine", label: "Log in and claim your login reward", note: "Daily Schedule (bottom right), Login Tracker tab", wiki: "user-interface" },
+  { id: "guild-start", category: "routine", label: "Start your guild missions", note: "Prestige and guild XP. Needs a guild", wiki: "prestige", guide: "guild-missions" },
+
   // Rifts & PvE
   { id: "cr", category: "rifts", label: "Crimson Rift", note: "Recruiter at the rift. 3 waves (Crimson Omens): 1,000 Honor and 10 Leadership", gilda: 3, wiki: "world-events", guide: "daily-world-events" },
   { id: "cr-hound", category: "rifts", label: "Crimson Rift: kill a Hound of Kyrios", note: "Also 2 Clear Synthium Shards and 7 Growthstones", gilda: 3, wiki: "gilda-star", guide: "daily-world-events" },
@@ -49,11 +77,11 @@ const DAILY: ChecklistTask[] = [
   { id: "comet", category: "rifts", label: "Comet Rift (Starfall)", note: "3 rift stages, then the Undying Flame. Comet Shards", wiki: "starfall", guide: "daily-world-events" },
 
   // PvP
-  { id: "mistmerrow", category: "pvp", label: "Mistmerrow", note: "Entry quests at the capital portal, then the towers. 10 Leadership", wiki: "world-events", guide: "daily-world-events" },
-  { id: "kadum", category: "pvp", label: "Mistmerrow: gates and Kadum", note: "After the battle, from the NPCs in the middle", gilda: 4, wiki: "world-events", guide: "daily-world-events" },
-  { id: "halcyona", category: "pvp", label: "Halcyona War", note: "10 enemy kills (shared in a raid). 10 Leadership", wiki: "world-events", guide: "daily-world-events" },
-  { id: "luscas", category: "pvp", label: "Luscas Awakening", note: "Seamist Researcher at Ezi's Light. Kill 5 Lusca for another Gilda", gilda: 2, wiki: "world-events", guide: "daily-world-events" },
-  { id: "abyssal", category: "pvp", label: "Abyssal Attack", note: "Abyssal Attack Recruiter: Becoming a Seaknight and Stopping Doomsday", wiki: "abyssal-attack", guide: "daily-world-events" },
+  { id: "mistmerrow", category: "pvp", label: "Mistmerrow", note: "Entry quests at the capital portal, then the towers. 10 Leadership", wiki: "world-events", guide: "daily-world-events", events: ["mistmerrow"] },
+  { id: "kadum", category: "pvp", label: "Mistmerrow: gates and Kadum", note: "After the battle, from the NPCs in the middle", gilda: 4, wiki: "world-events", guide: "daily-world-events", events: ["mistmerrow"] },
+  { id: "halcyona", category: "pvp", label: "Halcyona War", note: "10 enemy kills (shared in a raid). 10 Leadership", wiki: "world-events", guide: "daily-world-events", events: ["halcyona"] },
+  { id: "luscas", category: "pvp", label: "Luscas Awakening", note: "Seamist Researcher at Ezi's Light. Kill 5 Lusca for another Gilda", gilda: 2, wiki: "world-events", guide: "daily-world-events", events: ["luscas"] },
+  { id: "abyssal", category: "pvp", label: "Abyssal Attack", note: "Abyssal Attack Recruiter: Becoming a Seaknight and Stopping Doomsday", wiki: "abyssal-attack", guide: "daily-world-events", events: ["abyssal-attack"] },
   { id: "arena", category: "pvp", label: "Arena: Blood, Sweat, and Training", note: "Gladiator Arena Manager in Marianople, Austera, Seachild Wharf, Caernord or Growlgate. Fight one arena match" },
 
   // Gilda Stars
@@ -68,11 +96,11 @@ const DAILY: ChecklistTask[] = [
   { id: "ocean-ghosts", category: "gilda", label: "Ghosts from the Depths", note: "Any Archeologist. Sink a roaming ghost ship", gilda: 1, guide: "gilda-stars" },
 
   // World bosses
-  { id: "ghost-ship-daily", category: "bosses", label: "Delphinad Ghost Ship", note: "Ghost Ships of Delphinad, from any Archeologist", gilda: 3, wiki: "world-bosses", guide: "gilda-stars" },
+  { id: "ghost-ship-daily", category: "bosses", label: "Delphinad Ghost Ship", note: "Ghost Ships of Delphinad, from any Archeologist", gilda: 3, wiki: "world-bosses", guide: "gilda-stars", events: ["delphinad-ghost-ship"] },
   { id: "jola", category: "bosses", label: "The Prophecy: Jola", gilda: 3, wiki: "gilda-star", guide: "gilda-stars" },
   { id: "meina", category: "bosses", label: "The Prophecy: Meina", gilda: 3, wiki: "gilda-star", guide: "gilda-stars" },
   { id: "glenn", category: "bosses", label: "The Prophecy: Glenn", gilda: 3, wiki: "gilda-star", guide: "gilda-stars" },
-  { id: "large-boss", category: "bosses", label: "Large world boss kill quest", note: "Rangora, Nazar, Morpheus, Hanure and others", gilda: 3, wiki: "gilda-star", guide: "gilda-stars" },
+  { id: "large-boss", category: "bosses", label: "Large world boss kill quest", note: "Rangora, Nazar, Morpheus, Hanure and others", gilda: 3, wiki: "gilda-star", guide: "gilda-stars", events: ["red-dragon", "kraken", "berserker"] },
   { id: "minor-boss", category: "bosses", label: "Minor world boss kill quests", note: "1 Gilda each", gilda: 1, wiki: "gilda-star", guide: "gilda-stars" },
 
   // Library & dungeons
@@ -85,14 +113,14 @@ const DAILY: ChecklistTask[] = [
   // Guild
   { id: "colonize", category: "guild", label: "Colonizing Auroria", note: "Craft an Archeum bundle and deliver it in your Diamond Shores base", wiki: "prestige", guide: "guild-missions" },
   { id: "defend", category: "guild", label: "Defending Auroria", note: "Destroy an Alemine bunker with the harpoon cannons", wiki: "prestige", guide: "guild-missions" },
-  { id: "experia", category: "guild", label: "Gather Experia patches", wiki: "prestige", guide: "guild-missions" },
+  { id: "experia", category: "guild", label: "Gather Experia patches", note: "Harvest the patches you planted yesterday, then replant for tomorrow", wiki: "prestige", guide: "guild-missions" },
   { id: "guild-boss", category: "guild", label: "Guild mission: kill a world boss", wiki: "prestige", guide: "guild-missions" },
 
   // Activity Tokens
   { id: "aaa", category: "tokens", label: "Active Adventurers Appreciated", note: "Daily merit quest: spend labor on a profession", tokens: 5, wiki: "active-adventurers-appreciated", guide: "weekly-activity-tokens" },
 ];
 
-const WEEKLY: ChecklistTask[] = WEEKLY_TOKEN_EVENTS.map((e) => ({
+const WEEKLY: TaskData[] = WEEKLY_TOKEN_EVENTS.map((e) => ({
   id: e.id,
   category: "tokens",
   label: e.name,
@@ -101,9 +129,18 @@ const WEEKLY: ChecklistTask[] = WEEKLY_TOKEN_EVENTS.map((e) => ({
   tokens: e.tokens,
   wiki: "activity-tokens",
   guide: "weekly-activity-tokens",
+  ...(e.id === "ghost-ship" && { events: ["delphinad-ghost-ship"] }),
 }));
 
-export const TASKS: ChecklistTask[] = [...DAILY, ...WEEKLY];
+const ORDER = (Object.keys(ROUTE) as Phase[]).flatMap((phase) => ROUTE[phase].map((id) => ({ id, phase })));
+
+/** Every task, in route order. */
+export const TASKS: ChecklistTask[] = ORDER.map(({ id, phase }) => {
+  const task = [...DAILY, ...WEEKLY].find((t) => t.id === id);
+  if (!task) throw new Error(`ROUTE names unknown checklist task ${id}`);
+  return { ...task, phase };
+});
+if (TASKS.length !== DAILY.length + WEEKLY.length) throw new Error("A checklist task is missing from ROUTE");
 
 /** What sits in "Main" until someone picks their own. */
-export const DEFAULT_PINNED = ["aaa", "cr", "gr", "mistmerrow", ...WEEKLY.map((t) => t.id)];
+export const DEFAULT_PINNED = ["login", "aaa", "guild-start", "cr", "gr", "mistmerrow", "halcyona", ...WEEKLY.map((t) => t.id)];

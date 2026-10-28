@@ -3,9 +3,10 @@
 import Link from "next/link";
 import { useState } from "react";
 import { useNow } from "@/components/UpcomingTimers";
-import { dailyResetKey, nextDailyReset } from "@/lib/time";
+import { dailyResetKey, formatCountdown, formatLocal, nextDailyReset, nextOccurrence } from "@/lib/time";
 import { useSynced } from "@/lib/sync";
-import { CATEGORIES, DEFAULT_PINNED, TASKS, type ChecklistTask } from "@/data/checklist";
+import { CATEGORIES, DEFAULT_PINNED, PHASES, TASKS, type ChecklistTask } from "@/data/checklist";
+import { EVENTS } from "@/data/schedule";
 
 interface Settings {
   pinned: string[];
@@ -21,6 +22,13 @@ function weeklyKey(now: number, resetDay: number) {
   const back = (day.getUTCDay() - resetDay + 7) % 7;
   day.setUTCDate(day.getUTCDate() - back);
   return day.toISOString().slice(0, 10);
+}
+
+/** When the task's next scheduled event starts, if it has one. */
+function nextStart(task: ChecklistTask, now: number | null) {
+  if (!now || !task.events) return null;
+  const times = EVENTS.filter((e) => task.events!.includes(e.id)).map((e) => nextOccurrence(e, now).at);
+  return times.length ? Math.min(...times) : null;
 }
 
 function toggleIn(list: string[], id: string) {
@@ -52,8 +60,19 @@ function Badges({ task }: { task: ChecklistTask }) {
   );
 }
 
+function NextTime({ task, now }: { task: ChecklistTask; now: number | null }) {
+  const at = nextStart(task, now);
+  if (!at || !now) return null;
+  return (
+    <span className="mt-0.5 block text-xs text-accent-2">
+      Next: {formatLocal(at)} (in {formatCountdown(at - now)})
+    </span>
+  );
+}
+
 interface RowProps {
   task: ChecklistTask;
+  now: number | null;
   done: boolean;
   onToggle: () => void;
   editing: boolean;
@@ -63,7 +82,7 @@ interface RowProps {
   onHide: () => void;
 }
 
-function Row({ task, done, onToggle, editing, pinned, hidden, onPin, onHide }: RowProps) {
+function Row({ task, now, done, onToggle, editing, pinned, hidden, onPin, onHide }: RowProps) {
   return (
     <li className={`flex items-start gap-3 px-4 py-3 hover:bg-panel-2 ${hidden ? "opacity-50" : ""}`}>
       <label className="flex flex-1 cursor-pointer items-start gap-3">
@@ -74,6 +93,7 @@ function Row({ task, done, onToggle, editing, pinned, hidden, onPin, onHide }: R
             <Badges task={task} />
           </span>
           {task.note && <span className="block text-xs text-muted">{task.note}</span>}
+          <NextTime task={task} now={now} />
         </span>
       </label>
       {editing ? (
@@ -157,6 +177,7 @@ export default function Checklist() {
     <Row
       key={t.id}
       task={t}
+      now={now}
       done={isDone(t)}
       onToggle={() => toggle(t)}
       editing={editing}
@@ -212,9 +233,25 @@ export default function Checklist() {
         </div>
       )}
 
-      <Section title="Main" blurb="Your most important tasks. Do these first." tasks={mainActive} isDone={isDone}>
+      <Section title="Your day" blurb="Your main tasks, in the order a well-planned day goes. Work down the list." tasks={mainActive} isDone={isDone}>
         {main.length ? (
-          <ul className="divide-y divide-line">{main.map(row)}</ul>
+          PHASES.map((p, i) => {
+            const tasks = main.filter((t) => t.phase === p.id);
+            // Scheduled events go in the order they start.
+            if (p.id === "scheduled") tasks.sort((a, b) => (nextStart(a, now) ?? Infinity) - (nextStart(b, now) ?? Infinity));
+            if (!tasks.length) return null;
+            return (
+              <div key={p.id}>
+                <div className="border-b border-line bg-panel-2/60 px-4 py-2">
+                  <span className="text-sm font-semibold text-accent">
+                    {i + 1}. {p.name}
+                  </span>
+                  <span className="ml-2 text-xs text-muted">{p.blurb}</span>
+                </div>
+                <ul className="divide-y divide-line border-b border-line last:border-b-0">{tasks.map(row)}</ul>
+              </div>
+            );
+          })
         ) : (
           <p className="px-4 py-6 text-sm text-muted">Nothing here yet. Press Customize and star the tasks you never want to miss.</p>
         )}
