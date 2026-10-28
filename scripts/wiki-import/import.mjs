@@ -32,7 +32,7 @@ const FILES_DIR = path.join(ROOT, "public", "wiki-files");
 const SEARCH_FILE = path.join(ROOT, "public", "wiki-search.json");
 const FILE_NS = 6;
 // Bump when the cleaning changes, so the next run re-downloads every page.
-const VERSION = 3;
+const VERSION = 4;
 let FORCE = process.argv.includes("--force");
 const SKIP_FILES = process.argv.includes("--skip-file-downloads");
 
@@ -114,7 +114,8 @@ const DROP_SELECTORS = [
  * `resolveFile(name)` returns the local path of a mirrored file, if any.
  */
 function cleanHtml(html, resolveLink, resolveFile = () => undefined) {
-  const doc = parse(html, { comment: false });
+  // Parse <pre> as markup: the wiki puts images and links inside it too.
+  const doc = parse(html, { comment: false, blockTextElements: { script: true, noscript: true, style: true } });
   const root = doc.querySelector(".mw-parser-output") ?? doc;
   for (const sel of DROP_SELECTORS) root.querySelectorAll(sel).forEach((n) => n.remove());
 

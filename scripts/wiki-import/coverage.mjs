@@ -101,6 +101,10 @@ const brokenOnWiki = {};
 for (const p of index.pages) {
   const page = JSON.parse(fs.readFileSync(path.join(OUT, "pages", `${p.slug}.json`), "utf8"));
   for (const img of page.images ?? []) if (!uploaded.has(img)) (brokenOnWiki[img] ??= []).push(p.title);
+  // Every image a page shows should load from the mirror, not the wiki.
+  for (const m of page.html.matchAll(/<img[^>]*\ssrc="([^"]+)"/g)) {
+    if (!m[1].startsWith("/wiki-files/") && !m[1].startsWith("data:")) report.problems.push(`Image on "${p.title}" still loads from outside the mirror: ${m[1]}`);
+  }
 }
 report.brokenOnWiki = brokenOnWiki;
 if (Object.keys(brokenOnWiki).length)
