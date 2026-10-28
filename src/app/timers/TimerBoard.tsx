@@ -113,7 +113,7 @@ export default function TimerBoard() {
         ))}
       </div>
 
-      <div className="grid gap-3 md:grid-cols-2">
+      <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
         {list.map(({ event, at }) => {
           const muted = settings.muted.includes(event.id);
           const soon = now !== null && at - now < 30 * 60_000;
@@ -160,7 +160,7 @@ export default function TimerBoard() {
       <section>
         <h2 className="mb-1 text-xl font-bold">Weekly Activity Token quests</h2>
         <p className="mb-3 text-sm text-muted">Pick each one up on its day. You can finish it any time before it resets next week, at midnight UTC on the same day.</p>
-        <div className="grid gap-3 md:grid-cols-3">
+        <div className="grid grid-cols-1 gap-3 md:grid-cols-3">
           {WEEKLY_TOKEN_EVENTS.map((e) => (
             <a key={e.name} href={e.wiki} className="rounded-xl border border-line bg-panel p-4 hover:border-accent">
               <p className="text-sm text-accent">{WEEKDAY_NAMES[e.day]}</p>

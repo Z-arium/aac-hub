@@ -127,7 +127,7 @@ export default function RegradeCalculator() {
   }
 
   return (
-    <div className="grid gap-6 lg:grid-cols-3">
+    <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
       <div className="space-y-5 rounded-xl border border-line bg-panel p-5">
         <div>
           <p className="mb-2 text-sm text-muted">Item type</p>

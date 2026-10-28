@@ -94,7 +94,7 @@ export default function ClassBuilder() {
     <div className="space-y-8">
       <div className="rounded-xl border border-line bg-panel p-5">
         <div className="flex flex-wrap items-center gap-4">
-          <div className="min-w-0 flex-1">
+          <div className="min-w-[14rem] flex-1">
             <p className="text-xs uppercase text-muted">Your class</p>
             <p className="text-3xl font-bold text-accent">
               {className ?? (selected.length === 3 ? "Unknown" : `Pick ${3 - selected.length} more`)}

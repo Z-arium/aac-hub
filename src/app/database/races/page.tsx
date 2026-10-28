@@ -21,7 +21,7 @@ export default function RacesPage() {
         {(["Nuia", "Haranya"] as const).map((f) => (
           <section key={f}>
             <h2 className="mb-3 text-xl font-bold text-accent">{f === "Nuia" ? "Nuian Alliance (west)" : "Haranyan Alliance (east)"}</h2>
-            <div className="grid gap-3 md:grid-cols-3">
+            <div className="grid grid-cols-1 gap-3 md:grid-cols-3">
               {RACES.filter((r) => r.faction === f).map((r) => (
                 <div key={r.name} className="rounded-xl border border-line bg-panel p-4">
                   <h3 className="text-lg font-semibold">{r.name}</h3>

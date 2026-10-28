@@ -7,7 +7,7 @@ export interface Tool {
 
 export const TOOLS: Tool[] = [
   { href: "/timers", name: "Boss & event timers", blurb: "Live countdowns for world bosses, PvP events and the Freedich Gold Trader, with alerts.", icon: "⏰" },
-  { href: "/tools/class-builder", name: "Class builder", blurb: "Pick three skill trees to see your class name and key skills. Share builds by link.", icon: "🧙" },
+  { href: "/tools/class-builder", name: "Class builder", blurb: "Pick skill trees, skills and passives. Share a build by link or save it.", icon: "🧙" },
   { href: "/tools/halcyona-necklace", name: "Halcyona Necklace planner", blurb: "Warrior Medals and Mana Wisps from your current rank to your goal.", icon: "📿" },
   { href: "/tools/regrade", name: "Regrade calculator", blurb: "Odds and expected scrolls to reach any grade, plus a simulator.", icon: "✨" },
   { href: "/tools/checklist", name: "Daily & weekly checklist", blurb: "Every daily and weekly, grouped by category. Pick what you see. Resets on its own.", icon: "✅" },

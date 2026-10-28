@@ -44,7 +44,7 @@ export default async function WikiArticle({ params }: { params: Promise<{ slug: 
   const isSource = page.model !== "wikitext";
 
   return (
-    <div className="grid gap-8 lg:grid-cols-[1fr_16rem]">
+    <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1fr_16rem]">
       <article className="min-w-0">
         <nav className="text-sm text-muted">
           <Link href="/wiki" className="text-accent-2 hover:underline">

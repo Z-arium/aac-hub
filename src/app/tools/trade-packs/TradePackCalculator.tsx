@@ -28,7 +28,7 @@ export default function TradePackCalculator() {
   );
 
   return (
-    <div className="grid gap-6 md:grid-cols-2">
+    <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
       <div className="grid gap-4 rounded-xl border border-line bg-panel p-5 sm:grid-cols-2">
         {field("Base value (gold)", base, setBase, "Value at 100%", 0.01)}
         {field("Turn-in %", percent, setPercent, "Shift+O in game")}
