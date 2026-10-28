@@ -103,3 +103,16 @@ export function formatLocal(ms: number) {
     minute: "2-digit",
   }).format(ms);
 }
+
+/** Daily reset is 00:00 UTC (Jacob's call; the wiki gives no time). */
+export const DAILY_RESET_UTC_HOUR = 0;
+
+/** The UTC date of the current daily period, e.g. "2026-10-27". */
+export function dailyResetKey(now: number) {
+  return new Date(now - DAILY_RESET_UTC_HOUR * 3_600_000).toISOString().slice(0, 10);
+}
+
+export function nextDailyReset(now: number) {
+  const d = new Date(dailyResetKey(now) + "T00:00:00Z");
+  return d.getTime() + (24 + DAILY_RESET_UTC_HOUR) * 3_600_000;
+}

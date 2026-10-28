@@ -3,13 +3,13 @@ title: Weekly Activity Tokens
 summary: Five weekly quests pay 136 Activity Tokens, plus 5 a day from the daily merit quest. Here is where to go.
 category: Progression
 featured: true
-updated: 2026-10-27
+updated: 2026-10-28
 sources: https://wiki.aa-classic.com/Activity_Tokens, https://wiki.aa-classic.com/Crystalline_Bloodbath
 ---
 
 ArcheAge Classic pays **Activity Tokens** for a set of weekly quests. Doing all of them gives **136 tokens a week**.
 
-Each weekly quest can only be picked up on its day, which is also when it resets. Once you have it, you can finish it any time that week.
+Each weekly quest can only be picked up on its day, which is also when it resets (daily and weekly resets happen at midnight UTC). Once you have it, you can finish it any time that week.
 
 | Day | Quest | What to do | Tokens |
 | --- | --- | --- | --- |
