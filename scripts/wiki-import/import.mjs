@@ -349,15 +349,16 @@ async function main() {
     bySlug.set(slug, p);
     slugOf.set(p.title, slug);
   }
+  // Follow double redirects ("Costumes" -> "Costumes (Vanity)" -> article) to the page.
+  const redirectTo = new Map(redirectList.map((r) => [r.from, r]));
   const redirects = {};
   for (const r of redirectList) {
-    const [target, fragment] = r.to.split("#");
-    const slug = slugOf.get(target);
-    if (slug) {
-      slugOf.set(r.from, slug);
-      redirects[slugify(r.from)] = { to: slug, from: r.from, fragment: r.tofragment ?? fragment ?? undefined };
-    }
+    let hop = r;
+    for (let n = 0; n < 10 && !slugOf.has(hop.to) && redirectTo.has(hop.to); n++) hop = redirectTo.get(hop.to);
+    const slug = slugOf.get(hop.to);
+    if (slug) redirects[slugify(r.from)] = { to: slug, from: r.from, fragment: hop.tofragment ?? r.tofragment };
   }
+  for (const r of Object.values(redirects)) slugOf.set(r.from, r.to);
 
   const resolveLink = (href) => {
     if (href.startsWith("#") || /^(https?:|mailto:)/.test(href)) return href;
@@ -478,10 +479,12 @@ async function main() {
     path.join(OUT, "files.json"),
     JSON.stringify({ source: WIKI, count: files.length, distinct: wanted.size, failed, files: files.map((f) => ({ ...f, url: undefined })) }) + "\n",
   );
-  // Compact list for the file browser: [name, path, width, height, bytes, uploaded, usedOn?]
+  // Compact list for the file browser: [name, path, width, height, bytes, uploaded, usedOn | 0, description?]
   fs.writeFileSync(
     path.join(FILES_DIR, "index.json"),
-    JSON.stringify(files.map((f) => [f.name, f.path, f.width, f.height, f.size, f.uploaded.slice(0, 10), ...(f.usedOn ? [f.usedOn] : [])])),
+    JSON.stringify(
+      files.map((f) => [f.name, f.path, f.width, f.height, f.size, f.uploaded.slice(0, 10), f.usedOn ?? 0, ...(f.description ? [f.description] : [])]),
+    ),
   );
   fs.writeFileSync(SEARCH_FILE, JSON.stringify(search));
   extract();

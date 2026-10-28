@@ -68,7 +68,7 @@ function FileDetail({ file, titles, onClose }: { file: Entry; titles: Record<str
             )}
           </dd>
         </dl>
-        {description && <div className="prose-guide prose-wiki mt-4 text-sm" dangerouslySetInnerHTML={{ __html: description }} />}
+        {description && <div className="prose-guide prose-wiki mt-4 text-sm" dangerouslySetInnerHTML={{ __html: description.replace(/(href|src)="\/(wiki|wiki-files)\//g, `$1="${BASE}/$2/`) }} />}
         <div className="mt-4 flex flex-wrap gap-4 text-sm">
           <a href={`${BASE}/${src}`} download={name} className="text-accent-2 hover:underline">
             Download
