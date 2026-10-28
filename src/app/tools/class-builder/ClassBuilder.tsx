@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { CLASS_NAMES } from "@/data/classes";
 import { TREE_SKILLS } from "@/data/skills";
 import { SKILL_TREES } from "@/data/skillTrees";
@@ -11,10 +11,10 @@ import {
   type TreePicks,
   decodeBuild,
   encodeBuild,
-  loadSavedBuilds,
   pickedIn,
-  storeSavedBuilds,
+  SAVED_BUILDS_KEY,
 } from "@/lib/builds";
+import { useSynced } from "@/lib/sync";
 
 const keyOf = (trees: string[]) => [...trees].sort().join("/");
 const treeColor = (name: string) => SKILL_TREES.find((t) => t.name === name)?.color;
@@ -25,9 +25,8 @@ export default function ClassBuilder() {
   const pathname = usePathname();
   const [query, setQuery] = useState("");
   const [copied, setCopied] = useState(false);
-  const [saved, setSaved] = useState<SavedBuild[]>([]);
-
-  useEffect(() => setSaved(loadSavedBuilds()), []);
+  const [stored, setSaved] = useSynced<SavedBuild[]>(SAVED_BUILDS_KEY, []);
+  const saved = Array.isArray(stored) ? stored : [];
 
   const build = useMemo(() => decodeBuild(new URLSearchParams(params.toString())), [params]);
   const selected = build.trees;
@@ -82,13 +81,11 @@ export default function ClassBuilder() {
     };
     const next = [entry, ...saved.filter((s) => s.query !== queryString)];
     setSaved(next);
-    storeSavedBuilds(next);
   }
 
   function removeSaved(id: string) {
     const next = saved.filter((s) => s.id !== id);
     setSaved(next);
-    storeSavedBuilds(next);
   }
 
   const isSaved = saved.some((s) => s.query === queryString);
