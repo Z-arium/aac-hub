@@ -48,5 +48,9 @@ export function getGuide(slug: string): Guide | undefined {
 }
 
 export function renderMarkdown(md: string): string {
-  return marked.parse(md, { async: false });
+  const html = marked.parse(md, { async: false });
+  // Site-relative links in markdown are raw anchors, so add the deploy base path
+  // (e.g. /aac-hub on GitHub Pages) that next/link would otherwise add.
+  const base = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  return base ? html.replace(/href="\/(?!\/)/g, `href="${base}/`) : html;
 }
