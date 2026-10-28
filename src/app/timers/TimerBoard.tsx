@@ -2,9 +2,9 @@
 
 import { useEffect, useRef, useState } from "react";
 import { CATEGORY_LABEL, CATEGORY_STYLE, useNow } from "@/components/UpcomingTimers";
-import { RIFTS, WEEKDAY_NAMES, WEEKLY_TOKEN_EVENTS, type Category } from "@/data/schedule";
+import { WEEKDAY_NAMES, WEEKLY_TOKEN_EVENTS, type Category } from "@/data/schedule";
 import { useSynced } from "@/lib/sync";
-import { formatCountdown, formatLocal, formatServerClock, formatSlot, nextDailyReset, upcoming } from "@/lib/time";
+import { formatCountdown, formatGameClock, formatLocal, formatServerClock, formatSlot, nextDailyReset, upcoming } from "@/lib/time";
 
 const FILTERS: { id: Category | "all"; label: string }[] = [
   { id: "all", label: "All" },
@@ -63,6 +63,10 @@ export default function TimerBoard() {
         <div>
           <p className="text-xs uppercase text-muted">Server time (ET)</p>
           <p className="font-mono text-lg tabular-nums">{now ? formatServerClock(now) : "--:--:--"}</p>
+        </div>
+        <div>
+          <p className="text-xs uppercase text-muted">Game time</p>
+          <p className="font-mono text-lg tabular-nums">{now ? formatGameClock(now) : "--:--"}</p>
         </div>
         <div>
           <p className="text-xs uppercase text-muted">Daily reset (00:00 UTC)</p>
@@ -131,7 +135,7 @@ export default function TimerBoard() {
               <div className="mt-3 flex flex-wrap items-center gap-2 text-xs text-muted">
                 {event.slots.map((s) => (
                   <span key={`${s.day}-${s.time}`} className="rounded bg-panel-2 px-2 py-0.5">
-                    {formatSlot(s)} ET
+                    {formatSlot(s)}
                   </span>
                 ))}
                 <button
@@ -164,25 +168,6 @@ export default function TimerBoard() {
               <p className="text-sm text-muted">{e.where}</p>
               <p className="mt-2 text-sm">{e.tokens} Activity Tokens</p>
             </a>
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <h2 className="mb-3 text-xl font-bold">Rifts (in-game clock)</h2>
-        <p className="mb-3 text-sm text-muted">
-          Rifts follow the in-game clock, where one game day lasts 4 real hours. Hover the top-right of your screen in game
-          to see the game time.
-        </p>
-        <div className="grid gap-3 md:grid-cols-2">
-          {RIFTS.map((r) => (
-            <div key={r.name} className="rounded-xl border border-line bg-panel p-4">
-              <h3 className="font-semibold">{r.name}</h3>
-              <p className="text-sm text-muted">
-                Every {r.every} at {r.gameTime} game time
-              </p>
-              <p className="mt-2 text-xs text-muted">{r.rewards}</p>
-            </div>
           ))}
         </div>
       </section>

@@ -40,7 +40,35 @@ export function serverWallToUtc(year: number, month: number, day: number, hour: 
   return guess - offsetAt(first);
 }
 
+/** One in-game day lasts 4 real hours, so a game minute is 10 real seconds. */
+export const GAME_DAY_MS = 4 * 3_600_000;
+/**
+ * A real instant when the in-game clock read 00:00. Worked out from Jacob's
+ * reading of game 16:55 at 2026-10-28 20:04 UTC (3:04 PM CDT), rounded to the minute.
+ */
+export const GAME_MIDNIGHT_UTC = Date.UTC(2026, 9, 28, 17, 15);
+
+/** In-game clock at a real instant, as minutes after game midnight (0-1439). */
+export function gameMinutes(now: number) {
+  const into = (((now - GAME_MIDNIGHT_UTC) % GAME_DAY_MS) + GAME_DAY_MS) % GAME_DAY_MS;
+  return Math.floor((into / GAME_DAY_MS) * 1440);
+}
+
+export function formatGameClock(now: number) {
+  const m = gameMinutes(now);
+  return `${String(Math.floor(m / 60)).padStart(2, "0")}:${String(m % 60).padStart(2, "0")}`;
+}
+
+/** Next real instant the in-game clock reads `hhmm`. */
+export function nextGameTime(hhmm: string, now: number) {
+  const [h, m] = hhmm.split(":").map(Number);
+  const offset = ((h * 60 + m) / 1440) * GAME_DAY_MS;
+  const cycles = Math.floor((now - GAME_MIDNIGHT_UTC - offset) / GAME_DAY_MS) + 1;
+  return GAME_MIDNIGHT_UTC + offset + cycles * GAME_DAY_MS;
+}
+
 export function nextSlotTime(slot: Slot, now: number): number {
+  if (slot.day === "game") return nextGameTime(slot.time, now);
   const [h, m] = slot.time.split(":").map(Number);
   const today = zonedParts(now);
   for (let i = 0; i <= 7; i++) {
@@ -81,8 +109,9 @@ export function formatCountdown(ms: number) {
 }
 
 export function formatSlot(slot: Slot) {
+  if (slot.day === "game") return `Every 4h at ${slot.time} game time`;
   const day = slot.day === "daily" ? "Daily" : WEEKDAYS[slot.day];
-  return `${day} ${slot.time}`;
+  return `${day} ${slot.time} ET`;
 }
 
 export function formatServerClock(ms: number) {

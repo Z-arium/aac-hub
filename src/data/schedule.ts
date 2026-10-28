@@ -11,9 +11,9 @@ export type Category = "world-boss" | "pvp" | "pve" | "commerce" | "weekly";
 export type Weekday = 0 | 1 | 2 | 3 | 4 | 5 | 6; // 0 = Sunday
 
 export interface Slot {
-  /** Day of week in server time, or "daily". */
-  day: Weekday | "daily";
-  /** "HH:MM" in server time. */
+  /** Day of week in server time, "daily", or "game" for every in-game day. */
+  day: Weekday | "daily" | "game";
+  /** "HH:MM" in server time, or on the in-game clock when day is "game". */
   time: string;
 }
 
@@ -31,6 +31,26 @@ export interface ScheduledEvent {
 export const SERVER_TZ = "America/New_York";
 
 export const EVENTS: ScheduledEvent[] = [
+  // Rifts run on the in-game clock, where a game day lasts 4 real hours
+  // (https://wiki.aa-classic.com/World_Events), so each rift comes every 4 hours.
+  {
+    id: "crimson-rift",
+    name: "Crimson Rift",
+    category: "pve",
+    slots: [{ day: "game", time: "12:00" }],
+    location: "Quests from the guards in the Community Center",
+    rewards: "1000 Honor Points, 10 Leadership. Each Hound of Kyrios gives 3 Gilda Stars, 2 Clear Synthium Shards and 7 Adventurer's Growthstones",
+    wiki: "https://wiki.aa-classic.com/World_Events",
+  },
+  {
+    id: "grimgast-rift",
+    name: "Grimgast Rift",
+    category: "pve",
+    slots: [{ day: "game", time: "00:00" }],
+    location: "First quest from the wooden board in the Community Center",
+    rewards: "Honor and 8 Gilda Stars for the daily Gilda task",
+    wiki: "https://wiki.aa-classic.com/World_Events",
+  },
   {
     id: "red-dragon",
     name: "Red Dragon",
@@ -198,8 +218,3 @@ export const WEEKLY_TOKEN_EVENTS: TokenQuest[] = [
 
 export const WEEKDAY_NAMES = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-/** Rifts run on the in-game clock (one in-game day = 4 real hours). */
-export const RIFTS = [
-  { name: "Crimson Rift", gameTime: "12:00", every: "4 hours", rewards: "1000 Honor Points, 10 Leadership; each Hound gives 3 Gilda Stars, 2 Clear Synthium Shards, 7 Adventurer's Growthstones" },
-  { name: "Grimgast Rift", gameTime: "00:00", every: "4 hours", rewards: "Quest rewards (not listed on the wiki)" },
-];
