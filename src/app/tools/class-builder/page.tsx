@@ -12,8 +12,8 @@ export default function ClassBuilderPage() {
         title="Class builder"
         subtitle={
           <>
-            Pick three of the ten skill trees to see your class name and key skills, or search for a class by name. Copy the
-            link to share a build. Skill info is from the{" "}
+            Pick three of the ten skill trees to see your class name, then pick skills and passives in each. Copy the link to
+            share the build, or save it in this browser. Skill info is from the{" "}
             <a className="underline" href="https://wiki.aa-classic.com/Skill_Trees">
               AAClassic wiki
             </a>
