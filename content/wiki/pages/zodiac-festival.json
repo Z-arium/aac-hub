@@ -1,0 +1,132 @@
+{
+ "slug": "zodiac-festival",
+ "title": "Zodiac Festival",
+ "pageid": 1136,
+ "revid": 52083,
+ "updated": "2026-10-25T16:04:57Z",
+ "source": "https://wiki.aa-classic.com/Zodiac_Festival",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Festival_title",
+   "text": "Festival title"
+  },
+  {
+   "level": 2,
+   "id": "Compatibility_of_the_Constellations",
+   "text": "Compatibility of the Constellations"
+  },
+  {
+   "level": 2,
+   "id": "Quests",
+   "text": "Quests"
+  },
+  {
+   "level": 3,
+   "id": "[Wheel_of_Destiny]",
+   "text": "[Wheel of Destiny]"
+  },
+  {
+   "level": 3,
+   "id": "[The_Zodiac_Festival]",
+   "text": "[The Zodiac Festival]"
+  },
+  {
+   "level": 3,
+   "id": "[The_Wish_Cairn]",
+   "text": "[The Wish Cairn]"
+  },
+  {
+   "level": 3,
+   "id": "[Astral_Aves]",
+   "text": "[Astral Aves]"
+  },
+  {
+   "level": 3,
+   "id": "[Laying_on_the_Charms]",
+   "text": "[Laying on the Charms]"
+  },
+  {
+   "level": 3,
+   "id": "[The_Shoddy_Shepard]",
+   "text": "[The Shoddy Shepard]"
+  },
+  {
+   "level": 2,
+   "id": "Need_title_on_to_do",
+   "text": "Need title on to do"
+  },
+  {
+   "level": 2,
+   "id": "Constellation_mark",
+   "text": "Constellation mark"
+  },
+  {
+   "level": 3,
+   "id": "Constellation_extra",
+   "text": "Constellation extra"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Compatibility of the Constellations",
+   "caption": "",
+   "headers": [
+    "Players constellation",
+    "Compatible Constellation"
+   ],
+   "rows": [
+    [
+     "Bow",
+     "Crown Blind Eye"
+    ],
+    [
+     "Boat Horn",
+     "Chariot Leopard"
+    ],
+    [
+     "Bugle",
+     "Wand Brier"
+    ],
+    [
+     "Unicorn",
+     "Trident Hut"
+    ],
+    [
+     "Blind Eye",
+     "Bow Crown"
+    ],
+    [
+     "Chariot",
+     "Boat Horn Leopard"
+    ],
+    [
+     "Wand",
+     "Bugle Brier"
+    ],
+    [
+     "Trident",
+     "Unicorn Hut"
+    ],
+    [
+     "Crown",
+     "Blind Eye Bow"
+    ],
+    [
+     "Leopard",
+     "Boat Horn Chariot"
+    ],
+    [
+     "Brier",
+     "Bugle Wand"
+    ],
+    [
+     "Hut",
+     "Trident Unicorn"
+    ]
+   ]
+  }
+ ],
+ "text": "\"Do you believe in fate? Your path is foretold by the stars, Player.\" Festival title In order to get the title from the event player must buy a Constellation Jar from Merit Badge shop with Merit Badge × 15. The Constellation Jar will give out randomly one of the twelve titles to the player. The title will stay: it can't be changed to another or player can't acquire more titles. Compatibility of the Constellations Only certain constellations are compatible together and players can do the sapling quest only with matching constellation. Below is the list of the compatible constellations. Players constellation Compatible Constellation Bow Crown Blind Eye Boat Horn Chariot Leopard Bugle Wand Brier Unicorn Trident Hut Blind Eye Bow Crown Chariot Boat Horn Leopard Wand Bugle Brier Trident Unicorn Hut Crown Blind Eye Bow Leopard Boat Horn Chariot Brier Bugle Wand Hut Trident Unicorn Quests [Wheel of Destiny] Collect Zodiac Leaf 0/15 Other quests give the leaves to complete this one. Zodiac Leaf [The Zodiac Festival] Quani appears at 1p.m., 7p.m., and 12a.m. UTC. Talk to NPC that appears only on certain times of the day. [The Wish Cairn] Touch the stonepiles next to the sheep ranch. [Astral Aves] Quest gives an orb item that must be used on the owls to gather their feathers. Owls will spawn between 10p.m. and 8a.m. gametime. [Laying on the Charms] Collect 3/3 wool from the sheeps next to the festival area. [The Shoddy Shepard] Deliver 100 fabric to the little boy. Need title on to do [Tree of Fate: CONSTELLATION NAME] In this quest player needs to find their compatible constellation player. After that both plant their saplings and use the other players sapling to make it flourish. After that player must collect Zodiac Leafs from their own sapling. Flourishing sapling Constellation mark After getting the title, player can touch the pink orb in the middle of the festival area and get their constellations mark above their head. The constellation mark stay above the head only if the player has the title equipped. Once the title is changed to something else the mark disappears. The Kismet Star Shard item that is one of the rewards in the event can be placed at players house. If touched the item gives the constellation mark for the player if they have title equipped. Constellation extra The Boat Horn Constellation represents confusion, exploration, and illusions. The Bow Constellation represents concentration, searching, and vengeance. The Blind Eye Constellation represents love, sacrifice, and the unseen. The Brier constellation represents bad luck, curses, and despair. The Bugle Constellation represents courage, warfare, and strategy. The Chariot Constellation represents respect, cooperation, and balance. The Crown Constellation represents glory, authority, and lineage. The Hut Constellation represents humility, seclusion, and peace. The Leopard Constellation represents obstacles, enemies, and corruption. The Trident Constellation represents prosperity, fortune, and divine assistance. The Unicorn Constellation represents purity, solitude, and nature. The Wand Constellation represents wisdom, scholarship, and magic.",
+ "html": "<p><i>\"Do you believe in fate? Your path is foretold by the stars, Player.\"</i>\n</p>\n\n<h2 id=\"Festival_title\">Festival title</h2>\n<p>In order to get the title from the event player must buy a <span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"https://wiki.aa-classic.com/images/thumb/8/8b/Constellation_Jar.png/32px-Constellation_Jar.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/8/8b/Constellation_Jar.png 1.5x\" loading=\"lazy\"></span></span><span><span><span><img src=\"https://wiki.aa-classic.com/images/thumb/5/5e/Grade1.png/32px-Grade1.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/5/5e/Grade1.png 1.5x\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Constellation Jar</span> from Merit Badge shop with <span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"https://wiki.aa-classic.com/images/thumb/2/26/Merit_Badge.png/32px-Merit_Badge.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/2/26/Merit_Badge.png 1.5x\" loading=\"lazy\"></span></span><span><span><span><img src=\"https://wiki.aa-classic.com/images/thumb/5/5e/Grade1.png/32px-Grade1.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/5/5e/Grade1.png 1.5x\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Merit Badge</span>&#160;× 15. The Constellation Jar will give out randomly one of the twelve titles to the player. The title will stay: it can't be changed to another or player can't acquire more titles.\n</p>\n<h2 id=\"Compatibility_of_the_Constellations\">Compatibility of the Constellations</h2>\n<p>Only certain constellations are compatible together and players can do the sapling quest only with matching constellation. Below is the list of the compatible constellations. \n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Players constellation\n</th>\n<th>Compatible Constellation\n</th></tr>\n<tr>\n<td>Bow\n</td>\n<td>Crown\n<p>Blind Eye\n</p>\n</td></tr>\n<tr>\n<td>Boat Horn\n</td>\n<td>Chariot\n<p>Leopard\n</p>\n</td></tr>\n<tr>\n<td>Bugle\n</td>\n<td>Wand\n<p>Brier\n</p>\n</td></tr>\n<tr>\n<td>Unicorn\n</td>\n<td>Trident\n<p>Hut\n</p>\n</td></tr>\n<tr>\n<td>Blind Eye\n</td>\n<td>Bow\n<p>Crown\n</p>\n</td></tr>\n<tr>\n<td>Chariot\n</td>\n<td>Boat Horn\n<p>Leopard\n</p>\n</td></tr>\n<tr>\n<td>Wand\n</td>\n<td>Bugle\n<p>Brier\n</p>\n</td></tr>\n<tr>\n<td>Trident\n</td>\n<td>Unicorn\n<p>Hut\n</p>\n</td></tr>\n<tr>\n<td>Crown\n</td>\n<td>Blind Eye\n<p>Bow\n</p>\n</td></tr>\n<tr>\n<td>Leopard\n</td>\n<td>Boat Horn\n<p>Chariot\n</p>\n</td></tr>\n<tr>\n<td>Brier\n</td>\n<td>Bugle\n<p>Wand\n</p>\n</td></tr>\n<tr>\n<td>Hut\n</td>\n<td>Trident\n<p>Unicorn\n</p>\n</td></tr></tbody></table>\n<h2 id=\"Quests\">Quests</h2>\n<h3 id=\"[Wheel_of_Destiny]\"><span></span>[<b>Wheel of Destiny</b>]</h3>\n<p>Collect Zodiac Leaf 0/15\n</p><p>Other quests give the leaves to complete this one.\n</p><p><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"https://wiki.aa-classic.com/images/thumb/8/83/Zodiac_Leaf.png/32px-Zodiac_Leaf.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/8/83/Zodiac_Leaf.png 1.5x\" loading=\"lazy\"></span></span><span><span><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/35/Grade3.png/32px-Grade3.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/3/35/Grade3.png 1.5x\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(85, 143, 215)\">Zodiac Leaf</span>\n</p><p><br>\n</p><p><br>\n</p>\n<h3 id=\"[The_Zodiac_Festival]\"><span></span>[The Zodiac Festival]</h3>\n<p>Quani appears at 1p.m., 7p.m., and 12a.m. UTC.\n</p><p>Talk to NPC that appears only on certain times of the day.\n</p><p><br>\n</p>\n<h3 id=\"[The_Wish_Cairn]\"><span></span>[The Wish Cairn]</h3>\n<p>Touch the stonepiles next to the sheep ranch.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/90/Stone.jpg/300px-Stone.jpg\" width=\"300\" height=\"227\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/90/Stone.jpg/450px-Stone.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/9/90/Stone.jpg/600px-Stone.jpg 2x\" loading=\"lazy\"></span>\n</p><p><br>\n</p>\n<h3 id=\"[Astral_Aves]\"><span></span>[Astral Aves]</h3>\n<p><span><img src=\"https://wiki.aa-classic.com/images/1/18/Owl_quest.png\" width=\"45\" height=\"46\" loading=\"lazy\"></span>\n</p><p>Quest gives an orb item that must be used on the owls to gather their feathers. Owls will spawn between 10p.m. and 8a.m. gametime.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/thumb/6/66/Owl_feather.png/300px-Owl_feather.png\" width=\"300\" height=\"266\" srcset=\"https://wiki.aa-classic.com/images/thumb/6/66/Owl_feather.png/450px-Owl_feather.png 1.5x, https://wiki.aa-classic.com/images/thumb/6/66/Owl_feather.png/600px-Owl_feather.png 2x\" loading=\"lazy\"></span>\n</p><p><br>\n</p>\n<h3 id=\"[Laying_on_the_Charms]\"><span></span>[Laying on the Charms]</h3>\n<p>Collect 3/3 wool from the sheeps next to the festival area. \n</p><p><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/ba/Sheep.jpg/300px-Sheep.jpg\" width=\"300\" height=\"227\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/ba/Sheep.jpg/450px-Sheep.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/b/ba/Sheep.jpg/600px-Sheep.jpg 2x\" loading=\"lazy\"></span>\n</p><p><br>\n</p>\n<h3 id=\"[The_Shoddy_Shepard]\"><span></span>[The Shoddy Shepard]</h3>\n<p>Deliver 100 fabric to the little boy.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/d/d2/Sheepboi.png\" width=\"256\" height=\"261\" loading=\"lazy\"></span>\n</p><p><br>\n</p>\n<h2 id=\"Need_title_on_to_do\">Need title on to do</h2>\n<p>[<b>Tree of Fate: CONSTELLATION NAME</b>] \nIn this quest player needs to find their compatible constellation player. After that both plant their saplings and use the other players sapling to make it flourish. After that player must collect Zodiac Leafs from their own sapling.\n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/c/c8/Flourishing_sapling.png\" width=\"185\" height=\"258\" loading=\"lazy\"><figcaption>Flourishing sapling</figcaption></figure>\n<h2 id=\"Constellation_mark\">Constellation mark</h2>\n<p><span><img src=\"https://wiki.aa-classic.com/images/9/96/Orb.png\" width=\"105\" height=\"171\" loading=\"lazy\"></span>\n</p><p>After getting the title, player can touch the pink orb in the middle of the festival area and get their constellations mark above their head.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/7/75/Bothornmark.png\" width=\"141\" height=\"210\" loading=\"lazy\"></span>\n</p><p>The constellation mark stay above the head only if the player has the title equipped. Once the title is changed to something else the mark disappears. The Kismet Star Shard item that is one of the rewards in the event can be placed at players house. If touched the item gives the constellation mark for the player if they have title equipped.\n</p><p><br>\n</p>\n<h3 id=\"Constellation_extra\">Constellation extra</h3>\n<p>The Boat Horn Constellation represents confusion, exploration, and illusions.\n</p><p>The Bow Constellation represents concentration, searching, and vengeance.\n</p><p>The Blind Eye Constellation represents love, sacrifice, and the unseen.\n</p><p>The Brier constellation represents bad luck, curses, and despair.\n</p><p>The Bugle Constellation represents courage, warfare, and strategy.\n</p><p>The Chariot Constellation represents respect, cooperation, and balance.\n</p><p>The Crown Constellation represents glory, authority, and lineage.\n</p><p>The Hut Constellation represents humility, seclusion, and peace.\n</p><p>The Leopard Constellation represents obstacles, enemies, and corruption.\n</p><p>The Trident Constellation represents prosperity, fortune, and divine assistance.\n</p><p>The Unicorn Constellation represents purity, solitude, and nature.\n</p><p>The Wand Constellation represents wisdom, scholarship, and magic.\n</p>"
+}

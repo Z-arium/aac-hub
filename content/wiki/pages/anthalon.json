@@ -1,0 +1,43 @@
+{
+ "slug": "anthalon",
+ "title": "Anthalon",
+ "pageid": 354,
+ "revid": 2502,
+ "updated": "2025-04-18T12:05:58Z",
+ "source": "https://wiki.aa-classic.com/Anthalon",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "",
+   "headers": [
+    "Skills",
+    "Tips"
+   ],
+   "rows": [
+    [
+     "Shadow Dart",
+     ""
+    ],
+    [
+     "Crippling Mire",
+     ""
+    ],
+    [
+     "Festival of the Dead",
+     "Anthalon spawns mobs that stun the players. Kill ASAP."
+    ],
+    [
+     "Absorb Mind",
+     "Is the \"lift\" skill where player has to use Shrug It Off before falling to the ground. The skill will also drain almost all mana. Also Ezi'z glider or Snowlion Dash can be used just before Anthalon casts the skill to avoid it."
+    ],
+    [
+     "Necromantic Flame",
+     "Anthalon uses \"pull\" skill to anyone who is in 100m of the boss."
+    ]
+   ]
+  }
+ ],
+ "text": "Respawn time: After every <a href=\"/Daily_activities\" class=\"mw-redirect\" title=\"Daily activities\">Crimson Rift</a> in Sungold Fields Skills Tips Shadow Dart Crippling Mire Festival of the Dead Anthalon spawns mobs that stun the players. Kill ASAP. Absorb Mind Is the \"lift\" skill where player has to use Shrug It Off before falling to the ground. The skill will also drain almost all mana. Also Ezi'z glider or Snowlion Dash can be used just before Anthalon casts the skill to avoid it. Necromantic Flame Anthalon uses \"pull\" skill to anyone who is in 100m of the boss.",
+ "html": "<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/7/77/Anthalon.jpg/500px-Anthalon.jpg\" width=\"500\" height=\"281\" srcset=\"https://wiki.aa-classic.com/images/thumb/7/77/Anthalon.jpg/750px-Anthalon.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/7/77/Anthalon.jpg/1000px-Anthalon.jpg 2x\" loading=\"lazy\"></span>\n</p>\n<pre>Respawn time: After every <a href=\"/Daily_activities\" class=\"mw-redirect\" title=\"Daily activities\">Crimson Rift</a> in Sungold Fields\n</pre>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Skills\n</th>\n<th>Tips\n</th></tr>\n<tr>\n<td>Shadow Dart\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Crippling Mire\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Festival of the Dead\n</td>\n<td>Anthalon spawns mobs that stun the players. Kill ASAP.\n</td></tr>\n<tr>\n<td>Absorb Mind\n</td>\n<td>Is the \"lift\" skill where player has to use <a href=\"/wiki/auramancy\">Shrug It Off</a> before falling to the ground. The skill will also drain almost all mana.  Also Ezi'z glider or Snowlion Dash can be used just before Anthalon casts the skill to avoid  it.\n</td></tr>\n<tr>\n<td>Necromantic Flame\n</td>\n<td>Anthalon uses \"pull\" skill to anyone who is in 100m of the boss.\n</td></tr></tbody></table>"
+}

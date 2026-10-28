@@ -1,0 +1,196 @@
+{
+ "slug": "sorcery",
+ "title": "Sorcery",
+ "pageid": 6,
+ "revid": 1031,
+ "updated": "2024-05-21T09:16:27Z",
+ "source": "https://wiki.aa-classic.com/Sorcery",
+ "headings": [
+  {
+   "level": 2,
+   "id": "List_Of_Skills",
+   "text": "List Of Skills"
+  },
+  {
+   "level": 3,
+   "id": "Active_Skills",
+   "text": "Active Skills"
+  },
+  {
+   "level": 3,
+   "id": "Passive_Skills",
+   "text": "Passive Skills"
+  },
+  {
+   "level": 3,
+   "id": "Abyssal_skills",
+   "text": "Abyssal skills"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Active Skills",
+   "caption": "",
+   "headers": [
+    "Level",
+    "Icon",
+    "Skill",
+    "Description",
+    "Combos"
+   ],
+   "rows": [
+    [
+     "1",
+     "",
+     "Flamebolt",
+     "Can be used up to 3 times in a row without triggering a cooldown. Attack 1: Inflicts Burning for 3.2sec. Attack 3: Converts 20% of damage dealt to Enervated enemies to mana; inflicts Conflagration on Burning enemies. All 3 attacks deal +12% additional damage to targets under freezing effects. Hold down for continuous use.",
+     "-Inflicts additional +12% damage on targets under freezing effects. -Inflicts Conflagration on Burning targets. -Returns 20% of damage dealt to Enervated targets as Mana."
+    ],
+    [
+     "3",
+     "",
+     "Freezing Arrow",
+     "Fires an Ice Arrow at an enemy, dealing magic damage and decreasing Move Speed for 4 sec.",
+     "-Inflicts additional +15% damage on Burning targets. -Inflicts Deep Freeze for 20 sec on targets under freezing effects. Duration reduced -50% in PvP. -Inflicts additional +34% damage on Sleeping targets. -Eliminates the cast time of Freezing Arrow for the duration of Frigid Tracks."
+    ],
+    [
+     "10",
+     "",
+     "Insulating Lens",
+     "Creates a protection ward around the caster. Increases Physical Defense +1100. Absorbs up to 2049 damage before expiring. Increases stealth detection +200%.",
+     ""
+    ],
+    [
+     "15",
+     "",
+     "Arc Lightning",
+     "Fires lightning bolts to deal Magic Damage and Shock an enemy. Deals Magic Damage over 8 sec to Shocked enemies; also Shocks all other enemies withing 2m. When this skill levels up, it increases damage, but also cast time.",
+     "-Inflicts additional +45% damage on Impaled targets. -Inflicts additional +43% on Electric Shock targets."
+    ],
+    [
+     "20",
+     "",
+     "Freezing Earth",
+     "Deals damage to all enemies within 8 m with a chance to Snare for 6.2 sec. Snare duration reduced -50% in PvP.",
+     "-Inflicts additional +26% damage on Burning targets. -Inflicts Ice Shard on targets under freezing effects, snaring them for 4 sec. -Freezes Tripped targets, slowing them for 4 sec."
+    ],
+    [
+     "25",
+     "",
+     "Searing Rain",
+     "Rains down fire on all enemies in a 10-meter radius for 7 sec, dealing Magic Damage.",
+     "-Inflicts additional +44% damage on targets under freezing effects."
+    ],
+    [
+     "30",
+     "",
+     "Frigid Tracks",
+     "Freezes your footprints for 9 sec. The ice freezes any enemies who step on it, but melts in 4 sec.",
+     ""
+    ],
+    [
+     "35",
+     "",
+     "Magic Circle",
+     "Summons a Magic Circle around the caster for 20 sec. Increases Magic Attack and Magic Crit Rate +9% while withing the magic circle.",
+     ""
+    ],
+    [
+     "40",
+     "",
+     "Chain Lightning",
+     "Fires lightning bolts to deal Magic Damage and Shock an enemy. May also affect other enemies withing 5 m. Can strike up to 5 times, dealing -50% less damage with each subsequent hit.",
+     "-Inflicts additional +30% damage on Impaled targets."
+    ],
+    [
+     "45",
+     "",
+     "Flame Barrier",
+     "Calls forth a wall of fire that deals Fire Damage and Slows for 5 sec.",
+     "-Inflicts additional +41% damage on targets under freezing effects."
+    ],
+    [
+     "50",
+     "",
+     "Meteor Strike",
+     "Calls down a meteor, dealing Magic Damage to all enemies in the target area. Also inflicts Tripped on all enemies hit for 2.5 seconds.",
+     "-Inflicts additional +30% damage on targets under freezing effects."
+    ],
+    [
+     "55",
+     "",
+     "Gods' Whip",
+     "Calls down lightning on a target area to deal Magic Damage to enemies in a 6m radius; Inflicts Electric Shock on enemies withing a 5m radius. Can be used consecutively up to 5 times, with each attack dealing more damage but costing more mana.",
+     ""
+    ]
+   ]
+  },
+  {
+   "heading": "Passive Skills",
+   "caption": "",
+   "headers": [
+    "Required Points",
+    "Icon",
+    "Skill",
+    "Description"
+   ],
+   "rows": [
+    [
+     "2",
+     "",
+     "Mana Pool Increase",
+     "Increases max mana +20%."
+    ],
+    [
+     "4",
+     "",
+     "Magic Range Boost",
+     "Increases the range for Sorcery skills +5m."
+    ],
+    [
+     "6",
+     "",
+     "Efficient Sorcery",
+     "Decreases the mana cost for Sorcery skills -20%."
+    ],
+    [
+     "7",
+     "",
+     "Mana Flurry",
+     "Decreases Cast Time for all skills -6%. Grants the Mana Fountain effect each time Flamebolt's third attack, Frigid Tracks or Magic Circle is used. Mana Fountain: -Increases attack speed +2% per stack. -Decreases Cast Time -2% per stack. -Decreases Sorcery Cooldowns -2% per stack. -Decreases Physical Defense -3% per stack. -Stacks up to 8 times."
+    ],
+    [
+     "8",
+     "",
+     "Recuperation",
+     "Decreases the duration of Sleep and Fear -10%"
+    ],
+    [
+     "9",
+     "",
+     "",
+     ""
+    ],
+    [
+     "10",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "heading": "Abyssal skills",
+   "caption": "",
+   "headers": [
+    "Required Points",
+    "Icon",
+    "Skill",
+    "Description"
+   ],
+   "rows": []
+  }
+ ],
+ "text": "List Of Skills Active Skills Level Icon Skill Description Combos 1 Flamebolt Can be used up to 3 times in a row without triggering a cooldown. Attack 1: Inflicts Burning for 3.2sec. Attack 3: Converts 20% of damage dealt to Enervated enemies to mana; inflicts Conflagration on Burning enemies. All 3 attacks deal +12% additional damage to targets under freezing effects. Hold down for continuous use. -Inflicts additional +12% damage on targets under freezing effects. -Inflicts Conflagration on Burning targets. -Returns 20% of damage dealt to Enervated targets as Mana. 3 Freezing Arrow Fires an Ice Arrow at an enemy, dealing magic damage and decreasing Move Speed for 4 sec. -Inflicts additional +15% damage on Burning targets. -Inflicts Deep Freeze for 20 sec on targets under freezing effects. Duration reduced -50% in PvP. -Inflicts additional +34% damage on Sleeping targets. -Eliminates the cast time of Freezing Arrow for the duration of Frigid Tracks. 10 Insulating Lens Creates a protection ward around the caster. Increases Physical Defense +1100. Absorbs up to 2049 damage before expiring. Increases stealth detection +200%. 15 Arc Lightning Fires lightning bolts to deal Magic Damage and Shock an enemy. Deals Magic Damage over 8 sec to Shocked enemies; also Shocks all other enemies withing 2m. When this skill levels up, it increases damage, but also cast time. -Inflicts additional +45% damage on Impaled targets. -Inflicts additional +43% on Electric Shock targets. 20 Freezing Earth Deals damage to all enemies within 8 m with a chance to Snare for 6.2 sec. Snare duration reduced -50% in PvP. -Inflicts additional +26% damage on Burning targets. -Inflicts Ice Shard on targets under freezing effects, snaring them for 4 sec. -Freezes Tripped targets, slowing them for 4 sec. 25 Searing Rain Rains down fire on all enemies in a 10-meter radius for 7 sec, dealing Magic Damage. -Inflicts additional +44% damage on targets under freezing effects. 30 Frigid Tracks Freezes your footprints for 9 sec. The ice freezes any enemies who step on it, but melts in 4 sec. 35 Magic Circle Summons a Magic Circle around the caster for 20 sec. Increases Magic Attack and Magic Crit Rate +9% while withing the magic circle. 40 Chain Lightning Fires lightning bolts to deal Magic Damage and Shock an enemy. May also affect other enemies withing 5 m. Can strike up to 5 times, dealing -50% less damage with each subsequent hit. -Inflicts additional +30% damage on Impaled targets. 45 Flame Barrier Calls forth a wall of fire that deals Fire Damage and Slows for 5 sec. -Inflicts additional +41% damage on targets under freezing effects. 50 Meteor Strike Calls down a meteor, dealing Magic Damage to all enemies in the target area. Also inflicts Tripped on all enemies hit for 2.5 seconds. -Inflicts additional +30% damage on targets under freezing effects. 55 Gods' Whip Calls down lightning on a target area to deal Magic Damage to enemies in a 6m radius; Inflicts Electric Shock on enemies withing a 5m radius. Can be used consecutively up to 5 times, with each attack dealing more damage but costing more mana. Passive Skills Required Points Icon Skill Description 2 Mana Pool Increase Increases max mana +20%. 4 Magic Range Boost Increases the range for Sorcery skills +5m. 6 Efficient Sorcery Decreases the mana cost for Sorcery skills -20%. 7 Mana Flurry Decreases Cast Time for all skills -6%. Grants the Mana Fountain effect each time Flamebolt's third attack, Frigid Tracks or Magic Circle is used. Mana Fountain: -Increases attack speed +2% per stack. -Decreases Cast Time -2% per stack. -Decreases Sorcery Cooldowns -2% per stack. -Decreases Physical Defense -3% per stack. -Stacks up to 8 times. 8 Recuperation Decreases the duration of Sleep and Fear -10% 9 10 Abyssal skills Required Points Icon Skill Description",
+ "html": "<h2 id=\"List_Of_Skills\">List Of Skills</h2>\n<h3 id=\"Active_Skills\">Active Skills</h3>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Level\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th>\n<th>Combos\n</th></tr>\n<tr>\n<td>1\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/c/ca/Flamebolt.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Flamebolt\n</td>\n<td>Can be used up to 3 times in a row without triggering a cooldown.\n<p>Attack 1: Inflicts Burning for 3.2sec. \nAttack 3: Converts 20% of damage dealt to Enervated enemies to mana; inflicts Conflagration on Burning enemies.\nAll 3 attacks deal +12% additional damage to targets under freezing effects.\nHold down for continuous use.\n</p>\n</td>\n<td>-Inflicts additional +12% damage on targets under freezing effects.\n<p>-Inflicts Conflagration on Burning targets.\n-Returns 20% of damage dealt to Enervated targets as Mana.\n</p>\n</td></tr>\n<tr>\n<td>3\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/4/42/FreezingArrow.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Freezing Arrow\n</td>\n<td>Fires an Ice Arrow at an enemy, dealing magic damage and decreasing Move Speed for 4 sec.\n</td>\n<td>-Inflicts additional +15% damage on Burning targets.\n<p>-Inflicts Deep Freeze for 20 sec on targets under freezing effects. Duration reduced -50% in PvP.\n-Inflicts additional +34% damage on Sleeping targets.\n-Eliminates the cast time of Freezing Arrow for the duration of Frigid Tracks.\n</p>\n</td></tr>\n<tr>\n<td>10\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/2/24/Insulating_Lens.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Insulating Lens\n</td>\n<td>Creates a protection ward around the caster.\n<p>Increases Physical Defense +1100. Absorbs up to 2049 damage before expiring.\nIncreases stealth detection +200%.\n</p>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>15\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/4/4a/Arc_Lightning.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Arc Lightning\n</td>\n<td>Fires lightning bolts to deal Magic Damage and Shock an enemy.\n<p>Deals Magic Damage over 8 sec to Shocked enemies; also Shocks all other enemies withing 2m. When this skill levels up, it increases damage, but also cast time.\n</p>\n</td>\n<td>-Inflicts additional +45% damage on Impaled targets.\n<p>-Inflicts additional +43% on Electric Shock targets.\n</p>\n</td></tr>\n<tr>\n<td>20\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/7/79/Freezing_Earth.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Freezing Earth\n</td>\n<td>Deals damage to all enemies within 8 m with a chance to Snare for 6.2 sec.\n<p>Snare duration reduced -50% in PvP.\n</p>\n</td>\n<td>-Inflicts additional +26% damage on Burning targets.\n<p>-Inflicts Ice Shard on targets under freezing effects, snaring them for 4 sec.\n-Freezes Tripped targets, slowing them for 4 sec.\n</p>\n</td></tr>\n<tr>\n<td>25\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/9/95/Searing_Rain.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Searing Rain\n</td>\n<td>Rains down fire on all enemies in a 10-meter radius for 7 sec, dealing Magic Damage.\n</td>\n<td>-Inflicts additional +44% damage on targets under freezing effects.\n</td></tr>\n<tr>\n<td>30\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/d/d3/Frigid_Tracks.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Frigid Tracks\n</td>\n<td>Freezes your footprints for 9 sec. The ice freezes any enemies who step on it, but melts in 4 sec.\n</td>\n<td>\n</td></tr>\n<tr>\n<td>35\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/b/b3/Magic_Circle.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Magic Circle\n</td>\n<td>Summons a Magic Circle around the caster for 20 sec.\n<p>Increases Magic Attack and Magic Crit Rate +9% while withing the magic circle.\n</p>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>40\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/a/a0/Chain_Lightning.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Chain Lightning\n</td>\n<td>Fires lightning bolts to deal Magic Damage and Shock an enemy. May also affect other enemies withing 5 m.\n<p>Can strike up to 5 times, dealing -50% less damage with each subsequent hit.\n</p>\n</td>\n<td>-Inflicts additional +30% damage on Impaled targets.\n</td></tr>\n<tr>\n<td>45\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/e/ee/Flame_Barrier.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Flame Barrier\n</td>\n<td>Calls forth a wall of fire that deals Fire Damage and Slows for 5 sec.\n</td>\n<td>-Inflicts additional +41% damage on targets under freezing effects.\n</td></tr>\n<tr>\n<td>50\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/7/7e/Meteor_Strike.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Meteor Strike\n</td>\n<td>Calls down a meteor, dealing Magic Damage to all enemies in the target area.\n<p>Also inflicts Tripped on all enemies hit for 2.5 seconds.\n</p>\n</td>\n<td>-Inflicts additional +30% damage on targets under freezing effects.\n</td></tr>\n<tr>\n<td>55\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/1/15/Gods_whip.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Gods' Whip\n</td>\n<td>Calls down lightning on a target area to deal Magic Damage to enemies in a 6m radius; Inflicts Electric Shock on enemies withing a 5m radius.\n<p>Can be used consecutively up to 5 times, with each attack dealing more damage but costing more mana.\n</p>\n</td>\n<td>\n</td></tr></tbody></table>\n<h3 id=\"Passive_Skills\">Passive Skills</h3>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Required Points\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th></tr>\n<tr>\n<td>2\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/1/11/Mana_Pool_Increase.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Mana Pool Increase\n</td>\n<td>Increases max mana +20%.\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/1/1e/Magic_Range_Boost.webp\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Magic Range Boost\n</td>\n<td>Increases the range for Sorcery skills +5m.\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/c/c3/Efficient_sorcery.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Efficient Sorcery\n</td>\n<td>Decreases the mana cost for Sorcery skills -20%.\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><span><img src=\"https://wiki.aa-classic.com/images/8/8b/Mana_Flurry.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span>\n</td>\n<td>Mana Flurry\n</td>\n<td>Decreases Cast Time for all skills -6%.\n<p>Grants the Mana Fountain effect each time Flamebolt's third attack, Frigid Tracks or Magic Circle is used.\nMana Fountain:\n-Increases attack speed +2% per stack.\n-Decreases Cast Time -2% per stack.\n-Decreases Sorcery Cooldowns -2% per stack.\n-Decreases Physical Defense -3% per stack.\n-Stacks up to 8 times.\n</p>\n</td></tr>\n<tr>\n<td>8\n</td>\n<td>\n</td>\n<td>Recuperation\n</td>\n<td>Decreases the duration of Sleep and Fear -10%\n</td></tr>\n<tr>\n<td>9\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>10\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<h3 id=\"Abyssal_skills\">Abyssal skills</h3>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Required Points\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th></tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>"
+}

@@ -1,0 +1,38 @@
+{
+ "slug": "fishing",
+ "title": "Fishing",
+ "pageid": 117,
+ "revid": 3359,
+ "updated": "2026-04-08T21:17:36Z",
+ "source": "https://wiki.aa-classic.com/Fishing",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Bait_Fishing",
+   "text": "Bait Fishing"
+  },
+  {
+   "level": 3,
+   "id": "Sport_Fishing",
+   "text": "Sport Fishing"
+  },
+  {
+   "level": 3,
+   "id": "Ice_Fishing",
+   "text": "Ice Fishing"
+  },
+  {
+   "level": 3,
+   "id": "Advanced_Fishing",
+   "text": "Advanced Fishing"
+  },
+  {
+   "level": 3,
+   "id": "Classic-only_Changes",
+   "text": "Classic-only Changes"
+  }
+ ],
+ "tables": [],
+ "text": "In ArcheAge, fishing can refer to two types of activities: Bait fishing and sport fishing. Bait Fishing Bait Fishing is the act of using a fishing rod, bait worms and casting your line in any body of water. It will reward various types of fish, which can be sold as they are, chopped as chum for fishing spots or turned into Dawn Lake essence Sport Fishing Sport fishing has two different forms, freshwater (inland lakes, ponds) and saltwater (out at sea). As of patch 1.2.5 any chopped fish bucket (excluding squid) can be used on a saltwater fish pool to activate it. Chopped squid is used for fresh water sports fishing. When you get a fish on the line a sequence minigame starts where you need to match the skill to the debuff of the fish at the time. An example would be if the debuff for \"Stand Firm Left\" shows up you press that button. The process is the same for the other skills as well. The main skills you should not miss are \"Big Reel In\" and \"Reel In\", these are the primary skills for dealing damage to (catching) the fish. Ice Fishing Ice fishing can be done in the Mirror Tundra. Advanced Fishing Advanced fishing is the final feature of fishing where you use \"Ground Fish Chum\" to bait fish within the Sunspeck Sea for \"Big Belly Fish\". These fish act similiar to crates where they have a loot table when you open them and can give you items like treasure maps, and Solzreed Mackeral that convert 3 fish to 1 Dawn Lake Essence among various other items. In order to Advanced Fish you need a rod capable of doing it as well as max proficiency in fishing. Classic-only Changes Compared to the standard 3.0 version, Classic has had the following changes: \"Old\" fishing pools. They expire on duration instead of fish count and have a predetermined fish type. If you find a Marlin pool, it can be a lot of gold! Doubled Labor usage & Gold reward: With the increased labor quantity on Classic, the labor and gold ratio of fish was adjusted to make it feel more rewarding and less of a grind New Fishing Rods: The rods introduced later in the game were backported to let players choose between Cast Time or Damage. Or, if they are rich enough, the Ultimate rod which mixes both! Timers on Pools: Pools will show the timer before they expire at all time, instead of requiring players to write it down Labor Split: Instead of the labor being all on the fish catch, part of the labor is moved to turn-in to make getting pirated a lesser loss for fishers Universal Chum: Compared to 1.2 pools, here all fish types eat all types of chum! Sunfish Schools: On rare occasions, once a feeding frenzy ends a Schooling Sunfish can appear. Chumming it will alert the entire world, so be prepared for a fight!",
+ "html": "<p>In ArcheAge, fishing can refer to two types of activities: Bait fishing and sport fishing.\n</p>\n\n<h3 id=\"Bait_Fishing\">Bait Fishing</h3>\n<p>Bait Fishing is the act of using a fishing rod, bait worms and casting your line in any body of water.\n</p><p>It will reward various types of fish, which can be sold as they are, chopped as chum for fishing spots or turned into Dawn Lake essence\n</p>\n<h3 id=\"Sport_Fishing\">Sport Fishing</h3>\n<p>Sport fishing has two different forms, freshwater (inland lakes, ponds) and saltwater (out at sea). \n</p><p>As of patch 1.2.5 any chopped fish bucket (excluding squid) can be used on a saltwater fish pool to activate it. Chopped squid is used for fresh water sports fishing.\n</p><p>When you get a fish on the line a sequence minigame starts where you need to match the skill to the debuff of the fish at the time. An example would be if the debuff for \"Stand Firm Left\" shows up you press that button. The process is the same for the other skills as well.\n</p><p>The main skills you should not miss are \"Big Reel In\" and \"Reel In\", these are the primary skills for dealing damage to (catching) the fish.\n</p>\n<h3 id=\"Ice_Fishing\">Ice Fishing</h3>\n<p>Ice fishing can be done in the Mirror Tundra.\n</p>\n<h3 id=\"Advanced_Fishing\"><b>Advanced Fishing</b></h3>\n<p>Advanced fishing is the final feature of fishing where you use \"Ground Fish Chum\" to bait fish within the Sunspeck Sea for \"Big Belly Fish\". \n</p><p>These fish act similiar to crates where they have a loot table when you open them and can give you items like treasure maps, and Solzreed Mackeral that convert 3 fish to 1 Dawn Lake Essence among various other items.\n</p><p>In order to Advanced Fish you need a rod capable of doing it as well as max proficiency in fishing.\n</p>\n<h3 id=\"Classic-only_Changes\">Classic-only Changes</h3>\n<p>Compared to the standard 3.0 version, Classic has had the following changes:\n</p>\n<ul><li>\"Old\" fishing pools. They expire on duration instead of fish count and have a predetermined fish type. If you find a Marlin pool, it can be a lot of gold!</li>\n<li>Doubled Labor usage &amp; Gold reward: With the increased labor quantity on Classic, the labor and gold ratio of fish was adjusted to make it feel more rewarding and less of a grind</li>\n<li>New Fishing Rods: The rods introduced later in the game were backported to let players choose between Cast Time or Damage. Or, if they are rich enough, the Ultimate rod which mixes both!</li>\n<li>Timers on Pools: Pools will show the timer before they expire at all time, instead of requiring players to write it down</li>\n<li>Labor Split: Instead of the labor being all on the fish catch, part of the labor is moved to turn-in to make getting pirated a lesser loss for fishers</li>\n<li>Universal Chum: Compared to 1.2 pools, here all fish types eat all types of chum!</li>\n<li>Sunfish Schools: On rare occasions, once a feeding frenzy ends a Schooling Sunfish can appear. Chumming it will alert the entire world, so be prepared for a fight!</li></ul>"
+}

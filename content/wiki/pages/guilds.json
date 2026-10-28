@@ -1,0 +1,911 @@
+{
+ "slug": "guilds",
+ "title": "Guilds",
+ "pageid": 1824,
+ "revid": 3612,
+ "updated": "2026-09-05T01:19:50Z",
+ "source": "https://wiki.aa-classic.com/Guilds",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Levels",
+   "text": "Levels"
+  },
+  {
+   "level": 3,
+   "id": "Level_1",
+   "text": "Level 1"
+  },
+  {
+   "level": 3,
+   "id": "Level_2",
+   "text": "Level 2"
+  },
+  {
+   "level": 3,
+   "id": "Level_3",
+   "text": "Level 3"
+  },
+  {
+   "level": 3,
+   "id": "Level_4",
+   "text": "Level 4"
+  },
+  {
+   "level": 3,
+   "id": "Level_5",
+   "text": "Level 5"
+  },
+  {
+   "level": 3,
+   "id": "Level_6",
+   "text": "Level 6"
+  },
+  {
+   "level": 3,
+   "id": "Level_7",
+   "text": "Level 7"
+  },
+  {
+   "level": 3,
+   "id": "Level_8",
+   "text": "Level 8"
+  },
+  {
+   "level": 2,
+   "id": "Dominions",
+   "text": "Dominions"
+  },
+  {
+   "level": 2,
+   "id": "See_Also",
+   "text": "See Also"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Summon Guild Members",
+     "10"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Summon Guild Members",
+     "10"
+    ]
+   ]
+  },
+  {
+   "heading": "Prestige Shop Unlock",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Name"
+   ],
+   "rows": [
+    [
+     "",
+     "Glider Customization: Golden Wyrmwings"
+    ],
+    [
+     "",
+     "Melee Basic Costume"
+    ],
+    [
+     "",
+     "Ranged Basic Costume"
+    ],
+    [
+     "",
+     "Magic Basic Costume"
+    ],
+    [
+     "",
+     "Healing Basic Costume"
+    ],
+    [
+     "",
+     "Blank Territory Work Permit"
+    ],
+    [
+     "",
+     "Mirror of Boundaries"
+    ],
+    [
+     "",
+     "Guild Flare"
+    ],
+    [
+     "",
+     "Blood Archeum Crystal"
+    ],
+    [
+     "",
+     "Greater Weapon Temper"
+    ],
+    [
+     "",
+     "Greater Armor Temper"
+    ],
+    [
+     "",
+     "Clear Earth Lunagem: Tempest"
+    ],
+    [
+     "",
+     "Misagon's Crystal"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Increase XP Gain",
+     "+7%"
+    ],
+    [
+     "Summon Guild Members",
+     "10"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Increase XP Gain",
+     "+15%"
+    ],
+    [
+     "Summon Guild Members",
+     "10"
+    ]
+   ]
+  },
+  {
+   "heading": "Prestige Shop Unlock",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Name"
+   ],
+   "rows": [
+    [
+     "",
+     "Pinion Portal: Halcyona"
+    ],
+    [
+     "",
+     "Pinion Portal: Hasla"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Increase XP Gain",
+     "+7%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+7%"
+    ],
+    [
+     "Summon Guild Members",
+     "10"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Increase XP Gain",
+     "+15%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+15%"
+    ],
+    [
+     "Summon Guild Members",
+     "10"
+    ]
+   ]
+  },
+  {
+   "heading": "Prestige Shop Unlock",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Name"
+   ],
+   "rows": [
+    [
+     "",
+     "Epherium Arrowflash Cloak"
+    ],
+    [
+     "",
+     "Epherium Hatchetblade Cloak"
+    ],
+    [
+     "",
+     "Epherium Windsong Cloak"
+    ],
+    [
+     "",
+     "Epherium Twintail Cloak"
+    ],
+    [
+     "",
+     "Epherium Bastion Cloak"
+    ],
+    [
+     "",
+     "Peace Treaty"
+    ],
+    [
+     "",
+     "Pioneer Earrings"
+    ],
+    [
+     "",
+     "Vivid Earth Lunagem: Tempest"
+    ],
+    [
+     "",
+     "Hoof-Harmony Horse Armor Crate"
+    ],
+    [
+     "",
+     "Antler-Accord Elk Armor Crate"
+    ],
+    [
+     "",
+     "Anima-Alliance Leomorph Armor Crate"
+    ],
+    [
+     "",
+     "Mane-Morale Snowlion Armor Crate"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Increase XP Gain",
+     "+7%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+7%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-15%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-7%"
+    ],
+    [
+     "Summon Guild Members",
+     "11"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Increase XP Gain",
+     "+15%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+15%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-30%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-15%"
+    ],
+    [
+     "Summon Guild Members",
+     "11"
+    ]
+   ]
+  },
+  {
+   "heading": "Prestige Shop Unlock",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Name"
+   ],
+   "rows": [
+    [
+     "",
+     "Vivid Earth Lunascale: Intercept"
+    ],
+    [
+     "",
+     "Vivid Earth Lunascale: Vitality"
+    ],
+    [
+     "",
+     "Vivid Earth Lunascale: Finesse"
+    ],
+    [
+     "",
+     "Vivid Earth Lunascale: Esoteric"
+    ],
+    [
+     "",
+     "Vivid Earth Lunascale: Celerity"
+    ],
+    [
+     "",
+     "Vivid Earth Lunascale: Impenetrable"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Aggro"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Consolation"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Overpower"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Solace"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Tempest"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Torrent"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Pierce"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Breakthrough"
+    ],
+    [
+     "",
+     "Vivid Gale Lunascale: Clash"
+    ],
+    [
+     "",
+     "Custom Hoof-Harmony Saddle"
+    ],
+    [
+     "",
+     "Custom Antler-Accord Saddle"
+    ],
+    [
+     "",
+     "Custom Anima-Alliance Leomorph Saddle"
+    ],
+    [
+     "",
+     "Custom Mane-Morale Saddle"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Increase XP Gain",
+     "+7%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+7%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-15%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-7%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+50"
+    ],
+    [
+     "Summon Guild Members",
+     "12"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Increase XP Gain",
+     "+15%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+15%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-30%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-15%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+100"
+    ],
+    [
+     "Summon Guild Members",
+     "12"
+    ]
+   ]
+  },
+  {
+   "heading": "Prestige Shop Unlock",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Name"
+   ],
+   "rows": [
+    [
+     "",
+     "Pinion Portal: Diamond Shores"
+    ],
+    [
+     "",
+     "Cloudstrike Panther"
+    ],
+    [
+     "",
+     "Lucid Earth Lunagem: Tempest"
+    ],
+    [
+     "",
+     "Misagon's Hidden Crate"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Increase XP Gain",
+     "+7%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+7%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-15%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-7%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+50"
+    ],
+    [
+     "Glider Speed Boost",
+     "???"
+    ],
+    [
+     "Summon Guild Members",
+     "13"
+    ],
+    [
+     "Duration of Rebirth Trauma",
+     "-20 seconds"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Increase XP Gain",
+     "+15%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+15%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-30%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-15%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+100"
+    ],
+    [
+     "Glider Speed Boost",
+     "???"
+    ],
+    [
+     "Summon Guild Members",
+     "13"
+    ],
+    [
+     "Duration of Rebirth Trauma",
+     "-40 seconds"
+    ]
+   ]
+  },
+  {
+   "heading": "Prestige Shop Unlock",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Name"
+   ],
+   "rows": [
+    [
+     "",
+     "Pinion Portal: Mistmerrow"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Increase XP Gain",
+     "+7%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+7%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-15%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-7%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+50"
+    ],
+    [
+     "Glider Speed Boost",
+     "???"
+    ],
+    [
+     "Ship/Vehicle summoning time",
+     "-20%"
+    ],
+    [
+     "Summon Guild Members",
+     "14"
+    ],
+    [
+     "Duration of Rebirth Trauma",
+     "-40 seconds"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Increase XP Gain",
+     "+15%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+15%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-30%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-15%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+100"
+    ],
+    [
+     "Glider Speed Boost",
+     "???"
+    ],
+    [
+     "Ship/Vehicle summoning time",
+     "-40%"
+    ],
+    [
+     "Summon Guild Members",
+     "14"
+    ],
+    [
+     "Duration of Rebirth Trauma",
+     "-80 seconds"
+    ]
+   ]
+  },
+  {
+   "heading": "Prestige Shop Unlock",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Name"
+   ],
+   "rows": [
+    [
+     "",
+     "Radiant Earth Lunagem: Tempest"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+15%"
+    ],
+    [
+     "Increase XP Gain",
+     "+7%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+7%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-15%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-7%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+50"
+    ],
+    [
+     "Glider Speed Boost",
+     "???"
+    ],
+    [
+     "Ship/Vehicle summoning time",
+     "-20%"
+    ],
+    [
+     "Duration of Rebirth Trauma",
+     "-60 seconds"
+    ]
+   ]
+  },
+  {
+   "heading": "Buff",
+   "caption": "",
+   "headers": [
+    "Boost",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Increase Dash Speed",
+     "+30%"
+    ],
+    [
+     "Increase XP Gain",
+     "+15%"
+    ],
+    [
+     "Increase Loot Drop Rate",
+     "+15%"
+    ],
+    [
+     "Decrease cooldown for Recall",
+     "-30%"
+    ],
+    [
+     "Decrease Recall cast time",
+     "-15%"
+    ],
+    [
+     "Increase Jury Honor gain",
+     "+100"
+    ],
+    [
+     "Glider Speed Boost",
+     "???"
+    ],
+    [
+     "Ship/Vehicle summoning time",
+     "-40%"
+    ],
+    [
+     "Duration of Rebirth Trauma",
+     "-120 seconds"
+    ],
+    [
+     "Summon Guild Members",
+     "15"
+    ]
+   ]
+  }
+ ],
+ "text": "tbc Guilds Guilds are groups that allow players to team up, collect Prestige, and gain distinct advantages through guild buffs. Depending on the leader's vision, a guild can either focus heavily on competitive gameplay or operate strictly as a \"Prestige Guild\" for casual progression. Levels Guilds can progress up to level 8, with each level upgrading the guild buff to provide stronger bonuses to its members and unlocking new items in the Prestige Shop. Level 1 Buff Tahyang's Energy Boost Value Increase Dash Speed +15% Summon Guild Members 10 Tahyang's Incarnation Boost Value Increase Dash Speed +30% Summon Guild Members 10 Prestige Shop Unlock Icon Name Glider Customization: Golden Wyrmwings Melee Basic Costume Ranged Basic Costume Magic Basic Costume Healing Basic Costume Blank Territory Work Permit Mirror of Boundaries Guild Flare Blood Archeum Crystal Greater Weapon Temper Greater Armor Temper Clear Earth Lunagem: Tempest Misagon's Crystal Level 2 Buff Aranzeb's Energy Boost Value Increase Dash Speed +15% Increase XP Gain +7% Summon Guild Members 10 Aranzeb's Incarnation Boost Value Increase Dash Speed +30% Increase XP Gain +15% Summon Guild Members 10 Prestige Shop Unlock Icon Name Pinion Portal: Halcyona Pinion Portal: Hasla Level 3 Buff Ollo's Energy Boost Value Increase Dash Speed +15% Increase XP Gain +7% Increase Loot Drop Rate +7% Summon Guild Members 10 Ollo's Incarnation Boost Value Increase Dash Speed +30% Increase XP Gain +15% Increase Loot Drop Rate +15% Summon Guild Members 10 Prestige Shop Unlock Icon Name Epherium Arrowflash Cloak Epherium Hatchetblade Cloak Epherium Windsong Cloak Epherium Twintail Cloak Epherium Bastion Cloak Peace Treaty Pioneer Earrings Vivid Earth Lunagem: Tempest Hoof-Harmony Horse Armor Crate Antler-Accord Elk Armor Crate Anima-Alliance Leomorph Armor Crate Mane-Morale Snowlion Armor Crate Level 4 Buff Naima's Energy Boost Value Increase Dash Speed +15% Increase XP Gain +7% Increase Loot Drop Rate +7% Decrease cooldown for Recall -15% Decrease Recall cast time -7% Summon Guild Members 11 Naima's Incarnation Boost Value Increase Dash Speed +30% Increase XP Gain +15% Increase Loot Drop Rate +15% Decrease cooldown for Recall -30% Decrease Recall cast time -15% Summon Guild Members 11 Prestige Shop Unlock Icon Name Vivid Earth Lunascale: Intercept Vivid Earth Lunascale: Vitality Vivid Earth Lunascale: Finesse Vivid Earth Lunascale: Esoteric Vivid Earth Lunascale: Celerity Vivid Earth Lunascale: Impenetrable Vivid Gale Lunascale: Aggro Vivid Gale Lunascale: Consolation Vivid Gale Lunascale: Overpower Vivid Gale Lunascale: Solace Vivid Gale Lunascale: Tempest Vivid Gale Lunascale: Torrent Vivid Gale Lunascale: Pierce Vivid Gale Lunascale: Breakthrough Vivid Gale Lunascale: Clash Custom Hoof-Harmony Saddle Custom Antler-Accord Saddle Custom Anima-Alliance Leomorph Saddle Custom Mane-Morale Saddle Level 5 Buff Inoch's Energy Boost Value Increase Dash Speed +15% Increase XP Gain +7% Increase Loot Drop Rate +7% Decrease cooldown for Recall -15% Decrease Recall cast time -7% Increase Jury Honor gain +50 Summon Guild Members 12 Inoch's Incarnation Boost Value Increase Dash Speed +30% Increase XP Gain +15% Increase Loot Drop Rate +15% Decrease cooldown for Recall -30% Decrease Recall cast time -15% Increase Jury Honor gain +100 Summon Guild Members 12 Prestige Shop Unlock Icon Name Pinion Portal: Diamond Shores Cloudstrike Panther Lucid Earth Lunagem: Tempest Misagon's Hidden Crate Level 6 Buff Lucius's Energy Boost Value Increase Dash Speed +15% Increase XP Gain +7% Increase Loot Drop Rate +7% Decrease cooldown for Recall -15% Decrease Recall cast time -7% Increase Jury Honor gain +50 Glider Speed Boost ??? Summon Guild Members 13 Duration of Rebirth Trauma -20 seconds Lucius's Incarnation Boost Value Increase Dash Speed +30% Increase XP Gain +15% Increase Loot Drop Rate +15% Decrease cooldown for Recall -30% Decrease Recall cast time -15% Increase Jury Honor gain +100 Glider Speed Boost ??? Summon Guild Members 13 Duration of Rebirth Trauma -40 seconds Prestige Shop Unlock Icon Name Pinion Portal: Mistmerrow Level 7 Buff Kyprosa's Energy Boost Value Increase Dash Speed +15% Increase XP Gain +7% Increase Loot Drop Rate +7% Decrease cooldown for Recall -15% Decrease Recall cast time -7% Increase Jury Honor gain +50 Glider Speed Boost ??? Ship/Vehicle summoning time -20% Summon Guild Members 14 Duration of Rebirth Trauma -40 seconds Kyprosa's Incarnation Boost Value Increase Dash Speed +30% Increase XP Gain +15% Increase Loot Drop Rate +15% Decrease cooldown for Recall -30% Decrease Recall cast time -15% Increase Jury Honor gain +100 Glider Speed Boost ??? Ship/Vehicle summoning time -40% Summon Guild Members 14 Duration of Rebirth Trauma -80 seconds Prestige Shop Unlock Icon Name Radiant Earth Lunagem: Tempest Level 8 Buff Eanna's Energy Boost Value Increase Dash Speed +15% Increase XP Gain +7% Increase Loot Drop Rate +7% Decrease cooldown for Recall -15% Decrease Recall cast time -7% Increase Jury Honor gain +50 Glider Speed Boost ??? Ship/Vehicle summoning time -20% Duration of Rebirth Trauma -60 seconds |- | Summon Guild Members| 15 |} Eanna's Incarnation Boost Value Increase Dash Speed +30% Increase XP Gain +15% Increase Loot Drop Rate +15% Decrease cooldown for Recall -30% Decrease Recall cast time -15% Increase Jury Honor gain +100 Glider Speed Boost ??? Ship/Vehicle summoning time -40% Duration of Rebirth Trauma -120 seconds Summon Guild Members 15 Dominions See Also Prestige Prestige Shop Guild Cloak",
+ "html": "<p>tbc\n</p>\n\n<h1 id=\"Guilds\">Guilds</h1>\n<p><b>Guilds</b> are groups that allow players to team up, collect <a href=\"/wiki/prestige\">Prestige</a>, and gain distinct advantages through guild buffs. Depending on the leader's vision, a guild can either focus heavily on competitive gameplay or operate strictly as a \"Prestige Guild\" for casual progression.\n</p>\n<h2 id=\"Levels\">Levels</h2>\n<p>Guilds can progress up to level 8, with each level upgrading the guild buff to provide stronger bonuses to its members and unlocking new items in the <a href=\"/wiki/prestige-shop\">Prestige Shop</a>.\n</p>\n<h3 id=\"Level_1\">Level 1</h3>\n<h4 id=\"Buff\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/8/80/Tahyang%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Tahyang's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>10\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/8/84/Tahyang%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Tahyang's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>10\n</td></tr></tbody></table>\n<h4 id=\"Prestige_Shop_Unlock\">Prestige Shop Unlock</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/c/c7/GliderCustomizationGoldenWyrmkin.png/32px-GliderCustomizationGoldenWyrmkin.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/c7/GliderCustomizationGoldenWyrmkin.png/48px-GliderCustomizationGoldenWyrmkin.png 1.5x, https://wiki.aa-classic.com/images/c/c7/GliderCustomizationGoldenWyrmkin.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/40510\">Glider Customization: Golden Wyrmwings</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8001095\">Melee Basic Costume</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8001096\">Ranged Basic Costume</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8001097\">Magic Basic Costume</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/32px-BasicStatCostume.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/96/BasicStatCostume.png/48px-BasicStatCostume.png 1.5x, https://wiki.aa-classic.com/images/9/96/BasicStatCostume.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8001098\">Healing Basic Costume</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/3f/IconTerritoryWorkPermit.png/32px-IconTerritoryWorkPermit.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/3f/IconTerritoryWorkPermit.png/48px-IconTerritoryWorkPermit.png 1.5x, https://wiki.aa-classic.com/images/3/3f/IconTerritoryWorkPermit.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/40365\">Blank Territory Work Permit</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/b0/MirrorofBoundaries.png/32px-MirrorofBoundaries.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/b0/MirrorofBoundaries.png/48px-MirrorofBoundaries.png 1.5x, https://wiki.aa-classic.com/images/b/b0/MirrorofBoundaries.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/40202\">Mirror of Boundaries</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/b2/GuildFlare.png/32px-GuildFlare.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/b2/GuildFlare.png/48px-GuildFlare.png 1.5x, https://wiki.aa-classic.com/images/b/b2/GuildFlare.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39037\">Guild Flare</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/c/c8/BloodArcheumCrystal.png/32px-BloodArcheumCrystal.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/c8/BloodArcheumCrystal.png/48px-BloodArcheumCrystal.png 1.5x, https://wiki.aa-classic.com/images/c/c8/BloodArcheumCrystal.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39576\">Blood Archeum Crystal</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/97/GreaterWeaponTemper.png/32px-GreaterWeaponTemper.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/97/GreaterWeaponTemper.png/48px-GreaterWeaponTemper.png 1.5x, https://wiki.aa-classic.com/images/9/97/GreaterWeaponTemper.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39320\">Greater Weapon Temper</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f1/GreaterArmorTemper.png/32px-GreaterArmorTemper.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f1/GreaterArmorTemper.png/48px-GreaterArmorTemper.png 1.5x, https://wiki.aa-classic.com/images/f/f1/GreaterArmorTemper.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39321\">Greater Armor Temper</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/ff/ClearEarthLunagem.png/32px-ClearEarthLunagem.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/ff/ClearEarthLunagem.png/48px-ClearEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/f/ff/ClearEarthLunagem.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39056\">Clear Earth Lunagem: Tempest</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/7/7f/Misagon%27s_Crystal.png/32px-Misagon%27s_Crystal.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/7/7f/Misagon%27s_Crystal.png/48px-Misagon%27s_Crystal.png 1.5x, https://wiki.aa-classic.com/images/7/7f/Misagon%27s_Crystal.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8000966\">Misagon's Crystal</a>\n</td></tr></tbody></table>\n<h3 id=\"Level_2\">Level 2</h3>\n<h4 id=\"Buff_2\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/1/15/Aranzeb%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Aranzeb's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>10\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/2/28/Aranzeb%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Aranzeb's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>10\n</td></tr></tbody></table>\n<h4 id=\"Prestige_Shop_Unlock_2\">Prestige Shop Unlock</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/4740\">Pinion Portal: Halcyona</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/4741\">Pinion Portal: Hasla</a>\n</td></tr></tbody></table>\n<h3 id=\"Level_3\">Level 3</h3>\n<h4 id=\"Buff_3\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/6/60/Ollo%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Ollo's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>10\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/d/da/Ollo%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Ollo's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>10\n</td></tr></tbody></table>\n<h4 id=\"Prestige_Shop_Unlock_3\">Prestige Shop Unlock</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/97/EpheriumArrowflashCloak.png/32px-EpheriumArrowflashCloak.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/97/EpheriumArrowflashCloak.png/48px-EpheriumArrowflashCloak.png 1.5x, https://wiki.aa-classic.com/images/9/97/EpheriumArrowflashCloak.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38679\">Epherium Arrowflash Cloak</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/5/5b/EpheriumHatchetbladeCloak.png/32px-EpheriumHatchetbladeCloak.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/5/5b/EpheriumHatchetbladeCloak.png/48px-EpheriumHatchetbladeCloak.png 1.5x, https://wiki.aa-classic.com/images/5/5b/EpheriumHatchetbladeCloak.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38682\">Epherium Hatchetblade Cloak</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/c/c1/EpheriumWindsongCloak.png/32px-EpheriumWindsongCloak.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/c1/EpheriumWindsongCloak.png/48px-EpheriumWindsongCloak.png 1.5x, https://wiki.aa-classic.com/images/c/c1/EpheriumWindsongCloak.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38670\">Epherium Windsong Cloak</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f9/EpheriumTwintailCloak.png/32px-EpheriumTwintailCloak.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f9/EpheriumTwintailCloak.png/48px-EpheriumTwintailCloak.png 1.5x, https://wiki.aa-classic.com/images/f/f9/EpheriumTwintailCloak.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38673\">Epherium Twintail Cloak</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/a/a4/EpheriumBastionCloak.png/32px-EpheriumBastionCloak.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/a/a4/EpheriumBastionCloak.png/48px-EpheriumBastionCloak.png 1.5x, https://wiki.aa-classic.com/images/a/a4/EpheriumBastionCloak.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38676\">Epherium Bastion Cloak</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/8/8d/PeaceTreaty.png/32px-PeaceTreaty.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/8/8d/PeaceTreaty.png/48px-PeaceTreaty.png 1.5x, https://wiki.aa-classic.com/images/8/8d/PeaceTreaty.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38925\">Peace Treaty</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/bd/PioneerEarring.png/32px-PioneerEarring.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/bd/PioneerEarring.png/48px-PioneerEarring.png 1.5x, https://wiki.aa-classic.com/images/b/bd/PioneerEarring.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39055\">Pioneer Earrings</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/b4/VividEarthLunagem.png/32px-VividEarthLunagem.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/b4/VividEarthLunagem.png/48px-VividEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/b/b4/VividEarthLunagem.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39057\">Vivid Earth Lunagem: Tempest</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/6/6d/Hoof-Harmony_Horse_Armor_Crate.png/32px-Hoof-Harmony_Horse_Armor_Crate.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/6/6d/Hoof-Harmony_Horse_Armor_Crate.png/48px-Hoof-Harmony_Horse_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/6/6d/Hoof-Harmony_Horse_Armor_Crate.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39861\">Hoof-Harmony Horse Armor Crate</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/9f/Antler-Accord_Elk_Armor_Crate.png/32px-Antler-Accord_Elk_Armor_Crate.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/9f/Antler-Accord_Elk_Armor_Crate.png/48px-Antler-Accord_Elk_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/9/9f/Antler-Accord_Elk_Armor_Crate.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39862\">Antler-Accord Elk Armor Crate</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/8/8f/Anima-Alliance_Leomorph_Armor_Crate.png/32px-Anima-Alliance_Leomorph_Armor_Crate.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/8/8f/Anima-Alliance_Leomorph_Armor_Crate.png/48px-Anima-Alliance_Leomorph_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/8/8f/Anima-Alliance_Leomorph_Armor_Crate.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39863\">Anima-Alliance Leomorph Armor Crate</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/6/67/Mane-Morale_Snowlion_Armor_Crate.png/32px-Mane-Morale_Snowlion_Armor_Crate.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/6/67/Mane-Morale_Snowlion_Armor_Crate.png/48px-Mane-Morale_Snowlion_Armor_Crate.png 1.5x, https://wiki.aa-classic.com/images/6/67/Mane-Morale_Snowlion_Armor_Crate.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39864\">Mane-Morale Snowlion Armor Crate</a>\n</td></tr></tbody></table>\n<h3 id=\"Level_4\">Level 4</h3>\n<h4 id=\"Buff_4\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/7/7b/Naima%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Naima's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-7%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>11\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/0/0a/Naima%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Naima's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-30%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>11\n</td></tr></tbody></table>\n<h4 id=\"Prestige_Shop_Unlock_4\">Prestige Shop Unlock</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/40939\">Vivid Earth Lunascale: Intercept</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39059\">Vivid Earth Lunascale: Vitality</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39060\">Vivid Earth Lunascale: Finesse</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39061\">Vivid Earth Lunascale: Esoteric</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39062\">Vivid Earth Lunascale: Celerity</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/32px-VividEarthLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/b/bf/VividEarthLunascale.png/48px-VividEarthLunascale.png 1.5x, https://wiki.aa-classic.com/images/b/bf/VividEarthLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39063\">Vivid Earth Lunascale: Impenetrable</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39064\">Vivid Gale Lunascale: Aggro</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39065\">Vivid Gale Lunascale: Consolation</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39066\">Vivid Gale Lunascale: Overpower</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39067\">Vivid Gale Lunascale: Solace</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39068\">Vivid Gale Lunascale: Tempest</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39069\">Vivid Gale Lunascale: Torrent</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39070\">Vivid Gale Lunascale: Pierce</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39071\">Vivid Gale Lunascale: Breakthrough</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/32px-VividGaleLunascale.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f4/VividGaleLunascale.png/48px-VividGaleLunascale.png 1.5x, https://wiki.aa-classic.com/images/f/f4/VividGaleLunascale.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/40938\">Vivid Gale Lunascale: Clash</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/ff/Custom_Hoof-Harmony_Saddle.png/32px-Custom_Hoof-Harmony_Saddle.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/ff/Custom_Hoof-Harmony_Saddle.png/48px-Custom_Hoof-Harmony_Saddle.png 1.5x, https://wiki.aa-classic.com/images/f/ff/Custom_Hoof-Harmony_Saddle.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39835\">Custom Hoof-Harmony Saddle</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/e/ee/Custom_Antler-Accord_Saddle.png/32px-Custom_Antler-Accord_Saddle.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/e/ee/Custom_Antler-Accord_Saddle.png/48px-Custom_Antler-Accord_Saddle.png 1.5x, https://wiki.aa-classic.com/images/e/ee/Custom_Antler-Accord_Saddle.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39839\">Custom Antler-Accord Saddle</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/8/82/Custom_Anima-Alliance_Leomorph_Saddle.png/32px-Custom_Anima-Alliance_Leomorph_Saddle.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/8/82/Custom_Anima-Alliance_Leomorph_Saddle.png/48px-Custom_Anima-Alliance_Leomorph_Saddle.png 1.5x, https://wiki.aa-classic.com/images/8/82/Custom_Anima-Alliance_Leomorph_Saddle.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39843\">Custom Anima-Alliance Leomorph Saddle</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/1/14/Custom_Mane-Morale_Saddle.png/32px-Custom_Mane-Morale_Saddle.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/1/14/Custom_Mane-Morale_Saddle.png/48px-Custom_Mane-Morale_Saddle.png 1.5x, https://wiki.aa-classic.com/images/1/14/Custom_Mane-Morale_Saddle.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39847\">Custom Mane-Morale Saddle</a>\n</td></tr></tbody></table>\n<h3 id=\"Level_5\">Level 5</h3>\n<h4 id=\"Buff_5\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/1/15/Inoch%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Inoch's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-7%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+50\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>12\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/7/70/Inoch%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Inoch's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-30%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+100\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>12\n</td></tr></tbody></table>\n<h4 id=\"Prestige_Shop_Unlock_5\">Prestige Shop Unlock</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/4742\">Pinion Portal: Diamond Shores</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/4/44/CloudstrikePanther.png/32px-CloudstrikePanther.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/4/44/CloudstrikePanther.png/48px-CloudstrikePanther.png 1.5x, https://wiki.aa-classic.com/images/4/44/CloudstrikePanther.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39564\">Cloudstrike Panther</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/8/80/LucidEarthLunagem.png/32px-LucidEarthLunagem.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/8/80/LucidEarthLunagem.png/48px-LucidEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/8/80/LucidEarthLunagem.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39058\">Lucid Earth Lunagem: Tempest</a>\n</td></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/d/df/Misagon%27s_Hidden_Crate.png/32px-Misagon%27s_Hidden_Crate.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/d/df/Misagon%27s_Hidden_Crate.png/48px-Misagon%27s_Hidden_Crate.png 1.5x, https://wiki.aa-classic.com/images/d/df/Misagon%27s_Hidden_Crate.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/8001876\">Misagon's Hidden Crate</a>\n</td></tr></tbody></table>\n<h3 id=\"Level_6\">Level 6</h3>\n<h4 id=\"Buff_6\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/9/90/Luscius%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Lucius's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-7%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+50\n</td></tr>\n<tr>\n<td><b>Glider Speed Boost</b>\n</td>\n<td>???\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>13\n</td></tr>\n<tr>\n<td><b>Duration of Rebirth Trauma</b>\n</td>\n<td>-20 seconds\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/6/6e/Lucius%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Lucius's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-30%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+100\n</td></tr>\n<tr>\n<td><b>Glider Speed Boost</b>\n</td>\n<td>???\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>13\n</td></tr>\n<tr>\n<td><b>Duration of Rebirth Trauma</b>\n</td>\n<td>-40 seconds\n</td></tr></tbody></table>\n<h4 id=\"Prestige_Shop_Unlock_6\">Prestige Shop Unlock</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/32px-IconRedPinion.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/3d/IconRedPinion.png/48px-IconRedPinion.png 1.5x, https://wiki.aa-classic.com/images/3/3d/IconRedPinion.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/4743\">Pinion Portal: Mistmerrow</a>\n</td></tr></tbody></table>\n<h3 id=\"Level_7\">Level 7</h3>\n<h4 id=\"Buff_7\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/4/43/Kyprosa%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Kyprosa's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-7%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+50\n</td></tr>\n<tr>\n<td><b>Glider Speed Boost</b>\n</td>\n<td>???\n</td></tr>\n<tr>\n<td><b>Ship/Vehicle summoning time</b>\n</td>\n<td>-20%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>14\n</td></tr>\n<tr>\n<td><b>Duration of Rebirth Trauma</b>\n</td>\n<td>-40 seconds\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/9/99/Kyprosa%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Kyprosa's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-30%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+100\n</td></tr>\n<tr>\n<td><b>Glider Speed Boost</b>\n</td>\n<td>???\n</td></tr>\n<tr>\n<td><b>Ship/Vehicle summoning time</b>\n</td>\n<td>-40%\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>14\n</td></tr>\n<tr>\n<td><b>Duration of Rebirth Trauma</b>\n</td>\n<td>-80 seconds\n</td></tr></tbody></table>\n<h4 id=\"Prestige_Shop_Unlock_7\">Prestige Shop Unlock</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Icon\n</th>\n<th>Name\n</th></tr>\n<tr>\n<td><span><img src=\"https://wiki.aa-classic.com/images/thumb/c/ca/RadiantEarthLunagem.png/32px-RadiantEarthLunagem.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/ca/RadiantEarthLunagem.png/48px-RadiantEarthLunagem.png 1.5x, https://wiki.aa-classic.com/images/c/ca/RadiantEarthLunagem.png 2x\" loading=\"lazy\"></span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/39613\">Radiant Earth Lunagem: Tempest</a>\n</td></tr></tbody></table>\n<h3 id=\"Level_8\">Level 8</h3>\n<h4 id=\"Buff_8\">Buff</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/4/45/Eanna%27sEnergy.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Eanna's Energy</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+7%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-7%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+50\n</td></tr>\n<tr>\n<td><b>Glider Speed Boost</b>\n</td>\n<td>???\n</td></tr>\n<tr>\n<td><b>Ship/Vehicle summoning time</b>\n</td>\n<td>-20%\n</td></tr>\n<tr>\n<td><b>Duration of Rebirth Trauma</b>\n</td>\n<td>-60 seconds\n</td></tr></tbody></table>\n<p>|-\n| <b>Summon Guild Members</b>\n| 15\n|}\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/f/f4/Eanna%27sIncarnation.png\" width=\"30\" height=\"30\" loading=\"lazy\"></span>\n<b>Eanna's Incarnation</b>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Boost\n</th>\n<th>Value\n</th></tr>\n<tr>\n<td><b>Increase Dash Speed</b>\n</td>\n<td>+30%\n</td></tr>\n<tr>\n<td><b>Increase XP Gain</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Increase Loot Drop Rate</b>\n</td>\n<td>+15%\n</td></tr>\n<tr>\n<td><b>Decrease cooldown for Recall</b>\n</td>\n<td>-30%\n</td></tr>\n<tr>\n<td><b>Decrease Recall cast time</b>\n</td>\n<td>-15%\n</td></tr>\n<tr>\n<td><b>Increase Jury Honor gain</b>\n</td>\n<td>+100\n</td></tr>\n<tr>\n<td><b>Glider Speed Boost</b>\n</td>\n<td>???\n</td></tr>\n<tr>\n<td><b>Ship/Vehicle summoning time</b>\n</td>\n<td>-40%\n</td></tr>\n<tr>\n<td><b>Duration of Rebirth Trauma</b>\n</td>\n<td>-120 seconds\n</td></tr>\n<tr>\n<td><b>Summon Guild Members</b>\n</td>\n<td>15\n</td></tr></tbody></table>\n<h2 id=\"Dominions\">Dominions</h2>\n<h2 id=\"See_Also\">See Also</h2>\n<ul><li><a href=\"/wiki/prestige\">Prestige</a></li>\n<li><a href=\"/wiki/prestige-shop\">Prestige Shop</a></li>\n<li><a href=\"/wiki/guild-cloak\">Guild Cloak</a></li></ul>"
+}

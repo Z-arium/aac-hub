@@ -1,0 +1,170 @@
+{
+ "slug": "vitalism",
+ "title": "Vitalism",
+ "pageid": 23,
+ "revid": 206,
+ "updated": "2024-03-16T11:57:38Z",
+ "source": "https://wiki.aa-classic.com/Vitalism",
+ "headings": [
+  {
+   "level": 2,
+   "id": "List_of_skills",
+   "text": "List of skills"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "List of skills",
+   "caption": "",
+   "headers": [
+    "Level",
+    "Icon",
+    "Skill",
+    "Description",
+    "Combos"
+   ],
+   "rows": [
+    [
+     "1",
+     "",
+     "Holy Bolt",
+     "Fires a bolt of holy light that deals Magic Damage.",
+     "Inflicts +37% damage on Cursed targets. Heals allies Blessed by you as long as they are within 15m of the target."
+    ],
+    [
+     "3",
+     "",
+     "Mirror Light",
+     "Caster/allies: Cures one debuff and increases received healing +15% for 1min30sec. Enemies: Inflicts Snare for 2sec. Increases received damage +12% and decreases healing effectiveness -30% for 20sec. Snare duration reduced -50% in PvP.",
+     ""
+    ],
+    [
+     "10",
+     "",
+     "Antithesis",
+     "Allies/caster: Instantly restores Health. Enemies: Deals Magic Damage.",
+     "Reduces Antithesis cooldown -0.6 seconds while Inspired. Eliminates the cast time of Antithesis for the duration of Spell Shield. Healing effectiveness increased +30% when cast on a friendly character under Resurgence. Consumes a target's Charmed debuff to inflict an additional +26% damage."
+    ],
+    [
+     "15",
+     "",
+     "Resurgence",
+     "Regenerates Health over 10sec for you or an ally.",
+     ""
+    ],
+    [
+     "20",
+     "",
+     "Revive",
+     "Revives an ally and restores the XP lost at death in the same amount as Nui's resurrection. Revived target: Restores 80% of max health and mana. Can't be used during combat.",
+     ""
+    ],
+    [
+     "25",
+     "",
+     "Skewer",
+     "Summons four skewers within a 20m circle at the target area, dealing Magic Damage and Impaling enemies for 2.6sec, preventing all actions. Skewers deal more damage where they overlap. When this skill levels up, it increases in both damage and cast time.",
+     "Inflicts additional +45% damage on Impaled targets."
+    ],
+    [
+     "30",
+     "",
+     "Mend",
+     "Restores health to up to 10 allies within a 20m radius. Affected allies are protected for a short period of time (does not stack with Insulating Lens). Grants immunity to Fear, but does not remove existing Fear effects.",
+     "Mend cooldown reduced -2.1 seconds while under Inspired. Healing effectiveness increased +30% when cast on a friendly character under Resurgence. Increases Omnipotent Ward duration +100% if used while under the affects of Sacrifice. Consumes Sacrifice buff to grant Renewal to affected allies."
+    ],
+    [
+     "35",
+     "",
+     "Aranzeb's Boon",
+     "Increases all stats +30. Applies to caster and nearby raid members for 30minutes.",
+     ""
+    ],
+    [
+     "40",
+     "",
+     "Renewal",
+     "Calls forth energy from the land to bless the caster or an ally for 30sec. Grants 25% chance to trigger Gradual Recovery whenever damaged by an attack, healing the user over short period. Ends when Gradual Recovery is triggered.",
+     ""
+    ],
+    [
+     "45",
+     "",
+     "Fervent Healing",
+     "Instantly restores Health for you or an ally. When used repeatedly, this skill heals 25% more Health, but at the cost of more Mana and longer cooldown. Can be used up to 5 times in a row.",
+     "Cooldown reduced -1.2 seconds while under Inspired."
+    ],
+    [
+     "50",
+     "",
+     "Infuse",
+     "Consumes caster's mana to immediately restore the mana of up to 10 allies within 20m. Restores 8-11% of each target's max mana.",
+     "Cosumes Sacrifice buff to grant Martyr's Boon to affected allies."
+    ],
+    [
+     "55",
+     "",
+     "Whirlwind's Blessing",
+     "Increases Attack Speed +250 and Move Speed +20% for allies within 30m, and decreases Attack Speed -175 and Move Speed -15% for enemies for 20 seconds.",
+     ""
+    ]
+   ]
+  },
+  {
+   "heading": "List of skills",
+   "caption": "Passive skills",
+   "headers": [
+    "Required points",
+    "Icon",
+    "Skill",
+    "Description"
+   ],
+   "rows": [
+    [
+     "2",
+     "",
+     "Painful Recharge",
+     "Converts 3% of received damage to mana."
+    ],
+    [
+     "4",
+     "",
+     "Quick Recovery",
+     "Resets cooldowns on all Vitalism healing skills after receiving critical damage or critical healing. If Quick Recovery is triggered too often, it will be disabled for 12 seconds."
+    ],
+    [
+     "6",
+     "",
+     "Spirit Growth",
+     "Increases Spirit +9%."
+    ],
+    [
+     "7",
+     "",
+     "Alms",
+     "Decreases Cast Time for all skills -6%."
+    ],
+    [
+     "8",
+     "",
+     "Invigorated Healing",
+     "Increases Critical Healing Bonus +25%."
+    ],
+    [
+     "9",
+     "",
+     "Defiance",
+     "Increases Magic Defense +500 for allies withing 15m radius. Grants Prayer effect every time Antithesis, Mend or Fervent Healing is cast. Prayer: Decreases Cast Time -2% per stack. Triggers Sacrifice at 5 stacks. Sacrifice: Consumes 12-16% of current health when triggered. Decreases Cast Time -10%. Adds powerful bonus effects to Mend and Infuse. Lasts 15sec. Prevents gaining stacks of Prayer for duration."
+    ],
+    [
+     "10",
+     "",
+     "Joyous Spirit",
+     "Decreases Vitalism skill cooldown -20%. Increases Post-Cast Mana Regen based on Spirit whenever damage is received while below 40& mana."
+    ]
+   ]
+  }
+ ],
+ "text": "The Vitalism skillset is symbolized by Kyprosa, who was tasked with guarding the gate to the dream realm rather than participate in reality. Now, her disciples heal and revive fallen allies rather than participate in bloodbaths themselves, providing crucial life support in battle. Optimized for combat support, Vitalism was designed for experienced users who can nimbly switch between different weapons for attacking and healing. Masters of this skillset can shift the tide of battle by healing their allies, or turn their power on themselves to survive nearly any assault. List of skills Level Icon Skill Description Combos 1 Holy Bolt Fires a bolt of holy light that deals Magic Damage. Inflicts +37% damage on Cursed targets. Heals allies Blessed by you as long as they are within 15m of the target. 3 Mirror Light Caster/allies: Cures one debuff and increases received healing +15% for 1min30sec. Enemies: Inflicts Snare for 2sec. Increases received damage +12% and decreases healing effectiveness -30% for 20sec. Snare duration reduced -50% in PvP. 10 Antithesis Allies/caster: Instantly restores Health. Enemies: Deals Magic Damage. Reduces Antithesis cooldown -0.6 seconds while Inspired. Eliminates the cast time of Antithesis for the duration of Spell Shield. Healing effectiveness increased +30% when cast on a friendly character under Resurgence. Consumes a target's Charmed debuff to inflict an additional +26% damage. 15 Resurgence Regenerates Health over 10sec for you or an ally. 20 Revive Revives an ally and restores the XP lost at death in the same amount as Nui's resurrection. Revived target: Restores 80% of max health and mana. Can't be used during combat. 25 Skewer Summons four skewers within a 20m circle at the target area, dealing Magic Damage and Impaling enemies for 2.6sec, preventing all actions. Skewers deal more damage where they overlap. When this skill levels up, it increases in both damage and cast time. Inflicts additional +45% damage on Impaled targets. 30 Mend Restores health to up to 10 allies within a 20m radius. Affected allies are protected for a short period of time (does not stack with Insulating Lens). Grants immunity to Fear, but does not remove existing Fear effects. Mend cooldown reduced -2.1 seconds while under Inspired. Healing effectiveness increased +30% when cast on a friendly character under Resurgence. Increases Omnipotent Ward duration +100% if used while under the affects of Sacrifice. Consumes Sacrifice buff to grant Renewal to affected allies. 35 Aranzeb's Boon Increases all stats +30. Applies to caster and nearby raid members for 30minutes. 40 Renewal Calls forth energy from the land to bless the caster or an ally for 30sec. Grants 25% chance to trigger Gradual Recovery whenever damaged by an attack, healing the user over short period. Ends when Gradual Recovery is triggered. 45 Fervent Healing Instantly restores Health for you or an ally. When used repeatedly, this skill heals 25% more Health, but at the cost of more Mana and longer cooldown. Can be used up to 5 times in a row. Cooldown reduced -1.2 seconds while under Inspired. 50 Infuse Consumes caster's mana to immediately restore the mana of up to 10 allies within 20m. Restores 8-11% of each target's max mana. Cosumes Sacrifice buff to grant Martyr's Boon to affected allies. 55 Whirlwind's Blessing Increases Attack Speed +250 and Move Speed +20% for allies within 30m, and decreases Attack Speed -175 and Move Speed -15% for enemies for 20 seconds. Passive skills Required points Icon Skill Description 2 Painful Recharge Converts 3% of received damage to mana. 4 Quick Recovery Resets cooldowns on all Vitalism healing skills after receiving critical damage or critical healing. If Quick Recovery is triggered too often, it will be disabled for 12 seconds. 6 Spirit Growth Increases Spirit +9%. 7 Alms Decreases Cast Time for all skills -6%. 8 Invigorated Healing Increases Critical Healing Bonus +25%. 9 Defiance Increases Magic Defense +500 for allies withing 15m radius. Grants Prayer effect every time Antithesis, Mend or Fervent Healing is cast. Prayer: Decreases Cast Time -2% per stack. Triggers Sacrifice at 5 stacks. Sacrifice: Consumes 12-16% of current health when triggered. Decreases Cast Time -10%. Adds powerful bonus effects to Mend and Infuse. Lasts 15sec. Prevents gaining stacks of Prayer for duration. 10 Joyous Spirit Decreases Vitalism skill cooldown -20%. Increases Post-Cast Mana Regen based on Spirit whenever damage is received while below 40& mana.",
+ "html": "<p>The Vitalism skillset is symbolized by <a href=\"https://wiki.aa-classic.com/index.php?title=Kyprosa&action=edit&redlink=1\" rel=\"noopener\">Kyprosa</a>, who was tasked with guarding the gate to the dream realm rather than participate in reality. Now, her disciples heal and revive fallen allies rather than participate in bloodbaths themselves, providing crucial life support in battle.\n</p><p>Optimized for combat support, Vitalism was designed for experienced users who can nimbly switch between different weapons for attacking and healing. Masters of this skillset can shift the tide of battle by healing their allies, or turn their power on themselves to survive nearly any assault.\n</p>\n<h2 id=\"List_of_skills\">List of skills</h2>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Level\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th>\n<th>Combos\n</th></tr>\n<tr>\n<td>1\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b4/Holy_Bolt.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Holy Bolt\n</td>\n<td>Fires a bolt of holy light that deals Magic Damage.\n</td>\n<td>Inflicts +37% damage on <a href=\"/wiki/status-effects\">Cursed</a> targets.\n<p>Heals allies Blessed by you as long as they are within 15m of the target.\n</p>\n</td></tr>\n<tr>\n<td>3\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c8/Mirror_Light.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Mirror Light\n</td>\n<td>Caster/allies: Cures one debuff and increases received healing +15% for 1min30sec.\n<p>Enemies: Inflicts <a href=\"/wiki/status-effects\">Snare</a> for 2sec. Increases received damage +12% and decreases healing effectiveness -30% for 20sec. Snare duration reduced -50% in PvP.\n</p>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>10\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/4a/Antithesis.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Antithesis\n</td>\n<td>Allies/caster: Instantly restores Health.\n<p>Enemies: Deals Magic Damage.\n</p>\n</td>\n<td>Reduces Antithesis cooldown -0.6 seconds while Inspired.\n<p>Eliminates the cast time of Antithesis for the duration of <a href=\"/wiki/auramancy\">Spell Shield</a>.\n</p><p>Healing effectiveness increased +30% when cast on a friendly character under Resurgence.\n</p><p>Consumes a target's <a href=\"/wiki/status-effects\">Charmed</a> debuff to inflict an additional +26% damage.\n</p>\n</td></tr>\n<tr>\n<td>15\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/eb/Resurgence.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Resurgence\n</td>\n<td>Regenerates Health over 10sec for you or an ally.\n</td>\n<td>\n</td></tr>\n<tr>\n<td>20\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fe/Revive.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Revive\n</td>\n<td>Revives an ally and restores the XP lost at death in the same amount as Nui's resurrection.\n<p>Revived target: Restores 80% of max health and mana.\n</p><p><b>Can't be used during combat.</b>\n</p>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>25\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/92/Skewer.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Skewer\n</td>\n<td>Summons four skewers within a 20m circle at the target area, dealing Magic Damage and <a href=\"/wiki/status-effects\">Impaling</a> enemies for 2.6sec, preventing all actions.\n<p>Skewers deal more damage where they overlap. When this skill levels up, it increases in both damage and cast time. \n</p>\n</td>\n<td>Inflicts additional +45% damage on <a href=\"/wiki/status-effects\">Impaled</a> targets.\n</td></tr>\n<tr>\n<td>30\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/12/Mend.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Mend\n</td>\n<td>Restores health to up to 10 allies within a 20m radius.\n<p>Affected allies are protected for a short period of time (does not stack with Insulating Lens).\n</p><p>Grants immunity to <a href=\"/wiki/status-effects\">Fear</a>, but does not remove existing Fear effects.\n</p>\n</td>\n<td>Mend cooldown reduced -2.1 seconds while under Inspired.\n<p>Healing effectiveness increased +30% when cast on a friendly character under Resurgence. \n</p><p>Increases Omnipotent Ward duration +100% if used while under the affects of Sacrifice. \n</p><p>Consumes Sacrifice buff to grant Renewal to affected allies. \n</p>\n</td></tr>\n<tr>\n<td>35\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/47/Aranzebs_Boon.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Aranzeb's Boon\n</td>\n<td>Increases all stats +30. Applies to caster and nearby raid members for 30minutes.\n</td>\n<td>\n</td></tr>\n<tr>\n<td>40\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a4/Renewal_Icon.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Renewal\n</td>\n<td>Calls forth energy from the land to bless the caster or an ally for 30sec. Grants 25% chance to trigger Gradual Recovery whenever damaged by an attack, healing the user over short period. Ends when Gradual Recovery is triggered.\n</td>\n<td>\n</td></tr>\n<tr>\n<td>45\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c2/Fervent_Healing.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fervent Healing\n</td>\n<td>Instantly restores Health for you or an ally. When used repeatedly, this skill heals 25% more Health, but at the cost of more Mana and longer cooldown.\n<p>Can be used up to 5 times in a row. \n</p>\n</td>\n<td>Cooldown reduced -1.2 seconds while under Inspired.\n</td></tr>\n<tr>\n<td>50\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/30/Infuse.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Infuse\n</td>\n<td>Consumes caster's mana to immediately restore the mana of up to 10 allies within 20m. Restores 8-11% of each target's max mana.\n</td>\n<td>Cosumes Sacrifice buff to grant Martyr's Boon to affected allies.\n</td></tr>\n<tr>\n<td>55\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/36/Whirlwinds_Blessing.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Whirlwind's Blessing\n</td>\n<td>Increases Attack Speed +250 and Move Speed +20% for allies within 30m, and decreases Attack Speed -175 and Move Speed -15% for enemies for 20 seconds.\n</td>\n<td>\n</td></tr></tbody></table>\n<table class=\"wikitable\">\n<caption>Passive skills\n</caption>\n<tbody><tr>\n<th>Required points\n</th>\n<th>Icon\n</th>\n<th>Skill\n</th>\n<th>Description\n</th></tr>\n<tr>\n<td>2\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/4/46/Painful_Recharge.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Painful Recharge\n</td>\n<td>Converts 3% of received damage to mana.\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8c/Quick_Recovery.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Quick Recovery\n</td>\n<td>Resets cooldowns on all Vitalism healing skills after receiving critical damage or critical healing. If Quick Recovery is triggered too often, it will be disabled for 12 seconds.\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/e/e1/Spirit_Growth_Icon.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Spirit Growth\n</td>\n<td>Increases Spirit +9%.\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1c/Alms.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Alms\n</td>\n<td>Decreases Cast Time for all skills -6%.\n</td></tr>\n<tr>\n<td>8\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/c/c9/Invigorated_Healing.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Invigorated Healing\n</td>\n<td>Increases Critical Healing Bonus +25%.\n</td></tr>\n<tr>\n<td>9\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/82/Defiance.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Defiance\n</td>\n<td>Increases Magic Defense +500 for allies withing 15m radius. Grants Prayer effect every time Antithesis, Mend or Fervent Healing is cast.\n<p>Prayer:  \n</p>\n<ul><li>Decreases Cast Time -2% per stack.</li>\n<li>Triggers Sacrifice at 5 stacks.</li></ul>\n<p>Sacrifice: \n</p>\n<ul><li>Consumes 12-16% of current health when triggered.</li>\n<li>Decreases Cast Time -10%.</li>\n<li>Adds powerful bonus effects to Mend and Infuse.</li>\n<li>Lasts 15sec.</li>\n<li>Prevents gaining stacks of Prayer for duration.</li></ul>\n</td></tr>\n<tr>\n<td>10\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/39/Joyous_Spirit.jpg\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Joyous Spirit\n</td>\n<td>Decreases Vitalism skill cooldown -20%. Increases Post-Cast Mana Regen based on Spirit whenever damage is received while below 40&amp; mana.\n</td></tr></tbody></table>"
+}

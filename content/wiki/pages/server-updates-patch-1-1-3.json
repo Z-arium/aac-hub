@@ -1,0 +1,33 @@
+{
+ "slug": "server-updates-patch-1-1-3",
+ "title": "Server Updates/Patch 1.1.3",
+ "pageid": 1660,
+ "revid": 3395,
+ "updated": "2026-06-16T06:54:04Z",
+ "source": "https://wiki.aa-classic.com/Server_Updates/Patch_1.1.3",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Item_Changes",
+   "text": "Item Changes"
+  },
+  {
+   "level": 2,
+   "id": "Crafting_Changes",
+   "text": "Crafting Changes"
+  },
+  {
+   "level": 2,
+   "id": "Castle_Changes",
+   "text": "Castle Changes"
+  },
+  {
+   "level": 2,
+   "id": "Other",
+   "text": "Other"
+  }
+ ],
+ "tables": [],
+ "text": "Item Changes Charcoal Stabilizers and Fabric now stack up to 1000 Royal Seeds should now have the chance to drop from bundles Crafting Changes The level requirement for crafting Tax Certificates has been increased to level 50 Castle Changes The Lord‘s Coin cost of construction materials has been halved Luxury Territory Pack was reduced to 50 Lord‘s Coins, not 45 advanced and Basic remain at 45 Lord‘s Coins per Other Costumes have been fixed and some costumes have been made dyable",
+ "html": "<h2 id=\"Item_Changes\">Item Changes</h2>\n<ul><li>Charcoal Stabilizers and Fabric now stack up to 1000</li>\n<li>Royal Seeds should now have the chance to drop from bundles</li></ul>\n<h2 id=\"Crafting_Changes\">Crafting Changes</h2>\n<ul><li>The level requirement for crafting Tax Certificates has been increased to level 50</li></ul>\n<h2 id=\"Castle_Changes\">Castle Changes</h2>\n<ul><li>The Lord‘s Coin cost of construction materials has been halved\n<ul><li>Luxury Territory Pack was reduced to 50 Lord‘s Coins, not 45</li>\n<li>advanced and Basic remain at 45 Lord‘s Coins per</li></ul></li></ul>\n<h2 id=\"Other\">Other</h2>\n<ul><li>Costumes have been fixed and some costumes have been made dyable</li></ul>"
+}

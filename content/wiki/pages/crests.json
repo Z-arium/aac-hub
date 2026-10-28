@@ -1,0 +1,23 @@
+{
+ "slug": "crests",
+ "title": "Crests",
+ "pageid": 473,
+ "revid": 1835,
+ "updated": "2024-08-26T17:15:39Z",
+ "source": "https://wiki.aa-classic.com/Crests",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Crest_Information",
+   "text": "Crest Information"
+  },
+  {
+   "level": 3,
+   "id": "Crest_Templates",
+   "text": "Crest Templates"
+  }
+ ],
+ "tables": [],
+ "text": "Crest Information Outside of blank crest frames and sails, there's a variety of other crest formats that can be used that require custom formatting. In order to make a custom crest, a Crest Brainstorm is needed, which can be purchased from the Marketplace for credits. Crest Brainstorms are currently priced at 250 Credits each. Once you get a Crest Brainstorm, you will need to apply an image (detailed below) at a Crest Printer General Notes: - Only one custom crest can be made at a time (If you have multiple, you will need to do it one by one) - All images must be exactly 256x256 - Images must be added to `User\\Documents\\AAClassic\\UCC` - with the filename ucc.png Crest Templates Sails: Car: Sample: tbd Speedboat: Sample:",
+ "html": "<h2 id=\"Crest_Information\">Crest Information</h2>\n<p>Outside of blank crest frames and sails, there's a variety of other crest formats that can be used that require custom formatting.\n</p><p>In order to make a custom crest, a Crest Brainstorm is needed, which can be purchased from the Marketplace for credits.\n</p><p>Crest Brainstorms are currently priced at 250 Credits each.\n</p><p>Once you get a Crest Brainstorm, you will need to apply an image (detailed below) at a Crest Printer \n</p>\n<h4 id=\"General_Notes:\">General Notes:</h4>\n<p>- Only one custom crest can be made at a time (If you have multiple, you will need to do it one by one)\n</p><p>- All images must be <b>exactly</b> 256x256\n</p><p>- Images must be added to `User\\Documents\\AAClassic\\UCC` - with the filename ucc.png\n</p>\n<h3 id=\"Crest_Templates\">Crest Templates</h3>\n<h4 id=\"Sails:\">Sails:</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/2/27/Blank_Sail.png\" width=\"256\" height=\"256\" loading=\"lazy\"></span>\n</p>\n<h4 id=\"Car:\"><b>Car</b>:</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/c/cd/Car_Crest_Template.png\" width=\"256\" height=\"256\" loading=\"lazy\"></span>\nSample:\n</p><p>tbd\n</p>\n<h4 id=\"Speedboat:\"><b>Speedboat</b>:</h4>\n<p><span><img src=\"https://wiki.aa-classic.com/images/a/a1/Speedboat_Crest.png\" width=\"256\" height=\"256\" loading=\"lazy\"></span>\n</p><p><b>Sample:</b>\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/thumb/c/c6/Speedboat_Crest_Sample.png/300px-Speedboat_Crest_Sample.png\" width=\"300\" height=\"142\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/c6/Speedboat_Crest_Sample.png/450px-Speedboat_Crest_Sample.png 1.5x, https://wiki.aa-classic.com/images/c/c6/Speedboat_Crest_Sample.png 2x\" loading=\"lazy\"></span>\n</p>"
+}

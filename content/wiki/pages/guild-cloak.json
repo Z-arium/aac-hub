@@ -1,0 +1,423 @@
+{
+ "slug": "guild-cloak",
+ "title": "Guild Cloak",
+ "pageid": 1671,
+ "revid": 3584,
+ "updated": "2026-09-04T04:17:11Z",
+ "source": "https://wiki.aa-classic.com/Guild_Cloak",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Obtaining_a_Guild_Cloak",
+   "text": "Obtaining a Guild Cloak"
+  },
+  {
+   "level": 2,
+   "id": "Choosing_a_Cloak",
+   "text": "Choosing a Cloak"
+  },
+  {
+   "level": 2,
+   "id": "Upgrading_a_Guild_Cloak",
+   "text": "Upgrading a Guild Cloak"
+  },
+  {
+   "level": 3,
+   "id": "Synthesis",
+   "text": "Synthesis"
+  },
+  {
+   "level": 3,
+   "id": "Synthesis_Materials",
+   "text": "Synthesis Materials"
+  },
+  {
+   "level": 3,
+   "id": "Tiering_it_up",
+   "text": "Tiering it up"
+  },
+  {
+   "level": 3,
+   "id": "Rolling_for_different_stats",
+   "text": "Rolling for different stats"
+  },
+  {
+   "level": 3,
+   "id": "Changing_to_a_different_cloak",
+   "text": "Changing to a different cloak"
+  },
+  {
+   "level": 2,
+   "id": "Why_Get_a_Guild_Cloak?",
+   "text": "Why Get a Guild Cloak?"
+  },
+  {
+   "level": 2,
+   "id": "See_Also",
+   "text": "See Also"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Choosing a Cloak",
+   "caption": "",
+   "headers": [
+    "Cloak",
+    "Effect",
+    "Honor ver.",
+    "Flaming ver.",
+    "Recommended for"
+   ],
+   "rows": [
+    [
+     "Twintail Cloak",
+     "Block and Parry Rate",
+     "Magic Defense",
+     "Max Health",
+     "Tank"
+    ],
+    [
+     "Arrowflash Cloak",
+     "Attack Speed",
+     "Backstab Melee Damage",
+     "Melee Critical Damage",
+     "Melee"
+    ],
+    [
+     "Windsong Cloak",
+     "Move Speed",
+     "Defense Penetration",
+     "Ranged Critical Damage",
+     "Archer"
+    ],
+    [
+     "Hatchetblade Cloak",
+     "Cast Time",
+     "Magic Defense Penetration",
+     "Magic Critical Damage",
+     "Mage"
+    ],
+    [
+     "Bastion Cloak",
+     "Max Health",
+     "Healing Power",
+     "Critical Heal Bonus",
+     "Healer"
+    ]
+   ]
+  },
+  {
+   "heading": "Synthesis Material Experience",
+   "caption": "Auroran Synthesis Shard",
+   "headers": [
+    "Grade",
+    "Synthesis EXP"
+   ],
+   "rows": [
+    [
+     "Basic",
+     "75"
+    ],
+    [
+     "Grand",
+     "112"
+    ],
+    [
+     "Rare",
+     "168"
+    ]
+   ]
+  },
+  {
+   "heading": "Synthesis Material Experience",
+   "caption": "Auroran Synthesis Stone",
+   "headers": [
+    "Grade",
+    "Synthesis EXP"
+   ],
+   "rows": [
+    [
+     "Arcane",
+     "252"
+    ],
+    [
+     "Heroic",
+     "378"
+    ],
+    [
+     "Unique",
+     "567"
+    ]
+   ]
+  },
+  {
+   "heading": "Experience Required",
+   "caption": "",
+   "headers": [
+    "Grade",
+    "Epherium",
+    "Delphinad",
+    "Ayanad",
+    "Erenor"
+   ],
+   "rows": [
+    [
+     "",
+     "EXP",
+     "Total",
+     "EXP",
+     "Total",
+     "EXP",
+     "Total",
+     "EXP",
+     "Total"
+    ],
+    [
+     "Basic",
+     "75",
+     "75",
+     "—",
+     "—",
+     "—",
+     "—",
+     "—",
+     "—"
+    ],
+    [
+     "Grand",
+     "312",
+     "387",
+     "1,187",
+     "1,187",
+     "—",
+     "—",
+     "—",
+     "—"
+    ],
+    [
+     "Rare",
+     "668",
+     "1,055",
+     "1,881",
+     "3,068",
+     "4,262",
+     "4,262",
+     "—",
+     "—"
+    ],
+    [
+     "Arcane",
+     "1,202",
+     "2,257",
+     "2,870",
+     "5,938",
+     "6,922",
+     "11,184",
+     "6,922",
+     "6,922"
+    ],
+    [
+     "Heroic",
+     "2,003",
+     "4,260",
+     "4,279",
+     "10,217",
+     "11,217",
+     "22,401",
+     "11,217",
+     "18,139"
+    ],
+    [
+     "Unique",
+     "3,304",
+     "7,564",
+     "6,382",
+     "16,599",
+     "17,982",
+     "40,383",
+     "17,982",
+     "36,121"
+    ],
+    [
+     "Celestial",
+     "5,256",
+     "12,820",
+     "9,379",
+     "25,978",
+     "28,637",
+     "69,020",
+     "28,637",
+     "64,758"
+    ],
+    [
+     "Divine",
+     "8,184",
+     "21,004",
+     "13,650",
+     "39,628",
+     "45,524",
+     "114,544",
+     "45,524",
+     "110,282"
+    ],
+    [
+     "Epic",
+     "—",
+     "—",
+     "19,831",
+     "59,459",
+     "72,120",
+     "186,664",
+     "72,120",
+     "182,402"
+    ],
+    [
+     "Legendary",
+     "—",
+     "—",
+     "—",
+     "—",
+     "114,009",
+     "300,673",
+     "114,009",
+     "296,412"
+    ],
+    [
+     "Mythic",
+     "—",
+     "—",
+     "—",
+     "—",
+     "—",
+     "—",
+     "180,000",
+     "476,411"
+    ]
+   ]
+  },
+  {
+   "heading": "Tiering it up",
+   "caption": "",
+   "headers": [
+    "Tier",
+    "Max Grade"
+   ],
+   "rows": [
+    [
+     "Epherium",
+     "Divine"
+    ],
+    [
+     "Delphinad",
+     "Epic"
+    ],
+    [
+     "Ayanad",
+     "Legendary"
+    ],
+    [
+     "Erenor",
+     "Mythic"
+    ]
+   ]
+  },
+  {
+   "heading": "Stats by Grade",
+   "caption": "",
+   "headers": [
+    "Tier",
+    "Grade",
+    "Stats added to the pool"
+   ],
+   "rows": [
+    [
+     "Epherium",
+     "Basic",
+     "Main stat (Strength, Agility, Stamina, Spirit or Intelligence depending on cloak)"
+    ],
+    [
+     "Arcane",
+     "The four remaining base stats (Strength, Agility, Stamina, Spirit, Intelligence)"
+    ],
+    [
+     "Delphinad",
+     "Grand",
+     "Main stat (Honor or Flaming version)"
+    ],
+    [
+     "Arcane",
+     "Strength, Agility, Stamina, Spirit, Intelligence"
+    ],
+    [
+     "Ayanad",
+     "Rare",
+     "Main stat (Honor or Flaming version)"
+    ],
+    [
+     "Arcane",
+     "Strength, Agility, Stamina, Spirit, Intelligence"
+    ],
+    [
+     "Divine",
+     "Max Mana, Focus, Resilience, Received Healing, In-Battle Health Regen, Post-Cast Mana Regen, Fixed Melee Damage Reduction, Fixed Ranged Damage Reduction, Fixed Magic Damage Reduction"
+    ],
+    [
+     "Erenor",
+     "Arcane",
+     "Signature stat (Honor or Flaming version)"
+    ],
+    [
+     "Heroic",
+     "Strength, Agility, Stamina, Spirit, Intelligence"
+    ],
+    [
+     "Celestial",
+     "Max Mana, Focus, Resilience, Received Healing, In-Battle Health Regen, Post-Cast Mana Regen, Fixed Melee Damage Reduction, Fixed Ranged Damage Reduction, Fixed Magic Damage Reduction"
+    ]
+   ]
+  },
+  {
+   "heading": "Number of Stat Slots",
+   "caption": "",
+   "headers": [
+    "Grade",
+    "Epherium",
+    "Delphinad",
+    "Ayanad",
+    "Erenor"
+   ],
+   "rows": [
+    [
+     "Basic – Arcane",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    [
+     "Heroic – Celestial",
+     "2",
+     "2",
+     "2",
+     "2"
+    ],
+    [
+     "Divine – Legendary",
+     "3",
+     "3",
+     "3",
+     "3"
+    ],
+    [
+     "Mythic",
+     "—",
+     "—",
+     "—",
+     "4"
+    ]
+   ]
+  }
+ ],
+ "text": "The Guild Cloak, also commonly referred to as a Prestige Cloak, is a piece of Equipment that can be purchased from the Prestige Shop using Prestige or by completing the first section (Grand) of the Adventurer's Guide. Guild Cloaks are one of the most accessible pieces of equipment available to players. They can be obtained relatively early and upgraded over time through Synthesis. Obtaining a Guild Cloak Upon completing the first set of tasks in the Adventurer's Guide you will receive a box that contains a Guild Cloak, be sure to select which one you want carefully! To obtain more Guild Cloaks, the player must first be a member of a Guild. Players earn Prestige by completing Guild Missions and certain quests. Once 150 Prestige has been accumulated, a Guild Cloak can be purchased from the Prestige Shop. Choosing a Cloak Several different Guild Cloaks are available. Each cloak provides a different effect, allowing players to choose one that complements their class and playstyle. Once upgraded to Delphinad these cloaks branch out even further giving you 2 options of stats per cloak, I'll show these in the table as \"Honor ver.\" and \"Flaming ver.\". Cloak Effect Honor ver. Flaming ver. Recommended for Twintail Cloak Block and Parry Rate Magic Defense Max Health Tank Arrowflash Cloak Attack Speed Backstab Melee Damage Melee Critical Damage Melee Windsong Cloak Move Speed Defense Penetration Ranged Critical Damage Archer Hatchetblade Cloak Cast Time Magic Defense Penetration Magic Critical Damage Mage Bastion Cloak Max Health Healing Power Critical Heal Bonus Healer Note: The recommended uses are general guidelines. Players should choose the cloak that best suits their class and build. Upgrading a Guild Cloak Guild Cloaks are upgraded using Synthesis. Synthesis increases the cloak's experience and allows it to advance through higher Grades. Synthesis Open your Inventory. Open the \"Regrade Item\" window. Select the Synthesis option. Place the Guild Cloak into the \"Base Costume\" slot. Add the required Synthesis Materials. Confirm the synthesis. Each synthesis grants experience to the cloak. Once enough experience has been accumulated, the cloak advances to the next grade. As the cloak's grade increases, its effects become more powerful. Synthesis Materials Guild Cloaks require specific Synthesis Materials to be upgraded. These materials can be obtained primarily through killing monsters in Diamond Shores after your faction has killed the Alemine Fortress which purifies the zone for a few days. You can also obtain cloak synthesis materials from killing monsters in other purified areas in Auroria called \"Auroria Purification Zones\" and you can find these in Sungold Fields, Exeloch, Calmlands, Marcala, Nuimari and Heedmar. Beware though as depending on who's faction purified the zone there will be a tower at the center of the area that will kill anyone not of the same faction. The materials required and the amount of Synthesis experience provided depend on the grade of the synthesis material. Synthesis Material Experience Different synthesis materials provide different amounts of Synthesis EXP when used to upgrade a cloak. The amount of EXP provided depends on the material's grade. Auroran Synthesis Shards are available in Basic, Grand and Rare grades, while Auroran Synthesis Stones are available in Arcane, Heroic and Unique grades. Auroran Synthesis Shard Grade Synthesis EXP Basic 75 Grand 112 Rare 168 Auroran Synthesis Stone Grade Synthesis EXP Arcane 252 Heroic 378 Unique 567 Experience Required The amount of EXP required to increase a cloak's grade varies depending on its tier. The table below shows both the EXP required for each individual grade increase and the total cumulative EXP required to reach that grade from the beginning of the respective tier. For example, an Epherium cloak requires 75 EXP to reach Grand, while reaching Divine requires 21,004 total EXP. Grade Epherium Delphinad Ayanad Erenor EXP Total EXP Total EXP Total EXP Total Basic 75 75 — — — — — — Grand 312 387 1,187 1,187 — — — — Rare 668 1,055 1,881 3,068 4,262 4,262 — — Arcane 1,202 2,257 2,870 5,938 6,922 11,184 6,922 6,922 Heroic 2,003 4,260 4,279 10,217 11,217 22,401 11,217 18,139 Unique 3,304 7,564 6,382 16,599 17,982 40,383 17,982 36,121 Celestial 5,256 12,820 9,379 25,978 28,637 69,020 28,637 64,758 Divine 8,184 21,004 13,650 39,628 45,524 114,544 45,524 110,282 Epic — — 19,831 59,459 72,120 186,664 72,120 182,402 Legendary — — — — 114,009 300,673 114,009 296,412 Mythic — — — — — — 180,000 476,411 Note: Values are shown as EXP required for the grade / total cumulative EXP. Tiering it up In order to tier a cloak up to its next tier you need to have reached the max grade of your current tier, whether you reach 0% or 100% EXP at max grade does not have any impact on the next tier. Once that has been completed you just need some materials to tier your cloak up which will reset the stats it has, make the grade go back down to its lowest possible grade and reset the EXP. This means that until you reach Erenor cloak you don't have to be super min-maxxy with stats, just use the stats you are able to get on it. Tier Max Grade Epherium Divine Delphinad Epic Ayanad Legendary Erenor Mythic Rolling for different stats Upon grade up you are given a choice to either keep your stats as they are or to replace one of your current ones with a new random one. Important: Each grade increase provides one opportunity to replace one existing stat. If a single synthesis provides enough EXP to increase the cloak by multiple grades, only one of those grade-up rerolls is available. To maximize the number of reroll opportunities, avoid providing enough EXP to skip a grade. By pressing the magnifying glass you are able to see which stats are in the pool of the next grade when you are in the Synthesis tab. If you switch over to the Replace Effects tab you will see the stats that are in the pool of your current grade. DO NOT mix these two up when you are rolling for stats as that can lead to unwanted outcomes. Cryptic Lucky Scrolls can be used to replace a single stat on Ayanad or higher cloaks with a new random one from the stat pool. You can find the entire pool of stats you can get with the Cryptic Lucky Scroll by pressing the magnifying glass in the \"Replace Effects\" tab of the Synthesis window. It is recommended to ONLY use these on Erenor cloaks. Stats by Grade The stats available on a cloak are determined by its tier and grade. As a cloak is upgraded through its grades additional stats are introduced into the pool of possible stats that can be rolled. The table below shows when each group of stats is added to the rollable stat pool. Tier Grade Stats added to the pool Epherium Basic Main stat (Strength, Agility, Stamina, Spirit or Intelligence depending on cloak) Arcane The four remaining base stats (Strength, Agility, Stamina, Spirit, Intelligence) Delphinad Grand Main stat (Honor or Flaming version) Arcane Strength, Agility, Stamina, Spirit, Intelligence Ayanad Rare Main stat (Honor or Flaming version) Arcane Strength, Agility, Stamina, Spirit, Intelligence Divine Max Mana, Focus, Resilience, Received Healing, In-Battle Health Regen, Post-Cast Mana Regen, Fixed Melee Damage Reduction, Fixed Ranged Damage Reduction, Fixed Magic Damage Reduction Erenor Arcane Signature stat (Honor or Flaming version) Heroic Strength, Agility, Stamina, Spirit, Intelligence Celestial Max Mana, Focus, Resilience, Received Healing, In-Battle Health Regen, Post-Cast Mana Regen, Fixed Melee Damage Reduction, Fixed Ranged Damage Reduction, Fixed Magic Damage Reduction Number of Stat Slots As you upgrade a cloak through its grades, it gains additional stats. Epherium to Ayanad Cloaks: Start with 1 stat at the lowest grades and gradually gain up to 3 stats at the highest grade. Erenor Cloaks: Follow the same progression, but gain a 4th stat upon reaching Mythic grade. In other words the cloak's grade determines how many stats it has, with higher grades providing additional stats. Grade Epherium Delphinad Ayanad Erenor Basic – Arcane 1 1 1 1 Heroic – Celestial 2 2 2 2 Divine – Legendary 3 3 3 3 Mythic — — — 4 Changing to a different cloak Currently there is only one way to change your cloak into a different cloak and that is with an item called Ipnysh Cloakmuter. It can only be used on Erenor cloaks but lets you change your cloak to any of the other cloaks. This process resets the grade, stats and EXP of the cloak so you will have to get back on the Synthesis grind in order to make it Mythic again. Why Get a Guild Cloak? The Guild Cloak provides an accessible way for players to obtain significant amounts of useful stats through spending time grinding rather than spending a lot of gold and resources. Because the cloak can be upgraded through synthesis and tiered up multiple times, you can continue investing into the same item as your character progresses. Example Guild Cloaks See Also Guilds Prestige Shop Prestige",
+ "html": "<p>The <b>Guild Cloak</b>, also commonly referred to as a <b>Prestige Cloak</b>, is a piece of Equipment that can be purchased from the <b>Prestige Shop</b> using <b>Prestige</b> or by completing the first section (<span style=\"color: rgb(119, 176, 100)\">Grand</span>) of the <a href=\"/wiki/adventurers-guide\">Adventurer's Guide</a>.\n</p><p>Guild Cloaks are one of the most accessible pieces of equipment available to players. They can be obtained relatively early and upgraded over time through <b>Synthesis</b>.\n</p>\n<h2 id=\"Obtaining_a_Guild_Cloak\">Obtaining a Guild Cloak</h2>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/3/32/AACAdventurersGuideGrand.png/500px-AACAdventurersGuideGrand.png\" width=\"500\" height=\"259\" srcset=\"https://wiki.aa-classic.com/images/thumb/3/32/AACAdventurersGuideGrand.png/750px-AACAdventurersGuideGrand.png 1.5x, https://wiki.aa-classic.com/images/thumb/3/32/AACAdventurersGuideGrand.png/1000px-AACAdventurersGuideGrand.png 2x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Upon completing the first set of tasks in the <a href=\"/wiki/adventurers-guide\">Adventurer's Guide</a> you will receive a box that contains a Guild Cloak, be sure to select which one you want carefully!\n</p><p>To obtain more Guild Cloaks, the player must first be a member of a <b>Guild</b>.\n</p><p>Players earn <b>Prestige</b> by completing Guild Missions and certain quests.\n</p><p>Once 150 Prestige has been accumulated, a Guild Cloak can be purchased from the <b>Prestige Shop</b>.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/thumb/f/f9/AACPrestigeShop.png/900px-AACPrestigeShop.png\" width=\"900\" height=\"448\" srcset=\"https://wiki.aa-classic.com/images/thumb/f/f9/AACPrestigeShop.png/1350px-AACPrestigeShop.png 1.5x, https://wiki.aa-classic.com/images/f/f9/AACPrestigeShop.png 2x\" loading=\"lazy\"></span>\n</p>\n<h2 id=\"Choosing_a_Cloak\">Choosing a Cloak</h2>\n<p>Several different Guild Cloaks are available. Each cloak provides a different effect, allowing players to choose one that complements their class and playstyle. Once upgraded to Delphinad these cloaks branch out even further giving you 2 options of stats per cloak, I'll show these in the table as \"Honor ver.\" and \"Flaming ver.\". \n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Cloak\n</th>\n<th>Effect\n</th>\n<th>Honor ver.\n</th>\n<th>Flaming ver.\n</th>\n<th>Recommended for\n</th></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38673\">Twintail Cloak</a>\n</td>\n<td>Block and Parry Rate\n</td>\n<td>Magic Defense\n</td>\n<td>Max Health\n</td>\n<td>Tank\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38679\">Arrowflash Cloak</a>\n</td>\n<td>Attack Speed\n</td>\n<td>Backstab Melee Damage\n</td>\n<td>Melee Critical Damage\n</td>\n<td>Melee\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38670\">Windsong Cloak</a>\n</td>\n<td>Move Speed\n</td>\n<td>Defense Penetration\n</td>\n<td>Ranged Critical Damage\n</td>\n<td>Archer\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38682\">Hatchetblade Cloak</a>\n</td>\n<td>Cast Time\n</td>\n<td>Magic Defense Penetration\n</td>\n<td>Magic Critical Damage\n</td>\n<td>Mage\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/item/38676\">Bastion Cloak</a>\n</td>\n<td>Max Health\n</td>\n<td>Healing Power\n</td>\n<td>Critical Heal Bonus\n</td>\n<td>Healer\n</td></tr></tbody></table>\n<p><b>Note:</b> The recommended uses are general guidelines. Players should choose the cloak that best suits their class and build.\n</p>\n<h2 id=\"Upgrading_a_Guild_Cloak\">Upgrading a Guild Cloak</h2>\n<p>Guild Cloaks are upgraded using <b>Synthesis</b>. Synthesis increases the cloak's experience and allows it to advance through higher <b>Grades</b>.\n</p>\n<h3 id=\"Synthesis\">Synthesis</h3>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/c/c9/AACInventorySynthesisButton.png/300px-AACInventorySynthesisButton.png\" width=\"300\" height=\"228\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/c9/AACInventorySynthesisButton.png/450px-AACInventorySynthesisButton.png 1.5x, https://wiki.aa-classic.com/images/c/c9/AACInventorySynthesisButton.png 2x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Open your <b>Inventory</b>.\nOpen the \"Regrade Item\" window.\nSelect the <b>Synthesis</b> option.\nPlace the Guild Cloak into the \"Base Costume\" slot.\nAdd the required Synthesis Materials.\nConfirm the synthesis.\n</p><p>Each synthesis grants experience to the cloak. Once enough experience has been accumulated, the cloak advances to the next grade.\n</p><p>As the cloak's grade increases, its effects become more powerful.\n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/0/02/AACCloakSynthesisGrand.png/400px-AACCloakSynthesisGrand.png\" width=\"400\" height=\"629\" srcset=\"https://wiki.aa-classic.com/images/thumb/0/02/AACCloakSynthesisGrand.png/600px-AACCloakSynthesisGrand.png 1.5x, https://wiki.aa-classic.com/images/0/02/AACCloakSynthesisGrand.png 2x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h3 id=\"Synthesis_Materials\">Synthesis Materials</h3>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/d/d3/AACDiamondShoresSynthesisLocation.png/300px-AACDiamondShoresSynthesisLocation.png\" width=\"300\" height=\"239\" srcset=\"https://wiki.aa-classic.com/images/thumb/d/d3/AACDiamondShoresSynthesisLocation.png/450px-AACDiamondShoresSynthesisLocation.png 1.5x, https://wiki.aa-classic.com/images/d/d3/AACDiamondShoresSynthesisLocation.png 2x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Guild Cloaks require specific <b>Synthesis Materials</b> to be upgraded.\n</p><p>These materials can be obtained primarily through killing monsters in Diamond Shores after your faction has killed the Alemine Fortress which purifies the zone for a few days. \n</p><p>You can also obtain cloak synthesis materials from killing monsters in other purified areas in Auroria called \"Auroria Purification Zones\" and you can find these in Sungold Fields, Exeloch, Calmlands, Marcala, Nuimari and Heedmar. Beware though as depending on who's faction purified the zone there will be a tower at the center of the area that will kill anyone not of the same faction. \n</p><p>The materials required and the amount of Synthesis experience provided depend on the grade of the synthesis material.\n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/8/8d/AACSynthesisCloakStone.png/250px-AACSynthesisCloakStone.png\" width=\"250\" height=\"316\" srcset=\"https://wiki.aa-classic.com/images/8/8d/AACSynthesisCloakStone.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h4 id=\"Synthesis_Material_Experience\">Synthesis Material Experience</h4>\n<p>Different synthesis materials provide different amounts of Synthesis EXP when used to upgrade a cloak. The amount of EXP provided depends on the material's grade.\n</p><p>Auroran Synthesis Shards are available in <span style=\"color: rgb(186, 151, 109)\">Basic</span>, <span style=\"color: rgb(119, 176, 100)\">Grand</span> and <span style=\"color: rgb(85, 143, 215)\">Rare</span> grades, while Auroran Synthesis Stones are available in <span style=\"color: rgb(203, 114, 216)\">Arcane</span>, <span style=\"color: rgb(215, 139, 6)\">Heroic</span> and <span style=\"color: rgb(225, 120, 83)\">Unique</span> grades.\n</p>\n<div>\n<div>\n<table class=\"wikitable\">\n<caption>Auroran Synthesis Shard\n</caption>\n<tbody><tr>\n<th>Grade\n</th>\n<th>Synthesis EXP\n</th></tr>\n<tr>\n<td><span style=\"color: rgb(186, 151, 109)\">Basic</span>\n</td>\n<td>75\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(119, 176, 100)\">Grand</span>\n</td>\n<td>112\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(85, 143, 215)\">Rare</span>\n</td>\n<td>168\n</td></tr></tbody></table>\n</div>\n<div>\n<table class=\"wikitable\">\n<caption>Auroran Synthesis Stone\n</caption>\n<tbody><tr>\n<th>Grade\n</th>\n<th>Synthesis EXP\n</th></tr>\n<tr>\n<td><span style=\"color: rgb(203, 114, 216)\">Arcane</span>\n</td>\n<td>252\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(215, 139, 6)\">Heroic</span>\n</td>\n<td>378\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(225, 120, 83)\">Unique</span>\n</td>\n<td>567\n</td></tr></tbody></table>\n</div>\n</div>\n<h4 id=\"Experience_Required\">Experience Required</h4>\n<p>The amount of EXP required to increase a cloak's grade varies depending on its tier. The table below shows both the EXP required for each individual grade increase and the total cumulative EXP required to reach that grade from the beginning of the respective tier.\n</p><p>For example, an Epherium cloak requires 75 EXP to reach <span style=\"color: rgb(119, 176, 100)\">Grand</span>, while reaching <span style=\"color: rgb(207, 125, 93)\">Divine</span> requires 21,004 total EXP.\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Grade\n</th>\n<th colspan=\"2\">Epherium\n</th>\n<th colspan=\"2\">Delphinad\n</th>\n<th colspan=\"2\">Ayanad\n</th>\n<th colspan=\"2\">Erenor\n</th></tr>\n<tr>\n<th>\n</th>\n<th>EXP\n</th>\n<th>Total\n</th>\n<th>EXP\n</th>\n<th>Total\n</th>\n<th>EXP\n</th>\n<th>Total\n</th>\n<th>EXP\n</th>\n<th>Total\n</th></tr>\n<tr>\n<td><span style=\"color: rgb(186, 151, 109)\">Basic</span>\n</td>\n<td>75</td>\n<td>75\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>—</td>\n<td>—\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(119, 176, 100)\">Grand</span>\n</td>\n<td>312</td>\n<td>387\n</td>\n<td>1,187</td>\n<td>1,187\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>—</td>\n<td>—\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(85, 143, 215)\">Rare</span>\n</td>\n<td>668</td>\n<td>1,055\n</td>\n<td>1,881</td>\n<td>3,068\n</td>\n<td>4,262</td>\n<td>4,262\n</td>\n<td>—</td>\n<td>—\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(203, 114, 216)\">Arcane</span>\n</td>\n<td>1,202</td>\n<td>2,257\n</td>\n<td>2,870</td>\n<td>5,938\n</td>\n<td>6,922</td>\n<td>11,184\n</td>\n<td>6,922</td>\n<td>6,922\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(215, 139, 6)\">Heroic</span>\n</td>\n<td>2,003</td>\n<td>4,260\n</td>\n<td>4,279</td>\n<td>10,217\n</td>\n<td>11,217</td>\n<td>22,401\n</td>\n<td>11,217</td>\n<td>18,139\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(225, 120, 83)\">Unique</span>\n</td>\n<td>3,304</td>\n<td>7,564\n</td>\n<td>6,382</td>\n<td>16,599\n</td>\n<td>17,982</td>\n<td>40,383\n</td>\n<td>17,982</td>\n<td>36,121\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(249, 82, 82)\">Celestial</span>\n</td>\n<td>5,256</td>\n<td>12,820\n</td>\n<td>9,379</td>\n<td>25,978\n</td>\n<td>28,637</td>\n<td>69,020\n</td>\n<td>28,637</td>\n<td>64,758\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(207, 125, 93)\">Divine</span>\n</td>\n<td>8,184</td>\n<td><span style=\"color: rgb(255, 255, 255)\"><b>21,004</b></span>\n</td>\n<td>13,650</td>\n<td>39,628\n</td>\n<td>45,524</td>\n<td>114,544\n</td>\n<td>45,524</td>\n<td>110,282\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(143, 165, 202)\">Epic</span>\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>19,831</td>\n<td><span style=\"color: rgb(255, 255, 255)\"><b>59,459</b></span>\n</td>\n<td>72,120</td>\n<td>186,664\n</td>\n<td>72,120</td>\n<td>182,402\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(191, 121, 0)\">Legendary</span>\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>114,009</td>\n<td><span style=\"color: rgb(255, 255, 255)\"><b>300,673</b></span>\n</td>\n<td>114,009</td>\n<td>296,412\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(201, 11, 11)\">Mythic</span>\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>—</td>\n<td>—\n</td>\n<td>180,000</td>\n<td><span style=\"color: rgb(255, 255, 255)\"><b>476,411</b></span>\n</td></tr></tbody></table>\n<p><b>Note:</b> Values are shown as EXP required for the grade / total cumulative EXP.\n</p>\n<h3 id=\"Tiering_it_up\">Tiering it up</h3>\n<p>In order to tier a cloak up to its next tier you need to have reached the max grade of your current tier, whether you reach 0% or 100% EXP at max grade does not have any impact on the next tier. Once that has been completed you just need some materials to tier your cloak up which will reset the stats it has, make the grade go back down to its lowest possible grade and reset the EXP. This means that until you reach Erenor cloak you don't have to be super min-maxxy with stats, just use the stats you are able to get on it. \n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Tier\n</th>\n<th>Max Grade\n</th></tr>\n<tr>\n<td>Epherium\n</td>\n<td><span style=\"color: rgb(207, 125, 93)\">Divine</span>\n</td></tr>\n<tr>\n<td>Delphinad\n</td>\n<td><span style=\"color: rgb(143, 165, 202)\">Epic</span>\n</td></tr>\n<tr>\n<td>Ayanad\n</td>\n<td><span style=\"color: rgb(191, 121, 0)\">Legendary</span>\n</td></tr>\n<tr>\n<td>Erenor\n</td>\n<td><span style=\"color: rgb(201, 11, 11)\">Mythic</span>\n</td></tr></tbody></table>\n<h3 id=\"Rolling_for_different_stats\">Rolling for different stats</h3>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/c/cb/AACArcaneCloak.png/300px-AACArcaneCloak.png\" width=\"300\" height=\"471\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/cb/AACArcaneCloak.png/450px-AACArcaneCloak.png 1.5x, https://wiki.aa-classic.com/images/thumb/c/cb/AACArcaneCloak.png/600px-AACArcaneCloak.png 2x\" loading=\"lazy\"><figcaption>Upon grade up you are given a choice to either keep your stats as they are or to replace one of your current ones with a new random one. </figcaption></figure>\n<p><b>Important:</b> Each grade increase provides one opportunity to replace one existing stat. If a single synthesis provides enough EXP to increase the cloak by multiple grades, only one of those grade-up rerolls is available. To maximize the number of reroll opportunities, avoid providing enough EXP to skip a grade.\n</p><p>By pressing the magnifying glass you are able to see which stats are in the pool of the next grade when you are in the Synthesis tab. If you switch over to the Replace Effects tab you will see the stats that are in the pool of your current grade. DO NOT mix these two up when you are rolling for stats as that can lead to unwanted outcomes. \n</p><p>Cryptic Lucky Scrolls can be used to replace a single stat on Ayanad or higher cloaks with a new random one from the stat pool. You can find the entire pool of stats you can get with the Cryptic Lucky Scroll by pressing the magnifying glass in the \"Replace Effects\" tab of the Synthesis window. \n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/a/aa/AACCrypticLuckyScroll.png/400px-AACCrypticLuckyScroll.png\" width=\"400\" height=\"388\" srcset=\"https://wiki.aa-classic.com/images/a/aa/AACCrypticLuckyScroll.png 1.5x\" loading=\"lazy\"><figcaption>It is recommended to ONLY use these on Erenor cloaks.</figcaption></figure>\n<h4 id=\"Stats_by_Grade\">Stats by Grade</h4>\n<p>The stats available on a cloak are determined by its tier and grade. As a cloak is upgraded through its grades additional stats are introduced into the pool of possible stats that can be rolled. \n</p><p>The table below shows when each group of stats is added to the rollable stat pool. \n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Tier\n</th>\n<th>Grade\n</th>\n<th>Stats added to the pool\n</th></tr>\n<tr>\n<td rowspan=\"2\">Epherium\n</td>\n<td><span style=\"color: rgb(186, 151, 109)\">Basic</span>\n</td>\n<td>Main stat (Strength, Agility, Stamina, Spirit or Intelligence depending on cloak)\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(203, 114, 216)\">Arcane</span>\n</td>\n<td>The four remaining base stats (Strength, Agility, Stamina, Spirit, Intelligence)\n</td></tr>\n<tr>\n<td rowspan=\"2\">Delphinad\n</td>\n<td><span style=\"color: rgb(119, 176, 100)\">Grand</span>\n</td>\n<td>Main stat (Honor or Flaming version)\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(203, 114, 216)\">Arcane</span>\n</td>\n<td>Strength, Agility, Stamina, Spirit, Intelligence\n</td></tr>\n<tr>\n<td rowspan=\"3\">Ayanad\n</td>\n<td><span style=\"color: rgb(85, 143, 215)\">Rare</span>\n</td>\n<td>Main stat (Honor or Flaming version)\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(203, 114, 216)\">Arcane</span>\n</td>\n<td>Strength, Agility, Stamina, Spirit, Intelligence\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(207, 125, 93)\">Divine</span>\n</td>\n<td>Max Mana, Focus, Resilience, Received Healing, In-Battle Health Regen,\n<p>Post-Cast Mana Regen, Fixed Melee Damage Reduction, Fixed Ranged Damage Reduction,\nFixed Magic Damage Reduction\n</p>\n</td></tr>\n<tr>\n<td rowspan=\"3\">Erenor\n</td>\n<td><span style=\"color: rgb(203, 114, 216)\">Arcane</span>\n</td>\n<td>Signature stat (Honor or Flaming version)\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(215, 139, 6)\">Heroic</span>\n</td>\n<td>Strength, Agility, Stamina, Spirit, Intelligence\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(249, 82, 82)\">Celestial</span>\n</td>\n<td>Max Mana, Focus, Resilience, Received Healing, In-Battle Health Regen,\n<p>Post-Cast Mana Regen, Fixed Melee Damage Reduction, Fixed Ranged Damage Reduction,\nFixed Magic Damage Reduction\n</p>\n</td></tr></tbody></table>\n<h4 id=\"Number_of_Stat_Slots\">Number of Stat Slots</h4>\n<p>As you upgrade a cloak through its grades, it gains additional stats.\n</p>\n<ul><li>Epherium to Ayanad Cloaks: Start with 1 stat at the lowest grades and gradually gain up to 3 stats at the highest grade.</li>\n<li>Erenor Cloaks: Follow the same progression, but gain a 4th stat upon reaching Mythic grade.</li></ul>\n<p>In other words the cloak's grade determines how many stats it has, with higher grades providing additional stats.\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Grade\n</th>\n<th>Epherium\n</th>\n<th>Delphinad\n</th>\n<th>Ayanad\n</th>\n<th>Erenor\n</th></tr>\n<tr>\n<td><span style=\"color: rgb(186, 151, 109)\">Basic</span> – <span style=\"color: rgb(203, 114, 216)\">Arcane</span></td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>1\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(215, 139, 6)\">Heroic</span> – <span style=\"color: rgb(249, 82, 82)\">Celestial</span></td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(207, 125, 93)\">Divine</span> – <span style=\"color: rgb(191, 121, 0)\">Legendary</span></td>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n<td>3\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(201, 11, 11)\">Mythic</span></td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>4\n</td></tr></tbody></table>\n<h3 id=\"Changing_to_a_different_cloak\">Changing to a different cloak</h3>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/e/e7/AACCloakmuter.png/300px-AACCloakmuter.png\" width=\"300\" height=\"261\" srcset=\"https://wiki.aa-classic.com/images/e/e7/AACCloakmuter.png 1.5x\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Currently there is only one way to change your cloak into a different cloak and that is with an item called Ipnysh Cloakmuter. It can only be used on Erenor cloaks but lets you change your cloak to any of the other cloaks. This process resets the grade, stats and EXP of the cloak so you will have to get back on the Synthesis grind in order to make it <span style=\"color: rgb(201, 11, 11)\">Mythic</span> again. \n</p>\n<h2 id=\"Why_Get_a_Guild_Cloak?\"><span></span>Why Get a Guild Cloak?</h2>\n<p>The Guild Cloak provides an accessible way for players to obtain significant amounts of useful stats through spending time grinding rather than spending a lot of gold and resources.\n</p><p>Because the cloak can be upgraded through synthesis and tiered up multiple times, you can continue investing into the same item as your character progresses.\n</p>\n<ul class=\"gallery\">\n\t<li>Example Guild Cloaks</li>\n\t\t<li style=\"width: 402.66666666667px\">\n\t\t\t<div class=\"thumb\" style=\"width: 400.66666666667px\"><span><img alt src=\"https://wiki.aa-classic.com/images/thumb/e/e2/AACEpicArrowflashCloak.png/601px-AACEpicArrowflashCloak.png\" width=\"401\" height=\"400\" srcset=\"https://wiki.aa-classic.com/images/e/e2/AACEpicArrowflashCloak.png 1.5x\" loading=\"lazy\"></span></div>\n\t\t\t<div></div>\n\t\t</li>\n\t\t<li style=\"width: 414.66666666667px\">\n\t\t\t<div class=\"thumb\" style=\"width: 412.66666666667px\"><span><img alt src=\"https://wiki.aa-classic.com/images/6/67/AACMythicErenorCloak.png\" width=\"413\" height=\"400\" loading=\"lazy\"></span></div>\n\t\t\t<div></div>\n\t\t</li>\n</ul>\n<h2 id=\"See_Also\">See Also</h2>\n<ul><li><a href=\"/wiki/guilds\">Guilds</a></li>\n<li><a href=\"/wiki/prestige-shop\">Prestige Shop</a></li>\n<li><a href=\"/wiki/prestige\">Prestige</a></li></ul>"
+}

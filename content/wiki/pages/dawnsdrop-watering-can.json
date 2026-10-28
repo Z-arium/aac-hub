@@ -1,0 +1,238 @@
+{
+ "slug": "dawnsdrop-watering-can",
+ "title": "Dawnsdrop Watering Can",
+ "pageid": 1826,
+ "revid": 3702,
+ "updated": "2026-09-21T18:17:50Z",
+ "source": "https://wiki.aa-classic.com/Dawnsdrop_Watering_Can",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Grand_Dawnsdrop_Watering_Can",
+   "text": "Grand Dawnsdrop Watering Can"
+  },
+  {
+   "level": 3,
+   "id": "1._The_Art_of_Gardening",
+   "text": "1. The Art of Gardening"
+  },
+  {
+   "level": 3,
+   "id": "2._Every_Drop_Counts",
+   "text": "2. Every Drop Counts"
+  },
+  {
+   "level": 2,
+   "id": "Rare_Dawnsdrop_Watering_Can",
+   "text": "Rare Dawnsdrop Watering Can"
+  },
+  {
+   "level": 3,
+   "id": "3._Tending_To_Your_Garden",
+   "text": "3. Tending To Your Garden"
+  },
+  {
+   "level": 3,
+   "id": "4._The_Delicate_Crop",
+   "text": "4. The Delicate Crop"
+  },
+  {
+   "level": 2,
+   "id": "Heroic_Dawnsdrop_Watering_Can",
+   "text": "Heroic Dawnsdrop Watering Can"
+  },
+  {
+   "level": 3,
+   "id": "5._The_Delicate_Flower",
+   "text": "5. The Delicate Flower"
+  },
+  {
+   "level": 3,
+   "id": "6._Thirsty_Corn_Seedlings",
+   "text": "6. Thirsty Corn Seedlings"
+  },
+  {
+   "level": 3,
+   "id": "7._A_Rare_Harvest",
+   "text": "7. A Rare Harvest"
+  },
+  {
+   "level": 2,
+   "id": "Unique_Dawnsdrop_Watering_Can",
+   "text": "Unique Dawnsdrop Watering Can"
+  },
+  {
+   "level": 3,
+   "id": "8._The_Pumpkin_Season",
+   "text": "8. The Pumpkin Season"
+  },
+  {
+   "level": 3,
+   "id": "9._The_Flower_of_Sound",
+   "text": "9. The Flower of Sound"
+  },
+  {
+   "level": 3,
+   "id": "10._Tending_To_Your_Garden_II",
+   "text": "10. Tending To Your Garden II"
+  },
+  {
+   "level": 2,
+   "id": "Celestial_Dawnsdrop_Watering_Can",
+   "text": "Celestial Dawnsdrop Watering Can"
+  },
+  {
+   "level": 3,
+   "id": "11._A_Drop_In_The_Ocean",
+   "text": "11. A Drop In The Ocean"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "",
+   "headers": [
+    "Grade",
+    "Radius",
+    "Cooldown"
+   ],
+   "rows": [
+    [
+     "Dawnsdrop Watering Can",
+     "9m",
+     "60.0s"
+    ],
+    [
+     "Dawnsdrop Watering Can",
+     "10m",
+     "59.4s"
+    ],
+    [
+     "Dawnsdrop Watering Can",
+     "12m",
+     "58.2s"
+    ],
+    [
+     "Dawnsdrop Watering Can",
+     "13m",
+     "57.6s"
+    ],
+    [
+     "Dawnsdrop Watering Can",
+     "14m",
+     "57.0s"
+    ]
+   ]
+  },
+  {
+   "heading": "",
+   "caption": "Summary",
+   "headers": [
+    "Quest",
+    "Grade",
+    "Required Items",
+    "Labor Spend"
+   ],
+   "rows": [
+    [
+     "1. The Art of Gardening",
+     "Grand",
+     "—",
+     "—"
+    ],
+    [
+     "2. Every Drop Counts",
+     "Grand",
+     "Water × 3,000",
+     "—"
+    ],
+    [
+     "3. Tending To Your Garden",
+     "Rare",
+     "Use Dawnsdrop Watering Can × 100",
+     "Gathering × 12,500 Farming × 12,500"
+    ],
+    [
+     "4. The Delicate Crop",
+     "Rare",
+     "Corn × 10,000",
+     "—"
+    ],
+    [
+     "5. The Delicate Flower",
+     "Heroic",
+     "Rose × 10,000",
+     "—"
+    ],
+    [
+     "6. Thirsty Corn Seedlings",
+     "Heroic",
+     "Use Dawnsdrop Watering Can × 250",
+     "Gathering × 20,000 Farming × 20,000"
+    ],
+    [
+     "7. A Rare Harvest",
+     "Heroic",
+     "Collect Massive Corn × 1 from Marmas the Reaper in Greater Hadir Farm.",
+     "—"
+    ],
+    [
+     "8. The Pumpkin Season",
+     "Unique",
+     "Pumpkin × 10,000",
+     "—"
+    ],
+    [
+     "9. The Flower of Sound",
+     "Unique",
+     "Collect Singing Flower × 1 from Aria in Mistsong Summit.",
+     "—"
+    ],
+    [
+     "10. Tending To Your Garden II",
+     "Unique",
+     "Use Dawnsdrop Watering Can × 500",
+     "Gathering × 25,000 Farming × 25,000"
+    ],
+    [
+     "11. A Drop In The Ocean (final)",
+     "Celestial",
+     "Craft 1× Dawnsdrop Watering Can: Dawnsdrop Watering Can (Unique) × 1 · Hugh Mungus Water Bucket × 1 · Sunlight Archeum Essence × 5 · Archeum Ingot × 10 · Corn × 2,000",
+     "—"
+    ]
+   ]
+  },
+  {
+   "heading": "11. A Drop In The Ocean",
+   "caption": "",
+   "headers": [
+    "Recipe",
+    "Materials"
+   ],
+   "rows": [
+    [
+     "Celestial Dawnsdrop Watering Can",
+     "1×Unique Dawnsdrop Watering Can"
+    ],
+    [
+     "",
+     "1×Hugh Mungus Water Bucket"
+    ],
+    [
+     "",
+     "5×Sunlight Archeum Essence"
+    ],
+    [
+     "",
+     "10×Archeum Ingot"
+    ],
+    [
+     "",
+     "2,000×Corn"
+    ]
+   ]
+  }
+ ],
+ "text": "The Dawnsdrop Watering Can is an addition to the Dawnsdrop Tools custom content added in Patch 1.3.2. The Dawnsdrop Pitchfork is a Farming and Gathering tool that allows players to water crops and bundles in a large area without the need of having Water in your inventory. Grade Effect Grade Radius Cooldown Dawnsdrop Watering Can 9m 60.0s Dawnsdrop Watering Can 10m 59.4s Dawnsdrop Watering Can 12m 58.2s Dawnsdrop Watering Can 13m 57.6s Dawnsdrop Watering Can 14m 57.0s Starting the Questline Requirements: 230,000 Farming Proficiency 230,000 Gathering Proficiency You do not need 230,000 proficiency in both. Bring Dawnsdrop Wrists and Pants. Go to Sun's End (Halcyona Community Center). Water crops and flowers with your Dawnsdrops equipped for the Dawnsdrop Buffs. Get the quest from Neru in the Community Center. Tip: It is recommended to also start the Dawnsdrop Pitchfork questline and progress these simultaneously as they often share objectives. Summary Quest Grade Required Items Labor Spend 1. The Art of Gardening Grand — — 2. Every Drop Counts Grand Water × 3,000 — 3. Tending To Your Garden Rare Use Dawnsdrop Watering Can × 100 Gathering × 12,500 Farming × 12,500 4. The Delicate Crop Rare Corn × 10,000 — 5. The Delicate Flower Heroic Rose × 10,000 — 6. Thirsty Corn Seedlings Heroic Use Dawnsdrop Watering Can × 250 Gathering × 20,000 Farming × 20,000 7. A Rare Harvest Heroic Collect Massive Corn × 1 from Marmas the Reaper in Greater Hadir Farm. — 8. The Pumpkin Season Unique Pumpkin × 10,000 — 9. The Flower of Sound Unique Collect Singing Flower × 1 from Aria in Mistsong Summit. — 10. Tending To Your Garden II Unique Use Dawnsdrop Watering Can × 500 Gathering × 25,000 Farming × 25,000 11. A Drop In The Ocean (final) Celestial Craft 1× Dawnsdrop Watering Can: Dawnsdrop Watering Can (Unique) × 1 · Hugh Mungus Water Bucket × 1 · Sunlight Archeum Essence × 5 · Archeum Ingot × 10 · Corn × 2,000 — Grand Dawnsdrop Watering Can 1. The Art of Gardening Turn in to Velaine in Sun's End. 2. Every Drop Counts Requires the following materials: Water × 3,000 Tip: Upgraded Farmhouses offer a means for collecting water at a much faster rate. It has also been found that the cooldown of collecting Water from the Pinnacled Witch House skin for the upgraded Farmhouses is the lowest out of all Farmhouses. Rare Dawnsdrop Watering Can 3. Tending To Your Garden Use 12,500 Labor in Farming Use 12,500 Labor in Gathering Use your Dawnsdrop Watering Can 100 × times. 4. The Delicate Crop Requires the following materials: Corn × 10,000 Heroic Dawnsdrop Watering Can 5. The Delicate Flower Requires the following materials: Rose × 10,000 6. Thirsty Corn Seedlings Use 20,000 Labor in Farming Use 20,000 Labor in Gathering Use your Dawnsdrop Watering Can 250 × times. 7. A Rare Harvest Kill Marmas the Reaper from Greater Hadir Farm and collect Massive Corn × 1. Unique Dawnsdrop Watering Can 8. The Pumpkin Season Requires the following materials: Pumpkin × 10,000 9. The Flower of Sound Kill Aria from Mistsong Summit and collect Singing Flower × 1. 10. Tending To Your Garden II Use 25,000 Labor in Farming Use 25,000 Labor in Gathering Use your Dawnsdrop Watering Can 500 × times. Celestial Dawnsdrop Watering Can 11. A Drop In The Ocean Craft the Celestial Dawnsdrop Watering Can at any Anvil. Recipe Materials Celestial Dawnsdrop Watering Can 1×Unique Dawnsdrop Watering Can 1×Hugh Mungus Water Bucket 5×Sunlight Archeum Essence 10×Archeum Ingot 2,000×Corn Tip: Upgraded Farmhouses offer a means for collecting water at a much faster rate. It has also been found that the cooldown of collecting Water from the Pinnacled Witch House skin for the upgraded Farmhouses is the lowest out of all Farmhouses. See Also Dawnsdrop Tools Dawnsdrop Pickaxe Dawnsdrop Pitchfork Dawnsdrop Costume Farming Gathering",
+ "html": "<p>The Dawnsdrop Watering Can is an addition to the <a href=\"/wiki/dawnsdrop-tools\">Dawnsdrop Tools</a> custom content added in <a href=\"/wiki/patch-1-3-2\">Patch 1.3.2</a>. The Dawnsdrop Pitchfork is a <a href=\"https://wiki.aa-classic.com/index.php?title=Farming&action=edit&redlink=1\" rel=\"noopener\">Farming</a> and <a href=\"https://wiki.aa-classic.com/index.php?title=Gathering&action=edit&redlink=1\" rel=\"noopener\">Gathering</a> tool that allows players to water crops and bundles in a large area without the need of having Water in your inventory. \n</p>\n\n<h1 id=\"Grade_Effect\">Grade Effect</h1>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Grade\n</th>\n<th>Radius\n</th>\n<th>Cooldown\n</th></tr>\n<tr>\n<td><span style=\"color: rgb(119, 176, 100)\">Dawnsdrop Watering Can</span>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">9m\n</td>\n<td style=\"text-align:right; vertical-align:middle\">60.0s\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(85, 143, 215)\">Dawnsdrop Watering Can</span>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">10m\n</td>\n<td style=\"text-align:right; vertical-align:middle\">59.4s\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(215, 139, 6)\">Dawnsdrop Watering Can</span>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">12m\n</td>\n<td style=\"text-align:right; vertical-align:middle\">58.2s\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(225, 120, 83)\">Dawnsdrop Watering Can</span>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">13m\n</td>\n<td style=\"text-align:right; vertical-align:middle\">57.6s\n</td></tr>\n<tr>\n<td><span style=\"color: rgb(249, 82, 82)\">Dawnsdrop Watering Can</span>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">14m\n</td>\n<td style=\"text-align:right; vertical-align:middle\">57.0s\n</td></tr></tbody></table>\n<h1 id=\"Starting_the_Questline\">Starting the Questline</h1>\n<p>Requirements:\n</p>\n<ul><li>230,000 Farming Proficiency</li>\n<li>230,000 Gathering Proficiency</li></ul>\n<p>You do not need 230,000 proficiency in both.\n</p><p>Bring Dawnsdrop Wrists and Pants. \n</p>\n<ol><li>Go to Sun's End (Halcyona Community Center).</li>\n<li>Water crops and flowers with your Dawnsdrops equipped for the Dawnsdrop Buffs.</li>\n<li>Get the quest from Neru in the Community Center.</li></ol>\n<p><i>Tip: It is recommended to also start the <a href=\"/wiki/dawnsdrop-pitchfork\">Dawnsdrop Pitchfork</a> questline and progress these simultaneously as they often share objectives.</i>\n</p>\n<table class=\"wikitable\" style=\"width: 100%\">\n<caption style=\"text-align:center; vertical-align:middle\">Summary\n</caption>\n<tbody><tr>\n<th style=\"width: 20%\">Quest\n</th>\n<th style=\"width: 10%\">Grade\n</th>\n<th style=\"width: 50%\">Required Items\n</th>\n<th style=\"width: 20%\">Labor Spend\n</th></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000091\">1. The Art of Gardening</a>\n</td>\n<td><span style=\"color: rgb(119, 176, 100)\">Grand</span>\n</td>\n<td>—\n</td>\n<td>—\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000092\">2. Every Drop Counts</a>\n</td>\n<td><span style=\"color: rgb(119, 176, 100)\">Grand</span>\n</td>\n<td>Water × 3,000\n</td>\n<td>—\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000093\">3. Tending To Your Garden</a>\n</td>\n<td><span style=\"color: rgb(85, 143, 215)\">Rare</span>\n</td>\n<td>Use Dawnsdrop Watering Can × 100\n</td>\n<td>Gathering × 12,500\n<p>Farming × 12,500\n</p>\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000094\">4. The Delicate Crop</a>\n</td>\n<td><span style=\"color: rgb(85, 143, 215)\">Rare</span>\n</td>\n<td>Corn × 10,000\n</td>\n<td>—\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000095\">5. The Delicate Flower</a>\n</td>\n<td><span style=\"color: rgb(215, 139, 6)\">Heroic</span>\n</td>\n<td>Rose × 10,000\n</td>\n<td>—\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000096\">6. Thirsty Corn Seedlings</a>\n</td>\n<td><span style=\"color: rgb(215, 139, 6)\">Heroic</span>\n</td>\n<td>Use Dawnsdrop Watering Can × 250\n</td>\n<td>Gathering × 20,000\n<p>Farming × 20,000\n</p>\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000097\">7. A Rare Harvest</a>\n</td>\n<td><span style=\"color: rgb(215, 139, 6)\">Heroic</span>\n</td>\n<td>Collect Massive Corn × 1 from Marmas the Reaper in Greater Hadir Farm.\n</td>\n<td>—\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000098\">8. The Pumpkin Season</a>\n</td>\n<td><span style=\"color: rgb(225, 120, 83)\">Unique</span>\n</td>\n<td>Pumpkin × 10,000\n</td>\n<td>—\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000099\">9. The Flower of Sound</a>\n</td>\n<td><span style=\"color: rgb(225, 120, 83)\">Unique</span>\n</td>\n<td>Collect Singing Flower × 1 from Aria in Mistsong Summit.\n</td>\n<td>—\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000100\">10. Tending To Your Garden II</a>\n</td>\n<td><span style=\"color: rgb(225, 120, 83)\">Unique</span>\n</td>\n<td>Use Dawnsdrop Watering Can × 500\n</td>\n<td>Gathering × 25,000\n<p>Farming × 25,000\n</p>\n</td></tr>\n<tr>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000101\">11. A Drop In The Ocean</a> <i>(final)</i>\n</td>\n<td><span style=\"color: rgb(249, 82, 82)\">Celestial</span>\n</td>\n<td><a rel=\"noopener\" href=\"https://aa-classic.com/database/crafts/9000548\">Craft 1× Dawnsdrop Watering Can</a>:<br><span style=\"color: rgb(225, 120, 83)\">Dawnsdrop Watering Can (Unique)</span> × 1 · <span style=\"color: rgb(215, 139, 6)\">Hugh Mungus Water Bucket</span> × 1 · Sunlight Archeum Essence × 5 · Archeum Ingot × 10 · Corn × 2,000\n</td>\n<td>—\n</td></tr></tbody></table>\n<h2 id=\"Grand_Dawnsdrop_Watering_Can\"><span style=\"color: rgb(119, 176, 100)\">Grand Dawnsdrop Watering Can</span></h2>\n<h3 id=\"1._The_Art_of_Gardening\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000091\">1. The Art of Gardening</a></h3>\n<p>Turn in to Velaine in Sun's End. \n</p>\n<h3 id=\"2._Every_Drop_Counts\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000092\">2. Every Drop Counts</a></h3>\n<p>Requires the following materials:\n</p>\n<ul><li>Water × 3,000</li></ul>\n<p>Tip: Upgraded Farmhouses offer a means for collecting water at a much faster rate. It has also been found that the cooldown of collecting Water from the Pinnacled Witch House skin for the upgraded Farmhouses is the lowest out of all Farmhouses. \n</p>\n<h2 id=\"Rare_Dawnsdrop_Watering_Can\"><span style=\"color: rgb(85, 143, 215)\">Rare Dawnsdrop Watering Can</span></h2>\n<h3 id=\"3._Tending_To_Your_Garden\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000093\">3. Tending To Your Garden</a></h3>\n<ul><li>Use 12,500 Labor in Farming</li>\n<li>Use 12,500 Labor in Gathering</li>\n<li>Use your Dawnsdrop Watering Can 100 × times.</li></ul>\n<h3 id=\"4._The_Delicate_Crop\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000094\">4. The Delicate Crop</a></h3>\n<p>Requires the following materials:\n</p>\n<ul><li>Corn × 10,000</li></ul>\n<h2 id=\"Heroic_Dawnsdrop_Watering_Can\"><span style=\"color: rgb(215, 139, 6)\">Heroic Dawnsdrop Watering Can</span></h2>\n<h3 id=\"5._The_Delicate_Flower\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000095\">5. The Delicate Flower</a></h3>\n<p>Requires the following materials:\n</p>\n<ul><li>Rose × 10,000</li></ul>\n<h3 id=\"6._Thirsty_Corn_Seedlings\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000096\">6. Thirsty Corn Seedlings</a></h3>\n<ul><li>Use 20,000 Labor in Farming</li>\n<li>Use 20,000 Labor in Gathering</li>\n<li>Use your Dawnsdrop Watering Can 250 × times.</li></ul>\n<h3 id=\"7._A_Rare_Harvest\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000097\">7. A Rare Harvest</a></h3>\n<ul><li><i>Kill <a href=\"https://wiki.aa-classic.com/index.php?title=Hadir_Farm&action=edit&redlink=1\" rel=\"noopener\">Marmas the Reaper</a> from <a href=\"https://wiki.aa-classic.com/index.php?title=Hadir_Farm&action=edit&redlink=1\" rel=\"noopener\">Greater Hadir Farm</a> and collect Massive Corn × 1.</i></li></ul>\n<h2 id=\"Unique_Dawnsdrop_Watering_Can\"><span style=\"color: rgb(225, 120, 83)\">Unique Dawnsdrop Watering Can</span></h2>\n<h3 id=\"8._The_Pumpkin_Season\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000098\">8. The Pumpkin Season</a></h3>\n<p>Requires the following materials:\n</p>\n<ul><li>Pumpkin × 10,000</li></ul>\n<h3 id=\"9._The_Flower_of_Sound\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000099\">9. The Flower of Sound</a></h3>\n<ul><li><i>Kill <a href=\"https://wiki.aa-classic.com/index.php?title=Mistsong_Summit&action=edit&redlink=1\" rel=\"noopener\">Aria</a> from <a href=\"https://wiki.aa-classic.com/index.php?title=Mistsong_Summit&action=edit&redlink=1\" rel=\"noopener\">Mistsong Summit</a> and collect Singing Flower × 1.</i></li></ul>\n<h3 id=\"10._Tending_To_Your_Garden_II\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000100\">10. Tending To Your Garden II</a></h3>\n<ul><li>Use 25,000 Labor in Farming</li>\n<li>Use 25,000 Labor in Gathering</li>\n<li>Use your Dawnsdrop Watering Can 500 × times.</li></ul>\n<h2 id=\"Celestial_Dawnsdrop_Watering_Can\"><span style=\"color: rgb(249, 82, 82)\">Celestial Dawnsdrop Watering Can</span></h2>\n<h3 id=\"11._A_Drop_In_The_Ocean\"><a rel=\"noopener\" href=\"https://aa-classic.com/database/quests/9000101\">11. A Drop In The Ocean</a></h3>\n<ul><li>Craft the <span style=\"color: rgb(249, 82, 82)\">Celestial Dawnsdrop Watering Can</span> at any Anvil.</li></ul>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Recipe\n</th>\n<th>Materials\n</th></tr>\n<tr>\n<td><span style=\"color: rgb(249, 82, 82)\">Celestial Dawnsdrop Watering Can</span>\n</td>\n<td>1×<span style=\"color: rgb(225, 120, 83)\">Unique Dawnsdrop Watering Can</span>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>1×<span style=\"color: rgb(215, 139, 6)\">Hugh Mungus Water Bucket</span>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>5×Sunlight Archeum Essence\n</td></tr>\n<tr>\n<td>\n</td>\n<td>10×Archeum Ingot\n</td></tr>\n<tr>\n<td>\n</td>\n<td>2,000×Corn\n</td></tr></tbody></table>\n<p>Tip: Upgraded Farmhouses offer a means for collecting water at a much faster rate. It has also been found that the cooldown of collecting Water from the Pinnacled Witch House skin for the upgraded Farmhouses is the lowest out of all Farmhouses. \n</p>\n<h1 id=\"See_Also\">See Also</h1>\n<ul><li><a href=\"/wiki/dawnsdrop-tools\">Dawnsdrop Tools</a></li>\n<li><a href=\"/wiki/dawnsdrop-pickaxe\">Dawnsdrop Pickaxe</a></li>\n<li><a href=\"/wiki/dawnsdrop-pitchfork\">Dawnsdrop Pitchfork</a></li>\n<li><a href=\"/wiki/dawnsdrop-costume\">Dawnsdrop Costume</a></li>\n<li><a href=\"https://wiki.aa-classic.com/index.php?title=Farming&action=edit&redlink=1\" rel=\"noopener\">Farming</a></li>\n<li><a href=\"https://wiki.aa-classic.com/index.php?title=Gathering&action=edit&redlink=1\" rel=\"noopener\">Gathering</a></li></ul>"
+}

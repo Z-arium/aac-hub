@@ -1,0 +1,78 @@
+{
+ "slug": "patch-1-3-5",
+ "title": "Patch 1.3.5",
+ "pageid": 1195,
+ "revid": 2450,
+ "updated": "2025-04-13T09:41:15Z",
+ "source": "https://wiki.aa-classic.com/Patch_1.3.5",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Starfall_is_here!",
+   "text": "Starfall is here!"
+  },
+  {
+   "level": 2,
+   "id": "Patch_Notes",
+   "text": "Patch Notes"
+  },
+  {
+   "level": 3,
+   "id": "Weekly_Quest_Changes",
+   "text": "Weekly Quest Changes"
+  },
+  {
+   "level": 3,
+   "id": "Vocational_Changes",
+   "text": "Vocational Changes"
+  },
+  {
+   "level": 3,
+   "id": "World_Changes",
+   "text": "World Changes"
+  },
+  {
+   "level": 3,
+   "id": "UI_Changes",
+   "text": "UI Changes"
+  },
+  {
+   "level": 3,
+   "id": "Skill/Equipment_Changes",
+   "text": "Skill/Equipment Changes"
+  },
+  {
+   "level": 3,
+   "id": "Misc._Changes",
+   "text": "Misc. Changes"
+  },
+  {
+   "level": 2,
+   "id": "Obsidian_Transmutators",
+   "text": "Obsidian Transmutators"
+  },
+  {
+   "level": 2,
+   "id": "Players_report_a_new_threat_in_the_Arcadian_seas",
+   "text": "Players report a new threat in the Arcadian seas"
+  },
+  {
+   "level": 2,
+   "id": "API_Update",
+   "text": "API Update"
+  },
+  {
+   "level": 3,
+   "id": "Sandbox_Additions",
+   "text": "Sandbox Additions"
+  },
+  {
+   "level": 3,
+   "id": "API_Function_Additions",
+   "text": "API Function Additions"
+  }
+ ],
+ "tables": [],
+ "text": "Starfall is here! Watch out for stars falling from the sky! A warning will now appear globally about an imminent comet crashing in an area. Archmage Iseren will be seen watching the sky through her telescope as the comet approaches landfall. She'll ask for some help from you while you're there as you venture into discovering more about these celestial objects visiting us from a distant place. The following daily quests have been added to guide you through your comet discovery: A series of introductory quests when you meet Iseren, leading you to the Ayanad Library where you can find the Comet Workbench, [Meteor Miner], [Scorched Earth], [Crystallized Clues], [The Eternal Flame], And three other quests related to what occurs at a comet site! What does the arrival of these comets entail? Iseren, a mage of the Ayanad Council, has these very same questions! But be careful... don't stand underneath one as it lands. Patch Notes Weekly Quest Changes The weekly quest locations have been moved to a new NPC called the Shadow Daru. The shadow daru will spawn at each major city on Saturday and Sunday to offer you the activity token quests you'd normally get. Shadow Daru will spawn behind the Pirate Nui on the broken bridge on Fridays. Added new weekly quest: Have You Ever Seen A Ghost? which requires you to defeat the Delphinad Ghost Ship Vocational Changes Dawnsdrop Pitchfork Added crafts to identify pitchfork boxes in large quantities Fixed pitchfork incorrectly despawning wild plants. Plants will now respawn as they should in the wild. Added Scented Leaves to gathering bundles and single planting through pitchfork Fixed pitchfork harvesting hay bale amounts Added the following plants to be harvestable by pitchfork: Jinns Tongue Wild Plants Wild Ginseng Clubhead Fungus Husbandry Added replanting to husbandry for all animals. Commerce Shadow Daru are working properly now World Changes Housing Ahnimar new player housing zone bug fixed Another area opened to match the East zone area World Bosses Morpheus will now reward pirates for 5 minutes after successfully defending him during the time he's up. Delphinad Ghost Ship will now last it's full 12 hour spawn instead of despawning early. Leviathan will now spawn on Saturdays UI Changes Holding Shift while placing down 'split stacks' of items will allow you to repeatedly place down stacks A fix for the Notifications system has been put in place A new button has been added next to the login tracker to open all daily quests Skill/Equipment Changes Skills Mist Bubble will now grant a short immunity once it ends, allowing players of all pings to react properly to it Equipment Obsidian Transmutators are now available (see below for more information) Ayanad Earth Frosts will give 335 Max HP per frost instead of 80 Physical Defense Ayanad Gale lunafrost 6/6 effect will now give 4.1 ranged crit rate % instead of 4.1% move speed Misc. Changes Fixed the Growling Yawl achievement title token. It will now properly grant the title when used. Changed a title back to its 3.0 version \"Rooting for Thunder\" Added new craft for Pink Marlin Weapon Crate Addon API updates (see below for more information) Obsidian Transmutators Transmutators will allow you to seal a Brimstone or a Tier 6 obsidian weapon or armor and then craft it into the desired version that you wish. The crafting cost to craft a sealed weapon or armor depends on the tier that it was sealed in. T7 has the highest costs, compared to a sealed T6. The transmutation tiers are defined as such: Greater Transmutation - legendary and mythic only. Restricted to T7. Normal Transmutation - epic only. Restricted to T7. Lesser transmutation - divine to legendary only. Restricted to T6. 50 / 180 / 230k alchemy required respectively based on the tier of transmutation. Transmutating an item that is unbound will make it bound. The costs of T6 and T7 transmutation will require a mix of boss materials between T1 and T6, wisps, and a few materials related to both metal and wooden types. Armor transmutation follows the same material costs, except it uses all three material types Players report a new threat in the Arcadian seas This section is based upon player reports, which we can now confirm. Adventurers, brave souls, listen well, for the winds of change stir across Erenor once more. After the first comet fell, trailing fire and mystery into the heart of Sandeep, whispers began to ripple through taverns and trade hubs alike. Sailors returned wide-eyed from the Arcadian Sea, speaking of strange waters and a darker terror that stirred beneath the waves. Now we can confirm what many dared not believe: the Primal Kraken has awakened. A mightier, more cunning beast than its predecessor, it rises only on Saturdays, shrouded in new, deadly mechanics meant to test even the boldest of crews. But for those with the mettle to face it, rich treasures lie within your grasp. Prepare your ships, gather your comrades, and sail forth. API Update Sandbox Additions petFrame The global table that holds all currently toggled on pet frames. Holds battle pet and mount unitframes. STATUSBAR_STYLE API Function Additions Interface GetScreenWidth() GetScreenHeight() GetUIScale() Unit UnitIsOffline(unitString) GetOverHeadMarkerUnitId(markerIndex) Takes 1 .. 12, returns unit ID of person with corresponding sign. Team GetTeamDistributorName() Gives leader of player's team GetTeamPlayerIndex() Gives player's index in the team GetRole(memberIndex) Player GetGamePoints() GetCrimeInfo() Quest IsCompleted(questTypeId) GetActiveQuestTitle(questTypeId) Main quest log title GetQuestContextMainTitle(questTypeId) GetQuestContextBody(questTypeId) Map GetPlayerSextants() Zone GetZoneStateInfoByZoneId(zoneId)",
+ "html": "<h2 id=\"Starfall_is_here!\"><span></span>Starfall is here!</h2>\n<p>Watch out for stars falling from the sky! A warning will now appear globally about an imminent comet crashing in an area.\n</p><p>Archmage Iseren will be seen watching the sky through her telescope as the comet approaches landfall. \n</p><p>She'll ask for some help from you while you're there as you venture into discovering more about these celestial objects visiting us from a distant place.\n</p><p>The following daily quests have been added to guide you through your comet discovery: \n</p><p>A series of introductory quests when you meet Iseren, leading you to the Ayanad Library where you can find the Comet Workbench, [Meteor Miner], [Scorched Earth], [Crystallized Clues], [The Eternal Flame], And three other quests related to what occurs at a comet site!\n</p><p>What does the arrival of these comets entail? Iseren, a mage of the Ayanad Council, has these very same questions!\n</p><p><i><b>But be careful... don't stand underneath one as it lands.</b></i>\n</p>\n<h2 id=\"Patch_Notes\">Patch Notes</h2>\n<h3 id=\"Weekly_Quest_Changes\">Weekly Quest Changes</h3>\n<ul><li>The weekly quest locations have been moved to a new NPC called the Shadow Daru. The shadow daru will spawn at each major city on Saturday and Sunday to offer you the activity token quests you'd normally get. Shadow Daru will spawn behind the Pirate Nui on the broken bridge on Fridays.</li></ul>\n<ul><li>Added new weekly quest: Have You Ever Seen A Ghost? which requires you to defeat the Delphinad Ghost Ship</li></ul>\n<h3 id=\"Vocational_Changes\">Vocational Changes</h3>\n<h4 id=\"Dawnsdrop_Pitchfork\">Dawnsdrop Pitchfork</h4>\n<ul><li>Added crafts to identify pitchfork boxes in large quantities</li>\n<li>Fixed pitchfork incorrectly despawning wild plants. Plants will now respawn as they should in the wild.</li>\n<li>Added Scented Leaves to gathering bundles and single planting through pitchfork</li>\n<li>Fixed pitchfork harvesting hay bale amounts</li>\n<li>Added the following plants to be harvestable by pitchfork:\n<ul><li>Jinns Tongue</li>\n<li>Wild Plants</li>\n<li>Wild Ginseng</li>\n<li>Clubhead Fungus</li></ul></li></ul>\n<h4 id=\"Husbandry\">Husbandry</h4>\n<ul><li>Added replanting to husbandry for all animals.</li></ul>\n<h4 id=\"Commerce\">Commerce</h4>\n<ul><li>Shadow Daru are working properly now</li></ul>\n<h3 id=\"World_Changes\">World Changes</h3>\n<h4 id=\"Housing\">Housing</h4>\n<ul><li>Ahnimar new player housing zone bug fixed</li>\n<li>Another area opened to match the East zone area</li></ul>\n<h4 id=\"World_Bosses\">World Bosses</h4>\n<ul><li>Morpheus will now reward pirates for 5 minutes after successfully defending him during the time he's up.</li>\n<li>Delphinad Ghost Ship will now last it's full 12 hour spawn instead of despawning early.</li>\n<li>Leviathan will now spawn on Saturdays</li></ul>\n<h3 id=\"UI_Changes\">UI Changes</h3>\n<ul><li>Holding Shift while placing down 'split stacks' of items will allow you to repeatedly place down stacks</li></ul>\n<ul><li>A fix for the Notifications system has been put in place</li>\n<li>A new button has been added next to the login tracker to <i>open all daily quests</i></li></ul>\n<h3 id=\"Skill/Equipment_Changes\"><span></span>Skill/Equipment Changes</h3>\n<h4 id=\"Skills\">Skills</h4>\n<ul><li>Mist Bubble will now grant a short immunity once it ends, allowing players of all pings to react properly to it</li></ul>\n<h4 id=\"Equipment\">Equipment</h4>\n<ul><li>Obsidian Transmutators are now available (see below for more information)</li>\n<li>Ayanad Earth Frosts will give 335 Max HP per frost instead of 80 Physical Defense</li>\n<li>Ayanad Gale lunafrost 6/6 effect will now give 4.1 ranged crit rate&#160;% instead of 4.1% move speed</li></ul>\n<h3 id=\"Misc._Changes\">Misc. Changes</h3>\n<ul><li>Fixed the Growling Yawl achievement title token. It will now properly grant the title when used.</li>\n<li>Changed a title back to its 3.0 version \"Rooting for Thunder\"</li>\n<li>Added new craft for Pink Marlin Weapon Crate</li>\n<li>Addon API updates (see below for more information)</li></ul>\n<h2 id=\"Obsidian_Transmutators\">Obsidian Transmutators</h2>\n<ul><li>Transmutators will allow you to seal a Brimstone or a Tier 6 obsidian weapon or armor and then craft it into the desired version that you wish.</li>\n<li>The crafting cost to craft a sealed weapon or armor depends on the tier that it was sealed in.</li>\n<li>T7 has the highest costs, compared to a sealed T6.</li>\n<li>The transmutation tiers are defined as such: <b>Greater Transmutation</b> - legendary and mythic only. Restricted to T7.</li>\n<li><b>Normal Transmutation</b> - epic only. Restricted to T7.</li>\n<li><b>Lesser transmutation</b> - divine to legendary only. Restricted to T6.</li>\n<li>50 / 180 / 230k alchemy required respectively based on the tier of transmutation.</li>\n<li><i><b>Transmutating an item that is unbound will make it bound.</b></i></li>\n<li>The costs of T6 and T7 transmutation will require a mix of boss materials between T1 and T6, wisps, and a few materials related to both metal and wooden types.</li>\n<li>Armor transmutation follows the same material costs, except it uses all three material types</li></ul>\n<h2 id=\"Players_report_a_new_threat_in_the_Arcadian_seas\">Players report a new threat in the Arcadian seas</h2>\n<p><i>This section is based upon player reports, which we can now confirm.</i>\n</p><p>Adventurers, brave souls, listen well, for the winds of change stir across Erenor once more. After the first comet fell, trailing fire and mystery into the heart of Sandeep, whispers began to ripple through taverns and trade hubs alike. Sailors returned wide-eyed from the Arcadian Sea, speaking of strange waters and a darker terror that stirred beneath the waves. Now we can confirm what many dared not believe: the <a href=\"/wiki/primal-kraken\">Primal Kraken</a> has awakened. A mightier, more cunning beast than its predecessor, it rises only on Saturdays, shrouded in new, deadly mechanics meant to test even the boldest of crews. But for those with the mettle to face it, rich treasures lie within your grasp. Prepare your ships, gather your comrades, and sail forth.\n</p>\n<h2 id=\"API_Update\">API Update</h2>\n<h3 id=\"Sandbox_Additions\">Sandbox Additions</h3>\n<ul><li>petFrame\n<ul><li>The global table that holds all currently toggled on pet frames. Holds battle pet and mount unitframes.</li></ul></li>\n<li>STATUSBAR_STYLE</li></ul>\n<h3 id=\"API_Function_Additions\">API Function Additions</h3>\n<ul><li>Interface\n<ul><li>GetScreenWidth()</li>\n<li>GetScreenHeight()</li>\n<li>GetUIScale()</li></ul></li>\n<li>Unit\n<ul><li>UnitIsOffline(unitString)</li>\n<li>GetOverHeadMarkerUnitId(markerIndex)\n<ul><li>Takes 1 .. 12, returns unit ID of person with corresponding sign.</li></ul></li></ul></li>\n<li>Team\n<ul><li>GetTeamDistributorName()\n<ul><li>Gives leader of player's team</li></ul></li>\n<li>GetTeamPlayerIndex()\n<ul><li>Gives player's index in the team</li></ul></li>\n<li>GetRole(memberIndex)</li></ul></li>\n<li>Player\n<ul><li>GetGamePoints()</li>\n<li>GetCrimeInfo()</li></ul></li>\n<li>Quest\n<ul><li>IsCompleted(questTypeId)</li>\n<li>GetActiveQuestTitle(questTypeId)\n<ul><li>Main quest log title</li></ul></li>\n<li>GetQuestContextMainTitle(questTypeId)</li>\n<li>GetQuestContextBody(questTypeId)</li></ul></li>\n<li>Map\n<ul><li>GetPlayerSextants()</li></ul></li>\n<li>Zone\n<ul><li>GetZoneStateInfoByZoneId(zoneId)</li></ul></li></ul>"
+}

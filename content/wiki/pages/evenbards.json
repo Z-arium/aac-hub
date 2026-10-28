@@ -1,0 +1,27 @@
+{
+ "slug": "evenbards",
+ "title": "Evenbards",
+ "pageid": 466,
+ "revid": 2742,
+ "updated": "2025-08-04T13:24:53Z",
+ "source": "https://wiki.aa-classic.com/Evenbards",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Locations of Evenbards",
+   "headers": [
+    "Nuia",
+    "Haranya"
+   ],
+   "rows": [
+    [
+     "Samiel (Crescent Throne) Samion (Marianople) Samunin (Sanddeep)",
+     "Yariz (Mahadevi) Nirha (Lutesong Harbor) Aragi (Ynystere)"
+    ]
+   ]
+  }
+ ],
+ "text": "Evenbards are NPCs that spawn during night in major cities of Nuia and Haranya and they are selling items, that cannot be found anywhere else. They spawn between 22:00 and 8:00 in-game time on random locations in six large cities. Since their location is randomly chosen between several spots in each city, best way to find them is use /target name command in chat. Here is list of Evenbards and their cities: Locations of Evenbards Nuia Haranya Samiel (Crescent Throne) Samion (Marianople) Samunin (Sanddeep) Yariz (Mahadevi) Nirha (Lutesong Harbor) Aragi (Ynystere)",
+ "html": "<p>Evenbards are NPCs that spawn during night in major cities of Nuia and Haranya and they are selling items, that cannot be found anywhere else.\n</p><p>They spawn between 22:00 and 8:00 in-game time on random locations in six large cities. Since their location is randomly chosen between several spots in each city, best way to find them is use <i>/target name</i> command in chat.\n</p><p>Here is list of Evenbards and their cities:\n</p>\n<table class=\"wikitable\">\n<caption>Locations of Evenbards\n</caption>\n<tbody><tr>\n<th>Nuia\n</th>\n<th>Haranya\n</th></tr>\n<tr>\n<td>Samiel (Crescent Throne)\n<p>Samion (Marianople)\n</p><p>Samunin (Sanddeep)\n</p>\n</td>\n<td>Yariz (Mahadevi)\n<p>Nirha (Lutesong Harbor)\n</p><p>Aragi (Ynystere)\n</p>\n</td></tr></tbody></table>\n<p><span><img src=\"https://wiki.aa-classic.com/images/1/16/Evenbard.png\" width=\"264\" height=\"460\" loading=\"lazy\"></span>\n</p>"
+}

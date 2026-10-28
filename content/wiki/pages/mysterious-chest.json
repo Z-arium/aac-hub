@@ -1,0 +1,18 @@
+{
+ "slug": "mysterious-chest",
+ "title": "Mysterious Chest",
+ "pageid": 952,
+ "revid": 1832,
+ "updated": "2024-08-26T17:08:22Z",
+ "source": "https://wiki.aa-classic.com/Mysterious_Chest",
+ "headings": [
+  {
+   "level": 2,
+   "id": "How_it_works",
+   "text": "How it works"
+  }
+ ],
+ "tables": [],
+ "text": "How it works Every 4 hours 28 treasure chests spawn in Auroria. Interacting with these chests will either spawn a monster or give the player a tradepack worth 400g delivered to any ocean trader. The chance of getting the chest is about 1/25. The server broadcasts the tradepack's coordinates when spawned. Chests spawn in a general area, the map markers only roughly represent the area. The spawn timer resets every time the server restarts, and is usually several minutes before the announcement that the server is back up. Interactable treasure chest",
+ "html": "<p><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/99/Treasure_chest_spawns.png/489px-Treasure_chest_spawns.png\" width=\"489\" height=\"377\" srcset=\"https://wiki.aa-classic.com/images/9/99/Treasure_chest_spawns.png 1.5x\" loading=\"lazy\"></span>\n<span><img src=\"https://wiki.aa-classic.com/images/thumb/5/55/Treasure_chest_spawns_reedwind.png/439px-Treasure_chest_spawns_reedwind.png\" width=\"439\" height=\"377\" srcset=\"https://wiki.aa-classic.com/images/thumb/5/55/Treasure_chest_spawns_reedwind.png/659px-Treasure_chest_spawns_reedwind.png 1.5x, https://wiki.aa-classic.com/images/5/55/Treasure_chest_spawns_reedwind.png 2x\" loading=\"lazy\"></span>\n<span><img src=\"https://wiki.aa-classic.com/images/thumb/9/97/Treasure_chest_spawns_golden_ruins.png/433px-Treasure_chest_spawns_golden_ruins.png\" width=\"433\" height=\"377\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/97/Treasure_chest_spawns_golden_ruins.png/650px-Treasure_chest_spawns_golden_ruins.png 1.5x, https://wiki.aa-classic.com/images/9/97/Treasure_chest_spawns_golden_ruins.png 2x\" loading=\"lazy\"></span>\n</p>\n<h2 id=\"How_it_works\">How it works</h2>\n<p>Every 4 hours 28 treasure chests spawn in Auroria. Interacting with these chests will either spawn a monster or give the player a tradepack worth 400g delivered to any ocean trader. The chance of getting the chest is about 1/25. The server broadcasts the tradepack's coordinates when spawned. Chests spawn in a general area, the map markers only roughly represent the area. The spawn timer resets every time the server restarts, and is usually several minutes before the announcement that the server is back up. \n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/c/cb/Treasure_chest.png/300px-Treasure_chest.png\" width=\"300\" height=\"176\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/cb/Treasure_chest.png/450px-Treasure_chest.png 1.5x, https://wiki.aa-classic.com/images/thumb/c/cb/Treasure_chest.png/600px-Treasure_chest.png 2x\" loading=\"lazy\"><figcaption>Interactable treasure chest</figcaption></figure>"
+}

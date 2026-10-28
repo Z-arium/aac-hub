@@ -1,0 +1,76 @@
+{
+ "slug": "starfall",
+ "title": "Starfall",
+ "pageid": 1199,
+ "revid": 2678,
+ "updated": "2025-07-04T18:18:16Z",
+ "source": "https://wiki.aa-classic.com/Starfall",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Comet_Workbench",
+   "text": "Comet Workbench"
+  },
+  {
+   "level": 2,
+   "id": "Comet_Interaction_Rewards",
+   "text": "Comet Interaction Rewards"
+  },
+  {
+   "level": 2,
+   "id": "Starfall_Questline",
+   "text": "Starfall Questline"
+  },
+  {
+   "level": 2,
+   "id": "Primal_Kraken",
+   "text": "Primal Kraken"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Comet Interaction Rewards",
+   "caption": "",
+   "headers": [
+    "Icon",
+    "Item name",
+    "Category",
+    "Cost"
+   ],
+   "rows": [
+    [
+     "",
+     "Crater Cub",
+     "Battlepet",
+     "275 Comet Shard"
+    ],
+    [
+     "",
+     "Ember Nymph",
+     "Battlepet",
+     "150 Comet Shard"
+    ],
+    [
+     "",
+     "Lavaspark",
+     "Battlepet",
+     "225 Comet Shard"
+    ],
+    [
+     "",
+     "Starfallen Token Title: \"Starfallen\"",
+     "Title (no stats)",
+     "150 Comet Shard"
+    ],
+    [
+     "",
+     "Cumulus Magitopher",
+     "Glider (Magitopher)",
+     "225 Comet Shard"
+    ]
+   ]
+  }
+ ],
+ "text": "This page is intended as a WIP collation of everything we know so far about the ongoing Starfall event, spoilers ahead, be warned. If you learn something verifiable and wish for it to be added to this page, or have confirmed information from the Daru's, please contact Silverbranch via discord. Comet Workbench Comet Workbench is located in Diamon Shores top right of the map. Bench NPC:s Comet Interaction Rewards Icon Item name Category Cost Crater Cub Battlepet 275 Comet Shard Ember Nymph Battlepet 150 Comet Shard Lavaspark Battlepet 225 Comet Shard Starfallen Token Title: \"Starfallen\" Title (no stats) 150 Comet Shard Cumulus Magitopher Glider (Magitopher) 225 Comet Shard And as an exceedingly rare item, the Cometshard Staff Starfall Questline Start the questline by talking to the NPC Iseren at any comet event. You should see a in-game popup that the event is starting with the zone that it is landing at. Go to the 1st floor of the library for Elloy Go back to Iseren and interact with the telescope. Talk to Iseren interact with the telescope again until its centered Talk to Iseren use the observe function of the telescope Talk to Iseren accept rift quests List of quests: elemental rift 1 fire sprite 0/25 rift 2 flame elemental 0/15 rift 3 flame guardian boss defeat the flame guardian! like cr scorched earth Kill elemental rift elementals 0/10 kills meteor miner mine meteor 0/1 crystalized clues collect elemental shards by defeating flame elementals the eternal flame Defeat the Undying Flame! continue of story: the study of stars! Report back to Iseren in 1st floor of the library and you will complete it. Primal Kraken new saturday only variant of the kraken, see primal kraken",
+ "html": "<p><i>This page is intended as a WIP collation of everything we know so far about the ongoing Starfall event, spoilers ahead, be warned.</i>\n</p><p><i>If you learn something verifiable and wish for it to be added to this page, or have confirmed information from the Daru's, please contact Silverbranch via discord.</i>\n</p>\n\n<h2 id=\"Comet_Workbench\">Comet Workbench</h2>\n<p>Comet Workbench is located in Diamon Shores top right of the map.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/a/a9/Locationcomet.jpg\" width=\"803\" height=\"529\" loading=\"lazy\"></span>\n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/7/73/Benchcomet.png\" width=\"675\" height=\"361\" loading=\"lazy\"><figcaption>Bench NPC:s</figcaption></figure>\n<h2 id=\"Comet_Interaction_Rewards\">Comet Interaction Rewards</h2>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Icon\n</th>\n<th>Item name\n</th>\n<th>Category\n</th>\n<th>Cost\n</th></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fb/Cratercub.png\" width=\"47\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Crater Cub\n</td>\n<td>Battlepet\n</td>\n<td>275 Comet Shard\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/00/Embernymph.png\" width=\"47\" height=\"46\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Ember Nymph\n</td>\n<td>Battlepet\n</td>\n<td>150 Comet Shard\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/27/Lavaspark.png\" width=\"47\" height=\"47\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Lavaspark\n</td>\n<td>Battlepet\n</td>\n<td>225 Comet Shard\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/8/8f/Starfallentitle.png\" width=\"46\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Starfallen Token\n<p>Title: \"Starfallen\"\n</p>\n</td>\n<td>Title (no stats)\n</td>\n<td>150 Comet Shard\n</td></tr>\n<tr>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/09/Cumulusmagi.png\" width=\"38\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Cumulus Magitopher\n</td>\n<td>Glider (Magitopher)\n</td>\n<td>225 Comet Shard\n</td></tr></tbody></table>\n<p>And as an exceedingly rare item, the <a href=\"/wiki/cometshard-staff\">Cometshard Staff</a>\n</p>\n<h2 id=\"Starfall_Questline\">Starfall Questline</h2>\n<p>Start the questline by talking to the NPC Iseren at any comet event. You should see a in-game popup that the event is starting with the zone that it is landing at.\n</p><p>Go to the 1st floor of the library for Elloy\n</p><p>Go back to Iseren and interact with the telescope.\n</p><p>Talk to Iseren interact with the telescope again until its centered\n</p><p>Talk to Iseren use the observe function of the telescope\n</p><p>Talk to Iseren accept rift quests\n</p><p>List of quests:\n</p>\n<ul><li>elemental rift 1 fire sprite 0/25</li>\n<li>rift 2 flame elemental 0/15</li>\n<li>rift 3 flame guardian boss defeat the flame guardian!</li>\n<li>like cr scorched earth Kill elemental rift elementals 0/10 kills</li>\n<li>meteor miner mine meteor 0/1</li>\n<li>crystalized clues collect elemental shards by defeating flame elementals the eternal flame</li>\n<li>Defeat the <a href=\"/wiki/undying-flame\">Undying Flame</a>!</li></ul>\n<p>continue of story: \n</p>\n<ul><li>the study of stars! Report back to Iseren in 1st floor of the library and you will complete it.</li></ul>\n<h2 id=\"Primal_Kraken\">Primal Kraken</h2>\n<p>new saturday only variant of the kraken, see <a href=\"/wiki/primal-kraken\">primal kraken</a>\n</p>"
+}

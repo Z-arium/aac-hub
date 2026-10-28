@@ -1,0 +1,73 @@
+{
+ "slug": "skill-trees",
+ "title": "Skill Trees",
+ "pageid": 9,
+ "revid": 2064,
+ "updated": "2024-09-25T01:24:23Z",
+ "source": "https://wiki.aa-classic.com/Skill_Trees",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Primary_Trees",
+   "text": "Primary Trees"
+  },
+  {
+   "level": 3,
+   "id": "Battlerage",
+   "text": "Battlerage"
+  },
+  {
+   "level": 3,
+   "id": "Vitalism",
+   "text": "Vitalism"
+  },
+  {
+   "level": 3,
+   "id": "Archery",
+   "text": "Archery"
+  },
+  {
+   "level": 3,
+   "id": "Sorcery",
+   "text": "Sorcery"
+  },
+  {
+   "level": 2,
+   "id": "Secondary_Trees",
+   "text": "Secondary Trees"
+  },
+  {
+   "level": 3,
+   "id": "Occultism",
+   "text": "Occultism"
+  },
+  {
+   "level": 3,
+   "id": "Shadowplay",
+   "text": "Shadowplay"
+  },
+  {
+   "level": 3,
+   "id": "Witchcraft",
+   "text": "Witchcraft"
+  },
+  {
+   "level": 3,
+   "id": "Songcraft",
+   "text": "Songcraft"
+  },
+  {
+   "level": 3,
+   "id": "Defense",
+   "text": "Defense"
+  },
+  {
+   "level": 3,
+   "id": "Auramancy",
+   "text": "Auramancy"
+  }
+ ],
+ "tables": [],
+ "text": "For class specific gearing guides, see Gearing: Class Specific Guides ArcheAge is comprised of 10 skill trees. After picking your first tree at level 1, second tree at 5, and your final tree at 10, you are given a class. These trees are changeable at any time, allowing dynamic gameplay, and changing your class is fluid. They vary in usefulness and purpose such as AOE (area of effect), DPS, burst, crowd control, mobility, etc.. Primary Trees Battlerage Skills based off of Physical Damage of main hand weapon. Close range. Single target. Nuke and crowd control. Passives provide melee critical bonuses, parry rate, damage, and damage reduction. This tree is intended to limit the abilities of one target with abilities like Lasso and provide damage reduction for their allies through the use of Sunder Earth, while being mobile enough to close the gap on enemies via Charge, Tiger Strike, and Behind Enemy Lines. Battlerage revolves around the use of Trip as a crowd control mechanic, and finishing off the target with Percision Strike Vitalism Skills based off of Healing Power. Damaging abilities count as Magic Damage. Long range single target healing. Healing over time. Close range AOE healing. This tree provides incredible healing with abilities like the single target heal Fervent Hearts, the AOE heal Mend, and heal over time Resurgence. Archery Skills based off of Physical Damage of bow weapon. Long range. Single target. Poke and Damage over Time. Passives increase ability range and movement speed. This tree excels at combat revolving around the ocean as its passives Wild Instincts and Marksman keep enemies at bay. Its staple ability, Endless Arrows, provides constant pressure on enemies. Sorcery Skills based off of Magical Damage. Long and close range. Single target and AOE. Nuke and crowd control. Passives decrease ability cast time, increase mana, and ability damage. Sorcery is incredibly useful at all stages of the game, providing single target damage like Arc Lightning, and AOE damage with Searing Rain. Its abilities Frozen Earth and Cold Feet keep enemies still as you blast them with Meteor. Secondary Trees Occultism Skills based off of Magical Damage. Close range. AOE. Crowd control. Channeled. Passives increase critical rate and ability utility. Combined with Sorcery, Occultism can keep a large number of enemies around you still for a long period of time. Hellspears stun enemies, effectively shutting them down for a few seconds. Summon Wraith and Summon Crows debuff their movement and attack speed, as well as ability accuracy. Shadowplay Skills based off of Physical Damage. Close and long range. Single target. Critical chance. Movement speed increase. Stealth. Fast ability attacks. Shadowplay can benefit any player as its Stealth ability allows them to escape certain danger in both PVE and PVP. It provides critical PVP abilities such as Stalker's Mark, reducing enemy healing, while also slowing up to 5 players while using Throw Dagger. It comes with a built in Trip via Overwhelm and Shadowsmite, as well as a poison to benefit Archery abilities. Witchcraft Skills based off of Magical Damage. Close range. Single target and AOE. Sleeps, fear, and a minion. Witchcraft is critical to players looking to excel in 1 on 1 combat with the use of Insidious Whisper and Lassitude. Banshee Wail can provide a quick escape, fearing an enemy should they get the upper hand. Fiends Knell is a minion that will help keep the enemy in check, allowing you to maintain the upper hand. Songcraft Skills based off of Healing Power. Close range. AOE. Benefits other players via use of Bard-like abilities. Contains critical bonus passives. Songcraft is an incredible tree, and essential for any raiding group. These players provide their entire raid with constant buffs with Songs, such as Bulwark Ballad for defense, Bloody Chanty for damage, Quickstep for movement speed, and healing via Ode to Recovery. Be warned, only the highest healing power should Ode as other players will reduce its efficacy. One of its final passives is Zeal, providing a massive critical damage bonus to anyone risking a glass cannon build. Defense Skills based off of Physical Damage. Close range. Single target and AOE. Invulnerability, damage reduction, self healing. Passives increase shield block rate against ranged and melee users, while abilities revolve around Mettle. Defense is what most would consider the tank tree. While tanking monsters in Archeage is not similar to other MMORPGs, it is the same concept of staying alive despite overwhelming odds. This is done with Invincibility to resist all damage for a time but stand still, Fortress to pull allies nearby and reduce their damage taken, and Redoubt to increase shield block rate as well as remove the ability to be stunned for XX seconds. Defense can also impede enemy mobility using Imprison, a magical wall summoned that cannot be walked through. Auramancy Skills based off of Magical Damage. Close range. AOE. Self buffs. Mobility. Passives provide invulnerability as well as reduced damage taken. An essential tree to all builds and should always be considered your third tree. It has abilities benefiting everyone. They benefit offensive potential with attack speed from Thwart, mobility with Comet's Boon, Teleport and Mirror Warp, and enemy control via Vicious Implosion, an AOE pull. It provides massive defensive benefits like magic resistance from Magic Shield and Wings of Protection, debuff protection from Shrug It Off and Liberation, and received damage reduction with Inspiration Cloak and Absorb Damage, and finally Unassailable, providing a chance at 3 seconds of pure invulnerability.",
+ "html": "<p><i>For class specific gearing guides, see <a href=\"/wiki/gearing#Class_Specific_Guides\">Gearing: Class Specific Guides</a></i>\n</p><p>ArcheAge is comprised of 10 skill trees. After picking your first tree at level 1, second tree at 5, and your final tree at 10, you are given a class. These trees are changeable at any time, allowing dynamic gameplay, and changing your class is fluid. They vary in usefulness and purpose such as AOE (area of effect), DPS, burst, crowd control, mobility, etc..\n</p>\n\n<h2 id=\"Primary_Trees\">Primary Trees</h2>\n<h3 id=\"Battlerage\"><a href=\"/wiki/battlerage\">Battlerage</a></h3>\n<p>Skills based off of Physical Damage of main hand weapon. Close range. Single target. Nuke and crowd control. Passives provide melee critical bonuses, parry rate, damage, and damage reduction.\n</p><p>This tree is intended to limit the abilities of one target with abilities like Lasso and provide damage reduction for their allies through the use of Sunder Earth, while being mobile enough to close the gap on enemies via Charge, Tiger Strike, and Behind Enemy Lines. Battlerage revolves around the use of Trip as a crowd control mechanic, and finishing off the target with Percision Strike\n</p>\n<h3 id=\"Vitalism\"><a href=\"/wiki/vitalism\">Vitalism</a></h3>\n<p>Skills based off of Healing Power. Damaging abilities count as Magic Damage. Long range single target healing. Healing over time. Close range AOE healing.\n</p><p>This tree provides incredible healing with abilities like the single target heal Fervent Hearts, the AOE heal Mend, and heal over time Resurgence.\n</p>\n<h3 id=\"Archery\"><a href=\"/wiki/archery\">Archery</a></h3>\n<p>Skills based off of Physical Damage of bow weapon. Long range. Single target. Poke and Damage over Time. Passives increase ability range and movement speed.\n</p><p>This tree excels at combat revolving around the ocean as its passives Wild Instincts and Marksman keep enemies at bay. Its staple ability, Endless Arrows, provides constant pressure on enemies.\n</p>\n<h3 id=\"Sorcery\"><a href=\"/wiki/sorcery\">Sorcery</a></h3>\n<p>Skills based off of Magical Damage. Long and close range. Single target and AOE. Nuke and crowd control. Passives decrease ability cast time, increase mana, and ability damage.\n</p><p>Sorcery is incredibly useful at all stages of the game, providing single target damage like Arc Lightning, and AOE damage with Searing Rain. Its abilities Frozen Earth and Cold Feet keep enemies still as you blast them with Meteor.\n</p>\n<h2 id=\"Secondary_Trees\">Secondary Trees</h2>\n<h3 id=\"Occultism\"><a href=\"/wiki/occultism\">Occultism</a></h3>\n<p>Skills based off of Magical Damage. Close range. AOE. Crowd control. Channeled. Passives increase critical rate and ability utility.\n</p><p>Combined with Sorcery, Occultism can keep a large number of enemies around you still for a long period of time. Hellspears stun enemies, effectively shutting them down for a few seconds. Summon Wraith and Summon Crows debuff their movement and attack speed, as well as ability accuracy.\n</p>\n<h3 id=\"Shadowplay\"><a href=\"/wiki/shadowplay\">Shadowplay</a></h3>\n<p>Skills based off of Physical Damage. Close and long range. Single target. Critical chance. Movement speed increase. Stealth. Fast ability attacks.\n</p><p>Shadowplay can benefit any player as its Stealth ability allows them to escape certain danger in both PVE and PVP. It provides critical PVP abilities such as Stalker's Mark, reducing enemy healing, while also slowing up to 5 players while using Throw Dagger. It comes with a built in Trip via Overwhelm and Shadowsmite, as well as a poison to benefit Archery abilities.\n</p>\n<h3 id=\"Witchcraft\"><a href=\"/wiki/witchcraft\">Witchcraft</a></h3>\n<p>Skills based off of Magical Damage. Close range. Single target and AOE. Sleeps, fear, and a minion.\n</p><p>Witchcraft is critical to players looking to excel in 1 on 1 combat with the use of Insidious Whisper and Lassitude. Banshee Wail can provide a quick escape, fearing an enemy should they get the upper hand. Fiends Knell is a minion that will help keep the enemy in check, allowing you to maintain the upper hand.\n</p>\n<h3 id=\"Songcraft\"><a href=\"/wiki/songcraft\">Songcraft</a></h3>\n<p>Skills based off of Healing Power. Close range. AOE. Benefits other players via use of Bard-like abilities. Contains critical bonus passives.\n</p><p>Songcraft is an incredible tree, and essential for any raiding group. These players provide their entire raid with constant buffs with Songs, such as Bulwark Ballad for defense, Bloody Chanty for damage, Quickstep for movement speed, and healing via Ode to Recovery. Be warned, only the highest healing power should Ode as other players will reduce its efficacy. One of its final passives is Zeal, providing a massive critical damage bonus to anyone risking a glass cannon build.\n</p>\n<h3 id=\"Defense\"><a href=\"/wiki/defense\">Defense</a></h3>\n<p>Skills based off of Physical Damage. Close range. Single target and AOE. Invulnerability, damage reduction, self healing. Passives increase shield block rate against ranged and melee users, while abilities revolve around Mettle.\n</p><p>Defense is what most would consider the tank tree. While tanking monsters in Archeage is not similar to other MMORPGs, it is the same concept of staying alive despite overwhelming odds. This is done with Invincibility to resist all damage for a time but stand still, Fortress to pull allies nearby and reduce their damage taken, and Redoubt to increase shield block rate as well as remove the ability to be stunned for XX seconds. Defense can also impede enemy mobility using Imprison, a magical wall summoned that cannot be walked through.\n</p>\n<h3 id=\"Auramancy\"><a href=\"/wiki/auramancy\">Auramancy</a></h3>\n<p>Skills based off of Magical Damage. Close range. AOE. Self buffs. Mobility. Passives provide invulnerability as well as reduced damage taken.\n</p><p>An essential tree to all builds and should always be considered your third tree. It has abilities benefiting everyone. They benefit offensive potential with attack speed from Thwart, mobility with Comet's Boon, Teleport and Mirror Warp, and enemy control via Vicious Implosion, an AOE pull. It provides massive defensive benefits like magic resistance from Magic Shield and Wings of Protection, debuff protection from Shrug It Off and Liberation, and received damage reduction with Inspiration Cloak and Absorb Damage, and finally Unassailable, providing a chance at 3 seconds of pure invulnerability.\n</p>"
+}

@@ -1,0 +1,175 @@
+{
+ "slug": "world-bosses",
+ "title": "World Bosses",
+ "pageid": 348,
+ "revid": 3273,
+ "updated": "2026-02-19T18:46:52Z",
+ "source": "https://wiki.aa-classic.com/World_Bosses",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Major_World_Bosses",
+   "text": "Major World Bosses"
+  },
+  {
+   "level": 2,
+   "id": "Normal_World_Bosses",
+   "text": "Normal World Bosses"
+  },
+  {
+   "level": 2,
+   "id": "Minor_World_Bosses",
+   "text": "Minor World Bosses"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Major World Bosses",
+   "caption": "Major World Bosses",
+   "headers": [
+    "Name",
+    "Level",
+    "Location",
+    "Description"
+   ],
+   "rows": [
+    [
+     "Kraken",
+     "50",
+     "West of Arcadian Sea",
+     "A giant squid. As an ocean boss, it only receives damage from ships."
+    ],
+    [
+     "Red Dragon",
+     "50",
+     "Karkasse Ridgelands",
+     "With multiple flying and ground phases, it requires a lot of preparation."
+    ],
+    [
+     "Leviathan",
+     "55",
+     "East of Arcadian Sea",
+     "A boss that must be followed in the ocean and is a difficult naval battle"
+    ],
+    [
+     "Hanure the Berserker",
+     "55",
+     "Hasla",
+     "Classic-made Boss dropping a new set of weapons. Improved version of Hanure the Hunter"
+    ],
+    [
+     "Thunderwing Titan",
+     "55",
+     "Reedwind",
+     "Colossal Titan, which can be summoned in Reedwind."
+    ],
+    [
+     "Anthalon",
+     "50",
+     "Sungold Fields",
+     "Spawns after Sungold CR. Mechanically simple, it's loot is very good on mage tanks."
+    ],
+    [
+     "Delphinad Ghost Ship",
+     "50",
+     "Arcadian Sea, multiple",
+     "A giant Ghostship, that provides a challange every day for ships."
+    ]
+   ]
+  },
+  {
+   "heading": "Normal World Bosses",
+   "caption": "World Boss",
+   "headers": [
+    "Name",
+    "Level",
+    "Location"
+   ],
+   "rows": [
+    [
+     "Hanure the Hunter",
+     "55",
+     "Hasla"
+    ],
+    [
+     "Meina & Glenn",
+     "50",
+     "Sungold Fields"
+    ],
+    [
+     "Captain Rangora",
+     "50",
+     "Freedich Island"
+    ],
+    [
+     "Dahuta's Champion Nazar",
+     "50",
+     "Sunspeck Sea"
+    ],
+    [
+     "Morpheus the Forsaken",
+     "50",
+     "Growlgate Isle"
+    ],
+    [
+     "Zaldrane the Enchantress",
+     "50",
+     "Hellswamp"
+    ],
+    [
+     "Hounds of Kyrios",
+     "50",
+     "Cinderstone Moor, Ynystere"
+    ]
+   ]
+  },
+  {
+   "heading": "Minor World Bosses",
+   "caption": "Lesser World Boss",
+   "headers": [
+    "Name",
+    "Level",
+    "Location"
+   ],
+   "rows": [
+    [
+     "Croakfiend",
+     "40",
+     "Hellswamp"
+    ],
+    [
+     "Daruda the Watcher",
+     "55",
+     "Cinderstone"
+    ],
+    [
+     "Goretusk the Leveler",
+     "55",
+     "Windscour Savannah"
+    ],
+    [
+     "Farkrag the Wanderer",
+     "30",
+     "Gweonid Forest, Falcorth Plains"
+    ],
+    [
+     "Tarian the Grim",
+     "30",
+     "Dewstone Plains"
+    ],
+    [
+     "Windlord",
+     "30",
+     "Arcum Iris, Lilyut"
+    ],
+    [
+     "Flamelord",
+     "30",
+     "Solis Headlands"
+    ]
+   ]
+  }
+ ],
+ "text": "World bosses are big mobs that players usually gather for in order to drop good loot like gear, mounts etc. Some of them are part of questlines and need to be killed / looted for ques items. Few of the Lesser Bosses an be tamed as pets. World Bosses can be put in 3 categories: Major World Bosses, World Bosses and Minor World Bosses Major World Bosses Major World Bosses in ArcheAge are bosses that usually fit one or more of the following: Exceptionally difficult High value loot Contested over in PvP on practically every occasion Have static spawn times to encourage grouping up and preparing for them Major World Bosses Name Level Location Description Kraken 50 West of Arcadian Sea A giant squid. As an ocean boss, it only receives damage from ships. Red Dragon 50 Karkasse Ridgelands With multiple flying and ground phases, it requires a lot of preparation. Leviathan 55 East of Arcadian Sea A boss that must be followed in the ocean and is a difficult naval battle Hanure the Berserker 55 Hasla Classic-made Boss dropping a new set of weapons. Improved version of Hanure the Hunter Thunderwing Titan 55 Reedwind Colossal Titan, which can be summoned in Reedwind. Anthalon 50 Sungold Fields Spawns after Sungold CR. Mechanically simple, it's loot is very good on mage tanks. Delphinad Ghost Ship 50 Arcadian Sea, multiple A giant Ghostship, that provides a challange every day for ships. Normal World Bosses Spawn on a timer basis after each kill. Loot is not major, but can sometimes be fought over regardless. World Boss Name Level Location Hanure the Hunter 55 Hasla Meina & Glenn 50 Sungold Fields Captain Rangora 50 Freedich Island Dahuta's Champion Nazar 50 Sunspeck Sea Morpheus the Forsaken 50 Growlgate Isle Zaldrane the Enchantress 50 Hellswamp Hounds of Kyrios 50 Cinderstone Moor, Ynystere Minor World Bosses Lesser World Boss Name Level Location Croakfiend 40 Hellswamp Daruda the Watcher 55 Cinderstone Goretusk the Leveler 55 Windscour Savannah Farkrag the Wanderer 30 Gweonid Forest, Falcorth Plains Tarian the Grim 30 Dewstone Plains Windlord 30 Arcum Iris, Lilyut Flamelord 30 Solis Headlands",
+ "html": "<p>World bosses are big mobs that players usually gather for in order to drop good loot like gear, mounts etc. Some of them are part of questlines and need to be killed / looted for ques items. Few of the Lesser Bosses an be tamed as pets.  \n</p><p>World Bosses can be put in 3 categories: Major World Bosses, World Bosses and Minor World Bosses  \n</p>\n<h2 id=\"Major_World_Bosses\">Major World Bosses</h2>\n<p>Major World Bosses in ArcheAge are bosses that usually fit one or more of the following: \n</p>\n<ul><li>Exceptionally difficult</li>\n<li>High value loot</li>\n<li>Contested over in PvP on practically every occasion</li>\n<li>Have static spawn times to encourage grouping up and preparing for them</li></ul>\n<table class=\"wikitable\">\n<caption>Major World Bosses\n</caption>\n<tbody><tr>\n<th>Name\n</th>\n<th>Level\n</th>\n<th>Location\n</th>\n<th>Description\n</th></tr>\n<tr>\n<td><a href=\"/wiki/kraken\">Kraken</a>\n</td>\n<td>50\n</td>\n<td>West of Arcadian Sea\n</td>\n<td>A giant squid. As an ocean boss, it only receives damage from ships.\n</td></tr>\n<tr>\n<td><a href=\"/wiki/red-dragon\">Red Dragon</a>\n</td>\n<td>50\n</td>\n<td>Karkasse Ridgelands\n</td>\n<td>With multiple flying and ground phases, it requires a lot of preparation.\n</td></tr>\n<tr>\n<td><a href=\"/wiki/leviathan\">Leviathan</a>\n</td>\n<td>55\n</td>\n<td>East of Arcadian Sea\n</td>\n<td>A boss that must be followed in the ocean and is a difficult naval battle\n</td></tr>\n<tr>\n<td><a href=\"/wiki/hanure-the-berserker\">Hanure the Berserker</a>\n</td>\n<td>55\n</td>\n<td>Hasla\n</td>\n<td>Classic-made Boss dropping a new set of weapons. Improved version of <a href=\"/wiki/hanure-the-hunter\">Hanure the Hunter</a>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/thunderwing-titan\">Thunderwing Titan</a>\n</td>\n<td>55\n</td>\n<td>Reedwind\n</td>\n<td>Colossal Titan, which can be summoned in Reedwind.\n</td></tr>\n<tr>\n<td><a href=\"/wiki/anthalon\">Anthalon</a>\n</td>\n<td>50\n</td>\n<td>Sungold Fields\n</td>\n<td>Spawns after Sungold CR. Mechanically simple, it's loot is very good on mage tanks.\n</td></tr>\n<tr>\n<td><a href=\"/wiki/delphinad-ghost-ship\">Delphinad Ghost Ship</a>\n</td>\n<td>50\n</td>\n<td>Arcadian Sea, multiple\n</td>\n<td>A giant Ghostship, that provides a challange every day for ships.\n</td></tr></tbody></table>\n<h2 id=\"Normal_World_Bosses\">Normal World Bosses</h2>\n<p>Spawn on a timer basis after each kill. Loot is not major, but can sometimes be fought over regardless. \n</p>\n<table class=\"wikitable\">\n<caption>World Boss\n</caption>\n<tbody><tr>\n<th>Name\n</th>\n<th>Level\n</th>\n<th>Location\n</th></tr>\n<tr>\n<td><a href=\"/wiki/hanure-the-hunter\">Hanure the Hunter</a>\n</td>\n<td>55\n</td>\n<td>Hasla\n</td></tr>\n<tr>\n<td><a href=\"/wiki/meina-glenn\">Meina &amp; Glenn</a>\n</td>\n<td>50\n</td>\n<td>Sungold Fields\n</td></tr>\n<tr>\n<td><a href=\"/wiki/captain-rangora\">Captain Rangora</a>\n</td>\n<td>50\n</td>\n<td>Freedich Island\n</td></tr>\n<tr>\n<td><a href=\"/wiki/dahutas-champion-nazar\">Dahuta's Champion Nazar</a>\n</td>\n<td>50\n</td>\n<td>Sunspeck Sea\n</td></tr>\n<tr>\n<td><a href=\"/wiki/morpheus-the-forsaken\">Morpheus the Forsaken</a>\n</td>\n<td>50\n</td>\n<td>Growlgate Isle\n</td></tr>\n<tr>\n<td><a href=\"/wiki/zaldrane-the-enchantress\">Zaldrane the Enchantress</a>\n</td>\n<td>50\n</td>\n<td>Hellswamp\n</td></tr>\n<tr>\n<td><a href=\"/wiki/hounds-of-kyrios\">Hounds of Kyrios</a>\n</td>\n<td>50\n</td>\n<td>Cinderstone Moor, Ynystere\n</td></tr></tbody></table>\n<h2 id=\"Minor_World_Bosses\">Minor World Bosses</h2>\n<table class=\"wikitable\">\n<caption>Lesser World Boss\n</caption>\n<tbody><tr>\n<th>Name\n</th>\n<th>Level\n</th>\n<th>Location\n</th></tr>\n<tr>\n<td>Croakfiend\n</td>\n<td>40\n</td>\n<td>Hellswamp\n</td></tr>\n<tr>\n<td>Daruda the Watcher\n</td>\n<td>55\n</td>\n<td>Cinderstone\n</td></tr>\n<tr>\n<td>Goretusk the Leveler\n</td>\n<td>55\n</td>\n<td>Windscour Savannah\n</td></tr>\n<tr>\n<td>Farkrag the Wanderer\n</td>\n<td>30\n</td>\n<td>Gweonid Forest, Falcorth Plains\n</td></tr>\n<tr>\n<td>Tarian the Grim\n</td>\n<td>30\n</td>\n<td>Dewstone Plains\n</td></tr>\n<tr>\n<td>Windlord\n</td>\n<td>30\n</td>\n<td>Arcum Iris, Lilyut\n</td></tr>\n<tr>\n<td>Flamelord\n</td>\n<td>30\n</td>\n<td>Solis Headlands\n</td></tr></tbody></table>"
+}

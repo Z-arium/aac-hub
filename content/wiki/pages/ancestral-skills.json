@@ -1,0 +1,425 @@
+{
+ "slug": "ancestral-skills",
+ "title": "Ancestral Skills",
+ "pageid": 970,
+ "revid": 2165,
+ "updated": "2024-11-23T03:58:07Z",
+ "source": "https://wiki.aa-classic.com/Ancestral_Skills",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Ancestral_Levels",
+   "text": "Ancestral Levels"
+  },
+  {
+   "level": 2,
+   "id": "List_of_Ancestral_Skills",
+   "text": "List of Ancestral Skills"
+  },
+  {
+   "level": 3,
+   "id": "Archery",
+   "text": "Archery"
+  },
+  {
+   "level": 3,
+   "id": "Auramancy",
+   "text": "Auramancy"
+  },
+  {
+   "level": 3,
+   "id": "Battlerage",
+   "text": "Battlerage"
+  },
+  {
+   "level": 3,
+   "id": "Defense",
+   "text": "Defense"
+  },
+  {
+   "level": 3,
+   "id": "Occultism",
+   "text": "Occultism"
+  },
+  {
+   "level": 3,
+   "id": "Shadowplay",
+   "text": "Shadowplay"
+  },
+  {
+   "level": 3,
+   "id": "Songcraft",
+   "text": "Songcraft"
+  },
+  {
+   "level": 3,
+   "id": "Sorcery",
+   "text": "Sorcery"
+  },
+  {
+   "level": 3,
+   "id": "Vitalism",
+   "text": "Vitalism"
+  },
+  {
+   "level": 3,
+   "id": "Witchcraft",
+   "text": "Witchcraft"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Ancestral Levels",
+   "caption": "",
+   "headers": [
+    "Level",
+    "Experience",
+    "Items"
+   ],
+   "rows": [
+    [
+     "Unlocking at level 55",
+     "3.7 million",
+     "8x Ancestral Warrior Medal"
+    ],
+    [
+     "A1",
+     "1.5 million",
+     "10x Ancestral Warrior Medal"
+    ],
+    [
+     "A2",
+     "1.5 million",
+     "10x Ancestral Warrior Medal"
+    ],
+    [
+     "A3",
+     "1.5 million",
+     "10x Ancestral Warrior Medal"
+    ],
+    [
+     "A4",
+     "1.9 million",
+     "12x Ancestral Warrior Medal"
+    ],
+    [
+     "A5",
+     "1.9 million",
+     "12x Ancestral Warrior Medal"
+    ],
+    [
+     "A6",
+     "1.9 million",
+     "12x Ancestral Warrior Medal"
+    ],
+    [
+     "A7",
+     "2.4 million",
+     "14x Ancestral Warrior Medal"
+    ]
+   ]
+  },
+  {
+   "heading": "A1 - Charged Bolt",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Gale"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Concussive Arrow",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Mist"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Missile Rain",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Mist"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Thwart",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Mist",
+    "Stone"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Spell Shield",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Mist"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Protective Wings",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Mist"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Triple Slash",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Lightning",
+    "Quake"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Precision Strike",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Gale",
+    "Wave"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Tiger Strike",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Life",
+    "Lightning"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Shield Slam",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Quake",
+    "Gale"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Redoubt",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Life",
+    "Gale"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Imprison",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Wave",
+    "Mist"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Mana Stars",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Wave",
+    "Quake"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Hell Spears",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Mist"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Summon Wraith",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Wave",
+    "Mist"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Overwhelm",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Lightning",
+    "Flame"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Drop Back",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Mist",
+    "Wave"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Shadowsmite",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Mist",
+    "Lightning"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Startling Strain",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Life",
+    "Wave"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Healing Hymn",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Wave",
+    "Stone"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Alarm Call",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Stone",
+    "Life"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Flamebolt",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Lightning"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Chain Lightning",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Flame",
+    "Wave"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Meteor Strike",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Wave",
+    "Lightning"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Antithesis",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Life",
+    "Quake"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Skewer",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Life",
+    "Flame"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Fervent Healing",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Lightning",
+    "Flame"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A1 - Earthen Grip",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Quake",
+    "Lightning"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A4 - Bubble Trap",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Mist",
+    "Gale"
+   ],
+   "rows": []
+  },
+  {
+   "heading": "A7 - Banshee Wail",
+   "caption": "",
+   "headers": [
+    "Normal",
+    "Stone",
+    "Mist"
+   ],
+   "rows": []
+  }
+ ],
+ "text": "Ancestral Skills refers to a system added in the ArcheAge Classic 1.3 Patch (also known as 3.5 on Retail) They consist of offering players the ability to change the 'Element' of a skill, giving it different effects. To use Ancestral Skills you must first reach Ancestral Levels Ancestral Levels There are currently 7 Ancestral Levels. The following table details the amount of experience needed per level, as well as extra items required per level. Ancestral Skills are unlocked at levels 1, 4 and 7 respectively Level Experience Items Unlocking at level 55 3.7 million 8x Ancestral Warrior Medal A1 1.5 million 10x Ancestral Warrior Medal A2 1.5 million 10x Ancestral Warrior Medal A3 1.5 million 10x Ancestral Warrior Medal A4 1.9 million 12x Ancestral Warrior Medal A5 1.9 million 12x Ancestral Warrior Medal A6 1.9 million 12x Ancestral Warrior Medal A7 2.4 million 14x Ancestral Warrior Medal List of Ancestral Skills All screenshots below are taken while wearing the corresponding Hellforged + Hellkissed gear for the appropriate class. Archery A1 - Charged Bolt Normal Flame Gale A4 - Concussive Arrow Normal Flame Mist A7 - Missile Rain Normal Flame Mist Auramancy A1 - Thwart Normal Mist Stone A4 - Spell Shield Normal Flame Mist A7 - Protective Wings Normal Flame Mist Battlerage A1 - Triple Slash Normal Lightning Quake A4 - Precision Strike Normal Gale Wave A7 - Tiger Strike Normal Life Lightning Defense A1 - Shield Slam Normal Quake Gale A4 - Redoubt Normal Life Gale A7 - Imprison Normal Wave Mist Occultism A1 - Mana Stars Normal Wave Quake A4 - Hell Spears Normal Flame Mist A7 - Summon Wraith Normal Wave Mist Shadowplay A1 - Overwhelm Normal Lightning Flame A4 - Drop Back Normal Mist Wave A7 - Shadowsmite Normal Mist Lightning Songcraft A1 - Startling Strain Normal Life Wave A4 - Healing Hymn Normal Wave Stone A7 - Alarm Call Normal Stone Life Sorcery A1 - Flamebolt Normal Flame Lightning A4 - Chain Lightning Normal Flame Wave A7 - Meteor Strike Normal Wave Lightning Vitalism A1 - Antithesis Normal Life Quake A4 - Skewer Normal Life Flame A7 - Fervent Healing Normal Lightning Flame Witchcraft A1 - Earthen Grip Normal Quake Lightning A4 - Bubble Trap Normal Mist Gale A7 - Banshee Wail Normal Stone Mist",
+ "html": "<p>Ancestral Skills refers to a system added in the ArcheAge Classic 1.3 Patch (also known as 3.5 on Retail)\n</p><p>They consist of offering players the ability to change the 'Element' of a skill, giving it different effects. To use Ancestral Skills you must first reach Ancestral Levels\n</p>\n\n<h2 id=\"Ancestral_Levels\">Ancestral Levels</h2>\n<p>There are currently 7 Ancestral Levels. The following table details the amount of experience needed per level, as well as extra items required per level.\n</p><p>Ancestral Skills are unlocked at levels 1, 4 and 7 respectively\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Level\n</th>\n<th>Experience\n</th>\n<th>Items\n</th></tr>\n<tr>\n<td>Unlocking at level 55\n</td>\n<td>3.7 million\n</td>\n<td>8x Ancestral Warrior Medal\n</td></tr>\n<tr>\n<td>A1\n</td>\n<td>1.5 million\n</td>\n<td>10x Ancestral Warrior Medal\n</td></tr>\n<tr>\n<td>A2\n</td>\n<td>1.5 million\n</td>\n<td>10x Ancestral Warrior Medal\n</td></tr>\n<tr>\n<td>A3\n</td>\n<td>1.5 million\n</td>\n<td>10x Ancestral Warrior Medal\n</td></tr>\n<tr>\n<td>A4\n</td>\n<td>1.9 million\n</td>\n<td>12x Ancestral Warrior Medal\n</td></tr>\n<tr>\n<td>A5\n</td>\n<td>1.9 million\n</td>\n<td>12x Ancestral Warrior Medal\n</td></tr>\n<tr>\n<td>A6\n</td>\n<td>1.9 million\n</td>\n<td>12x Ancestral Warrior Medal\n</td></tr>\n<tr>\n<td>A7\n</td>\n<td>2.4 million\n</td>\n<td>14x Ancestral Warrior Medal\n</td></tr></tbody></table>\n<h2 id=\"List_of_Ancestral_Skills\">List of Ancestral Skills</h2>\n<p>All screenshots below are taken while wearing the corresponding Hellforged + Hellkissed gear for the appropriate class.\n</p>\n<h3 id=\"Archery\">Archery</h3>\n<h4 id=\"A1_-_Charged_Bolt\">A1 - Charged Bolt</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Gale\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/6a/Chargedbolt.png\" width=\"284\" height=\"587\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/f/f4/Fchargedbolt.png\" width=\"288\" height=\"571\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/5/5f/Gchargedbolt.png\" width=\"285\" height=\"642\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Concussive_Arrow\">A4 - Concussive Arrow</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/1/10/Conc.png\" width=\"286\" height=\"622\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/e/e2/Fconc.png\" width=\"281\" height=\"631\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/94/Mconc.png\" width=\"283\" height=\"658\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Missile_Rain\">A7 - Missile Rain</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/5/5e/Missilerain.png\" width=\"284\" height=\"312\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/3/3a/Fmrain.png\" width=\"285\" height=\"382\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/3/39/Mmrain.png\" width=\"284\" height=\"382\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Auramancy\">Auramancy</h3>\n<h4 id=\"A1_-_Thwart\">A1 - Thwart</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Mist\n</th>\n<th>Stone\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/63/Bthwart.png\" width=\"297\" height=\"576\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/b/b0/Mthwart.png\" width=\"296\" height=\"541\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/94/Stonethwart.png\" width=\"298\" height=\"562\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Spell_Shield\">A4 - Spell Shield</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/4/42/Spellshield.png\" width=\"300\" height=\"474\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/a/a8/Fspellshield.png\" width=\"291\" height=\"470\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/6a/Mspellshield.png\" width=\"296\" height=\"473\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Protective_Wings\">A7 - Protective Wings</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/69/Protectivewings.png\" width=\"283\" height=\"286\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/cb/Fwings.png\" width=\"285\" height=\"339\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/8/82/Mwings.png\" width=\"282\" height=\"333\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Battlerage\">Battlerage</h3>\n<h4 id=\"A1_-_Triple_Slash\">A1 - Triple Slash</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Lightning\n</th>\n<th>Quake\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/2/20/Tripleslash.png\" width=\"280\" height=\"559\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/61/Ltripleslash.png\" width=\"281\" height=\"543\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/3/37/Qtripleslash.png\" width=\"284\" height=\"582\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Precision_Strike\">A4 - Precision Strike</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Gale\n</th>\n<th>Wave\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/3/30/Precstrike.png\" width=\"279\" height=\"393\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/c4/Gtripleslash.png\" width=\"283\" height=\"456\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/0/09/Wprecstrike.png\" width=\"279\" height=\"432\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Tiger_Strike\">A7 - Tiger Strike</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Life\n</th>\n<th>Lightning\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/0/08/Tigerstrike.png\" width=\"283\" height=\"500\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/e/e6/Lifetigerstrike.png\" width=\"282\" height=\"521\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/e/ed/Lightningtigerstrike.png\" width=\"278\" height=\"459\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Defense\">Defense</h3>\n<h4 id=\"A1_-_Shield_Slam\">A1 - Shield Slam</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Quake\n</th>\n<th>Gale\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/7/76/Shieldslam.png\" width=\"297\" height=\"518\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/3/30/Qsslam.png\" width=\"296\" height=\"536\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/9c/Gsslam.png\" width=\"298\" height=\"522\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Redoubt\">A4 - Redoubt</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Life\n</th>\n<th>Gale\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/5/52/Normalredoubt.png\" width=\"297\" height=\"453\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/cb/Lredoubt.png\" width=\"297\" height=\"457\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/1/1d/Gredoubt.png\" width=\"299\" height=\"473\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Imprison\">A7 - Imprison</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Wave\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/6c/Normalimprison.png\" width=\"300\" height=\"317\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/c6/Wimprison.png\" width=\"298\" height=\"386\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/5/5c/Mimprison.png\" width=\"297\" height=\"370\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Occultism\">Occultism</h3>\n<h4 id=\"A1_-_Mana_Stars\">A1 - Mana Stars</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Wave\n</th>\n<th>Quake\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/7/71/Manastars.png\" width=\"284\" height=\"482\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/1/18/Wmanastars.png\" width=\"287\" height=\"503\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/67/Qmanastars.png\" width=\"279\" height=\"564\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Hell_Spears\">A4 - Hell Spears</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/6b/Hellspear.png\" width=\"282\" height=\"489\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/b/bc/Fhellspear.png\" width=\"286\" height=\"494\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/4/4f/Mhellspear.png\" width=\"281\" height=\"483\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Summon_Wraith\">A7 - Summon Wraith</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Wave\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/ca/Summonwraith.png\" width=\"281\" height=\"435\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/1/1a/Wsummonwrait.png\" width=\"281\" height=\"474\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/3/3a/Msummonwraith.png\" width=\"282\" height=\"454\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Shadowplay\">Shadowplay</h3>\n<h4 id=\"A1_-_Overwhelm\">A1 - Overwhelm</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Lightning\n</th>\n<th>Flame\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/c7/Overwhelm.png\" width=\"282\" height=\"464\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/e/e2/Loverwhelm.png\" width=\"285\" height=\"490\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/d/d5/Foverwhelm.png\" width=\"280\" height=\"515\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Drop_Back\">A4 - Drop Back</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Mist\n</th>\n<th>Wave\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/90/Dropback.png\" width=\"282\" height=\"340\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/c4/Mdropback.png\" width=\"281\" height=\"387\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/e/ed/Wdropback.png\" width=\"277\" height=\"364\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Shadowsmite\">A7 - Shadowsmite</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Mist\n</th>\n<th>Lightning\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/90/Shadowsmite.png\" width=\"281\" height=\"610\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/d/d9/Mshadowsmite.png\" width=\"279\" height=\"647\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/4/4f/Lshadowsmite.png\" width=\"278\" height=\"537\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Songcraft\">Songcraft</h3>\n<h4 id=\"A1_-_Startling_Strain\">A1 - Startling Strain</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Life\n</th>\n<th>Wave\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/2/2e/Sstrain.png\" width=\"281\" height=\"461\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/b/bf/Lsstrain.png\" width=\"283\" height=\"366\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/d/d2/Wsstrain.png\" width=\"279\" height=\"438\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Healing_Hymn\">A4 - Healing Hymn</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Wave\n</th>\n<th>Stone\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/a/a9/Normhealinghymn.png\" width=\"279\" height=\"392\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/a/a5/Whhymn.png\" width=\"280\" height=\"403\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/0/0c/Shhymn.png\" width=\"278\" height=\"512\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Alarm_Call\">A7 - Alarm Call</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Stone\n</th>\n<th>Life\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/d/d3/Normalarmcall.png\" width=\"282\" height=\"340\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/67/Salarmcall.png\" width=\"282\" height=\"419\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/7/7d/Lalarmcall.png\" width=\"283\" height=\"354\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Sorcery\">Sorcery</h3>\n<h4 id=\"A1_-_Flamebolt\">A1 - Flamebolt</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Lightning\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/7/76/Normflamebolt.png\" width=\"283\" height=\"598\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/90/Fflamebold.png\" width=\"283\" height=\"462\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/c1/Lflamebolt.png\" width=\"282\" height=\"579\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Chain_Lightning\">A4 - Chain Lightning</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Flame\n</th>\n<th>Wave\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/b/b6/Chainlightning.png\" width=\"286\" height=\"489\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/8/8a/Fchainlightning.png\" width=\"284\" height=\"498\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/4/4c/Wchainlightning.png\" width=\"280\" height=\"486\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Meteor_Strike\">A7 - Meteor Strike</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Wave\n</th>\n<th>Lightning\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/a/a1/Meteorstrike.png\" width=\"284\" height=\"484\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/f/fd/Wmeteorstrike.png\" width=\"284\" height=\"645\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/f/f7/Lmeteorstrike.png\" width=\"279\" height=\"547\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Vitalism\">Vitalism</h3>\n<h4 id=\"A1_-_Antithesis\">A1 - Antithesis</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Life\n</th>\n<th>Quake\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/4/4f/Normalantithesis.png\" width=\"279\" height=\"560\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/3/32/Lantithesis.png\" width=\"281\" height=\"551\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/6a/Qantithesis.png\" width=\"278\" height=\"629\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Skewer\">A4 - Skewer</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Life\n</th>\n<th>Flame\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/c/c4/Basicskewer.png\" width=\"280\" height=\"511\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/8/81/Lskewer.png\" width=\"288\" height=\"440\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/63/Fskewer.png\" width=\"284\" height=\"548\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Fervent_Healing\">A7 - Fervent Healing</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Lightning\n</th>\n<th>Flame\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/6e/Fervhealing.png\" width=\"285\" height=\"432\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/e/e5/Lfervhealing.png\" width=\"285\" height=\"381\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/0/07/Ffervhealing.png\" width=\"285\" height=\"448\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h3 id=\"Witchcraft\">Witchcraft</h3>\n<h4 id=\"A1_-_Earthen_Grip\">A1 - Earthen Grip</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Quake\n</th>\n<th>Lightning\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/1/1b/Earthengrip.png\" width=\"282\" height=\"535\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/7/76/Qegrip.png\" width=\"279\" height=\"562\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/9d/Legrip.png\" width=\"283\" height=\"587\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A4_-_Bubble_Trap\">A4 - Bubble Trap</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Mist\n</th>\n<th>Gale\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/1/1f/Bubbletrap.png\" width=\"281\" height=\"488\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/a/a7/Mbtrap.png\" width=\"285\" height=\"495\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/6/6f/Gbtrap.png\" width=\"277\" height=\"570\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>\n<h4 id=\"A7_-_Banshee_Wail\">A7 - Banshee Wail</h4>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Normal\n</th>\n<th>Stone\n</th>\n<th>Mist\n</th></tr>\n<tr>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/9/98/Normalbansheewail.png\" width=\"280\" height=\"508\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/0/0e/Sbansheewail.png\" width=\"279\" height=\"580\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th>\n<th><figure><img src=\"https://wiki.aa-classic.com/images/7/72/Mbwail.png\" width=\"281\" height=\"639\" loading=\"lazy\"><figcaption></figcaption></figure>\n</th></tr></tbody></table>"
+}

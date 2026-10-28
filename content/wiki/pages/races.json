@@ -1,0 +1,168 @@
+{
+ "slug": "races",
+ "title": "Races",
+ "pageid": 136,
+ "revid": 3195,
+ "updated": "2026-01-22T17:14:40Z",
+ "source": "https://wiki.aa-classic.com/Races",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Nuian_Alliance",
+   "text": "Nuian Alliance"
+  },
+  {
+   "level": 3,
+   "id": "Nuian",
+   "text": "Nuian"
+  },
+  {
+   "level": 3,
+   "id": "Elf",
+   "text": "Elf"
+  },
+  {
+   "level": 3,
+   "id": "Dwarf",
+   "text": "Dwarf"
+  },
+  {
+   "level": 2,
+   "id": "Haranyan_Alliance",
+   "text": "Haranyan Alliance"
+  },
+  {
+   "level": 3,
+   "id": "Harani",
+   "text": "Harani"
+  },
+  {
+   "level": 3,
+   "id": "Firran",
+   "text": "Firran"
+  },
+  {
+   "level": 3,
+   "id": "Warborn",
+   "text": "Warborn"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Nuian",
+   "caption": "Racial skills",
+   "headers": [],
+   "rows": [
+    [
+     "Explosive Expert",
+     "",
+     "Instant 30min cooldown",
+     "Increases ship/tank Cannon damage +3% for 5min."
+    ],
+    [
+     "Nui's Blessing",
+     "",
+     "Instant 30min cooldown",
+     "Nui's Blessing increases Strength, Spirit, Intelligence, Stamina, and Agility +8% for 5min. Effect gradually decreases. Can't be used during Nui's Consolation buff."
+    ]
+   ]
+  },
+  {
+   "heading": "Elf",
+   "caption": "Racial skills",
+   "headers": [],
+   "rows": [
+    [
+     "Lithe Flow",
+     "",
+     "Instant 30min cooldown",
+     "Increases swim speed +5% and allows you to hold your breath underwater for 30 more seconds for 5min."
+    ],
+    [
+     "Earth Lover",
+     "",
+     "Instant 30min cooldown",
+     "Increases the Maximum Health of nearby allies mounts +10% for 5min."
+    ]
+   ]
+  },
+  {
+   "heading": "Dwarf",
+   "caption": "Racial skills",
+   "headers": [],
+   "rows": [
+    [
+     "Catlike Reflexes",
+     "",
+     "Instant 30min cooldown",
+     "Negates falling damage for 5min."
+    ],
+    [
+     "Dwarven Artifice",
+     "",
+     "Instant 30min cooldown",
+     "Decreases Machining production time -30% for 5min."
+    ]
+   ]
+  },
+  {
+   "heading": "Harani",
+   "caption": "Racial skills",
+   "headers": [],
+   "rows": [
+    [
+     "Jungle Tamers",
+     "",
+     "Instant 30sec cooldown",
+     "Decreases the time required for logging trees and gathering herbs -30% and resets Recall cooldown for 5min."
+    ],
+    [
+     "Explosive Expert",
+     "",
+     "Instant 30sec cooldown",
+     "Increases ship/tank Cannon damage +3% for 5min."
+    ]
+   ]
+  },
+  {
+   "heading": "Firran",
+   "caption": "Racial skills",
+   "headers": [],
+   "rows": [
+    [
+     "Strong Claws",
+     "",
+     "Instant 30min cooldown",
+     "Enables you to climb trees and ladders 50% more quickly and increases Move Speed +10% during a Dash for 5min."
+    ],
+    [
+     "Catlike Reflexes",
+     "",
+     "Instant 30min cooldown",
+     "Negates falling damage for 5min."
+    ]
+   ]
+  },
+  {
+   "heading": "Warborn",
+   "caption": "Racial skills",
+   "headers": [],
+   "rows": [
+    [
+     "Lithe Flow",
+     "",
+     "Instant 30min cooldown",
+     "Increases swim speed +5% and allows you to hold your breath underwater 30 more seconds for 5min."
+    ],
+    [
+     "Brute strength",
+     "",
+     "Instant 30min cooldown",
+     "Increases Move Speed +10% while carrying trade packs for 5min."
+    ]
+   ]
+  }
+ ],
+ "text": "ArcheAge is home to six major races: the spiritual Nuians, secretive Elves, and crafty Dwarwes share the western content, while nomadic Firran, cunning Harani, and fearsome Warborn inhabit the continent to the east. Loose ties connect the neighboring races, but allegiances are fluid, forever complicated by the whims of pirate factions sailing, trading, and pillaging at will. In ArcheAge Classic some racial skills have been replaced with other race's skills in order to balance them out. Nuian Alliance Nuian \"We fear no death.\" Called the Conquerors of the Continent, Nuians possess a deeply spiritual culture that revolves around worshipping Nui, the Goddess of the Hereafter. They revere the traditions, beauty, and harmony of their fallen kingdom, and fight fearlessly to bring these traits to their new land. Racial skills Explosive Expert Instant 30min cooldown Increases ship/tank Cannon damage +3% for 5min. Nui's Blessing Instant 30min cooldown Nui's Blessing increases Strength, Spirit, Intelligence, Stamina, and Agility +8% for 5min. Effect gradually decreases. Can't be used during Nui's Consolation buff. Elf \"The blood of life is Honor, and the blood of death the same.\" Elves seclude themselves deep in the forest, avoiding other races as much as possible. Though envied for their beauty, their behavior is considered incomprehensible: hoping for an honorable death, they often deliberately seek out danger. They feel the ultimate honor is vengeance for their past defeats. Racial skills Lithe Flow Instant 30min cooldown Increases swim speed +5% and allows you to hold your breath underwater for 30 more seconds for 5min. Earth Lover Instant 30min cooldown Increases the Maximum Health of nearby allies mounts +10% for 5min. Dwarf \"Raze foes. Raise cities. Rejoice in stone.\" Known for being independent and inventive, Dwarves largely withdrew from the rest of the world following the Demon War. But with the recent rise of their old foes, the Warborn, the Dwarves are returning to Erenor places and politics, bringing new technology with them. Most people assume the Dwarves simply want to keep the Warborn in check, but Dwarven motivation-- and ambition--are rarely so simplistic. Racial skills Catlike Reflexes Instant 30min cooldown Negates falling damage for 5min. Dwarven Artifice Instant 30min cooldown Decreases Machining production time -30% for 5min. Haranyan Alliance Harani \"We may bend, but we do not break.\" Harani are survivor in the truest sense of the word. Others may do anything to succeed, and meet their gods in the process, but Harani will do anything to live. Practical, cunning, and family-minded, it is no surprise the strength of their new kingdom rivals the strength of the kingdom they lost. Racial skills Jungle Tamers Instant 30sec cooldown Decreases the time required for logging trees and gathering herbs -30% and resets Recall cooldown for 5min. Explosive Expert Instant 30sec cooldown Increases ship/tank Cannon damage +3% for 5min. Firran \"Claw to earth, blood to water, fang to wind, fur to fire.\" The restless, nomadic Firran roam the wilds, fueled by dreams of protecting nature and reclaiming their former glory. They believe every life --no matter how small-- is not only valuable, but plays a critical role in the natural world, and that every Firran must strive to find their purpose and play their part. Racial skills Strong Claws Instant 30min cooldown Enables you to climb trees and ladders 50% more quickly and increases Move Speed +10% during a Dash for 5min. Catlike Reflexes Instant 30min cooldown Negates falling damage for 5min. Warborn \"Always, we will rise. Always, it is dawn.\" Once slaves to their demonic nature, the Warborn slaughtered thousands. Now, they seek to atone for these sins. However, their need for redemption has left them as little more than servants to new masters. Perhaps one day, penance complete, they will find a way to be truly free. Racial skills Lithe Flow Instant 30min cooldown Increases swim speed +5% and allows you to hold your breath underwater 30 more seconds for 5min. Brute strength Instant 30min cooldown Increases Move Speed +10% while carrying trade packs for 5min.",
+ "html": "<p>ArcheAge is home to six major races: the spiritual Nuians, secretive Elves, and crafty Dwarwes share the western content, while nomadic Firran, cunning Harani, and fearsome Warborn inhabit the continent to the east. \n</p><p>Loose ties connect the neighboring races, but allegiances are fluid, forever complicated by the whims of pirate factions sailing, trading, and pillaging at will.\n</p><p><b>In ArcheAge Classic some racial skills have been replaced with other race's skills in order to balance them out.</b>\n</p>\n\n<h2 id=\"Nuian_Alliance\">Nuian Alliance</h2>\n<p><span><img src=\"https://wiki.aa-classic.com/images/e/e1/Nuiatest1.png\" width=\"788\" height=\"471\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Nuian\">Nuian</h3>\n<p>\"<i>We fear no death.</i>\"\n</p><p>Called the Conquerors of the Continent, Nuians possess a deeply spiritual culture that revolves around worshipping Nui, the Goddess of the Hereafter. They revere the traditions, beauty, and harmony of their fallen kingdom, and fight fearlessly to bring these traits to their new land.\n</p>\n<table class=\"wikitable\">\n<caption>Racial skills\n</caption>\n<tbody><tr>\n<td>Explosive Expert\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1e/Explosiveexpert.png\" width=\"37\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Increases ship/tank Cannon damage +3% for 5min.\n</td></tr>\n<tr>\n<td>Nui's Blessing\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/ad/Nuisblessing.png\" width=\"37\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Nui's Blessing increases Strength, Spirit, Intelligence, Stamina, and Agility +8% for 5min. Effect gradually decreases. Can't be used during Nui's Consolation buff.\n</td></tr></tbody></table>\n<p><br>\n<span><img src=\"https://wiki.aa-classic.com/images/6/66/Elftest1.png\" width=\"788\" height=\"471\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Elf\">Elf</h3>\n<p>\"<i>The blood of life is Honor, and the blood of death the same.</i>\"\n</p><p>Elves seclude themselves deep in the forest, avoiding other races as much as possible. Though envied for their beauty, their behavior is considered incomprehensible: hoping for an honorable death, they often deliberately seek out danger. They feel the ultimate honor is vengeance for their past defeats.\n</p>\n<table class=\"wikitable\">\n<caption>Racial skills\n</caption>\n<tbody><tr>\n<td>Lithe Flow\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fa/Lithe_Flow.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Increases swim speed +5% and allows you to hold your breath underwater for 30 more seconds for 5min.\n</td></tr>\n<tr>\n<td>Earth Lover\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/0/09/Earthlover.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Increases the Maximum Health of nearby allies mounts +10% for 5min.\n</td></tr></tbody></table>\n<p><br>\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/f/fe/Dwarftest1.png\" width=\"788\" height=\"471\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Dwarf\">Dwarf</h3>\n<p>\"<i>Raze foes. Raise cities. Rejoice in stone.</i>\"\n</p><p>Known for being independent and inventive, Dwarves largely withdrew from the rest of the world following the Demon War. But with the recent rise of their old foes, the Warborn, the Dwarves are returning to Erenor places and politics, bringing new technology with them. Most people assume the Dwarves simply want to keep the Warborn in check, but Dwarven motivation-- and ambition--are rarely so simplistic.\n</p>\n<table class=\"wikitable\">\n<caption>Racial skills\n</caption>\n<tbody><tr>\n<td>Catlike Reflexes\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/33/Catlikereflexes.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Negates falling damage for 5min.\n</td></tr>\n<tr>\n<td>Dwarven Artifice\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/5/52/Dwarvenartifice.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Decreases Machining production time -30% for 5min.\n</td></tr></tbody></table>\n<h2 id=\"Haranyan_Alliance\">Haranyan Alliance</h2>\n<p><span><img src=\"https://wiki.aa-classic.com/images/5/50/Haranyatest1.png\" width=\"788\" height=\"470\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Harani\">Harani</h3>\n<p>\"<i>We may bend, but we do not break.</i>\"\n</p><p>Harani are survivor in the truest sense of the word. Others may do anything to succeed, and meet their gods in the process, but Harani will do anything to live. Practical, cunning, and family-minded, it is no surprise the strength of their new kingdom rivals the strength of the kingdom they lost.\n</p>\n<table class=\"wikitable\">\n<caption>Racial skills\n</caption>\n<tbody><tr>\n<td>Jungle Tamers\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/2f/Jungletamers.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30sec cooldown\n</p>\n</td>\n<td>Decreases the time required for logging trees and gathering herbs -30% and resets Recall cooldown for 5min.\n</td></tr>\n<tr>\n<td>Explosive Expert\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/1/1e/Explosiveexpert.png\" width=\"37\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30sec cooldown\n</p>\n</td>\n<td>Increases ship/tank Cannon damage +3% for 5min.\n</td></tr></tbody></table>\n<p><br>\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/f/f7/Firrantest1.png\" width=\"788\" height=\"470\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Firran\">Firran</h3>\n<p>\"<i>Claw to earth, blood to water, fang to wind, fur to fire.</i>\"\n</p><p>The restless, nomadic Firran roam the wilds, fueled by dreams of protecting nature and reclaiming their former glory. They believe every life --no matter how small-- is not only valuable, but plays a critical role in the natural world, and that every Firran must strive to find their purpose and play their part.\n</p>\n<table class=\"wikitable\">\n<caption>Racial skills\n</caption>\n<tbody><tr>\n<td>Strong Claws\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f5/Strongclaws.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Enables you to climb trees and ladders 50% more quickly and increases Move Speed +10% during a Dash for 5min.\n</td></tr>\n<tr>\n<td>Catlike Reflexes\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/33/Catlikereflexes.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Negates falling damage for 5min.\n</td></tr></tbody></table>\n<p><br>\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/d/df/Warborntest1.png\" width=\"788\" height=\"470\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Warborn\">Warborn</h3>\n<p>\"<i>Always, we will rise. Always, it is dawn.</i>\"\n</p><p>Once slaves to their demonic nature, the Warborn slaughtered thousands. Now, they seek to atone for these sins. However, their need for redemption has left them as little more than servants to new masters. Perhaps one day, penance complete, they will find a way to be truly free.\n</p>\n<table class=\"wikitable\">\n<caption>Racial skills\n</caption>\n<tbody><tr>\n<td>Lithe Flow\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fa/Lithe_Flow.png\" width=\"37\" height=\"37\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Increases swim speed +5% and allows you to hold your breath underwater 30 more seconds for 5min.\n</td></tr>\n<tr>\n<td>Brute strength\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/fb/Brutestrenght.png\" width=\"37\" height=\"38\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Instant\n<p>30min cooldown\n</p>\n</td>\n<td>Increases Move Speed +10% while carrying trade packs for 5min.\n</td></tr></tbody></table>"
+}

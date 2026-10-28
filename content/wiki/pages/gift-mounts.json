@@ -1,0 +1,55 @@
+{
+ "slug": "gift-mounts",
+ "title": "Gift mounts",
+ "pageid": 446,
+ "revid": 873,
+ "updated": "2024-04-25T18:27:34Z",
+ "source": "https://wiki.aa-classic.com/Gift_mounts",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "Reindeer",
+   "caption": "Mount skills",
+   "headers": [
+    "Skill",
+    "Icon",
+    "Description",
+    "Additional info"
+   ],
+   "rows": [
+    [
+     "Run!",
+     "",
+     "Increases Pet Move Speed +50% for 10sec. Can't be used while carrying trade pack.",
+     "-"
+    ],
+    [
+     "Mounted Arrowshot",
+     "",
+     "Fires an arrow at an enemy, dealing Physical Damage equal to 80% of the rider's ranged attack.",
+     "-"
+    ],
+    [
+     "Mounted Fire Arrow",
+     "",
+     "Fires a burning arrow to deal +500% of Ranged Attack as Physical Damage; also deals +200% of Ranged Attacks as damage over 5 seconds.",
+     "-"
+    ],
+    [
+     "Snipe",
+     "",
+     "Shoots an arrow a great distance and deals damage equal to 700% of your Ranged Attack.",
+     "-"
+    ],
+    [
+     "Elegant Leap",
+     "",
+     "Triggers a long, elegant leap 25m forward. Can't be used while carrying trade pack.",
+     "-"
+    ]
+   ]
+  }
+ ],
+ "text": "Gifts mounts are those that given by the Darus to the players and can't be obtained any other way (atleast currently). Reindeer Reindeer was given during Christmas 2023 celebrations through website as claimable item and it was Christmas gift for players from the Darus. With the reindeer came also full gearset for the mount. Currently not obtainable anymore. Base movement speed: 10.0m/s Mount skills Skill Icon Description Additional info Run! Increases Pet Move Speed +50% for 10sec. Can't be used while carrying trade pack. - Mounted Arrowshot Fires an arrow at an enemy, dealing Physical Damage equal to 80% of the rider's ranged attack. - Mounted Fire Arrow Fires a burning arrow to deal +500% of Ranged Attack as Physical Damage; also deals +200% of Ranged Attacks as damage over 5 seconds. - Snipe Shoots an arrow a great distance and deals damage equal to 700% of your Ranged Attack. - Elegant Leap Triggers a long, elegant leap 25m forward. Can't be used while carrying trade pack. -",
+ "html": "<p>Gifts mounts are those that given by the Darus to the players and can't be obtained any other way (atleast currently).\n</p><p><br>\n</p>\n<h4 id=\"Reindeer\">Reindeer</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/2/24/Reindeer.png\" width=\"331\" height=\"514\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Reindeer was given during <i>Christmas 2023 celebrations</i> through website as claimable item and it was Christmas gift for players from the Darus. With the reindeer came also full gearset for the mount.\n</p><p><b>Currently not obtainable anymore</b>.\n</p><p><b>Base movement speed:</b> 10.0m/s\n</p>\n<table class=\"wikitable\">\n<caption>Mount skills\n</caption>\n<tbody><tr>\n<th>Skill\n</th>\n<th>Icon\n</th>\n<th>Description\n</th>\n<th>Additional info\n</th></tr>\n<tr>\n<td>Run!\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/2/29/Runnn.png\" width=\"40\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Pet Move Speed +50% for 10sec.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Mounted Arrowshot\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/9/9b/Icon_skill_horseback07.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fires an arrow at an enemy, dealing Physical Damage equal to 80% of the rider's ranged attack.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Mounted Fire Arrow\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/3/3a/Icon_skill_wild06.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Fires a burning arrow to deal +500% of Ranged Attack as Physical Damage; also deals +200% of Ranged Attacks as damage over 5 seconds.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Snipe\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/f/f6/Piercing_Icon.png\" width=\"48\" height=\"48\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Shoots an arrow a great distance and deals damage equal to 700% of your Ranged Attack.\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>Elegant Leap\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/af/Leap.png\" width=\"38\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Triggers a long, elegant leap 25m forward.\n<p>Can't be used while carrying trade pack.\n</p>\n</td>\n<td>-\n</td></tr></tbody></table>"
+}

@@ -1,0 +1,162 @@
+{
+ "slug": "leadership",
+ "title": "Leadership",
+ "pageid": 295,
+ "revid": 2279,
+ "updated": "2025-01-24T18:00:04Z",
+ "source": "https://wiki.aa-classic.com/Leadership",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Heros",
+   "text": "Heros"
+  },
+  {
+   "level": 3,
+   "id": "Hero_rewards",
+   "text": "Hero rewards"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "",
+   "headers": [
+    "Event",
+    "Quest",
+    "Points"
+   ],
+   "rows": [
+    [
+     "Grimghast Rift",
+     "Halting the Crimson Tide 2",
+     "10"
+    ],
+    [
+     "Crimson Rift",
+     "Crimson Omens 3",
+     "10"
+    ],
+    [
+     "Halcyona War",
+     "Battle for the Golden Plains",
+     "10"
+    ],
+    [
+     "Mistmerrow War",
+     "Battle of the Mistmerrow Basin",
+     "10"
+    ],
+    [
+     "Lusca",
+     "Lusca Awakening",
+     "10"
+    ],
+    [
+     "Ocleera Rift",
+     "Killing the Hateful Ocleera",
+     "10"
+    ],
+    [
+     "PvP",
+     "Killing other players during Conflict or War",
+     "50"
+    ],
+    [
+     "Thumbs up",
+     "Thumbs from other players",
+     "50"
+    ],
+    [
+     "Thumb up other player",
+     "",
+     "2"
+    ],
+    [
+     "Donation Board",
+     "Delivering the item to the NPC",
+     "5"
+    ],
+    [
+     "Abyssal",
+     "",
+     "10"
+    ],
+    [
+     "Diamond Shore kill quest",
+     "Crystalline Bloodbath",
+     "20 per week"
+    ]
+   ]
+  },
+  {
+   "heading": "Heros",
+   "caption": "",
+   "headers": [
+    "Hero Rank",
+    "Quantity",
+    "",
+    "Buff for Hero",
+    "Buff for other players"
+   ],
+   "rows": [
+    [
+     "Erenor",
+     "1",
+     "",
+     "Increases Stamina +100. Decreases Cast Time -2% and increases Attack Speed +20 for allies, pets, and summons within 25m.",
+     "Decreases Cast Time -2% and increases Attack Speed +20 for allies, pets, and summons within 25m."
+    ],
+    [
+     "Ayanad",
+     "2",
+     "",
+     "Increases Stamina +100. Increases Skill Damage +2% for allies, pets, and summons within 25m.",
+     "Increases Skill Damage +2% for allies, pets, and summons within 25m."
+    ],
+    [
+     "Delphinad",
+     "3",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Epherium",
+     "4",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "heading": "Hero rewards",
+   "caption": "",
+   "headers": [
+    "Condition",
+    "Reward",
+    "Items"
+   ],
+   "rows": [
+    [
+     "4000 Leadership or above Using Mobilization Order 100 or above",
+     "Golden Hero's Chest",
+     "1 Gold Evernight Ring Prime Hero's Honor Elixir 100 Warrior Medals 1 Vivid Earth Lunascale: Mastery"
+    ],
+    [
+     "3000 Leadership or above Using Mobilization Order 75 or above",
+     "Silver Hero's Chest",
+     "1 Silver Evernight Ring Superior Hero's Honor Elixir 75 Warrior Medals"
+    ],
+    [
+     "2000 Leadership or above Using Mobilization Order 75 or above",
+     "Copper Hero's Chest",
+     "Hero's Honor Elixir 50 Warrior Medals"
+    ]
+   ]
+  }
+ ],
+ "text": "Leadership points can be obtained from all kinds of activities in the game. Leadership points are tallied on a leaderboard called Candidate Rankings, that consists of top 50 players with the highest Leadership points. Event Quest Points Grimghast Rift Halting the Crimson Tide 2 10 Crimson Rift Crimson Omens 3 10 Halcyona War Battle for the Golden Plains 10 Mistmerrow War Battle of the Mistmerrow Basin 10 Lusca Lusca Awakening 10 Ocleera Rift Killing the Hateful Ocleera 10 PvP Killing other players during Conflict or War 50 Thumbs up Thumbs from other players 50 Thumb up other player 2 Donation Board Delivering the item to the NPC 5 Abyssal 10 Diamond Shore kill quest Crystalline Bloodbath 20 per week Heros Heavy is the burden on Erenor's Heroes. At the end of the ranking period, the top 20 characters in each faction become Hero Candidates and other players given certain requirements: lvl 30 character and having 500 leadership points are qualified to vote on these candidates. Once the voting period is done, and the votes counted, the top 10 players will become a 'Hero of the Faction' ranked in order of their points. These 10 Heroes will each have a named rank and buff they give to other players by being nearby. Heroes can also use a Hero Call to teleport their faction members back to Faction Base. Hero Rank Quantity Buff for Hero Buff for other players Erenor 1 Increases Stamina +100. Decreases Cast Time -2% and increases Attack Speed +20 for allies, pets, and summons within 25m. Decreases Cast Time -2% and increases Attack Speed +20 for allies, pets, and summons within 25m. Ayanad 2 Increases Stamina +100. Increases Skill Damage +2% for allies, pets, and summons within 25m. Increases Skill Damage +2% for allies, pets, and summons within 25m. Delphinad 3 Epherium 4 Hero rewards After being chosen as a Hero, the heroes must then attain a minimum of 2000 leadership points to earn the rewards. Condition Reward Items 4000 Leadership or above Using Mobilization Order 100 or above Golden Hero's Chest 1 Gold Evernight Ring Prime Hero's Honor Elixir 100 Warrior Medals 1 Vivid Earth Lunascale: Mastery 3000 Leadership or above Using Mobilization Order 75 or above Silver Hero's Chest 1 Silver Evernight Ring Superior Hero's Honor Elixir 75 Warrior Medals 2000 Leadership or above Using Mobilization Order 75 or above Copper Hero's Chest Hero's Honor Elixir 50 Warrior Medals",
+ "html": "<p>Leadership points can be obtained from all kinds of activities in the game. Leadership points are tallied on a leaderboard called Candidate Rankings, that consists of top 50 players with the highest Leadership points. \n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Event\n</th>\n<th>Quest\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>Grimghast Rift\n</td>\n<td>Halting the Crimson Tide 2\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>Crimson Rift\n</td>\n<td>Crimson Omens 3\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>Halcyona War\n</td>\n<td>Battle for the Golden Plains\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>Mistmerrow War\n</td>\n<td>Battle of the Mistmerrow Basin\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>Lusca\n</td>\n<td>Lusca Awakening\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>Ocleera Rift\n</td>\n<td>Killing the Hateful Ocleera\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>PvP\n</td>\n<td>Killing other players during Conflict or War\n</td>\n<td>50\n</td></tr>\n<tr>\n<td>Thumbs up\n</td>\n<td>Thumbs from other players\n</td>\n<td>50\n</td></tr>\n<tr>\n<td>Thumb up other player\n</td>\n<td>\n</td>\n<td>2\n</td></tr>\n<tr>\n<td>Donation Board\n</td>\n<td>Delivering the item to the NPC\n</td>\n<td>5\n</td></tr>\n<tr>\n<td>Abyssal\n</td>\n<td>\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>Diamond Shore kill quest\n</td>\n<td><a href=\"/wiki/crystalline-bloodbath\">Crystalline Bloodbath</a>\n</td>\n<td>20 per week\n</td></tr></tbody></table>\n<h2 id=\"Heros\">Heros</h2>\n<p><i>Heavy is the burden on Erenor's Heroes.</i>\n</p><p>At the end of the ranking period, the <b>top 20 characters</b> in each faction become Hero Candidates and other players given certain requirements: <i>lvl 30 character and having 500 leadership points</i> are qualified to vote on these candidates. Once the voting period is done, and the votes counted, the top 10 players will become a 'Hero of the Faction' ranked in order of their points. \n</p><p>These 10 Heroes will each have a named rank and buff they give to other players by being nearby. Heroes can also use a Hero Call to teleport their faction members back to Faction Base.\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Hero Rank\n</th>\n<th>Quantity\n</th>\n<th>\n</th>\n<th>Buff for Hero\n</th>\n<th>Buff for other players\n</th></tr>\n<tr>\n<td>Erenor\n</td>\n<td>1\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/a/a3/Erenorhero.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Stamina +100.\n<p>Decreases Cast Time -2% and increases Attack Speed +20 for allies, pets, and summons within 25m.\n</p>\n</td>\n<td>Decreases Cast Time -2% and increases Attack Speed +20 for allies, pets, and summons within 25m.\n</td></tr>\n<tr>\n<td>Ayanad\n</td>\n<td>2\n</td>\n<td><figure><img src=\"https://wiki.aa-classic.com/images/b/b6/Ayanadhero.png\" width=\"39\" height=\"39\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>Increases Stamina +100.\n<p>Increases Skill Damage +2% for allies, pets, and summons within 25m.\n</p>\n</td>\n<td>Increases Skill Damage +2% for allies, pets, and summons within 25m.\n</td></tr>\n<tr>\n<td>Delphinad\n</td>\n<td>3\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Epherium\n</td>\n<td>4\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<h3 id=\"Hero_rewards\">Hero rewards</h3>\n<p>After being chosen as a Hero, the heroes must then attain a minimum of 2000 leadership points to earn the rewards.\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Condition\n</th>\n<th>Reward\n</th>\n<th>Items\n</th></tr>\n<tr>\n<td>\n<ul><li>4000 Leadership or above</li>\n<li>Using Mobilization Order 100 or above</li></ul>\n</td>\n<td>Golden Hero's Chest\n</td>\n<td>\n<ul><li>1 Gold Evernight Ring</li>\n<li>Prime Hero's Honor Elixir</li>\n<li>100 Warrior Medals</li>\n<li>1 Vivid Earth Lunascale: Mastery</li></ul>\n</td></tr>\n<tr>\n<td>\n<ul><li>3000 Leadership or above</li>\n<li>Using Mobilization Order 75 or above</li></ul>\n</td>\n<td>Silver Hero's Chest\n</td>\n<td>\n<ul><li>1 Silver Evernight Ring</li>\n<li>Superior Hero's Honor Elixir</li>\n<li>75 Warrior Medals</li></ul>\n</td></tr>\n<tr>\n<td>\n<ul><li>2000 Leadership or above</li>\n<li>Using Mobilization Order 75 or above</li></ul>\n</td>\n<td>Copper Hero's Chest\n</td>\n<td>\n<ul><li>Hero's Honor Elixir</li>\n<li>50 Warrior Medals</li></ul>\n</td></tr></tbody></table>"
+}

@@ -38,3 +38,21 @@ body {
 .prose-guide table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; display: block; overflow-x: auto; }
 .prose-guide th, .prose-guide td { border: 1px solid var(--border); padding: 0.5rem 0.75rem; text-align: left; }
 .prose-guide th { background: var(--panel-2); }
+
+/* Imported wiki pages (src/app/wiki). */
+.prose-wiki img { display: inline-block; max-width: 100%; height: auto; vertical-align: middle; }
+.prose-wiki h2, .prose-wiki h3 { scroll-margin-top: 5rem; }
+.prose-wiki h4 { font-weight: 600; margin: 1.25rem 0 0.5rem; }
+.prose-wiki ul ul, .prose-wiki ol ol { margin-top: 0.25rem; margin-bottom: 0.25rem; }
+.prose-wiki ol { list-style: decimal; }
+.prose-wiki dl dt { font-weight: 600; margin-top: 0.75rem; }
+.prose-wiki dl dd { margin-left: 1.25rem; }
+.prose-wiki pre, .prose-wiki code { background: var(--panel-2); border-radius: 0.25rem; padding: 0.1rem 0.3rem; font-size: 0.85em; }
+.prose-wiki pre { padding: 0.75rem 1rem; overflow-x: auto; }
+.prose-wiki table td { vertical-align: top; }
+.prose-wiki .tright, .prose-wiki .floatright { float: right; margin: 0 0 1rem 1rem; }
+.prose-wiki .tleft, .prose-wiki .floatleft { float: left; margin: 0 1rem 1rem 0; }
+.prose-wiki .center { text-align: center; }
+.prose-wiki .gallery { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; margin-left: 0; }
+.prose-wiki .infobox { float: right; width: auto; max-width: 22rem; margin: 0 0 1rem 1rem; }
+@media (max-width: 640px) { .prose-wiki .infobox, .prose-wiki .tright { float: none; margin: 1rem 0; max-width: 100%; } }
