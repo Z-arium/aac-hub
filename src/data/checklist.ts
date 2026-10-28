@@ -20,18 +20,13 @@ export interface ChecklistTask {
   guide?: string;
   /** Ids of scheduled events in schedule.ts; the task shows the next start. */
   events?: string[];
+  /** Hours the event stays up after it starts, if it lingers. */
+  upFor?: number;
   /** Where it falls in the day's route. Set from ROUTE below. */
   phase: Phase;
 }
 
 export type Phase = "start" | "scheduled" | "rifts" | "anytime";
-
-export const PHASES: { id: Phase; name: string; blurb: string }[] = [
-  { id: "start", name: "Start of day", blurb: "Log in and get the quick ones going first." },
-  { id: "scheduled", name: "Scheduled events", blurb: "Sorted by what starts next, in your local time." },
-  { id: "rifts", name: "Rifts", blurb: "Run every 4 real hours on the in-game clock. Watch faction chat for \"x cr\", \"x gr\", \"x ws\"." },
-  { id: "anytime", name: "Between events", blurb: "Fill the gaps with these." },
-];
 
 // The order of a well-planned day. Every task id appears exactly once.
 const ROUTE: Record<Phase, string[]> = {
@@ -95,7 +90,7 @@ const DAILY: TaskData[] = [
   { id: "ocean-ghosts", category: "gilda", label: "Ghosts from the Depths", note: "Any Archeologist. Sink a roaming ghost ship", gilda: 1, guide: "gilda-stars#ghosts-from-the-depths" },
 
   // World bosses
-  { id: "ghost-ship-daily", category: "bosses", label: "Delphinad Ghost Ship", note: "Ghost Ships of Delphinad, from any Archeologist", gilda: 3, wiki: "world-bosses", events: ["delphinad-ghost-ship"], guide: "gilda-stars#delphinad-ghost-ship" },
+  { id: "ghost-ship-daily", category: "bosses", label: "Delphinad Ghost Ship", note: "Ghost Ships of Delphinad, from any Archeologist", gilda: 3, wiki: "world-bosses", events: ["delphinad-ghost-ship"], upFor: 10, guide: "gilda-stars#delphinad-ghost-ship" },
   { id: "jola", category: "bosses", label: "The Prophecy: Jola", gilda: 3, wiki: "gilda-star", guide: "gilda-stars#jola-meina-and-glenn" },
   { id: "meina", category: "bosses", label: "The Prophecy: Meina", gilda: 3, wiki: "gilda-star", guide: "gilda-stars#jola-meina-and-glenn" },
   { id: "glenn", category: "bosses", label: "The Prophecy: Glenn", gilda: 3, wiki: "gilda-star", guide: "gilda-stars#jola-meina-and-glenn" },
@@ -136,7 +131,7 @@ const WEEKLY: TaskData[] = WEEKLY_TOKEN_EVENTS.map((e) => ({
   tokens: e.tokens,
   wiki: "activity-tokens",
   guide: WEEKLY_GUIDE[e.id],
-  ...(e.id === "ghost-ship" && { events: ["delphinad-ghost-ship"] }),
+  ...(e.id === "ghost-ship" && { events: ["delphinad-ghost-ship"], upFor: 10 }),
 }));
 
 const ORDER = (Object.keys(ROUTE) as Phase[]).flatMap((phase) => ROUTE[phase].map((id) => ({ id, phase })));
