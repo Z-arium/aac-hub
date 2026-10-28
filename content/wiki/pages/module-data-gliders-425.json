@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-gliders-425",
+ "title": "Module:Data/Gliders/425",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60928,
+ "revid": 63101,
+ "updated": "2026-10-27T20:29:51Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Gliders/425",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Gliders). Do not edit by hand, it is overwritten when the script runs. return { [42577] = { category = \"Magithopter\", desc = \"This magithopter was crafted using feathers that once belonged to the ancient Thunderwing Titan.\\r\\n\\r\\nAir Speed: |cFFED492e?|r\\r\\nCruising Ability: |cFFED492e?|r\\r\\nSheering Speed: |cFFED492e?|r\\r\\nAscension: |cFFED492e?|r\\r\\nSpecial Skill: |cFFED492eRagebolt|r\\r\\nSpecial Note: press S or the down arrow to descend straight downward.\\r\\nImmune to |ni;Turbulence|r.\", grade = \"None\", icon = \"icon_item_3733.dds\", name = \"Titan's Wings\", skills = { { id = 34031, name = \"Fold Wings\" }, { id = 35647, name = \"Powerful Takeoff\" }, { id = 35648, name = \"Winged Descent\" }, { id = 35649, name = \"Thunder and Lightning\" }, { id = 8000577, name = \"Flaming Pinion\" } } }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Gliders). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42577] = { category = \"Magithopter\", desc = \"This magithopter was crafted using feathers that once belonged to the ancient Thunderwing Titan.\\r\\n\\r\\nAir Speed: |cFFED492e?|r\\r\\nCruising Ability: |cFFED492e?|r\\r\\nSheering Speed: |cFFED492e?|r\\r\\nAscension: |cFFED492e?|r\\r\\nSpecial Skill: |cFFED492eRagebolt|r\\r\\nSpecial Note: press S or the down arrow to descend straight downward.\\r\\nImmune to |ni;Turbulence|r.\", grade = \"None\", icon = \"icon_item_3733.dds\", name = \"Titan's Wings\", skills = { { id = 34031, name = \"Fold Wings\" }, { id = 35647, name = \"Powerful Takeoff\" }, { id = 35648, name = \"Winged Descent\" }, { id = 35649, name = \"Thunder and Lightning\" }, { id = 8000577, name = \"Flaming Pinion\" } } },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Gliders). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42577] = { category = \"Magithopter\", desc = \"This magithopter was crafted using feathers that once belonged to the ancient Thunderwing Titan.\\r\\n\\r\\nAir Speed: |cFFED492e?|r\\r\\nCruising Ability: |cFFED492e?|r\\r\\nSheering Speed: |cFFED492e?|r\\r\\nAscension: |cFFED492e?|r\\r\\nSpecial Skill: |cFFED492eRagebolt|r\\r\\nSpecial Note: press S or the down arrow to descend straight downward.\\r\\nImmune to |ni;Turbulence|r.\", grade = \"None\", icon = \"icon_item_3733.dds\", name = \"Titan's Wings\", skills = { { id = 34031, name = \"Fold Wings\" }, { id = 35647, name = \"Powerful Takeoff\" }, { id = 35648, name = \"Winged Descent\" }, { id = 35649, name = \"Thunder and Lightning\" }, { id = 8000577, name = \"Flaming Pinion\" } } },\n}"
+}

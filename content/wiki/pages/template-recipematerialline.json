@@ -1,0 +1,16 @@
+{
+ "slug": "template-recipematerialline",
+ "title": "Template:RecipeMaterialLine",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 2026,
+ "revid": 61193,
+ "updated": "2026-10-25T20:09:40Z",
+ "source": "https://wiki.aa-classic.com/Template:RecipeMaterialLine",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Row template for RecipeBox. One call per ingredient, filled in by External Data (#display_external_table). Parameters (named after the API fields): mid (the item ID, used to read the game's icon file name from aa-classic.com), material, grade (the item's own grade), required (the grade the recipe demands, \"Any\" if none), amount, mode. Coin rows (mode = currency) are skipped here. Coins are shown at the bottom by RecipeBox. The name colour and the icon border use the required grade when there is one, otherwise the item's own grade.",
+ "html": "<p>Row template for RecipeBox. One call per ingredient, filled in by External Data (#display_external_table).\nParameters (named after the API fields): mid (the item ID, used to read the game's icon file name from aa-classic.com), material, grade (the item's own grade), required (the grade the recipe demands, \"Any\" if none), amount, mode.\n</p>\n<ul><li>Coin rows (mode = currency) are skipped here. Coins are shown at the bottom by RecipeBox.</li>\n<li>The name colour and the icon border use the required grade when there is one, otherwise the item's own grade.</li></ul>",
+ "wikitext": "{{#if:{{{material|}}}|{{#ifeq:{{{mode|}}}|currency||{{#if:{{{mid|}}}|{{#get_web_data:\nurl=https://aa-classic.com/data/items/{{{mid}}}.json\n|format=json with jsonpath\n|data=ricon=$.icon_filename,rname=$.name\n|suppress error\n}}}}<div style=\"margin-bottom:2px;\">{{Item|{{{material}}}|{{#switch:{{{required|}}}|Any|={{{grade|}}}|#default={{{required}}}}}|{{#expr:{{{amount}}}}}|icon={{#ifeq:{{#external_value:rname}}|{{{material}}}|{{#iferror:{{#external_value:ricon}}|}}|}}}}</div>}}}}<noinclude>\nRow template for RecipeBox. One call per ingredient, filled in by External Data (#display_external_table).\nParameters (named after the API fields): mid (the item ID, used to read the game's icon file name from aa-classic.com), material, grade (the item's own grade), required (the grade the recipe demands, \"Any\" if none), amount, mode.\n* Coin rows (mode = currency) are skipped here. Coins are shown at the bottom by RecipeBox.\n* The name colour and the icon border use the required grade when there is one, otherwise the item's own grade.\n</noinclude>"
+}

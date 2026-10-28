@@ -1,6 +1,8 @@
 {
  "slug": "recipebox",
  "title": "RecipeBox",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 2027,
  "revid": 3959,
  "updated": "2026-10-19T19:01:20Z",
@@ -13,6 +15,8 @@
   }
  ],
  "tables": [],
+ "images": [],
  "text": "Template:RecipeBox Shows a craft recipe, fetched from the sermeatball crafting API. Workbench, proficiency and materials come from the API. Usage {{RecipeBox|9001323}} The only parameter is the craft ID. Needs the template RecipeMaterialLine.",
- "html": "<h2 id=\"Template:RecipeBox\">Template:RecipeBox</h2>\n<p>Shows a craft recipe, fetched from the sermeatball crafting API. Workbench, proficiency and materials come from the API.\n</p><p><b>Usage</b>\n</p>\n<pre>{{RecipeBox|9001323}}</pre>\n<ul><li>The only parameter is the craft ID.</li>\n<li>Needs the template <code>RecipeMaterialLine</code>.</li></ul>"
+ "html": "<h2 id=\"Template:RecipeBox\">Template:RecipeBox</h2>\n<p>Shows a craft recipe, fetched from the sermeatball crafting API. Workbench, proficiency and materials come from the API.\n</p><p><b>Usage</b>\n</p>\n<pre>{{RecipeBox|9001323}}</pre>\n<ul><li>The only parameter is the craft ID.</li>\n<li>Needs the template <code>RecipeMaterialLine</code>.</li></ul>",
+ "wikitext": "== Template:RecipeBox ==\n<includeonly>{{#get_web_data:\nurl=https://api.sermeatball.com/crafting/recipes/{{{1}}}?basis=latest&advantage=0&ah_tax=true\n|format=json with jsonpath\n|data=product=$.product_item_name,labor=$.labor,station=$.station_name,prof=$.proficiency_name,req=$.proficiency_requirement\n}}<table class=\"wikitable\">\n<tr><th>Recipe</th><td>{{#external_value:product}}</td></tr>\n<tr><th>Labor Cost</th><td>× {{#expr:{{#external_value:labor}}}}</td></tr>\n<tr><th>Workbench</th><td>{{#external_value:station}}</td></tr>\n<tr><th>Proficiency</th><td>{{#external_value:prof}}{{#ifeq:{{#external_value:req}}|0||&nbsp;{{formatnum:{{#external_value:req}}}}}}</td></tr>\n<tr><th>Materials</th><td>{{#get_web_data:\nurl=https://api.sermeatball.com/crafting/recipes/{{{1}}}?basis=latest&advantage=0&ah_tax=true\n|format=json with jsonpath\n|data=material=$.materials[*].item_name,grade=$.materials[*].item_base_grade_name,amount=$.materials[*].amount\n}}{{#display_external_table:template=RecipeMaterialLine}}</td></tr>\n</table></includeonly><noinclude>\nShows a craft recipe, fetched from the sermeatball crafting API. Workbench, proficiency and materials come from the API.\n\n'''Usage'''\n<pre>{{RecipeBox|9001323}}</pre>\n\n* The only parameter is the craft ID.\n* Needs the template <code>RecipeMaterialLine</code>.\n</noinclude>"
 }

@@ -1,6 +1,8 @@
 {
  "slug": "tax-certificate",
  "title": "Tax Certificate",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1432,
  "revid": 2930,
  "updated": "2025-10-14T10:35:47Z",
@@ -13,6 +15,11 @@
   }
  ],
  "tables": [],
+ "images": [
+  "Taxcertificateuntradeable.png",
+  "Taxxertificatetradeable.png"
+ ],
  "text": "Tax Certificates or just \"Taxes\" are the so called currency to pay for the housing the player owns. Taxes can be crafted by the players and sold in the Auction house. There are two type of Taxes, one that's is tradeable and one that is untradeable. The unbound taxes are more expensive to craft and require the minimum of 230k Construction proficiency. Prepay Taxes can be paid beforehand. Reasons like IRL stuff can require the player to be away from the game for some time or if one just wants to avoid the tax paying hassle every week. Taxes can be prepaid for 5 times and 1 prepay is for 7 days. So in total 5 weeks can be prepaid. Each time player prepays one week more the amount of taxes needed to be paid increase.",
- "html": "<p>Tax Certificates or just \"Taxes\" are the so called currency to pay for the housing the player owns. Taxes can be crafted by the players and sold in the Auction house. There are two type of Taxes, one that's is tradeable and one that is untradeable. The unbound taxes are more expensive to craft and require the minimum of <b>230k <a href=\"https://wiki.aa-classic.com/index.php?title=Construction&action=edit&redlink=1\" rel=\"noopener\">Construction</a> proficiency</b>. \n</p><p><span><img src=\"https://wiki.aa-classic.com/images/7/7a/Taxcertificateuntradeable.png\" width=\"206\" height=\"158\" loading=\"lazy\"></span><span><img src=\"https://wiki.aa-classic.com/images/e/ee/Taxxertificatetradeable.png\" width=\"206\" height=\"104\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Prepay\">Prepay</h3>\n<p>Taxes can be paid beforehand. Reasons like IRL stuff can require the player to be away from the game for some time or if one just wants to avoid the tax paying hassle every week. Taxes can be prepaid for 5 times and 1 prepay is for 7 days. So in total 5 weeks can be prepaid. Each time player prepays one week more the amount of taxes needed to be paid increase.\n</p>"
+ "html": "<p>Tax Certificates or just \"Taxes\" are the so called currency to pay for the housing the player owns. Taxes can be crafted by the players and sold in the Auction house. There are two type of Taxes, one that's is tradeable and one that is untradeable. The unbound taxes are more expensive to craft and require the minimum of <b>230k <a href=\"https://wiki.aa-classic.com/index.php?title=Construction&action=edit&redlink=1\" rel=\"noopener\">Construction</a> proficiency</b>. \n</p><p><span><img src=\"/wiki-files/fc/fc79cecb795fce9520660bbdc80bdae5edf67205.png\" width=\"206\" height=\"158\" loading=\"lazy\"></span><span><img src=\"/wiki-files/02/02057bd55e5b34be2d08047f3a9e799166e7a077.png\" width=\"206\" height=\"104\" loading=\"lazy\"></span>\n</p>\n<h3 id=\"Prepay\">Prepay</h3>\n<p>Taxes can be paid beforehand. Reasons like IRL stuff can require the player to be away from the game for some time or if one just wants to avoid the tax paying hassle every week. Taxes can be prepaid for 5 times and 1 prepay is for 7 days. So in total 5 weeks can be prepaid. Each time player prepays one week more the amount of taxes needed to be paid increase.\n</p>",
+ "wikitext": "Tax Certificates or just \"Taxes\" are the so called currency to pay for the housing the player owns. Taxes can be crafted by the players and sold in the Auction house. There are two type of Taxes, one that's is tradeable and one that is untradeable. The unbound taxes are more expensive to craft and require the minimum of '''230k [[Construction]] proficiency'''. \n\n[[File:Taxcertificateuntradeable.png]][[File:Taxxertificatetradeable.png]]\n\n=== Prepay ===\nTaxes can be paid beforehand. Reasons like IRL stuff can require the player to be away from the game for some time or if one just wants to avoid the tax paying hassle every week. Taxes can be prepaid for 5 times and 1 prepay is for 7 days. So in total 5 weeks can be prepaid. Each time player prepays one week more the amount of taxes needed to be paid increase."
 }

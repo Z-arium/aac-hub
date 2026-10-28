@@ -1,6 +1,8 @@
 {
  "slug": "hanure-the-hunter",
  "title": "Hanure the Hunter",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 356,
  "revid": 2773,
  "updated": "2025-09-01T18:49:47Z",
@@ -38,6 +40,10 @@
    ]
   }
  ],
+ "images": [
+  "Hanure.png"
+ ],
  "text": "Hanure is located in Hasla (abandoned Drill Camp teleport). It has a chance to drop Earthen Roar and also Crimson Lightning Essence Fragments. Respawn time: 12h Skills Tips Meteor Strike Heavenly Smash 30m Lasso Debuff Powerful Overwhelm",
- "html": "<p><span><img src=\"https://wiki.aa-classic.com/images/4/4a/Hanure.png\" width=\"260\" height=\"288\" loading=\"lazy\"></span>\n</p><p>Hanure is located in Hasla (<b>abandoned Drill Camp teleport</b>). It has a chance to drop <a href=\"/wiki/mounts\">Earthen Roar</a> and also Crimson Lightning Essence Fragments.\n</p>\n<pre>Respawn time: 12h\n</pre>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Skills\n</th>\n<th>Tips\n</th></tr>\n<tr>\n<td>Meteor Strike\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Heavenly Smash\n</td>\n<td>30m\n</td></tr>\n<tr>\n<td>Lasso\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Debuff\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Powerful Overwhelm\n</td>\n<td>\n</td></tr></tbody></table>"
+ "html": "<p><span><img src=\"/wiki-files/e6/e6cac7d8c311a061c67d11564159e7dd3d079535.png\" width=\"260\" height=\"288\" loading=\"lazy\"></span>\n</p><p>Hanure is located in Hasla (<b>abandoned Drill Camp teleport</b>). It has a chance to drop <a href=\"/wiki/mounts\">Earthen Roar</a> and also Crimson Lightning Essence Fragments.\n</p>\n<pre>Respawn time: 12h\n</pre>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Skills\n</th>\n<th>Tips\n</th></tr>\n<tr>\n<td>Meteor Strike\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Heavenly Smash\n</td>\n<td>30m\n</td></tr>\n<tr>\n<td>Lasso\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Debuff\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Powerful Overwhelm\n</td>\n<td>\n</td></tr></tbody></table>",
+ "wikitext": "[[File:Hanure.png]]\n\nHanure is located in Hasla ('''abandoned Drill Camp teleport'''). It has a chance to drop [[Mounts|Earthen Roar]] and also Crimson Lightning Essence Fragments.\n Respawn time: 12h\n{| class=\"wikitable\"\n! Skills\n! Tips\n|-\n| Meteor Strike\n| \n|-\n| Heavenly Smash\n| 30m\n|-\n| Lasso\n| \n|-\n| Debuff\n| \n|-\n| Powerful Overwhelm\n| \n|}"
 }

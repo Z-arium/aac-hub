@@ -1,0 +1,81 @@
+{
+ "slug": "template-item",
+ "title": "Template:Item",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 2024,
+ "revid": 62590,
+ "updated": "2026-10-26T22:33:02Z",
+ "source": "https://wiki.aa-classic.com/Template:Item",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Item ID",
+     "ItemID id",
+     "The item ID. Name, grade and icon are fetched automatically. Then the first unnamed value is the amount.",
+     "Number",
+     "optional"
+    ],
+    [
+     "Item name (or amount with ItemID)",
+     "1",
+     "Without ItemID: the name of the item, also used for the icon file. With ItemID: the amount.Suggested valuesHay Bale",
+     "String",
+     "optional"
+    ],
+    [
+     "Grade colour (name form)",
+     "2",
+     "Only without ItemID. Colours the name and paints the grade border on the iconSuggested valuesCrude Basic Grand Rare Arcane Heroic Unique Celestial Divine Epic Legendary Mythic",
+     "String",
+     "optional"
+    ],
+    [
+     "Quantity (name form)",
+     "3",
+     "Only without ItemID.",
+     "Number",
+     "optional"
+    ],
+    [
+     "Quantity (ItemID form)",
+     "amount",
+     "With ItemID: the amount. Same as the first unnamed value.",
+     "Number",
+     "optional"
+    ],
+    [
+     "Grade (ItemID form)",
+     "grade",
+     "Optional, with ItemID. Replaces the item's own grade.Suggested valuesBasic Grand Rare Arcane Heroic Unique Celestial Divine Epic Legendary Mythic",
+     "String",
+     "optional"
+    ],
+    [
+     "Icon file",
+     "icon",
+     "Optional. The game's own icon file name, for example icon_item_3400.png. Used by the automatic templates so the right picture shows. Without it the file named after the item is used.",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "(((1))).png",
+  "Grade1.png"
+ ],
+ "text": "File:(((1))).png {{{1}}}Shows an item with its icon (with the grade border), its name in the grade colour and an optional amount. Usage by item IDThe name, grade and icon all come from the game data, so the item ID is all you need. {{Item|ItemID=135135|500}} the item with ID 135135, amount 500 {{Item|ItemID=135135}} no amount ItemID (also written id): the item ID, for example from https://aa-classic.com/database/items The first unnamed value is then the amount (or write amount=500). grade (optional): overrides the item's own grade, for example the grade a recipe asks for. The data comes from the data pages on the wiki (made by sync_wiki_data.py), so no request is needed. An item that is not stored yet is fetched live (two requests) until the script has been run for it. If the data cannot be found at all, nothing is shown (an invisible comment is left in the page source). Usage by item name {{Item|Hay Bale|Basic|3}} name, grade, amount (the icon is the file named after the item) icon (optional): the game's own icon file name, for example icon_item_3400.png, used by the automatic templates. Needs Module:IconName and Template:Grade; the ID form also needs External Data. No description. Template parameters Parameter Description Type Status Item ID ItemID id The item ID. Name, grade and icon are fetched automatically. Then the first unnamed value is the amount. Number optional Item name (or amount with ItemID) 1 Without ItemID: the name of the item, also used for the icon file. With ItemID: the amount. Suggested values Hay Bale String optional Grade colour (name form) 2 Only without ItemID. Colours the name and paints the grade border on the icon Suggested values Crude Basic Grand Rare Arcane Heroic Unique Celestial Divine Epic Legendary Mythic String optional Quantity (name form) 3 Only without ItemID. Number optional Quantity (ItemID form) amount With ItemID: the amount. Same as the first unnamed value. Number optional Grade (ItemID form) grade Optional, with ItemID. Replaces the item's own grade. Suggested values Basic Grand Rare Arcane Heroic Unique Celestial Divine Epic Legendary Mythic String optional Icon file icon Optional. The game's own icon file name, for example icon_item_3400.png. Used by the automatic templates so the right picture shows. Without it the file named after the item is used. String optional",
+ "html": "<p><span style=\"width:32px; vertical-align:middle\"><span><a href=\"https://wiki.aa-classic.com/index.php?title=Special:Upload&wpDestFile=(((1))).png\" rel=\"noopener\"><span>File:(((1))).png</span></a></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">{{{1}}}</span>\nShows an item with its icon (with the grade border), its name in the grade colour and an optional amount.\n</p><p><b>Usage by item ID</b>\nThe name, grade and icon all come from the game data, so the item ID is all you need.\n</p>\n<pre>{{Item|ItemID=135135|500}}      the item with ID 135135, amount 500\n{{Item|ItemID=135135}}          no amount</pre>\n<ul><li>ItemID (also written <code>id</code>): the item ID, for example from <a rel=\"noopener\" href=\"https://aa-classic.com/database/items\">https://aa-classic.com/database/items</a></li>\n<li>The first unnamed value is then the amount (or write <code>amount=500</code>).</li>\n<li>grade (optional): overrides the item's own grade, for example the grade a recipe asks for.</li>\n<li>The data comes from the data pages on the wiki (made by sync_wiki_data.py), so no request is needed. An item that is not stored yet is fetched live (two requests) until the script has been run for it.</li>\n<li>If the data cannot be found at all, nothing is shown (an invisible comment is left in the page source).</li></ul>\n<p><b>Usage by item name</b>\n</p>\n<pre>{{Item|Hay Bale|Basic|3}}      name, grade, amount (the icon is the file named after the item)</pre>\n<ul><li>icon (optional): the game's own icon file name, for example <code>icon_item_3400.png</code>, used by the automatic templates.</li></ul>\n<p>Needs <code>Module:IconName</code> and <code>Template:Grade</code>; the ID form also needs External Data.\n</p>\n<section><header><p>No description.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:Item\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Item ID</th><td><code>ItemID</code> <code>id</code></td><td><p>The item ID. Name, grade and icon are fetched automatically. Then the first unnamed value is the amount.</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Item name (or amount with ItemID)</th><td><code>1</code></td><td><p>Without ItemID: the name of the item, also used for the icon file. With ItemID: the amount.</p><dl><dt>Suggested values</dt><dd><code>Hay Bale</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Grade colour (name form)</th><td><code>2</code></td><td><p>Only without ItemID. Colours the name and paints the grade border on the icon</p><dl><dt>Suggested values</dt><dd><code>Crude</code> <code>Basic</code> <code>Grand</code> <code>Rare</code> <code>Arcane</code> <code>Heroic</code> <code>Unique</code> <code>Celestial</code> <code>Divine</code> <code>Epic</code> <code>Legendary</code> <code>Mythic</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Quantity (name form)</th><td><code>3</code></td><td><p>Only without ItemID.</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Quantity (ItemID form)</th><td><code>amount</code></td><td><p>With ItemID: the amount. Same as the first unnamed value.</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Grade (ItemID form)</th><td><code>grade</code></td><td><p>Optional, with ItemID. Replaces the item's own grade.</p><dl><dt>Suggested values</dt><dd><code>Basic</code> <code>Grand</code> <code>Rare</code> <code>Arcane</code> <code>Heroic</code> <code>Unique</code> <code>Celestial</code> <code>Divine</code> <code>Epic</code> <code>Legendary</code> <code>Mythic</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Icon file</th><td><code>icon</code></td><td><p>Optional. The game's own icon file name, for example icon_item_3400.png. Used by the automatic templates so the right picture shows. Without it the file named after the item is used.</p><dl></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "{{#if:{{{ItemID|{{{id|}}}}}}|{{#if:{{#invoke:DataStore|has|Items|{{{ItemID|{{{id|}}}}}}}}|{{#invoke:DataStore|item|id={{{ItemID|{{{id|}}}}}}|amount={{{amount|{{{1|}}}}}}|grade={{{grade|}}}}}|{{#clear_external_data:}}{{#get_web_data:\nurl=https://api.sermeatball.com/wiki/items/{{{ItemID|{{{id|}}}}}}\n|format=json with jsonpath\n|data=iname=$.item_name,igrade=$.base_grade_name\n|suppress error\n}}{{#get_web_data:\nurl=https://aa-classic.com/data/items/{{{ItemID|{{{id|}}}}}}.json\n|format=json with jsonpath\n|data=iicon=$.icon_filename,iover=$.over_icon_filename\n|suppress error\n}}{{#iferror:{{#external_value:iname}}|<!-- Item: no data for this item ID -->|{{#invoke:IconName|icon|{{#external_value:iname}}|{{{grade|{{#iferror:{{#external_value:igrade}}|Basic|{{#external_value:igrade}}}}}}}|file={{#iferror:{{#external_value:iicon}}|}}|over={{#iferror:{{#external_value:iover}}|}}}} {{Grade|{{#switch:{{{grade|{{#iferror:{{#external_value:igrade}}|Basic|{{#external_value:igrade}}}}}}}|None|Any|=Basic|#default={{{grade|{{#iferror:{{#external_value:igrade}}|Basic|{{#external_value:igrade}}}}}}}}}|{{#external_value:iname}}}}{{#if:{{{amount|{{{1|}}}}}}|&nbsp;× {{{amount|{{{1|}}}}}}}}}}}}|{{#invoke:IconName|icon|{{{1}}}|{{{2|}}}|file={{{icon|}}}}} {{Grade|{{{2}}}|{{{1}}}}}{{#if:{{{3|}}}|&nbsp;× {{{3}}}}}}}<noinclude>\nShows an item with its icon (with the grade border), its name in the grade colour and an optional amount.\n\n'''Usage by item ID'''\nThe name, grade and icon all come from the game data, so the item ID is all you need.\n<pre>{{Item|ItemID=135135|500}}      the item with ID 135135, amount 500\n{{Item|ItemID=135135}}          no amount</pre>\n* ItemID (also written <code>id</code>): the item ID, for example from https://aa-classic.com/database/items\n* The first unnamed value is then the amount (or write <code>amount=500</code>).\n* grade (optional): overrides the item's own grade, for example the grade a recipe asks for.\n* The data comes from the data pages on the wiki (made by sync_wiki_data.py), so no request is needed. An item that is not stored yet is fetched live (two requests) until the script has been run for it.\n* If the data cannot be found at all, nothing is shown (an invisible comment is left in the page source).\n\n'''Usage by item name'''\n<pre>{{Item|Hay Bale|Basic|3}}      name, grade, amount (the icon is the file named after the item)</pre>\n* icon (optional): the game's own icon file name, for example <code>icon_item_3400.png</code>, used by the automatic templates.\n\nNeeds <code>Module:IconName</code> and <code>Template:Grade</code>; the ID form also needs External Data.\n<templatedata>\n{\n\t\"params\": {\n\t\t\"ItemID\": {\n\t\t\t\"type\": \"number\",\n\t\t\t\"label\": \"Item ID\",\n\t\t\t\"description\": \"The item ID. Name, grade and icon are fetched automatically. Then the first unnamed value is the amount.\",\n\t\t\t\"aliases\": [\n\t\t\t\t\"id\"\n\t\t\t]\n\t\t},\n\t\t\"1\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"label\": \"Item name (or amount with ItemID)\",\n\t\t\t\"description\": \"Without ItemID: the name of the item, also used for the icon file. With ItemID: the amount.\",\n\t\t\t\"suggestedvalues\": [\n\t\t\t\t\"Hay Bale\"\n\t\t\t]\n\t\t},\n\t\t\"2\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggestedvalues\": [\n\t\t\t\t\"Crude\",\n\t\t\t\t\"Basic\",\n\t\t\t\t\"Grand\",\n\t\t\t\t\"Rare\",\n\t\t\t\t\"Arcane\",\n\t\t\t\t\"Heroic\",\n\t\t\t\t\"Unique\",\n\t\t\t\t\"Celestial\",\n\t\t\t\t\"Divine\",\n\t\t\t\t\"Epic\",\n\t\t\t\t\"Legendary\",\n\t\t\t\t\"Mythic\"\n\t\t\t],\n\t\t\t\"label\": \"Grade colour (name form)\",\n\t\t\t\"description\": \"Only without ItemID. Colours the name and paints the grade border on the icon\"\n\t\t},\n\t\t\"3\": {\n\t\t\t\"type\": \"number\",\n\t\t\t\"label\": \"Quantity (name form)\",\n\t\t\t\"description\": \"Only without ItemID.\"\n\t\t},\n\t\t\"amount\": {\n\t\t\t\"type\": \"number\",\n\t\t\t\"label\": \"Quantity (ItemID form)\",\n\t\t\t\"description\": \"With ItemID: the amount. Same as the first unnamed value.\"\n\t\t},\n\t\t\"grade\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"label\": \"Grade (ItemID form)\",\n\t\t\t\"description\": \"Optional, with ItemID. Replaces the item's own grade.\",\n\t\t\t\"suggestedvalues\": [\n\t\t\t\t\"Basic\",\n\t\t\t\t\"Grand\",\n\t\t\t\t\"Rare\",\n\t\t\t\t\"Arcane\",\n\t\t\t\t\"Heroic\",\n\t\t\t\t\"Unique\",\n\t\t\t\t\"Celestial\",\n\t\t\t\t\"Divine\",\n\t\t\t\t\"Epic\",\n\t\t\t\t\"Legendary\",\n\t\t\t\t\"Mythic\"\n\t\t\t]\n\t\t},\n\t\t\"icon\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"label\": \"Icon file\",\n\t\t\t\"description\": \"Optional. The game's own icon file name, for example icon_item_3400.png. Used by the automatic templates so the right picture shows. Without it the file named after the item is used.\"\n\t\t}\n\t},\n\t\"paramOrder\": [\n\t\t\"ItemID\",\n\t\t\"1\",\n\t\t\"2\",\n\t\t\"3\",\n\t\t\"amount\",\n\t\t\"grade\",\n\t\t\"icon\"\n\t]\n}\n</templatedata>\n</noinclude>"
+}

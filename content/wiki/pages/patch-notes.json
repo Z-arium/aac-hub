@@ -1,12 +1,16 @@
 {
  "slug": "patch-notes",
  "title": "Patch notes",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1116,
  "revid": 2210,
  "updated": "2024-12-05T15:38:53Z",
  "source": "https://wiki.aa-classic.com/Patch_notes",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "05/12/24 - Patch 1.3.2.1 27/11/24 - Patch 1.3.2 20/11/24 - Patch 1.3.1.4 13/11/24 - Patch 1.3.1.3 06/11/24 - Patch 1.3.1.2 31/10/24 - Patch 1.3.1.1 30/10/24 - Patch 1.3",
- "html": "<p><b>05/12/24 - <a href=\"/wiki/patch-1-3-2-1\">Patch 1.3.2.1</a></b>\n</p><p><b>27/11/24 - <a href=\"/wiki/patch-1-3-2\">Patch 1.3.2</a></b>\n</p><p><b>20/11/24 - <a href=\"/wiki/patch-1-3-1-4\">Patch 1.3.1.4</a></b>\n</p><p><b>13/11/24 - <a href=\"/wiki/patch-1-3-1-3\">Patch 1.3.1.3</a></b>\n</p><p><b>06/11/24 - <a href=\"/wiki/patch-1-3-1-2\">Patch 1.3.1.2</a></b>\n</p><p><b>31/10/24 - <a href=\"/wiki/patch-1-3-1-1\">Patch 1.3.1.1</a></b>\n</p><p><b>30/10/24 - <a href=\"/wiki/patch-1-3\">Patch 1.3</a></b>\n</p>"
+ "html": "<p><b>05/12/24 - <a href=\"/wiki/patch-1-3-2-1\">Patch 1.3.2.1</a></b>\n</p><p><b>27/11/24 - <a href=\"/wiki/patch-1-3-2\">Patch 1.3.2</a></b>\n</p><p><b>20/11/24 - <a href=\"/wiki/patch-1-3-1-4\">Patch 1.3.1.4</a></b>\n</p><p><b>13/11/24 - <a href=\"/wiki/patch-1-3-1-3\">Patch 1.3.1.3</a></b>\n</p><p><b>06/11/24 - <a href=\"/wiki/patch-1-3-1-2\">Patch 1.3.1.2</a></b>\n</p><p><b>31/10/24 - <a href=\"/wiki/patch-1-3-1-1\">Patch 1.3.1.1</a></b>\n</p><p><b>30/10/24 - <a href=\"/wiki/patch-1-3\">Patch 1.3</a></b>\n</p>",
+ "wikitext": "'''05/12/24 - [[Patch 1.3.2.1]]'''\n\n'''27/11/24 - [[Patch 1.3.2]]'''\n\n'''20/11/24 - [[Patch 1.3.1.4]]'''\n\n'''13/11/24 - [[Patch 1.3.1.3]]'''\n\n'''06/11/24 - [[Patch 1.3.1.2]]'''\n\n'''31/10/24 - [[Patch 1.3.1.1]]'''\n\n'''30/10/24 - [[Patch 1.3]]'''"
 }

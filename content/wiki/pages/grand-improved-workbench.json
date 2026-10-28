@@ -1,6 +1,8 @@
 {
  "slug": "grand-improved-workbench",
  "title": "Grand Improved Workbench",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 480,
  "revid": 3373,
  "updated": "2026-05-11T20:26:13Z",
@@ -18,6 +20,10 @@
   }
  ],
  "tables": [],
+ "images": [
+  "Grand Improved Workbench.png"
+ ],
  "text": "The grand improved workbench allows you to craft special items such as upgraded consumables and anchoring emblems. Grand Improved Workbench at Marianople Community Center They can be found at the following zones' community center when it has reached level 3 development: West Marianople Sanddeep Halcyona Hellswamp East Falcorth Plains Windscour Savannah Rookborne Basin",
- "html": "<p>The grand improved workbench allows you to craft special items such as upgraded consumables and anchoring emblems.\n</p>\n<figure><img alt=\"Grand Improved Workbench at Marianople Community Center\" src=\"https://wiki.aa-classic.com/images/thumb/2/21/Grand_Improved_Workbench.png/624px-Grand_Improved_Workbench.png\" width=\"624\" height=\"259\" srcset=\"https://wiki.aa-classic.com/images/thumb/2/21/Grand_Improved_Workbench.png/936px-Grand_Improved_Workbench.png 1.5x, https://wiki.aa-classic.com/images/2/21/Grand_Improved_Workbench.png 2x\" loading=\"lazy\"><figcaption>Grand Improved Workbench at Marianople Community Center</figcaption></figure>\n<p>They can be found at the following zones' community center when it has reached level 3 development:\n</p>\n<h3 id=\"West\">West</h3>\n<ul><li>Marianople</li>\n<li>Sanddeep</li>\n<li>Halcyona</li>\n<li>Hellswamp</li></ul>\n<h3 id=\"East\">East</h3>\n<ul><li>Falcorth Plains</li>\n<li>Windscour Savannah</li>\n<li>Rookborne Basin</li></ul>"
+ "html": "<p>The grand improved workbench allows you to craft special items such as upgraded consumables and anchoring emblems.\n</p>\n<figure><img alt=\"Grand Improved Workbench at Marianople Community Center\" src=\"/wiki-files/ed/ed6818a21c9c0e509987c849914d553d67768eb8.png\" width=\"624\" height=\"259\" loading=\"lazy\"><figcaption>Grand Improved Workbench at Marianople Community Center</figcaption></figure>\n<p>They can be found at the following zones' community center when it has reached level 3 development:\n</p>\n<h3 id=\"West\">West</h3>\n<ul><li>Marianople</li>\n<li>Sanddeep</li>\n<li>Halcyona</li>\n<li>Hellswamp</li></ul>\n<h3 id=\"East\">East</h3>\n<ul><li>Falcorth Plains</li>\n<li>Windscour Savannah</li>\n<li>Rookborne Basin</li></ul>",
+ "wikitext": "The grand improved workbench allows you to craft special items such as upgraded consumables and anchoring emblems.\n[[File:Grand Improved Workbench.png|alt=Grand Improved Workbench at Marianople Community Center|thumb|624x624px|Grand Improved Workbench at Marianople Community Center]]\nThey can be found at the following zones' community center when it has reached level 3 development:\n\n=== West ===\n* Marianople\n* Sanddeep\n* Halcyona\n* Hellswamp\n\n=== East ===\n* Falcorth Plains\n* Windscour Savannah\n* Rookborne Basin"
 }

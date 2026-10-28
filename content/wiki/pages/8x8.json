@@ -1,0 +1,306 @@
+{
+ "slug": "8x8",
+ "title": "8x8",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 1406,
+ "revid": 2913,
+ "updated": "2025-10-13T12:36:12Z",
+ "source": "https://wiki.aa-classic.com/8x8",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Scarecrow_Garden",
+   "text": "Scarecrow Garden"
+  },
+  {
+   "level": 3,
+   "id": "Full_Kit",
+   "text": "Full Kit"
+  },
+  {
+   "level": 3,
+   "id": "Private_Workbench",
+   "text": "Private Workbench"
+  },
+  {
+   "level": 3,
+   "id": "Haranyan_Private_Workbench",
+   "text": "Haranyan Private Workbench"
+  },
+  {
+   "level": 3,
+   "id": "Warehouse",
+   "text": "Warehouse"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Scarecrow Garden",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Lumber",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Private Loom",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Fabric Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Private Smelter",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Iron Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Private Masonry Table",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Private Sawmill Table",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Lumber Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Private Leatherwork Table",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Leather Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Haranyan Private Smelter",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Iron Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Haranyan Private Loom",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Fabric Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Haranyan Private Masonry Table",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Haranyan Private Sawmill Table",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Lumber Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Haranyan Private Leatherwok Table",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "1"
+    ],
+    [
+     "Leather Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Storage Silo",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Stone Pack",
+     "",
+     "10"
+    ],
+    [
+     "Lumber Pack",
+     "",
+     "10"
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "Scarecrowgarden.png",
+  "Lumber.png",
+  "Solarscarecrowgarden.png",
+  "Stellarscarecrowgarden.png",
+  "Lunarscarecrowgarden.png",
+  "Provateworkbenches.png",
+  "Privateloom.png",
+  "Stonepack.png",
+  "Fabricpack.png",
+  "Ironpack.png",
+  "Privatemasonrytable.png",
+  "Lumberpack.png",
+  "Leatherpack.png",
+  "Haranyanprivateworkbenches.png",
+  "Storagesilo.png"
+ ],
+ "text": "The 8x8 are the smallest kind of land a person can own in the game. Mostly these are new players best friend when finding their first land. There are few kinds of 8x8 designs and the most common one being scarecrows that usually stage packs. Gardens are a safe place to grow plants, raise livestock, and store trade packs without fear of thieves. Scarecrow Garden The normal scarecrow design can be acquired from Blue Salt Brotherhood quest when leveling. Each faction has their own map where the questline starts from. As an East player the quest begins at Tigerspine Community Center and for West players the questline begins at Lilyut Hills Community Center. Awesome guidevideo made by Hamilton that explains in a detail how to get it. It can be obtained from the quest only once by character. Scarecrow garden, once placed, needs to be built with materials. The scarecrow is located in the middle of the plot so it doesn't have as much space as the Full Kit ones. The Scarecrow Design cant be sold or made into full kit. Construction materials in order Pack Icon Amount Lumber 1 Full Kit When a design has a \"Full Kit\" in its name it means that the design, once placed on the ground, doesn't need to be built. Usually a buildings need all kinds of materials to be used in order to build it. Only the Full Kits are exception to this. If player decides to demolish the scarecrow the design will remain as a Full Kit to be placed again without building it. Full Kit: Solar Scarecrow Solar Scarecrow design can be bought from the Gilda section of the Marketplace with 150 Gilda Stars. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing. Full Kit: Stellar Scarecrow Stellar Scarecrow design can be bought from the Merit section of the Marketplace with 150 Merit Badges. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing. Full Kit: Lunar Scarecrow Lunar Scarecrow design can be bought from the Loyalty section of the Marketplace with 150 Loyalty Tokens. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing. Private Workbench Workbenches are those buildings that have the same crafting stations, same as the NPC:s do, in certain places of the map. The workbenches can be build closer to players house or location of buildings being built to have the same crafting ability closer and no need for running back and forth with the crafted packs or items. There are two types of workbenches in the game. One being \"Private Workbench\" and other being \"Haranyan Private Workbench\". The only difference between these two are looks. They both cost the same amount to buy the design and need same amount of materials to be built. Private Workbench and Haranyan Private Workbench cost 30 Gilda Stars and they can be bought in Mirage Isle from their respective sides of the island. Private Workbenches can be sold but they cannot be made into Full Kit. Nuian style workbenches, located on the right side of the island when entering Mirage. Private Loom Construction materials in order Pack Icon Amount Stone Pack 1 Fabric Pack 1 Private Smelter Construction materials in order Pack Icon Amount Stone Pack 1 Iron Pack 1 Private Masonry Table Construction materials in order Pack Icon Amount Stone Pack 1 Stone Pack 1 Private Sawmill Table Construction materials in order Pack Icon Amount Stone Pack 1 Lumber Pack 1 Private Leatherwork Table Construction materials in order Pack Icon Amount Stone Pack 1 Leather Pack 1 Haranyan Private Workbench Haranyan style workbenches, located on the left side of the island when entering Mirage. Haranyan Private Smelter Construction materials in order Pack Icon Amount Stone Pack 1 Iron Pack 1 Haranyan Private Loom Construction materials in order Pack Icon Amount Stone Pack 1 Fabric Pack 1 Haranyan Private Masonry Table Construction materials in order Pack Icon Amount Stone Pack 1 Stone Pack 1 Haranyan Private Sawmill Table Construction materials in order Pack Icon Amount Stone Pack 1 Lumber Pack 1 Haranyan Private Leatherwok Table Construction materials in order Pack Icon Amount Stone Pack 1 Leather Pack 1 Warehouse Storage Silo A Silo is a building where the owners can place a different kind of packs for storing them for later. No other player can take them once they are inside the Silo. Silo can hold 10 packs at a time. Packs it can hold can be: normal trade packs, building packs such as lumber packs, iron packs, stone packs, leather packs and fabric packs or even Archeum Bundles. Once placed the Silo must be build before use. Silos can be sold but they cannot be Full Kitted. Construction materials in order Pack Icon Amount Stone Pack 10 Lumber Pack 10",
+ "html": "<p>The 8x8 are the smallest kind of land a person can own in the game. Mostly these are new players best friend when finding their first land. There are few kinds of 8x8 designs and the most common one being scarecrows that usually stage packs. <i>Gardens are a safe place to grow plants, raise livestock, and store trade packs without fear of thieves.</i>  \n</p>\n\n<h3 id=\"Scarecrow_Garden\">Scarecrow Garden</h3>\n<p>The normal scarecrow design can be acquired from Blue Salt Brotherhood quest when leveling. Each faction has their own map where the questline starts from. As an East player the quest begins at Tigerspine Community Center and for West players the questline begins at Lilyut Hills Community Center. Awesome <a rel=\"noopener\" href=\"https://youtu.be/PBCb4NqijDA?si=pCmWUhbXf9l6vghD\">guidevideo</a> made by Hamilton that explains in a detail how to get it. It can be obtained from the quest only once by character.\n</p><p><span><img src=\"/wiki-files/c2/c2092bd4a6bd6ee3bb627a4da839c0542c9029de.png\" width=\"448\" height=\"377\" loading=\"lazy\"></span>\n</p><p>Scarecrow garden, once placed, needs to be built with materials. The scarecrow is located in the middle of the plot so it doesn't have as much space as the Full Kit ones.\n</p><p><b>The Scarecrow Design cant be sold or made into full kit.</b> \n</p>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Lumber\n</td>\n<td><figure><img src=\"/wiki-files/fa/fa04abb9c965f43e9dc54124ce284cd86287e19c.png\" width=\"50\" height=\"50\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Full_Kit\">Full Kit</h3>\n<p>When a design has a \"<b>Full Kit</b>\" in its name it means that the design, once placed on the ground, doesn't need to be built. Usually a buildings need all kinds of materials to be used in order to build it. Only the <b>Full Kits</b> are exception to this. If player decides to demolish the scarecrow the design will remain as a Full Kit to be placed again without building it.\n</p>\n<h4 id=\"Full_Kit:_Solar_Scarecrow\">Full Kit: Solar Scarecrow</h4>\n<p><span><img src=\"/wiki-files/96/96afab4d6933e70e38955e3dec62ff3c86acf81f.png\" width=\"444\" height=\"364\" loading=\"lazy\"></span>\n</p><p>Solar Scarecrow design can be bought from the Gilda section of the Marketplace with 150 <a href=\"/wiki/currencies\">Gilda Stars</a>. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing.\n</p>\n<h4 id=\"Full_Kit:_Stellar_Scarecrow\">Full Kit: Stellar Scarecrow</h4>\n<p><span><img src=\"/wiki-files/a7/a7bb42a4e7a25ef0da2f65410a525b91ce6f0c08.png\" width=\"434\" height=\"315\" loading=\"lazy\"></span>\n</p><p>Stellar Scarecrow design can be bought from the Merit section of the Marketplace with 150 <a href=\"/wiki/currencies\">Merit Badges</a>. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing.\n</p>\n<h4 id=\"Full_Kit:_Lunar_Scarecrow\">Full Kit: Lunar Scarecrow</h4>\n<p><span><img src=\"/wiki-files/6e/6e64a2cedc8ffce5be7545cb1e4f0fac1a9f8b4c.png\" width=\"444\" height=\"296\" loading=\"lazy\"></span>\n</p><p>Lunar Scarecrow design can be bought from the Loyalty section of the Marketplace with 150 Loyalty Tokens. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing.\n</p><p><br>\n</p>\n<h3 id=\"Private_Workbench\">Private Workbench</h3>\n<p>Workbenches are those buildings that have the same crafting stations, same as the NPC:s do, in certain places of the map. The workbenches can be build closer to players house or location of buildings being built to have the same crafting ability closer and no need for running back and forth with the crafted packs or items. There are two types of workbenches in the game. One being \"<b>Private Workbench</b>\" and other being \"<b>Haranyan Private Workbench</b>\". The only difference between these two are looks. They both cost the same amount to buy the design and need same amount of materials to be built. \n</p><p>Private Workbench and Haranyan Private Workbench cost <b>30 <a href=\"/wiki/currencies\">Gilda Stars</a></b> and they can be bought in Mirage Isle from their respective sides of the island. \n</p><p><b>Private Workbenches can be sold but they cannot be made into Full Kit.</b> \n</p>\n<figure><img src=\"/wiki-files/77/777061bed7002f4281f50a9153300e02c5190c94.png\" width=\"728\" height=\"392\" loading=\"lazy\"><figcaption>Nuian style workbenches, located on the right side of the island when entering Mirage.</figcaption></figure>\n<p><br>\n</p>\n<h4 id=\"Private_Loom\">Private Loom</h4>\n<p><span><img src=\"/wiki-files/60/60d6fc7606ed8826f9815d6c1bad000dbe6eb15a.png\" width=\"197\" height=\"492\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Fabric Pack\n</td>\n<td><figure><img src=\"/wiki-files/52/5260b03566a98dc4ce4510f1dccda0375e5a625b.png\" width=\"45\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Private_Smelter\">Private Smelter</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Iron Pack\n</td>\n<td><figure><img src=\"/wiki-files/d7/d753a87f3e452092eb8fe1e954a07e845f261a39.png\" width=\"44\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Private_Masonry_Table\">Private Masonry Table</h4>\n<p><span><img src=\"/wiki-files/78/7825bd7d15ea6b1811a7fc78eabf1a1934004e8f.png\" width=\"236\" height=\"421\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Private_Sawmill_Table\">Private Sawmill Table</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Lumber Pack\n</td>\n<td><figure><img src=\"/wiki-files/af/af88d26308ada9767631d356b2b31a72cec77aea.png\" width=\"37\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Private_Leatherwork_Table\">Private Leatherwork Table</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Leather Pack\n</td>\n<td><figure><img src=\"/wiki-files/45/457225880dfb77bc9151eca54929325ef95846b3.png\" width=\"46\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Haranyan_Private_Workbench\">Haranyan Private Workbench</h3>\n<figure><img src=\"/wiki-files/d9/d9c53eeced53f28169e9fa00d91d2a05559c180e.png\" width=\"785\" height=\"509\" loading=\"lazy\"><figcaption>Haranyan style workbenches, located on the left side of the island when entering Mirage.</figcaption></figure>\n<p><br>\n</p>\n<h4 id=\"Haranyan_Private_Smelter\">Haranyan Private Smelter</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Iron Pack\n</td>\n<td><figure><img src=\"/wiki-files/d7/d753a87f3e452092eb8fe1e954a07e845f261a39.png\" width=\"44\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Haranyan_Private_Loom\">Haranyan Private Loom</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Fabric Pack\n</td>\n<td><figure><img src=\"/wiki-files/52/5260b03566a98dc4ce4510f1dccda0375e5a625b.png\" width=\"45\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Haranyan_Private_Masonry_Table\">Haranyan Private Masonry Table</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Haranyan_Private_Sawmill_Table\">Haranyan Private Sawmill Table</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Lumber Pack\n</td>\n<td><figure><img src=\"/wiki-files/af/af88d26308ada9767631d356b2b31a72cec77aea.png\" width=\"37\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h4 id=\"Haranyan_Private_Leatherwok_Table\">Haranyan Private Leatherwok Table</h4>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Leather Pack\n</td>\n<td><figure><img src=\"/wiki-files/45/457225880dfb77bc9151eca54929325ef95846b3.png\" width=\"46\" height=\"43\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p><p><br>\n</p>\n<h3 id=\"Warehouse\">Warehouse</h3>\n<h4 id=\"Storage_Silo\">Storage Silo</h4>\n<p><span><img src=\"/wiki-files/e0/e0e45275bb9e926526c9ef54395c6cbcb388251d.png\" width=\"292\" height=\"439\" loading=\"lazy\"></span>\n</p><p>A Silo is a building where the owners can place a different kind of packs for storing them for later. No other player can take them once they are inside the Silo. <b>Silo can hold 10 packs at a time</b>. Packs it can hold can be: normal trade packs, building packs such as lumber packs, iron packs, stone packs, leather packs and fabric packs or even Archeum Bundles. Once placed the Silo must be build before use. \n</p><p><b>Silos can be sold but they cannot be Full Kitted.</b> \n</p>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Stone Pack\n</td>\n<td><figure><img src=\"/wiki-files/ea/eab35e3c1c30b926e113ff0f8c897d10cace0639.png\" width=\"36\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>10\n</td></tr>\n<tr>\n<td>Lumber Pack\n</td>\n<td><figure><img src=\"/wiki-files/af/af88d26308ada9767631d356b2b31a72cec77aea.png\" width=\"37\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>10\n</td></tr></tbody></table>",
+ "wikitext": "The 8x8 are the smallest kind of land a person can own in the game. Mostly these are new players best friend when finding their first land. There are few kinds of 8x8 designs and the most common one being scarecrows that usually stage packs. ''Gardens are a safe place to grow plants, raise livestock, and store trade packs without fear of thieves.''  \n\n=== Scarecrow Garden ===\nThe normal scarecrow design can be acquired from Blue Salt Brotherhood quest when leveling. Each faction has their own map where the questline starts from. As an East player the quest begins at Tigerspine Community Center and for West players the questline begins at Lilyut Hills Community Center. Awesome [https://youtu.be/PBCb4NqijDA?si=pCmWUhbXf9l6vghD guidevideo] made by Hamilton that explains in a detail how to get it. It can be obtained from the quest only once by character.\n\n[[File:Scarecrowgarden.png]]\n\nScarecrow garden, once placed, needs to be built with materials. The scarecrow is located in the middle of the plot so it doesn't have as much space as the Full Kit ones.\n\n'''The Scarecrow Design cant be sold or made into full kit.''' \n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Lumber\n|[[File:Lumber.png|center]]\n|1\n|}\n\n\n=== Full Kit ===\nWhen a design has a \"'''Full Kit'''\" in its name it means that the design, once placed on the ground, doesn't need to be built. Usually a buildings need all kinds of materials to be used in order to build it. Only the '''Full Kits''' are exception to this. If player decides to demolish the scarecrow the design will remain as a Full Kit to be placed again without building it.\n\n==== Full Kit: Solar Scarecrow ====\n[[File:Solarscarecrowgarden.png|444x444px]]\n\nSolar Scarecrow design can be bought from the Gilda section of the Marketplace with 150 [[Currencies|Gilda Stars]]. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing.\n\n==== Full Kit: Stellar Scarecrow ====\n[[File:Stellarscarecrowgarden.png|434x434px]]\n\nStellar Scarecrow design can be bought from the Merit section of the Marketplace with 150 [[Currencies|Merit Badges]]. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing.\n\n==== Full Kit: Lunar Scarecrow ====\n[[File:Lunarscarecrowgarden.png|444x444px]]\n\nLunar Scarecrow design can be bought from the Loyalty section of the Marketplace with 150 Loyalty Tokens. The Scarecrow is located on the side of the plot and can be rotated around the plot when placing.\n\n\n\n=== Private Workbench ===\nWorkbenches are those buildings that have the same crafting stations, same as the NPC:s do, in certain places of the map. The workbenches can be build closer to players house or location of buildings being built to have the same crafting ability closer and no need for running back and forth with the crafted packs or items. There are two types of workbenches in the game. One being \"'''Private Workbench'''\" and other being \"'''Haranyan Private Workbench'''\". The only difference between these two are looks. They both cost the same amount to buy the design and need same amount of materials to be built. \n\nPrivate Workbench and Haranyan Private Workbench cost '''30 [[Currencies|Gilda Stars]]''' and they can be bought in Mirage Isle from their respective sides of the island. \n\n'''Private Workbenches can be sold but they cannot be made into Full Kit.''' \n\n[[File:Provateworkbenches.png|none|frame|Nuian style workbenches, located on the right side of the island when entering Mirage.]]\n\n\n==== Private Loom ====\n[[File:Privateloom.png]]\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Fabric Pack\n|[[File:Fabricpack.png|center]]\n|1\n|}\n\n\n==== Private Smelter ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Iron Pack\n|[[File:Ironpack.png|center]]\n|1\n|}\n\n\n==== Private Masonry Table ====\n[[File:Privatemasonrytable.png|421x421px]]\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|}\n\n\n==== Private Sawmill Table ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Lumber Pack\n|[[File:Lumberpack.png|center]]\n|1\n|}\n\n\n\n==== Private Leatherwork Table ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Leather Pack\n|[[File:Leatherpack.png|center]]\n|1\n|}\n\n\n=== Haranyan Private Workbench ===\n[[File:Haranyanprivateworkbenches.png|none|frame|Haranyan style workbenches, located on the left side of the island when entering Mirage.]]\n\n\n==== Haranyan Private Smelter ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Iron Pack\n|[[File:Ironpack.png|center]]\n|1\n|}\n\n\n==== Haranyan Private Loom ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Fabric Pack\n|[[File:Fabricpack.png|center]]\n|1\n|}\n\n\n==== Haranyan Private Masonry Table ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|}\n\n\n==== Haranyan Private Sawmill Table ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Lumber Pack\n|[[File:Lumberpack.png|center]]\n|1\n|}\n\n\n\n==== Haranyan Private Leatherwok Table ====\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|1\n|-\n|Leather Pack\n|[[File:Leatherpack.png|center]]\n|1\n|}\n\n\n\n\n\n=== Warehouse ===\n\n==== Storage Silo ====\n[[File:Storagesilo.png|439x439px]]\n\nA Silo is a building where the owners can place a different kind of packs for storing them for later. No other player can take them once they are inside the Silo. '''Silo can hold 10 packs at a time'''. Packs it can hold can be: normal trade packs, building packs such as lumber packs, iron packs, stone packs, leather packs and fabric packs or even Archeum Bundles. Once placed the Silo must be build before use. \n\n'''Silos can be sold but they cannot be Full Kitted.''' \n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Stone Pack\n|[[File:Stonepack.png|center]]\n|10\n|-\n|Lumber Pack\n|[[File:Lumberpack.png|center]]\n|10\n|}"
+}

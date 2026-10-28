@@ -1,0 +1,18 @@
+{
+ "slug": "sandbox-itemtest",
+ "title": "Sandbox/ItemTest",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 2030,
+ "revid": 3980,
+ "updated": "2026-10-20T04:33:00Z",
+ "source": "https://wiki.aa-classic.com/Sandbox/ItemTest",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Icon example.png"
+ ],
+ "text": "File:Icon example.png Example GreatswordFile:Icon example.pngExample GreatswordArcaneTwo-handed / GreatswordLevel 50Gear Score 1234Binds when equippedDamage 100 - 150 Strength +20 Stamina +15Equip: placeholder effect textPlaceholder flavour text.Sell Price 123456",
+ "html": "<p><span><span><a href=\"https://wiki.aa-classic.com/index.php?title=Special:Upload&wpDestFile=Icon_example.png\" rel=\"noopener\"><span>File:Icon example.png</span></a></span> <a href=\"https://wiki.aa-classic.com/index.php?title=Example_Greatsword&action=edit&redlink=1\" rel=\"noopener\"><span>Example Greatsword</span></a><span><span><span><span><a href=\"https://wiki.aa-classic.com/index.php?title=Special:Upload&wpDestFile=Icon_example.png\" rel=\"noopener\"><span>File:Icon example.png</span></a></span></span><span><span>Example Greatsword</span><span>Arcane</span></span></span><span>Two-handed / Greatsword</span><span><span>Level 50</span><span>Gear Score 1234</span></span><span>Binds when equipped</span><span></span><span>Damage 100 - 150<br>Strength +20<br>Stamina +15</span><span></span><span>Equip: placeholder effect text</span><span></span><span>Placeholder flavour text.</span><span></span><span>Sell Price <span>12</span><span>34</span><span>56</span></span></span></span>\n</p>",
+ "wikitext": "{{ItemWithTooltip|Example Greatsword\n |icon=Icon_example.png\n |grade=Arcane\n |type=Two-handed / Greatsword\n |level=50\n |gearscore=1234\n |bind=Binds when equipped\n |stats=Damage 100 - 150<br>Strength +20<br>Stamina +15\n |effects=Equip: placeholder effect text\n |desc=Placeholder flavour text.\n |gold=12 |silver=34 |copper=56\n}}"
+}

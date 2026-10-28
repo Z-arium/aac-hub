@@ -1,6 +1,8 @@
 {
  "slug": "image-items",
  "title": "Image Items",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1306,
  "revid": 2658,
  "updated": "2025-06-19T13:49:18Z",
@@ -13,6 +15,10 @@
   }
  ],
  "tables": [],
+ "images": [
+  "OnyxIceCrate.png"
+ ],
  "text": "Image Items are \"skins\" for other items in the game. Weapon Customization Crates Onyx Ice Customization Crate",
- "html": "<p>Image Items are \"skins\" for other items in the game.\n</p><p><br>\n</p>\n<h3 id=\"Weapon_Customization_Crates\">Weapon Customization Crates</h3>\n<h4 id=\"Onyx_Ice_Customization_Crate\">Onyx Ice Customization Crate</h4>\n<figure><img src=\"https://wiki.aa-classic.com/images/3/36/OnyxIceCrate.png\" width=\"1272\" height=\"882\" loading=\"lazy\"><figcaption></figcaption></figure>"
+ "html": "<p>Image Items are \"skins\" for other items in the game.\n</p><p><br>\n</p>\n<h3 id=\"Weapon_Customization_Crates\">Weapon Customization Crates</h3>\n<h4 id=\"Onyx_Ice_Customization_Crate\">Onyx Ice Customization Crate</h4>\n<figure><img src=\"/wiki-files/8d/8dd454b526d8e81e637fd096a824cb5a9314a50e.png\" width=\"1272\" height=\"882\" loading=\"lazy\"><figcaption></figcaption></figure>",
+ "wikitext": "Image Items are \"skins\" for other items in the game.\n\n\n=== Weapon Customization Crates ===\n\n==== Onyx Ice Customization Crate ====\n[[File:OnyxIceCrate.png|left|frame]]"
 }

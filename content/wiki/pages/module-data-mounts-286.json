@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-mounts-286",
+ "title": "Module:Data/Mounts/286",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60358,
+ "revid": 62483,
+ "updated": "2026-10-26T20:28:16Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Mounts/286",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs. return { [28638] = { desc = \"A donkey of a different color, this brilliant citrine creature walks much faster than ordinary donkeys. It gets its unusual hue from eating far too many carrots.\\nThe Carrot Dash has the following skills:\\nLv20: Dreaming Donkey\\nLv20: La Mancha's Call\", grade = \"None\", icon = \"icon_item_2333.png\", name = \"Carrot Dash\", skills = { { desc = \"Increases the donkey's Move Speed +30% for 1 min.\\nCan only be used while wearing a trade pack and consumes 1 Carrot.\", id = 15267, lv = 20, name = \"Dreaming Donkey\" }, { desc = \"Raise your spear high and charge forward for 7 sec.\\nYou cannot turn left or right once the charge begins.\\nCan't be used while carrying a trade pack.\", id = 19087, lv = 20, name = \"La Mancha's Call\" } }, speed = 8 }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[28638] = { desc = \"A donkey of a different color, this brilliant citrine creature walks much faster than ordinary donkeys. It gets its unusual hue from eating far too many carrots.\\nThe Carrot Dash has the following skills:\\nLv20: Dreaming Donkey\\nLv20: La Mancha's Call\", grade = \"None\", icon = \"icon_item_2333.png\", name = \"Carrot Dash\", skills = { { desc = \"Increases the donkey's Move Speed +30% for 1 min.\\nCan only be used while wearing a trade pack and consumes 1 Carrot.\", id = 15267, lv = 20, name = \"Dreaming Donkey\" }, { desc = \"Raise your spear high and charge forward for 7 sec.\\nYou cannot turn left or right once the charge begins.\\nCan't be used while carrying a trade pack.\", id = 19087, lv = 20, name = \"La Mancha's Call\" } }, speed = 8 },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[28638] = { desc = \"A donkey of a different color, this brilliant citrine creature walks much faster than ordinary donkeys. It gets its unusual hue from eating far too many carrots.\\nThe Carrot Dash has the following skills:\\nLv20: Dreaming Donkey\\nLv20: La Mancha's Call\", grade = \"None\", icon = \"icon_item_2333.png\", name = \"Carrot Dash\", skills = { { desc = \"Increases the donkey's Move Speed +30% for 1 min.\\nCan only be used while wearing a trade pack and consumes 1 Carrot.\", id = 15267, lv = 20, name = \"Dreaming Donkey\" }, { desc = \"Raise your spear high and charge forward for 7 sec.\\nYou cannot turn left or right once the charge begins.\\nCan't be used while carrying a trade pack.\", id = 19087, lv = 20, name = \"La Mancha's Call\" } }, speed = 8 },\n}"
+}

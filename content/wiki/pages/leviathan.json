@@ -1,12 +1,16 @@
 {
  "slug": "leviathan",
  "title": "Leviathan",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1469,
  "revid": 3011,
  "updated": "2025-11-08T14:46:13Z",
  "source": "https://wiki.aa-classic.com/Leviathan",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "tbc",
- "html": "<p>tbc\n</p>"
+ "html": "<p>tbc\n</p>",
+ "wikitext": "tbc"
 }

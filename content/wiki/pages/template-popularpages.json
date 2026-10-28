@@ -1,0 +1,16 @@
+{
+ "slug": "template-popularpages",
+ "title": "Template:PopularPages",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 774,
+ "revid": 2755,
+ "updated": "2025-08-07T01:40:16Z",
+ "source": "https://wiki.aa-classic.com/Template:PopularPages",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Activity Tokens Emerald Weapons Festivals Regrade Rates Mounts Currencies Gliders Ships Cosmetic Costumes & Imaging Stat Migration Stat Costumes & Undergarments",
+ "html": "<ul><li><a href=\"/wiki/activity-tokens\">Activity Tokens</a></li>\n<li><a href=\"/wiki/emerald-weapons\">Emerald Weapons</a></li>\n<li><a href=\"/wiki/festivals\">Festivals</a></li>\n<li><a href=\"/wiki/regrade-rates\">Regrade Rates</a></li>\n<li><a href=\"/wiki/mounts\">Mounts</a></li>\n<li><a href=\"/wiki/currencies\">Currencies</a></li>\n<li><a href=\"/wiki/gliders\">Gliders</a></li>\n<li><a href=\"/wiki/ships\">Ships</a></li>\n<li><a href=\"/wiki/cosmetic-costumes-imaging\">Cosmetic Costumes &amp; Imaging</a></li>\n<li><a href=\"/wiki/stat-migration\">Stat Migration</a></li>\n<li><a href=\"/wiki/stat-costumes-undergarments\">Stat Costumes &amp; Undergarments</a></li></ul>",
+ "wikitext": "* [[Activity Tokens]]\n* [[Emerald Weapons]]\n* [[Festivals]]\n* [[Regrade Rates]]\n* [[Mounts]]\n* [[Currencies]]\n* [[Gliders]]\n* [[Ships]]\n* [[Cosmetic Costumes & Imaging]]\n* [[Stat Migration]]\n* [[Stat Costumes & Undergarments]]"
+}

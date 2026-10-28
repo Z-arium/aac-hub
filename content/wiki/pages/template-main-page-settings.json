@@ -1,0 +1,16 @@
+{
+ "slug": "template-main-page-settings",
+ "title": "Template:Main page/settings",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 1640,
+ "revid": 3322,
+ "updated": "2026-02-25T13:21:30Z",
+ "source": "https://wiki.aa-classic.com/Template:Main_page/settings",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Template:Main page/settings/doc",
+ "html": "<p><a href=\"https://wiki.aa-classic.com/index.php?title=Template:Main_page/settings/doc&action=edit&redlink=1\" rel=\"noopener\">Template:Main page/settings/doc</a>\n</p>",
+ "wikitext": "<includeonly>{{#if:{{{1|}}}\n|{{#switch:{{{1}}}\n| currentmajorpatch = Sapphire Serpentis\n\n<!-- Featured article page name -->\n| featured = Getting Started\n<!-- Featured article text, put something short and fun -->\n| featuredtext = Beginner's guide to Classic\n\n}}}}</includeonly><noinclude>{{/doc}}</noinclude>"
+}

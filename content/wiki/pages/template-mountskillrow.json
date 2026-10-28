@@ -1,0 +1,16 @@
+{
+ "slug": "template-mountskillrow",
+ "title": "Template:MountSkillRow",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 49937,
+ "revid": 51930,
+ "updated": "2026-10-24T21:19:37Z",
+ "source": "https://wiki.aa-classic.com/Template:MountSkillRow",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Row template for Template:Mount. One call per mount skill, filled in by External Data (#display_external_table). It reads the cooldown, casting time, mana cost and the highlighted description of the skill from aa-classic.com and hands everything to Module:Mount as one line of text. Not meant to be used on its own.",
+ "html": "<p>Row template for Template:Mount. One call per mount skill, filled in by External Data (#display_external_table).\nIt reads the cooldown, casting time, mana cost and the highlighted description of the skill from aa-classic.com and hands everything to Module:Mount as one line of text.\nNot meant to be used on its own.\n</p>",
+ "wikitext": "<includeonly>{{#get_web_data:\nurl=https://aa-classic.com/data/skills/{{{sid}}}.json\n|format=json with jsonpath\n|data=cd=$.cooldown_text,cast=$.casting_text,mana=$.mana_cost,cdesc=$.description,cicon=$.icon\n|suppress error\n}}{{{slevel}}}¦{{{sname}}}¦{{{sdesc}}}¦{{#external_value:cd}}¦{{#external_value:cast}}¦{{#external_value:mana}}¦{{#external_value:cdesc}}¦{{#external_value:cicon}}‖</includeonly><noinclude>\nRow template for Template:Mount. One call per mount skill, filled in by External Data (#display_external_table).\nIt reads the cooldown, casting time, mana cost and the highlighted description of the skill from aa-classic.com and hands everything to Module:Mount as one line of text.\nNot meant to be used on its own.\n</noinclude>"
+}

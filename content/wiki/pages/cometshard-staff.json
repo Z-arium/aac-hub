@@ -1,12 +1,19 @@
 {
  "slug": "cometshard-staff",
  "title": "Cometshard Staff",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1202,
  "revid": 2617,
  "updated": "2025-05-23T13:14:27Z",
  "source": "https://wiki.aa-classic.com/Cometshard_Staff",
  "headings": [],
  "tables": [],
+ "images": [
+  "Cometstaff.png",
+  "Cometstaff2.png"
+ ],
  "text": "Staff is a drop from mining the huge ore during the event. The last person to mine the ore will drop the Staff and it always drops as Unique. The staff isn't guaranteed drop always.",
- "html": "<p>Staff is a drop from mining the huge ore during the event. The last person to mine the ore will drop the Staff and it always drops as Unique. The staff isn't guaranteed drop always.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/8/8d/Cometstaff.png\" width=\"230\" height=\"682\" loading=\"lazy\"></span>\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/f/fe/Cometstaff2.png\" width=\"602\" height=\"294\" loading=\"lazy\"></span>\n</p>"
+ "html": "<p>Staff is a drop from mining the huge ore during the event. The last person to mine the ore will drop the Staff and it always drops as Unique. The staff isn't guaranteed drop always.\n</p><p><span><img src=\"/wiki-files/d1/d142f7cf0fb256ad801f65bbf28c2a10ab8c6b7c.png\" width=\"230\" height=\"682\" loading=\"lazy\"></span>\n</p><p><span><img src=\"/wiki-files/d1/d1ed9cf1442dbc7daf36ad0158fca27d0618be80.png\" width=\"602\" height=\"294\" loading=\"lazy\"></span>\n</p>",
+ "wikitext": "Staff is a drop from mining the huge ore during the event. The last person to mine the ore will drop the Staff and it always drops as Unique. The staff isn't guaranteed drop always.\n\n[[File:Cometstaff.png]]\n\n[[File:Cometstaff2.png]]"
 }

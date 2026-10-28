@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skills-21",
+ "title": "Module:Data/Skills/21",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60389,
+ "revid": 62514,
+ "updated": "2026-10-26T20:28:59Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Skills/21",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [21172] = { cd = \"20s\", desc = \"Charges forward for 1s, breaking through enemy lines. Inflicts Knockback and Trip on affected enemies.\\nThis skill counts as a Push effect.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback03.png\", mana = 0, name = \"Zebra Charge\" }, [21175] = { cd = \"15s\", desc = \"Triggers a long, elegant leap |cFFFF9C2718 m|r forward.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback12.png\", mana = 0, name = \"Haphazard Jump\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[21172] = { cd = \"20s\", desc = \"Charges forward for 1s, breaking through enemy lines. Inflicts Knockback and Trip on affected enemies.\\nThis skill counts as a Push effect.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback03.png\", mana = 0, name = \"Zebra Charge\" },\n\t[21175] = { cd = \"15s\", desc = \"Triggers a long, elegant leap |cFFFF9C2718 m|r forward.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback12.png\", mana = 0, name = \"Haphazard Jump\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[21172] = { cd = \"20s\", desc = \"Charges forward for 1s, breaking through enemy lines. Inflicts Knockback and Trip on affected enemies.\\nThis skill counts as a Push effect.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback03.png\", mana = 0, name = \"Zebra Charge\" },\n\t[21175] = { cd = \"15s\", desc = \"Triggers a long, elegant leap |cFFFF9C2718 m|r forward.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback12.png\", mana = 0, name = \"Haphazard Jump\" },\n}"
+}

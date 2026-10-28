@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-90000",
+ "title": "Module:Data/Cards/90000",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60467,
+ "revid": 62630,
+ "updated": "2026-10-27T08:18:46Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/90000",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [9000028] = { category = \"Drink\", desc = \"A strange mixture of ingredients made by thieves using the fruits of other's efforts... and whatever they could find. It supposedly improves the luck of the drinker.\\r\\n\\r\\nIncreases |nd;loot drop rate|r +|nc;50%|r.\", grade = \"Heroic\", icon = \"icon_item_1380.png\", name = \"Mysterious Glittery Charcoal Milk\", req = 1, use = \"Consume mysterious milk.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9000028] = { category = \"Drink\", desc = \"A strange mixture of ingredients made by thieves using the fruits of other's efforts... and whatever they could find. It supposedly improves the luck of the drinker.\\r\\n\\r\\nIncreases |nd;loot drop rate|r +|nc;50%|r.\", grade = \"Heroic\", icon = \"icon_item_1380.png\", name = \"Mysterious Glittery Charcoal Milk\", req = 1, use = \"Consume mysterious milk.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9000028] = { category = \"Drink\", desc = \"A strange mixture of ingredients made by thieves using the fruits of other's efforts... and whatever they could find. It supposedly improves the luck of the drinker.\\r\\n\\r\\nIncreases |nd;loot drop rate|r +|nc;50%|r.\", grade = \"Heroic\", icon = \"icon_item_1380.png\", name = \"Mysterious Glittery Charcoal Milk\", req = 1, use = \"Consume mysterious milk.\" },\n}"
+}

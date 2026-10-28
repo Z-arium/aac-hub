@@ -1,0 +1,16 @@
+{
+ "slug": "mediawiki-citizen-footer-tagline",
+ "title": "MediaWiki:Citizen-footer-tagline",
+ "ns": 8,
+ "model": "wikitext",
+ "pageid": 1629,
+ "revid": 3280,
+ "updated": "2026-02-23T22:04:19Z",
+ "source": "https://wiki.aa-classic.com/MediaWiki:Citizen-footer-tagline",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Join our Discord: https://discord.gg/aaclassic",
+ "html": "<p>Join our Discord: <a rel=\"noopener\" href=\"https://discord.gg/aaclassic\">https://discord.gg/aaclassic</a>\n</p>",
+ "wikitext": "Join our Discord: https://discord.gg/aaclassic"
+}

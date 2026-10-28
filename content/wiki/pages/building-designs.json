@@ -1,12 +1,16 @@
 {
  "slug": "building-designs",
  "title": "Building Designs",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 973,
  "revid": 1908,
  "updated": "2024-09-13T04:02:39Z",
  "source": "https://wiki.aa-classic.com/Building_Designs",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "placeholder",
- "html": "<p>placeholder\n</p>"
+ "html": "<p>placeholder\n</p>",
+ "wikitext": "placeholder"
 }

@@ -1,0 +1,50 @@
+{
+ "slug": "template-glider",
+ "title": "Template:Glider",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 49974,
+ "revid": 62473,
+ "updated": "2026-10-26T20:19:53Z",
+ "source": "https://wiki.aa-classic.com/Template:Glider",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Item ID",
+     "1",
+     "The item ID of the glider, for example 8001101",
+     "Number",
+     "required"
+    ],
+    [
+     "Position",
+     "float",
+     "Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.Suggested valuesright left center",
+     "String",
+     "optional"
+    ],
+    [
+     "Use text",
+     "use",
+     "Optional. Replaces the \"Use:\" text of the card. Leave empty to use the standard text.",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Shows an in-game style tooltip for a glider, fetched from the sermeatball API. Usage {{Glider|8001101}} The only required parameter is the item ID of the glider. The data is read from data pages stored on the wiki (Module:Data/Gliders/..., made by sync_wiki_data.py). A glider that is not stored yet is read live from the API until the script has been run for it. The icon is the game's own icon of the glider (from the glider API); if that file is not on the wiki, the file named after the glider is used. The name, description and the flight stats (speed, gliding, turning, launch height, special skills) come from the API, with the colours of the game. float (optional): where the card sits on the page. right or left places it at that side with the text flowing around it, center centres it. Leave it out for a normal card in the flow of the page. Each special skill gets its own row, and is hoverable. The skill IDs come from the glider part of the API (/wiki/glider/<id>), matched by skill name. A skill the API does not list is shown as coloured text. Module:GliderSkillIds is optional now: an ID written there is only used for a skill the API did not give. use (optional): replaces the \"Use:\" text. Normally the standard glider text is used, and Magithopters (descriptions with \"Air Speed\") get the Magithopter text. The \"Equip effect\" text is written in the module. Needs Module:Glider, Module:IconName, Template:Grade, Template:GliderSkillRow, Template:GliderSkill (and through it Module:Mount and Template:Mount/styles.css) and Template:Glider/styles.css. Examples {{Glider|8001101}} {{Glider|8001101|float=right}} No description. Template parameters Parameter Description Type Status Item ID 1 The item ID of the glider, for example 8001101 Number required Position float Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page. Suggested values right left center String optional Use text use Optional. Replaces the \"Use:\" text of the card. Leave empty to use the standard text. String optional",
+ "html": "<p>Shows an in-game style tooltip for a glider, fetched from the sermeatball API.\n</p><p><b>Usage</b>\n</p>\n<pre>{{Glider|8001101}}</pre>\n<ul><li>The only required parameter is the item ID of the glider.</li>\n<li>The data is read from data pages stored on the wiki (<code>Module:Data/Gliders/...</code>, made by <code>sync_wiki_data.py</code>). A glider that is not stored yet is read live from the API until the script has been run for it.</li>\n<li>The icon is the game's own icon of the glider (from the glider API); if that file is not on the wiki, the file named after the glider is used.</li>\n<li>The name, description and the flight stats (speed, gliding, turning, launch height, special skills) come from the API, with the colours of the game.</li>\n<li>float (optional): where the card sits on the page. <code>right</code> or <code>left</code> places it at that side with the text flowing around it, <code>center</code> centres it. Leave it out for a normal card in the flow of the page.</li>\n<li>Each special skill gets its own row, and is hoverable. The skill IDs come from the glider part of the API (<code>/wiki/glider/&lt;id&gt;</code>), matched by skill name. A skill the API does not list is shown as coloured text. <code>Module:GliderSkillIds</code> is optional now: an ID written there is only used for a skill the API did not give.</li>\n<li>use (optional): replaces the \"Use:\" text. Normally the standard glider text is used, and Magithopters (descriptions with \"Air Speed\") get the Magithopter text.</li>\n<li>The \"Equip effect\" text is written in the module.</li>\n<li>Needs <code>Module:Glider</code>, <code>Module:IconName</code>, <code>Template:Grade</code>, <code>Template:GliderSkillRow</code>, <code>Template:GliderSkill</code> (and through it <code>Module:Mount</code> and <code>Template:Mount/styles.css</code>) and <code>Template:Glider/styles.css</code>.</li></ul>\n<p><b>Examples</b>\n</p>\n<pre>{{Glider|8001101}}\n{{Glider|8001101|float=right}}</pre>\n<section><header><p>No description.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:Glider\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Item ID</th><td><code>1</code></td><td><p>The item ID of the glider, for example 8001101</p><dl></dl></td><td>Number</td><td>required</td></tr><tr><th>Position</th><td><code>float</code></td><td><p>Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.</p><dl><dt>Suggested values</dt><dd><code>right</code> <code>left</code> <code>center</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Use text</th><td><code>use</code></td><td><p>Optional. Replaces the \"Use:\" text of the card. Leave empty to use the standard text.</p><dl></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"Template:Glider/styles.css\" /><templatestyles src=\"Template:Mount/styles.css\" />{{#if:{{#invoke:DataStore|has|Gliders|{{{1}}}}}|{{#invoke:Glider|card|id={{{1}}}|float={{{float|}}}|use={{{use|}}}}}|{{#clear_external_data:}}{{#get_web_data:\nurl=https://api.sermeatball.com/wiki/items/{{{1}}}\n|format=json with jsonpath\n|data=name=$.item_name,grade=$.base_grade_name,category=$.category_name,desc=$.description\n|suppress error\n}}{{#get_web_data:\nurl=https://api.sermeatball.com/wiki/glider/{{{1}}}\n|format=json with jsonpath\n|data=gid=$.skills[*].skill_id,gname=$.skills[*].skill_name,gicon=$.icon_filename\n|suppress error\n}}{{#invoke:Glider|card|name={{#external_value:name}}|grade={{#external_value:grade}}|category={{#external_value:category}}|desc={{#external_value:desc}}|icon={{#external_value:gicon}}|float={{{float|}}}|use={{{use|}}}|skills={{#display_external_table:template=GliderSkillRow}}}}}}</includeonly><noinclude>\nShows an in-game style tooltip for a glider, fetched from the sermeatball API.\n\n'''Usage'''\n<pre>{{Glider|8001101}}</pre>\n\n* The only required parameter is the item ID of the glider.\n* The data is read from data pages stored on the wiki (<code>Module:Data/Gliders/...</code>, made by <code>sync_wiki_data.py</code>). A glider that is not stored yet is read live from the API until the script has been run for it.\n* The icon is the game's own icon of the glider (from the glider API); if that file is not on the wiki, the file named after the glider is used.\n* The name, description and the flight stats (speed, gliding, turning, launch height, special skills) come from the API, with the colours of the game.\n* float (optional): where the card sits on the page. <code>right</code> or <code>left</code> places it at that side with the text flowing around it, <code>center</code> centres it. Leave it out for a normal card in the flow of the page.\n* Each special skill gets its own row, and is hoverable. The skill IDs come from the glider part of the API (<code>/wiki/glider/&lt;id&gt;</code>), matched by skill name. A skill the API does not list is shown as coloured text. <code>Module:GliderSkillIds</code> is optional now: an ID written there is only used for a skill the API did not give.\n* use (optional): replaces the \"Use:\" text. Normally the standard glider text is used, and Magithopters (descriptions with \"Air Speed\") get the Magithopter text.\n* The \"Equip effect\" text is written in the module.\n* Needs <code>Module:Glider</code>, <code>Module:IconName</code>, <code>Template:Grade</code>, <code>Template:GliderSkillRow</code>, <code>Template:GliderSkill</code> (and through it <code>Module:Mount</code> and <code>Template:Mount/styles.css</code>) and <code>Template:Glider/styles.css</code>.\n\n'''Examples'''\n<pre>{{Glider|8001101}}\n{{Glider|8001101|float=right}}</pre>\n<templatedata>\n{\n\t\"params\": {\n\t\t\"1\": {\n\t\t\t\"label\": \"Item ID\",\n\t\t\t\"description\": \"The item ID of the glider, for example 8001101\",\n\t\t\t\"type\": \"number\",\n\t\t\t\"required\": true\n\t\t},\n\t\t\"use\": {\n\t\t\t\"label\": \"Use text\",\n\t\t\t\"description\": \"Optional. Replaces the \\\"Use:\\\" text of the card. Leave empty to use the standard text.\",\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"float\": {\n\t\t\t\"label\": \"Position\",\n\t\t\t\"description\": \"Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggestedvalues\": [\n\t\t\t\t\"right\",\n\t\t\t\t\"left\",\n\t\t\t\t\"center\"\n\t\t\t]\n\t\t}\n\t},\n\t\"paramOrder\": [\n\t\t\"1\",\n\t\t\"float\",\n\t\t\"use\"\n\t]\n}\n</templatedata></noinclude>"
+}

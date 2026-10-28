@@ -1,0 +1,16 @@
+{
+ "slug": "mediawiki-sidebar",
+ "title": "MediaWiki:Sidebar",
+ "ns": 8,
+ "model": "wikitext",
+ "pageid": 504,
+ "revid": 1037,
+ "updated": "2024-05-22T17:22:34Z",
+ "source": "https://wiki.aa-classic.com/MediaWiki:Sidebar",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "navigation mainpage|mainpage-description randompage-url|randompage helppage|help-mediawiki SEARCH TOOLBOX LANGUAGES",
+ "html": "<ul><li>navigation\n<ul><li>mainpage|mainpage-description</li>\n<li>randompage-url|randompage</li>\n<li>helppage|help-mediawiki</li></ul></li>\n<li>SEARCH</li>\n<li>TOOLBOX</li>\n<li>LANGUAGES</li></ul>",
+ "wikitext": "\n* navigation\n** mainpage|mainpage-description\n** randompage-url|randompage\n** helppage|help-mediawiki\n* SEARCH\n* TOOLBOX\n* LANGUAGES"
+}

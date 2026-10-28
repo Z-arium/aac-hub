@@ -1,0 +1,16 @@
+{
+ "slug": "template-grade-rare",
+ "title": "Template:Grade/Rare",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 2015,
+ "revid": 3925,
+ "updated": "2026-10-04T15:52:00Z",
+ "source": "https://wiki.aa-classic.com/Template:Grade/Rare",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "{{{1}}}",
+ "html": "<p><span style=\"color: rgb(85, 143, 215)\">{{{1}}}</span>\n</p>",
+ "wikitext": "<span style=\"color: rgb(85, 143, 215);\">{{{1}}}</span>"
+}

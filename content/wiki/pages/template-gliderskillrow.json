@@ -1,0 +1,16 @@
+{
+ "slug": "template-gliderskillrow",
+ "title": "Template:GliderSkillRow",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 58572,
+ "revid": 60674,
+ "updated": "2026-10-25T19:50:54Z",
+ "source": "https://wiki.aa-classic.com/Template:GliderSkillRow",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Row template for Template:Glider. One call per skill in the glider API, filled in by External Data (#display_external_table). It hands the skill ID and name to Module:Glider as one line of text (\"id¦name‖\"). Not meant to be used on its own.",
+ "html": "<p>Row template for Template:Glider. One call per skill in the glider API, filled in by External Data (#display_external_table).\nIt hands the skill ID and name to Module:Glider as one line of text (\"id¦name‖\").\nNot meant to be used on its own.\n</p>",
+ "wikitext": "<includeonly>{{{gid}}}¦{{{gname}}}‖</includeonly><noinclude>\nRow template for Template:Glider. One call per skill in the glider API, filled in by External Data (#display_external_table).\nIt hands the skill ID and name to Module:Glider as one line of text (\"id¦name‖\").\nNot meant to be used on its own.\n</noinclude>"
+}

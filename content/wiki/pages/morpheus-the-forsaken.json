@@ -1,12 +1,16 @@
 {
  "slug": "morpheus-the-forsaken",
  "title": "Morpheus the Forsaken",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1624,
  "revid": 3269,
  "updated": "2026-02-19T12:11:53Z",
  "source": "https://wiki.aa-classic.com/Morpheus_the_Forsaken",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "tbc",
- "html": "<p>tbc\n</p>"
+ "html": "<p>tbc\n</p>",
+ "wikitext": "tbc"
 }

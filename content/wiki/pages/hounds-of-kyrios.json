@@ -1,12 +1,16 @@
 {
  "slug": "hounds-of-kyrios",
  "title": "Hounds of Kyrios",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1626,
  "revid": 3271,
  "updated": "2026-02-19T12:12:19Z",
  "source": "https://wiki.aa-classic.com/Hounds_of_Kyrios",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "tbc",
- "html": "<p>tbc\n</p>"
+ "html": "<p>tbc\n</p>",
+ "wikitext": "tbc"
 }

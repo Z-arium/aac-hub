@@ -1,12 +1,18 @@
 {
  "slug": "crystalline-bloodbath",
  "title": "Crystalline Bloodbath",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 68,
  "revid": 2679,
  "updated": "2025-07-04T18:38:06Z",
  "source": "https://wiki.aa-classic.com/Crystalline_Bloodbath",
  "headings": [],
  "tables": [],
+ "images": [
+  "Bb.png"
+ ],
  "text": "Every Friday, an event starts that allows you to take a quest from your respective faction's capital city at the Shadow Daru NPC. Kill 50 enemies in Diamond Shores to complete the quest and receive 30 activity tokens. For Pirates the kills required is reduced.",
- "html": "<p>Every Friday, an event starts that allows you to take a quest from your respective faction's capital city at the Shadow Daru NPC. Kill 50 enemies in Diamond Shores to complete the quest and receive 30 activity tokens. For Pirates the kills required is reduced. \n</p><p><span><img src=\"https://wiki.aa-classic.com/images/0/0f/Bb.png\" width=\"316\" height=\"421\" loading=\"lazy\"></span>\n</p>"
+ "html": "<p>Every Friday, an event starts that allows you to take a quest from your respective faction's capital city at the Shadow Daru NPC. Kill 50 enemies in Diamond Shores to complete the quest and receive 30 activity tokens. For Pirates the kills required is reduced. \n</p><p><span><img src=\"/wiki-files/49/49e5d9c25bab1d5a3204421828660194a85296e9.png\" width=\"316\" height=\"421\" loading=\"lazy\"></span>\n</p>",
+ "wikitext": "Every Friday, an event starts that allows you to take a quest from your respective faction's capital city at the Shadow Daru NPC. Kill 50 enemies in Diamond Shores to complete the quest and receive 30 activity tokens. For Pirates the kills required is reduced. \n\n[[File:Bb.png]]"
 }

@@ -1,12 +1,16 @@
 {
  "slug": "dahutas-champion-nazar",
  "title": "Dahuta's Champion Nazar",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1623,
  "revid": 3268,
  "updated": "2026-02-19T12:11:38Z",
  "source": "https://wiki.aa-classic.com/Dahuta's_Champion_Nazar",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "tbc",
- "html": "<p>tbc\n</p>"
+ "html": "<p>tbc\n</p>",
+ "wikitext": "tbc"
 }

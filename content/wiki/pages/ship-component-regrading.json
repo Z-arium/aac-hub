@@ -1,12 +1,16 @@
 {
  "slug": "ship-component-regrading",
  "title": "Ship Component Regrading",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 868,
  "revid": 3096,
  "updated": "2025-11-08T18:46:28Z",
  "source": "https://wiki.aa-classic.com/Ship_Component_Regrading",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "Back to Ships tbc",
- "html": "<p>Back to <a href=\"/wiki/ships\">Ships</a>\n</p><p><br>\ntbc\n</p>"
+ "html": "<p>Back to <a href=\"/wiki/ships\">Ships</a>\n</p><p><br>\ntbc\n</p>",
+ "wikitext": "Back to [[Ships]]\n\n\ntbc"
 }

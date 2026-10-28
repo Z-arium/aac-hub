@@ -1,0 +1,50 @@
+{
+ "slug": "template-mount",
+ "title": "Template:Mount",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 49933,
+ "revid": 62472,
+ "updated": "2026-10-26T20:16:33Z",
+ "source": "https://wiki.aa-classic.com/Template:Mount",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Item ID",
+     "1",
+     "The item ID of the mount, for example 9002335",
+     "Number",
+     "required"
+    ],
+    [
+     "Base move speed",
+     "speed",
+     "Optional. Replaces the move speed from the API, in m/s, for example 11.7",
+     "String",
+     "optional"
+    ],
+    [
+     "Position",
+     "float",
+     "Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.Suggested valuesright left center",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Shows an in-game style tooltip for a mount, fetched from the sermeatball API. Hover over a skill name to read what it does. Usage {{Mount|9002335}} The only parameter is the item ID of the mount. The name, grade, description, skills (with effects) and move speed all come from the API. The icon is the game's own icon of the item (icon_item_NNNN.png, read from aa-classic.com); if that file is not on the wiki, the file named after the mount is used. speed (optional): replaces the move speed from the API, in m/s. float (optional): where the card sits on the page. right or left places it at that side with the text flowing around it, center centres it. Leave it out for a normal card in the flow of the page. Examples {{Mount|9002335|float=right}} {{Mount|9002317|speed=11.7|float=left}} The data is read from data pages stored on the wiki (Module:Data/Mounts/..., made by sync_wiki_data.py), so the cards load without asking the APIs. A mount that is not stored yet is read live (cooldown, casting time and mana from aa-classic.com, one request per skill) until the script has been run for it. Needs Module:Mount, Module:IconName, Template:Grade, Template:MountSkillRow and Template:Mount/styles.css. No description. Template parameters Parameter Description Type Status Item ID 1 The item ID of the mount, for example 9002335 Number required Base move speed speed Optional. Replaces the move speed from the API, in m/s, for example 11.7 String optional Position float Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page. Suggested values right left center String optional",
+ "html": "<p>Shows an in-game style tooltip for a mount, fetched from the sermeatball API. Hover over a skill name to read what it does.\n</p><p><b>Usage</b>\n</p>\n<pre>{{Mount|9002335}}</pre>\n<ul><li>The only parameter is the item ID of the mount.</li>\n<li>The name, grade, description, skills (with effects) and move speed all come from the API. The icon is the game's own icon of the item (<code>icon_item_NNNN.png</code>, read from aa-classic.com); if that file is not on the wiki, the file named after the mount is used.</li>\n<li>speed (optional): replaces the move speed from the API, in m/s.</li>\n<li>float (optional): where the card sits on the page. <code>right</code> or <code>left</code> places it at that side with the text flowing around it, <code>center</code> centres it. Leave it out for a normal card in the flow of the page.</li></ul>\n<p><b>Examples</b>\n</p>\n<pre>{{Mount|9002335|float=right}}\n{{Mount|9002317|speed=11.7|float=left}}</pre>\n<ul><li>The data is read from data pages stored on the wiki (<code>Module:Data/Mounts/...</code>, made by <code>sync_wiki_data.py</code>), so the cards load without asking the APIs. A mount that is not stored yet is read live (cooldown, casting time and mana from aa-classic.com, one request per skill) until the script has been run for it.</li>\n<li>Needs <code>Module:Mount</code>, <code>Module:IconName</code>, <code>Template:Grade</code>, <code>Template:MountSkillRow</code> and <code>Template:Mount/styles.css</code>.</li></ul>\n<section><header><p>No description.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:Mount\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Item ID</th><td><code>1</code></td><td><p>The item ID of the mount, for example 9002335</p><dl></dl></td><td>Number</td><td>required</td></tr><tr><th>Base move speed</th><td><code>speed</code></td><td><p>Optional. Replaces the move speed from the API, in m/s, for example 11.7</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Position</th><td><code>float</code></td><td><p>Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.</p><dl><dt>Suggested values</dt><dd><code>right</code> <code>left</code> <code>center</code></dd></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"Template:Mount/styles.css\" />{{#if:{{#invoke:DataStore|has|Mounts|{{{1}}}}}|{{#invoke:Mount|card|id={{{1}}}|speed={{{speed|}}}|float={{{float|}}}}}|{{#clear_external_data:}}{{#get_web_data:\nurl=https://aa-classic.com/data/items/{{{1}}}.json\n|format=json with jsonpath\n|data=icon=$.icon_filename\n|suppress error\n}}{{#get_web_data:\nurl=https://api.sermeatball.com/wiki/items/{{{1}}}\n|format=json with jsonpath\n|data=grade=$.base_grade_name\n|suppress error\n}}{{#get_web_data:\nurl=https://api.sermeatball.com/wiki/mount/{{{1}}}\n|format=json with jsonpath\n|data=name=$.item_name,speed=$.move_speed,desc=$.description_text,slevel=$.skills[*].unlock_level,sid=$.skills[*].skill_id,sname=$.skills[*].skill_name,sdesc=$.skills[*].description_text\n|suppress error\n}}{{#invoke:Mount|card|name={{#external_value:name}}|grade={{#external_value:grade}}|icon={{#external_value:icon}}|speed={{#if:{{{speed|}}}|{{{speed}}}|{{#external_value:speed}}}}|desc={{#external_value:desc}}|float={{{float|}}}|skills={{#display_external_table:template=MountSkillRow}}}}}}</includeonly><noinclude>\nShows an in-game style tooltip for a mount, fetched from the sermeatball API. Hover over a skill name to read what it does.\n\n'''Usage'''\n<pre>{{Mount|9002335}}</pre>\n\n* The only parameter is the item ID of the mount.\n* The name, grade, description, skills (with effects) and move speed all come from the API. The icon is the game's own icon of the item (<code>icon_item_NNNN.png</code>, read from aa-classic.com); if that file is not on the wiki, the file named after the mount is used.\n* speed (optional): replaces the move speed from the API, in m/s.\n* float (optional): where the card sits on the page. <code>right</code> or <code>left</code> places it at that side with the text flowing around it, <code>center</code> centres it. Leave it out for a normal card in the flow of the page.\n\n'''Examples'''\n<pre>{{Mount|9002335|float=right}}\n{{Mount|9002317|speed=11.7|float=left}}</pre>\n* The data is read from data pages stored on the wiki (<code>Module:Data/Mounts/...</code>, made by <code>sync_wiki_data.py</code>), so the cards load without asking the APIs. A mount that is not stored yet is read live (cooldown, casting time and mana from aa-classic.com, one request per skill) until the script has been run for it.\n* Needs <code>Module:Mount</code>, <code>Module:IconName</code>, <code>Template:Grade</code>, <code>Template:MountSkillRow</code> and <code>Template:Mount/styles.css</code>.\n<templatedata>\n{\n\t\"params\": {\n\t\t\"1\": {\n\t\t\t\"label\": \"Item ID\",\n\t\t\t\"description\": \"The item ID of the mount, for example 9002335\",\n\t\t\t\"type\": \"number\",\n\t\t\t\"required\": true\n\t\t},\n\t\t\"speed\": {\n\t\t\t\"label\": \"Base move speed\",\n\t\t\t\"description\": \"Optional. Replaces the move speed from the API, in m/s, for example 11.7\",\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"float\": {\n\t\t\t\"label\": \"Position\",\n\t\t\t\"description\": \"Optional. Where the card sits on the page: right or left (text flows around it) or center. Leave empty for a normal card in the flow of the page.\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggestedvalues\": [\n\t\t\t\t\"right\",\n\t\t\t\t\"left\",\n\t\t\t\t\"center\"\n\t\t\t]\n\t\t}\n\t},\n\t\"paramOrder\": [\n\t\t\"1\",\n\t\t\"speed\",\n\t\t\"float\"\n\t]\n}\n</templatedata></noinclude>"
+}

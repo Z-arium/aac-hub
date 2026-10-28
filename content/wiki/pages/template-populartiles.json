@@ -1,0 +1,36 @@
+{
+ "slug": "template-populartiles",
+ "title": "Template:PopularTiles",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 536,
+ "revid": 3320,
+ "updated": "2026-02-25T11:20:35Z",
+ "source": "https://wiki.aa-classic.com/Template:PopularTiles",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Getting_Started",
+   "text": "Getting Started"
+  },
+  {
+   "level": 2,
+   "id": "Custom_Server_Changes",
+   "text": "Custom Server Changes"
+  },
+  {
+   "level": 2,
+   "id": "Joining_Classic_from_Retail",
+   "text": "Joining Classic from Retail"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "Gliders.webp",
+  "1-2patchwithbackground.png",
+  "JoinRetail.jpg"
+ ],
+ "text": "Template:PopularTiles/doc Getting Started Custom Server Changes Joining Classic from Retail",
+ "html": "<p><a href=\"https://wiki.aa-classic.com/index.php?title=Template:PopularTiles/doc&action=edit&redlink=1\" rel=\"noopener\">Template:PopularTiles/doc</a>\n</p>\n<div>\n    <div>\n        <div><span><a href=\"/wiki/getting-started\"><img src=\"/wiki-files/b7/b7fd4c5be56daec34dbbaa28d44c7e68eb8d4dd2.webp\" width=\"1920\" height=\"1040\" loading=\"lazy\"></a></span></div>\n        <div><h2 id=\"Getting_Started\"><a href=\"/wiki/getting-started\">Getting Started</a></h2></div>\n    </div>\n    <div>\n        <div><span><a href=\"/wiki/custom-server-changes\"><img src=\"/wiki-files/c7/c7a4f3341cb3a42c21deefbd21ecac79a1167455.png\" width=\"850\" height=\"478\" loading=\"lazy\"></a></span></div>\n        <div><h2 id=\"Custom_Server_Changes\"><a href=\"/wiki/custom-server-changes\">Custom Server Changes</a></h2></div>\n    </div>\n    <div>\n        <div><span><a href=\"/wiki/joining-classic-from-retail\"><img src=\"/wiki-files/50/50ed5eb9a4c8b3445ea4f9793670fa4350e8cd55.jpg\" width=\"1914\" height=\"1051\" loading=\"lazy\"></a></span></div>\n        <div><h2 id=\"Joining_Classic_from_Retail\"><a href=\"/wiki/joining-classic-from-retail\">Joining Classic from Retail</a></h2></div>\n    </div>\n</div>",
+ "wikitext": "<noinclude>{{/doc}}</noinclude>__NOTOC__\n<div class=\"mainpage-contents tile-row\">\n    <div class=\"tile-halves\">\n        <div class=\"tile-top tile-image\">[[File:Gliders.webp|link=Getting Started]]</div>\n        <div class=\"tile-bottom link-button\"><h2>[[Getting Started]]</h2></div>\n    </div>\n    <div class=\"tile-halves\">\n        <div class=\"tile-top tile-image\">[[File:1-2patchwithbackground.png|link=Custom Server Changes]]</div>\n        <div class=\"tile-bottom link-button\"><h2>[[Custom Server Changes]]</h2></div>\n    </div>\n    <div class=\"tile-halves\">\n        <div class=\"tile-top tile-image\">[[File:JoinRetail.jpg|link=Joining Classic from Retail]]</div>\n        <div class=\"tile-bottom link-button\"><h2>[[Joining Classic from Retail]]</h2></div>\n    </div>\n</div>"
+}

@@ -1,12 +1,18 @@
 {
  "slug": "fishing-quest",
  "title": "Fishing quest",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 291,
  "revid": 2092,
  "updated": "2024-09-26T03:41:40Z",
  "source": "https://wiki.aa-classic.com/Fishing_quest",
  "headings": [],
  "tables": [],
+ "images": [
+  "Fishingquest.png"
+ ],
  "text": "The Fishing quest named 'Preparing for the fish market' can be obtained from any Fish Stand on Saturdays. Often, players will do this in raids concurrent with the Mirage Isle Fishing Contest event, which is also on Saturdays. However, you have whole week to complete the quest, and you need to catch and sell 10 fish to get the quest done. Tip: You can complete this quest faster if you do it in a party or in a raid, since all of the fish sold to vendor (not those crafted into decor items) count toward quest total for all party/raid members.",
- "html": "<p>The Fishing quest named <i><b>'Preparing for the fish market'</b></i> can be obtained from any Fish Stand on Saturdays. \n</p><p>Often, players will do this in raids concurrent with the Mirage Isle Fishing Contest event, which is also on Saturdays. However, you have whole week to complete the quest, and you need to catch and sell 10 fish to get the quest done.\n</p><p><b>Tip:</b> You can complete this quest faster if you do it in a party or in a raid, since all of the fish sold to vendor <i>(not those crafted into decor items)</i> count toward quest total for all party/raid members.\n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/3/3c/Fishingquest.png\" width=\"306\" height=\"413\" loading=\"lazy\"><figcaption></figcaption></figure>"
+ "html": "<p>The Fishing quest named <i><b>'Preparing for the fish market'</b></i> can be obtained from any Fish Stand on Saturdays. \n</p><p>Often, players will do this in raids concurrent with the Mirage Isle Fishing Contest event, which is also on Saturdays. However, you have whole week to complete the quest, and you need to catch and sell 10 fish to get the quest done.\n</p><p><b>Tip:</b> You can complete this quest faster if you do it in a party or in a raid, since all of the fish sold to vendor <i>(not those crafted into decor items)</i> count toward quest total for all party/raid members.\n</p>\n<figure><img src=\"/wiki-files/18/18f794205937bd230976c825c2b32fcfd870c9db.png\" width=\"306\" height=\"413\" loading=\"lazy\"><figcaption></figcaption></figure>",
+ "wikitext": "The Fishing quest named '''''<nowiki/>'Preparing for the fish market'''''' can be obtained from any Fish Stand on Saturdays. \n\nOften, players will do this in raids concurrent with the Mirage Isle Fishing Contest event, which is also on Saturdays. However, you have whole week to complete the quest, and you need to catch and sell 10 fish to get the quest done.\n\n'''Tip:''' You can complete this quest faster if you do it in a party or in a raid, since all of the fish sold to vendor ''(not those crafted into decor items)'' count toward quest total for all party/raid members.\n[[File:Fishingquest.png|left]]"
 }

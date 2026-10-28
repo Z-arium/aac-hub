@@ -1,0 +1,16 @@
+{
+ "slug": "template-populartiles-styles-css",
+ "title": "Template:PopularTiles/styles.css",
+ "ns": 10,
+ "model": "sanitized-css",
+ "pageid": 1637,
+ "revid": 3316,
+ "updated": "2026-02-25T11:18:48Z",
+ "source": "https://wiki.aa-classic.com/Template:PopularTiles/styles.css",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "/* Ensure the grid item itself stretches */ .tile-row { align-items: stretch; /* grid default is stretch, but safe */ } /* Ensure the halves define a real height for children */ .tile-halves { min-height: 300px; width: 100%; display: grid; /* better than flex for overlay cards */ }",
+ "html": "<pre><code>/* Ensure the grid item itself stretches */\n.tile-row {\n  align-items: stretch; /* grid default is stretch, but safe */\n}\n\n/* Ensure the halves define a real height for children */\n.tile-halves {\n  min-height: 300px;\n  width: 100%;\n  display: grid;         /* better than flex for overlay cards */\n}</code></pre>",
+ "wikitext": "/* Ensure the grid item itself stretches */\n.tile-row {\n  align-items: stretch; /* grid default is stretch, but safe */\n}\n\n/* Ensure the halves define a real height for children */\n.tile-halves {\n  min-height: 300px;\n  width: 100%;\n  display: grid;         /* better than flex for overlay cards */\n}"
+}

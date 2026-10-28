@@ -1,12 +1,18 @@
 {
  "slug": "event-calendar",
  "title": "Event Calendar",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 436,
  "revid": 910,
  "updated": "2024-04-29T17:21:16Z",
  "source": "https://wiki.aa-classic.com/Event_Calendar",
  "headings": [],
  "tables": [],
+ "images": [
+  "Even Schedule 2.png"
+ ],
  "text": "Live timers here: https://aa-classic.com/timers This calendar may not be perfectly accurate or up to date. event schedule",
- "html": "<p>Live timers here: <a rel=\"noopener\" href=\"https://aa-classic.com/timers\">https://aa-classic.com/timers</a>\n</p><p>\nThis calendar may not be perfectly accurate or up to date.</p><figure><img alt=\"event schedule\" src=\"https://wiki.aa-classic.com/images/4/43/Even_Schedule_2.png\" width=\"1566\" height=\"595\" loading=\"lazy\"><figcaption>event schedule</figcaption></figure>"
+ "html": "<p>Live timers here: <a rel=\"noopener\" href=\"https://aa-classic.com/timers\">https://aa-classic.com/timers</a>\n</p><p>\nThis calendar may not be perfectly accurate or up to date.</p><figure><img alt=\"event schedule\" src=\"/wiki-files/0c/0c6eea6e586ae52273dde80d860488bf18dcb0db.png\" width=\"1566\" height=\"595\" loading=\"lazy\"><figcaption>event schedule</figcaption></figure>",
+ "wikitext": "Live timers here: https://aa-classic.com/timers\n\nThis calendar may not be perfectly accurate or up to date.[[File:Even Schedule 2.png|alt=event schedule|left|frame|event schedule]]"
 }

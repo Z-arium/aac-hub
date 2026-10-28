@@ -1,6 +1,8 @@
 {
  "slug": "fusion-alembic",
  "title": "Fusion Alembic",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 540,
  "revid": 2079,
  "updated": "2024-09-25T05:00:59Z",
@@ -50,6 +52,10 @@
    ]
   }
  ],
+ "images": [
+  "Fusionalembic.png"
+ ],
  "text": "Fusion Alembic Icon Enables an item for use in the Fusion process, which combines the stats from one item with the appearance of another. Fusion is available from Blacksmiths, Weapon Merchants and Armor Merchants. Can't be used on arm and waist armor or accessories. Item Alembics Required Creating an Image Item 1 Wardrobe / Costume Items 0 Weapons 9 Chest and Leg Items 6 Head and Cloak Items 4 Hand and Foot Items 2 Gliders 15 Undergarments 10",
- "html": "<figure><img src=\"https://wiki.aa-classic.com/images/3/32/Fusionalembic.png\" width=\"49\" height=\"47\" loading=\"lazy\"><figcaption>Fusion Alembic Icon</figcaption></figure>\n<p>Enables an item for use in the Fusion process, which combines the stats from one item with the appearance of another. Fusion is available from Blacksmiths, Weapon Merchants and Armor Merchants.\n</p><p>Can't be used on arm and waist armor or accessories.\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Item\n</th>\n<th>Alembics Required\n</th></tr>\n<tr>\n<td>Creating an Image Item\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Wardrobe / Costume Items\n</td>\n<td>0\n</td></tr>\n<tr>\n<td>Weapons\n</td>\n<td>9\n</td></tr>\n<tr>\n<td>Chest and Leg Items\n</td>\n<td>6\n</td></tr>\n<tr>\n<td>Head and Cloak Items\n</td>\n<td>4\n</td></tr>\n<tr>\n<td>Hand and Foot Items\n</td>\n<td>2\n</td></tr>\n<tr>\n<td>Gliders\n</td>\n<td>15\n</td></tr>\n<tr>\n<td>Undergarments\n</td>\n<td>10\n</td></tr></tbody></table>"
+ "html": "<figure><img src=\"/wiki-files/15/1556c36ab786e5ef5ed6302ec6ca6467a13e5c35.png\" width=\"49\" height=\"47\" loading=\"lazy\"><figcaption>Fusion Alembic Icon</figcaption></figure>\n<p>Enables an item for use in the Fusion process, which combines the stats from one item with the appearance of another. Fusion is available from Blacksmiths, Weapon Merchants and Armor Merchants.\n</p><p>Can't be used on arm and waist armor or accessories.\n</p>\n<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Item\n</th>\n<th>Alembics Required\n</th></tr>\n<tr>\n<td>Creating an Image Item\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Wardrobe / Costume Items\n</td>\n<td>0\n</td></tr>\n<tr>\n<td>Weapons\n</td>\n<td>9\n</td></tr>\n<tr>\n<td>Chest and Leg Items\n</td>\n<td>6\n</td></tr>\n<tr>\n<td>Head and Cloak Items\n</td>\n<td>4\n</td></tr>\n<tr>\n<td>Hand and Foot Items\n</td>\n<td>2\n</td></tr>\n<tr>\n<td>Gliders\n</td>\n<td>15\n</td></tr>\n<tr>\n<td>Undergarments\n</td>\n<td>10\n</td></tr></tbody></table>",
+ "wikitext": "[[File:Fusionalembic.png|thumb|Fusion Alembic Icon]]\nEnables an item for use in the Fusion process, which combines the stats from one item with the appearance of another. Fusion is available from Blacksmiths, Weapon Merchants and Armor Merchants.\n\nCan't be used on arm and waist armor or accessories.\n{| class=\"wikitable\"\n|+\n!Item\n!Alembics Required\n|-\n|Creating an Image Item\n|1\n|-\n|Wardrobe / Costume Items \n|0\n|-\n|Weapons\n|9\n|-\n|Chest and Leg Items\n|6\n|-\n|Head and Cloak Items\n|4\n|-\n|Hand and Foot Items\n|2\n|-\n|Gliders\n|15\n|-\n|Undergarments\n|10\n|}"
 }

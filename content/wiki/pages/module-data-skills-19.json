@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skills-19",
+ "title": "Module:Data/Skills/19",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60388,
+ "revid": 62513,
+ "updated": "2026-10-26T20:28:58Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Skills/19",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [19087] = { cd = \"1m\", desc = \"Raise your spear high and charge forward for 7s.\\nYou cannot turn left or right once the charge begins.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback03.png\", mana = 0, name = \"La Mancha's Call\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19087] = { cd = \"1m\", desc = \"Raise your spear high and charge forward for 7s.\\nYou cannot turn left or right once the charge begins.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback03.png\", mana = 0, name = \"La Mancha's Call\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19087] = { cd = \"1m\", desc = \"Raise your spear high and charge forward for 7s.\\nYou cannot turn left or right once the charge begins.\\nCan't be used while carrying a trade pack.\", icon = \"icon_skill_horseback03.png\", mana = 0, name = \"La Mancha's Call\" },\n}"
+}

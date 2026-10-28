@@ -1,0 +1,23 @@
+{
+ "slug": "template-contents",
+ "title": "Template:Contents",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 513,
+ "revid": 3321,
+ "updated": "2026-02-25T11:21:40Z",
+ "source": "https://wiki.aa-classic.com/Template:Contents",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Races.jpg",
+  "SkillTrees.png",
+  "FreighterRun.jpg",
+  "Gearworkbench.png",
+  "Abyssalisland.png",
+  "Red dragon.webp"
+ ],
+ "text": "Races Skill Trees Earning Gold Gearing World Events World Bosses",
+ "html": "<div role=\"navigation\"><div><div><span><span><img src=\"/wiki-files/e7/e7d4a7fa3b91a292fe053b92230ce6cb429fa9b6.jpg\" width=\"86\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/races\">Races</a></div><div><div><span><span><img src=\"/wiki-files/81/81ea2e37b7979e8f957e61fa364a2563790f60f5.png\" width=\"50\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/skill-trees\">Skill Trees</a></div><div><div><span><span><img src=\"/wiki-files/de/de7ef3f66f141ef96dd1d574a64b5295153953e5.jpg\" width=\"88\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/earning-gold\">Earning Gold</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b86d3fd834b1f73dec540f28ed148576657b8cc.png\" width=\"71\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/gearing\">Gearing</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b435e9d5dfc922002559f3ce04f35b2b5a66ddf.png\" width=\"72\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-events\">World Events</a></div><div><div><span><span><img src=\"/wiki-files/6c/6cd4d2265bea0588e0dfbf5d4760f98aa974dfa8.webp\" width=\"77\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-bosses\">World Bosses</a></div></div>",
+ "wikitext": "{{Navpills\n|page1 = Races \n|image1 = Races.jpg\n|page2 = Skill Trees \n|image2 = SkillTrees.png\n|page3 = Earning Gold \n|image3 = FreighterRun.jpg\n|page4 = Gearing \n|image4 = Gearworkbench.png\n|page5 = World Events \n|image5 = Abyssalisland.png\n|page6 = World Bosses \n|image6 = Red dragon.webp\n}}"
+}

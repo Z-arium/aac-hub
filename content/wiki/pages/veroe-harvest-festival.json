@@ -1,6 +1,8 @@
 {
  "slug": "veroe-harvest-festival",
  "title": "Veroe Harvest Festival",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 558,
  "revid": 1761,
  "updated": "2024-07-23T20:11:56Z",
@@ -18,6 +20,13 @@
   }
  ],
  "tables": [],
+ "images": [
+  "3.jpg",
+  "Veroe1.png",
+  "Veroe2.png",
+  "Veroe3.png"
+ ],
  "text": "Veroe entrance in Marianople (west) Entrance The entrance to the Veroe event is located in each factions main city. The portal activates only during Veroe event. The event occurs at 3:30 P.M. and 7:30 P.M. EST on Tuesday, Thursday, and Saturday. Quests There is also a one-time quest which rewards 50 Activity Tokens for participating in in the Veroe Harvest Festival. There is also an achievement for participating which rewards 5 Activity Tokens, and an achievement which rewards a Priceless Coin for participating 5 times.",
- "html": "<figure><img src=\"https://wiki.aa-classic.com/images/thumb/7/79/3.jpg/300px-3.jpg\" width=\"300\" height=\"316\" srcset=\"https://wiki.aa-classic.com/images/thumb/7/79/3.jpg/450px-3.jpg 1.5x, https://wiki.aa-classic.com/images/thumb/7/79/3.jpg/600px-3.jpg 2x\" loading=\"lazy\"><figcaption>Veroe entrance in Marianople (west)</figcaption></figure>\n<h3 id=\"Entrance\">Entrance</h3>\n<p>The entrance to the Veroe event is located in each factions main city. The portal activates only during Veroe event. \n</p><p>The event occurs at 3:30 P.M. and 7:30 P.M. EST on Tuesday, Thursday, and Saturday. \n</p>\n<h3 id=\"Quests\">Quests</h3>\n<p>There is also a one-time quest which rewards 50 <a href=\"/wiki/activity-tokens\">Activity Tokens</a> for participating in in the Veroe Harvest Festival. \n</p><p>There is also an achievement for participating which rewards 5 <a href=\"/wiki/activity-tokens\">Activity Tokens</a>, and an achievement which rewards a <a href=\"/wiki/currencies#Priceless_Coin\">Priceless Coin</a> for participating 5 times.\n</p><p><span><img src=\"https://wiki.aa-classic.com/images/8/81/Veroe1.png\" width=\"368\" height=\"454\" loading=\"lazy\"></span><span><img src=\"https://wiki.aa-classic.com/images/0/03/Veroe2.png\" width=\"362\" height=\"483\" loading=\"lazy\"></span><span><img src=\"https://wiki.aa-classic.com/images/3/37/Veroe3.png\" width=\"368\" height=\"451\" loading=\"lazy\"></span>\n</p>"
+ "html": "<figure><img src=\"/wiki-files/69/69ba5ebf4565ccbce534508bc0a9a4174732cdd2.jpg\" width=\"300\" height=\"316\" loading=\"lazy\"><figcaption>Veroe entrance in Marianople (west)</figcaption></figure>\n<h3 id=\"Entrance\">Entrance</h3>\n<p>The entrance to the Veroe event is located in each factions main city. The portal activates only during Veroe event. \n</p><p>The event occurs at 3:30 P.M. and 7:30 P.M. EST on Tuesday, Thursday, and Saturday. \n</p>\n<h3 id=\"Quests\">Quests</h3>\n<p>There is also a one-time quest which rewards 50 <a href=\"/wiki/activity-tokens\">Activity Tokens</a> for participating in in the Veroe Harvest Festival. \n</p><p>There is also an achievement for participating which rewards 5 <a href=\"/wiki/activity-tokens\">Activity Tokens</a>, and an achievement which rewards a <a href=\"/wiki/currencies#Priceless_Coin\">Priceless Coin</a> for participating 5 times.\n</p><p><span><img src=\"/wiki-files/ad/adc04f6cf3f5c82976ab9a45e78608697c946bed.png\" width=\"368\" height=\"454\" loading=\"lazy\"></span><span><img src=\"/wiki-files/e8/e8a61e963159e97aad312d22d85ae2ee78f7d509.png\" width=\"362\" height=\"483\" loading=\"lazy\"></span><span><img src=\"/wiki-files/c7/c7181a5175d67731020a0e2189bc49cd0703d2c1.png\" width=\"368\" height=\"451\" loading=\"lazy\"></span>\n</p>",
+ "wikitext": "[[File:3.jpg|thumb|Veroe entrance in Marianople (west)]]\n\n=== Entrance ===\nThe entrance to the Veroe event is located in each factions main city. The portal activates only during Veroe event. \n\nThe event occurs at 3:30 P.M. and 7:30 P.M. EST on Tuesday, Thursday, and Saturday. \n\n=== Quests ===\nThere is also a one-time quest which rewards 50 [[Activity Tokens]] for participating in in the Veroe Harvest Festival. \n\nThere is also an achievement for participating which rewards 5 [[Activity Tokens]], and an achievement which rewards a [[Currencies#Priceless Coin|Priceless Coin]] for participating 5 times.\n\n[[File:Veroe1.png]][[File:Veroe2.png]][[File:Veroe3.png]]"
 }

@@ -1,12 +1,16 @@
 {
  "slug": "red-dragon",
  "title": "Red Dragon",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1467,
  "revid": 3008,
  "updated": "2025-11-08T14:42:21Z",
  "source": "https://wiki.aa-classic.com/Red_Dragon",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "tbc",
- "html": "<p>tbc\n</p>"
+ "html": "<p>tbc\n</p>",
+ "wikitext": "tbc"
 }
