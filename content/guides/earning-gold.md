@@ -7,6 +7,8 @@ updated: 2026-10-28
 sources: https://wiki.aa-classic.com/Earning_Gold, https://wiki.aa-classic.com/Custom_Server_Changes
 ---
 
+Want the ranked version? See [Best ways to make gold right now](/guides/best-money-making).
+
 On Classic you regain **40 labor every 5 minutes**, online or offline, up to 10,000. Spending it well is the main way to make gold. The higher your proficiency, the more silver you make per labor.
 
 ## Labor professions
