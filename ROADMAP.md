@@ -37,6 +37,7 @@ The site as it stood when the roadmap was written, plus the groundwork everythin
 
 - [x] Step-by-step guides for every daily and weekly checklist task (Gilda Stars, Ayanad Library, guild missions, daily routine)
 - [x] Featured gearing video on the gearing guide and home page
+- [x] Videos page: hand-picked Community picks and auto-refreshed ArcheAge Classic uploads
 - [ ] **(must-have)** New-player start guide
 - [ ] **(must-have)** A guide for each class role
 - [ ] **(must-have)** Housing and farming guide
@@ -80,8 +81,8 @@ ArcheAge Classic has no public auction house feed, so prices come from players r
 ## Phase 7: Final checks (0.99)
 
 - [x] Daily reset time set to 12 AM UTC (Jacob's call; still worth a final in-game check)
+- [x] Video source decided: Community picks added through a GitHub form, and Recent uploads from creator channels every 6 hours (plus a YouTube-wide search once an API key is added)
 - [ ] Find the regrade break and downgrade odds above Celestial (players enter them for now)
-- [ ] Decide the video source: a YouTube API key, or a list of creator channels
 - [ ] Re-run the wiki import and spot-check boss and event times against the official timers page
 - [ ] Check in game the checklist dailies marked "not confirmed" in the Gilda Stars guide: Farmhouse quests; Tradesman's, Apothecary's and Armorer's Manor quests; Workstation cooking quests; the "50K proficiency" Gilda quests; the login reward path; the Ahnimar "watering the Darus" daily (not found in game on 2026-10-28, so it's off the checklist until confirmed)
 - [ ] Full pass for broken links, mobile layout and page speed

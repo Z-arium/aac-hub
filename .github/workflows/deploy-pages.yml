@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
   # The wiki import commits to main with GITHUB_TOKEN, which doesn't fire push.
+  # (The Videos workflow starts this one by hand when it commits.)
   workflow_run:
     workflows: [Wiki import]
     types: [completed]
