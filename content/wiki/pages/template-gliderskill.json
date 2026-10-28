@@ -1,0 +1,16 @@
+{
+ "slug": "template-gliderskill",
+ "title": "Template:GliderSkill",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 49978,
+ "revid": 52071,
+ "updated": "2026-10-25T15:23:45Z",
+ "source": "https://wiki.aa-classic.com/Template:GliderSkill",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Used by Module:Glider for a glider skill that has an ID in Module:GliderSkillIds. Shows the skill name from the glider's description with a hover box. The hover box uses the skill's own name and icon from aa-classic.com (they can differ from the glider's text), plus mana, cast time, cooldown and effect. Not meant to be used on its own. Parameters: id (skill ID), name, color (RRGGBB, the colour of the name). Needs Module:Mount and Template:Mount/styles.css.",
+ "html": "<p>Used by Module:Glider for a glider skill that has an ID in Module:GliderSkillIds. Shows the skill name from the glider's description with a hover box. The hover box uses the skill's own name and icon from aa-classic.com (they can differ from the glider's text), plus mana, cast time, cooldown and effect.\nNot meant to be used on its own.\nParameters: id (skill ID), name, color (RRGGBB, the colour of the name).\nNeeds <code>Module:Mount</code> and <code>Template:Mount/styles.css</code>.\n</p>",
+ "wikitext": "<includeonly><templatestyles src=\"Template:Mount/styles.css\" />{{#get_web_data:\nurl=https://aa-classic.com/data/skills/{{{id}}}.json\n|format=json with jsonpath\n|data=sname=$.name,cd=$.cooldown_text,cast=$.casting_text,mana=$.mana_cost,cdesc=$.description,cicon=$.icon\n|suppress error\n}}{{#invoke:Mount|hover|name={{{name}}}|realname={{#external_value:sname}}|color={{{color|}}}|cd={{#external_value:cd}}|cast={{#external_value:cast}}|mana={{#external_value:mana}}|desc={{#external_value:cdesc}}|icon={{#external_value:cicon}}}}</includeonly><noinclude>\nUsed by Module:Glider for a glider skill that has an ID in Module:GliderSkillIds. Shows the skill name from the glider's description with a hover box. The hover box uses the skill's own name and icon from aa-classic.com (they can differ from the glider's text), plus mana, cast time, cooldown and effect.\nNot meant to be used on its own.\nParameters: id (skill ID), name, color (RRGGBB, the colour of the name).\nNeeds <code>Module:Mount</code> and <code>Template:Mount/styles.css</code>.\n</noinclude>"
+}

@@ -1,12 +1,16 @@
 {
  "slug": "figureheads",
  "title": "Figureheads",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 861,
  "revid": 1647,
  "updated": "2024-07-21T01:21:56Z",
  "source": "https://wiki.aa-classic.com/Figureheads",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "Back to Galleons tbc",
- "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\ntbc\n</p>"
+ "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\ntbc\n</p>",
+ "wikitext": "Back to [[Galleons]]\n\n\ntbc"
 }

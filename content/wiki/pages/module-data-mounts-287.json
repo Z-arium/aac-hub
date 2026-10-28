@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-mounts-287",
+ "title": "Module:Data/Mounts/287",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60359,
+ "revid": 62484,
+ "updated": "2026-10-26T20:28:17Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Mounts/287",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs. return { [28736] = { desc = \"Said to make its home amongst the clouds, the Celestial Pegasus will only carry a rider it deems worthy. Celestial Pegasus has the following skills:\\nRun!\\nPega-Glide\\nSkydash\", grade = \"Heroic\", icon = \"icon_item_1587.png\", name = \"Celestial Pegasus\", skills = { { desc = \"Increases Pet Move Speed +50% for 10 sec.\\nCan't be used while carrying a trade pack.\", id = 17092, name = \"Run!\" }, { desc = \"Triggers your pegasus to glide through the sky for 5 min.\\nCan't be used while carrying a trade pack.\", id = 22868, name = \"Pega-Glide\" }, { desc = \"Increases glide speed +50% for 5 sec. Can only be used while gliding.\", id = 24012, name = \"Skydash\" } }, speed = 10 }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[28736] = { desc = \"Said to make its home amongst the clouds, the Celestial Pegasus will only carry a rider it deems worthy. Celestial Pegasus has the following skills:\\nRun!\\nPega-Glide\\nSkydash\", grade = \"Heroic\", icon = \"icon_item_1587.png\", name = \"Celestial Pegasus\", skills = { { desc = \"Increases Pet Move Speed +50% for 10 sec.\\nCan't be used while carrying a trade pack.\", id = 17092, name = \"Run!\" }, { desc = \"Triggers your pegasus to glide through the sky for 5 min.\\nCan't be used while carrying a trade pack.\", id = 22868, name = \"Pega-Glide\" }, { desc = \"Increases glide speed +50% for 5 sec. Can only be used while gliding.\", id = 24012, name = \"Skydash\" } }, speed = 10 },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[28736] = { desc = \"Said to make its home amongst the clouds, the Celestial Pegasus will only carry a rider it deems worthy. Celestial Pegasus has the following skills:\\nRun!\\nPega-Glide\\nSkydash\", grade = \"Heroic\", icon = \"icon_item_1587.png\", name = \"Celestial Pegasus\", skills = { { desc = \"Increases Pet Move Speed +50% for 10 sec.\\nCan't be used while carrying a trade pack.\", id = 17092, name = \"Run!\" }, { desc = \"Triggers your pegasus to glide through the sky for 5 min.\\nCan't be used while carrying a trade pack.\", id = 22868, name = \"Pega-Glide\" }, { desc = \"Increases glide speed +50% for 5 sec. Can only be used while gliding.\", id = 24012, name = \"Skydash\" } }, speed = 10 },\n}"
+}

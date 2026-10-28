@@ -1,0 +1,16 @@
+{
+ "slug": "template-coins",
+ "title": "Template:Coins",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 2032,
+ "revid": 51900,
+ "updated": "2026-10-24T16:39:05Z",
+ "source": "https://wiki.aa-classic.com/Template:Coins",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Turns an amount of copper (\"Coin\") into Gold, Silver and Copper with icons. Parts that are zero are left out. 100 Copper = 1 Silver, 100 Silver = 1 Gold (so 10000 Copper = 1 Gold). Needs the images File:Gold.png, File:Silver.png and File:Copper.png. Usage {{Coins|100}} → 1 Silver {{Coins|12345}} → 1 Gold 23 Silver 45 Copper {{Coins|10005}} → 1 Gold 5 Copper",
+ "html": "<p>Turns an amount of copper (\"Coin\") into Gold, Silver and Copper with icons. Parts that are zero are left out.\n100 Copper = 1 Silver, 100 Silver = 1 Gold (so 10000 Copper = 1 Gold).\nNeeds the images File:Gold.png, File:Silver.png and File:Copper.png.\n</p><p><b>Usage</b>\n</p>\n<pre>{{Coins|100}}      → 1 Silver\n{{Coins|12345}}    → 1 Gold 23 Silver 45 Copper\n{{Coins|10005}}    → 1 Gold 5 Copper</pre>",
+ "wikitext": "{{#ifeq:{{#expr:floor(({{{1|0}}} round 0)/10000)}}|0||{{#expr:floor(({{{1|0}}} round 0)/10000)}}[[File:Gold.png|24px|middle]]&#32;}}{{#ifeq:{{#expr:floor(({{{1|0}}} round 0)/100) mod 100}}|0||{{#expr:floor(({{{1|0}}} round 0)/100) mod 100}}[[File:Silver.png|24px|middle]]&#32;}}{{#ifeq:{{#expr:({{{1|0}}} round 0) mod 100}}|0||{{#expr:({{{1|0}}} round 0) mod 100}}[[File:Copper.png|24px|middle]]}}<noinclude>\nTurns an amount of copper (\"Coin\") into Gold, Silver and Copper with icons. Parts that are zero are left out.\n100 Copper = 1 Silver, 100 Silver = 1 Gold (so 10000 Copper = 1 Gold).\nNeeds the images File:Gold.png, File:Silver.png and File:Copper.png.\n \n'''Usage'''\n<pre>{{Coins|100}}      → 1 Silver\n{{Coins|12345}}    → 1 Gold 23 Silver 45 Copper\n{{Coins|10005}}    → 1 Gold 5 Copper</pre>\n</noinclude>"
+}

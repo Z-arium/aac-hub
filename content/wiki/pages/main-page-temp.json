@@ -1,0 +1,44 @@
+{
+ "slug": "main-page-temp",
+ "title": "Main Page Temp",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 535,
+ "revid": 1101,
+ "updated": "2024-05-31T23:45:59Z",
+ "source": "https://wiki.aa-classic.com/Main_Page_Temp",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Newcomer_Pages",
+   "text": "Newcomer Pages"
+  },
+  {
+   "level": 3,
+   "id": "General",
+   "text": "General"
+  },
+  {
+   "level": 3,
+   "id": "Combat",
+   "text": "Combat"
+  },
+  {
+   "level": 3,
+   "id": "Professions",
+   "text": "Professions"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "Races.jpg",
+  "SkillTrees.png",
+  "FreighterRun.jpg",
+  "Gearworkbench.png",
+  "Abyssalisland.png",
+  "Red dragon.webp"
+ ],
+ "text": "{{#css:Main.css}} Welcome to the 3.0 Archeage Server’s Wiki Newcomer Pages Getting Started Custom Server Changes Daily World Events Joining Classic from Retail General Races Skill Trees Earning Gold Gearing World Events World Bosses Combat Skill Trees Status Effects Abyssal Skills Buffs / Potions Professions Larceny Fishing Commerce",
+ "html": "<p>{{#css:Main.css}}\nWelcome to the 3.0 Archeage Server’s Wiki\n</p>\n\n<h3 id=\"Newcomer_Pages\">Newcomer Pages</h3>\n<ul><li><a href=\"/wiki/getting-started\">Getting Started</a></li>\n<li><a href=\"/wiki/custom-server-changes\">Custom Server Changes</a></li>\n<li><a href=\"/wiki/world-events\">Daily World Events</a></li>\n<li><a href=\"/wiki/joining-classic-from-retail\">Joining Classic from Retail</a></li></ul>\n<h3 id=\"General\">General</h3>\n<div role=\"navigation\"><div><div><span><span><img src=\"/wiki-files/e7/e7d4a7fa3b91a292fe053b92230ce6cb429fa9b6.jpg\" width=\"86\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/races\">Races</a></div><div><div><span><span><img src=\"/wiki-files/81/81ea2e37b7979e8f957e61fa364a2563790f60f5.png\" width=\"50\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/skill-trees\">Skill Trees</a></div><div><div><span><span><img src=\"/wiki-files/de/de7ef3f66f141ef96dd1d574a64b5295153953e5.jpg\" width=\"88\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/earning-gold\">Earning Gold</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b86d3fd834b1f73dec540f28ed148576657b8cc.png\" width=\"71\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/gearing\">Gearing</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b435e9d5dfc922002559f3ce04f35b2b5a66ddf.png\" width=\"72\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-events\">World Events</a></div><div><div><span><span><img src=\"/wiki-files/6c/6cd4d2265bea0588e0dfbf5d4760f98aa974dfa8.webp\" width=\"77\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-bosses\">World Bosses</a></div></div>\n<h3 id=\"Combat\">Combat</h3>\n<ul><li><a href=\"/wiki/skill-trees\">Skill Trees</a></li>\n<li><a href=\"/wiki/status-effects\">Status Effects</a></li>\n<li><a href=\"/wiki/abyssal-skills\">Abyssal Skills</a></li>\n<li><a href=\"/wiki/buffs-potions\">Buffs / Potions</a></li></ul>\n<h3 id=\"Professions\">Professions</h3>\n<ul><li><a href=\"/wiki/larceny\">Larceny</a></li>\n<li><a href=\"/wiki/fishing\">Fishing</a></li>\n<li><a href=\"/wiki/commerce\">Commerce</a></li></ul>",
+ "wikitext": "{{#css:Main.css}}\nWelcome to the 3.0 Archeage Server’s Wiki\n\n=== Newcomer Pages ===\n\n* [[Getting Started]]\n* [[Custom Server Changes]]\n* [[Daily activities|Daily World Events]]\n* [[Joining Classic from Retail]]\n\n=== General ===\n\n{{Contents}}\n\n=== Combat ===\n\n* [[Skill Trees]]\n* [[Status Effects]]\n* [[Abyssal Skills]]\n* [[Buffs & Potions|Buffs / Potions]]\n\n=== Professions ===\n\n* [[Larceny]]\n* [[Fishing]]\n* [[Commerce]]"
+}

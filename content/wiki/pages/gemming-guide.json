@@ -1,12 +1,18 @@
 {
  "slug": "gemming-guide",
  "title": "Gemming Guide",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 426,
  "revid": 1514,
  "updated": "2024-06-30T19:13:24Z",
  "source": "https://wiki.aa-classic.com/Gemming_Guide",
  "headings": [],
  "tables": [],
+ "images": [
+  "Screenshot 8.png"
+ ],
  "text": "Right click a gem to open this window or press the \"regrade item\" button in your inventory and press the lunagem tab at the top. NOTE: The 100% slot chance after the first 2 slots ONLY applies for Tier 3 (blue) Toughness and Resilience gems which slot into your leg and chest armor. Gemming Guide Once you upgrade out of catch-up gear, your goal should be to fill the slots with all T4 (pink gems). For your other pieces of gear, consider using crafted lunagems or prestige lunascales (100% slot rate). A common strategy is to put the highest tier crafted gem in the first 2 slots (100% slot rate) and then use the prestige lunascales (100% slot rate at all times) for the remaining slots",
- "html": "<p>Right click a gem to open this window or press the \"regrade item\" button in your inventory and press the lunagem tab at the top.\n</p><p><b>NOTE: The 100% slot chance <u>after the first 2 slots</u> ONLY applies for Tier 3 (blue) Toughness and Resilience gems which slot into your leg and chest armor.</b>\n</p>\n<figure><img alt=\"Gemming Guide\" src=\"https://wiki.aa-classic.com/images/e/e5/Screenshot_8.png\" width=\"1437\" height=\"438\" loading=\"lazy\"><figcaption>Gemming Guide</figcaption></figure>\n<p>Once you upgrade out of catch-up gear, your goal should be to fill the slots with all T4 (pink gems).\n</p><p>For your other pieces of gear, consider using crafted lunagems or prestige lunascales (100% slot rate). A common strategy is to put the highest tier crafted gem in the first 2 slots (100% slot rate) and then use the prestige lunascales (100% slot rate at all times) for the remaining slots\n</p>"
+ "html": "<p>Right click a gem to open this window or press the \"regrade item\" button in your inventory and press the lunagem tab at the top.\n</p><p><b>NOTE: The 100% slot chance <u>after the first 2 slots</u> ONLY applies for Tier 3 (blue) Toughness and Resilience gems which slot into your leg and chest armor.</b>\n</p>\n<figure><img alt=\"Gemming Guide\" src=\"/wiki-files/aa/aadeff7a1f4ba9a5f6acbbaa92af592fee95060e.png\" width=\"1437\" height=\"438\" loading=\"lazy\"><figcaption>Gemming Guide</figcaption></figure>\n<p>Once you upgrade out of catch-up gear, your goal should be to fill the slots with all T4 (pink gems).\n</p><p>For your other pieces of gear, consider using crafted lunagems or prestige lunascales (100% slot rate). A common strategy is to put the highest tier crafted gem in the first 2 slots (100% slot rate) and then use the prestige lunascales (100% slot rate at all times) for the remaining slots\n</p>",
+ "wikitext": "Right click a gem to open this window or press the \"regrade item\" button in your inventory and press the lunagem tab at the top.\n\n'''NOTE: The 100% slot chance <u>after the first 2 slots</u> ONLY applies for Tier 3 (blue) Toughness and Resilience gems which slot into your leg and chest armor.'''\n\n[[File:Screenshot 8.png|Gemming Guide|alt=Gemming Guide|frame|none]]\n\nOnce you upgrade out of catch-up gear, your goal should be to fill the slots with all T4 (pink gems).\n\nFor your other pieces of gear, consider using crafted lunagems or prestige lunascales (100% slot rate). A common strategy is to put the highest tier crafted gem in the first 2 slots (100% slot rate) and then use the prestige lunascales (100% slot rate at all times) for the remaining slots"
 }

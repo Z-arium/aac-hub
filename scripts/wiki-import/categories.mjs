@@ -40,8 +40,24 @@ export function categorize(title) {
 }
 
 // Wiki housekeeping pages that are not articles.
-const JUNK = [/^\d+x\d+$/, /\.css$/, /\.js$/, /^Sandbox/, /^Test Page$/, /^Template example$/, /^Main Page Temp$/, /^No$/, /^Main Page$/];
+const JUNK = [/^\d+x\d+$/, /\.css$/, /\.js$/, /^Sandbox/, /^Test Page$/, /^Template example$/, /^Main Page Temp$/, /^No$/];
 
 export function isJunk(title) {
   return JUNK.some((re) => re.test(title));
+}
+
+// Pages outside the main namespace, grouped by what they are.
+const NAMESPACE_CATEGORIES = {
+  2: "User pages",
+  3: "User pages",
+  4: "About the wiki",
+  8: "Wiki settings",
+  10: "Templates",
+  12: "Help",
+  14: "Wiki categories",
+  828: "Modules (data & code)",
+};
+
+export function namespaceCategory(ns) {
+  return NAMESPACE_CATEGORIES[ns] ?? (ns % 2 === 1 ? "Talk pages" : "Other namespaces");
 }

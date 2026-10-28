@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skills-27",
+ "title": "Module:Data/Skills/27",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60393,
+ "revid": 62518,
+ "updated": "2026-10-26T20:29:05Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Skills/27",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [27665] = { cd = \"10s\", desc = \"Encourage Carrot Wings to fly.\", icon = \"icon_skill_horseback11.png\", mana = 180, name = \"Powerful Wingbeats\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[27665] = { cd = \"10s\", desc = \"Encourage Carrot Wings to fly.\", icon = \"icon_skill_horseback11.png\", mana = 180, name = \"Powerful Wingbeats\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[27665] = { cd = \"10s\", desc = \"Encourage Carrot Wings to fly.\", icon = \"icon_skill_horseback11.png\", mana = 180, name = \"Powerful Wingbeats\" },\n}"
+}

@@ -1,12 +1,16 @@
 {
  "slug": "zaldrane-the-enchantress",
  "title": "Zaldrane the Enchantress",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1625,
  "revid": 3270,
  "updated": "2026-02-19T12:12:07Z",
  "source": "https://wiki.aa-classic.com/Zaldrane_the_Enchantress",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "tbc",
- "html": "<p>tbc\n</p>"
+ "html": "<p>tbc\n</p>",
+ "wikitext": "tbc"
 }

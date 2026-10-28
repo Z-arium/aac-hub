@@ -1,0 +1,16 @@
+{
+ "slug": "template-navpills",
+ "title": "Template:Navpills",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 1634,
+ "revid": 3286,
+ "updated": "2026-02-23T22:19:28Z",
+ "source": "https://wiki.aa-classic.com/Template:Navpills",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Template:Navpills/doc",
+ "html": "<p><a href=\"https://wiki.aa-classic.com/index.php?title=Template:Navpills/doc&action=edit&redlink=1\" rel=\"noopener\">Template:Navpills/doc</a>\n</p>",
+ "wikitext": "<includeonly>{{#invoke:Navpills|navpills}}</includeonly><noinclude>{{/doc}}</noinclude>"
+}

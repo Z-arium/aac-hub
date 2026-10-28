@@ -1,12 +1,24 @@
 {
  "slug": "common-turn-in-locations-traderuns",
  "title": "Common Turn in Locations (Traderuns)",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 383,
  "revid": 1575,
  "updated": "2024-07-07T19:51:05Z",
  "source": "https://wiki.aa-classic.com/Common_Turn_in_Locations_(Traderuns)",
  "headings": [],
  "tables": [],
+ "images": [
+  "Freedich turn in.png",
+  "Solis Turn in Location.png",
+  "Screenshot 2024-04-02 122512.png",
+  "Villanelle turn in.png",
+  "Two Crowns Turn In.png",
+  "Cinderstone turn in.png",
+  "Solzreed Turn In.png"
+ ],
  "text": "Freedich turn in Solis turn in Yny turn in Villanelle turn in Two crowns turn in Cinderstone turn in Solzreed turn in",
- "html": "<figure><img src=\"https://wiki.aa-classic.com/images/thumb/5/51/Freedich_turn_in.png/300px-Freedich_turn_in.png\" width=\"300\" height=\"300\" srcset=\"https://wiki.aa-classic.com/images/thumb/5/51/Freedich_turn_in.png/450px-Freedich_turn_in.png 1.5x, https://wiki.aa-classic.com/images/5/51/Freedich_turn_in.png 2x\" loading=\"lazy\"><figcaption>Freedich turn in</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/3/39/Solis_Turn_in_Location.png/300px-Solis_Turn_in_Location.png\" width=\"300\" height=\"160\" srcset=\"https://wiki.aa-classic.com/images/3/39/Solis_Turn_in_Location.png 1.5x\" loading=\"lazy\"><figcaption>Solis turn in</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/c/ca/Screenshot_2024-04-02_122512.png/300px-Screenshot_2024-04-02_122512.png\" width=\"300\" height=\"206\" srcset=\"https://wiki.aa-classic.com/images/c/ca/Screenshot_2024-04-02_122512.png 1.5x\" loading=\"lazy\"><figcaption>Yny turn in</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/9/9d/Villanelle_turn_in.png/300px-Villanelle_turn_in.png\" width=\"300\" height=\"209\" srcset=\"https://wiki.aa-classic.com/images/9/9d/Villanelle_turn_in.png 1.5x\" loading=\"lazy\"><figcaption>Villanelle turn in</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/1/13/Two_Crowns_Turn_In.png/300px-Two_Crowns_Turn_In.png\" width=\"300\" height=\"232\" srcset=\"https://wiki.aa-classic.com/images/1/13/Two_Crowns_Turn_In.png 1.5x\" loading=\"lazy\"><figcaption>Two crowns turn in</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/a/a5/Cinderstone_turn_in.png/300px-Cinderstone_turn_in.png\" width=\"300\" height=\"233\" srcset=\"https://wiki.aa-classic.com/images/a/a5/Cinderstone_turn_in.png 1.5x\" loading=\"lazy\"><figcaption>Cinderstone turn in</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/a/a7/Solzreed_Turn_In.png\" width=\"295\" height=\"204\" loading=\"lazy\"><figcaption>Solzreed turn in</figcaption></figure>"
+ "html": "<figure><img src=\"/wiki-files/b2/b2540f2cc5310bc640dd5f445fbe952a15c78842.png\" width=\"300\" height=\"300\" loading=\"lazy\"><figcaption>Freedich turn in</figcaption></figure>\n<figure><img src=\"/wiki-files/38/3826d87b89f89103509f5f7834ea8a39c6473408.png\" width=\"300\" height=\"160\" loading=\"lazy\"><figcaption>Solis turn in</figcaption></figure>\n<figure><img src=\"/wiki-files/38/3863ed31f8b1abfc20bff179064e29bc5e4c710e.png\" width=\"300\" height=\"206\" loading=\"lazy\"><figcaption>Yny turn in</figcaption></figure>\n<figure><img src=\"/wiki-files/2a/2a2bef914f6a85d56f17faee2c489a6f49e2c401.png\" width=\"300\" height=\"209\" loading=\"lazy\"><figcaption>Villanelle turn in</figcaption></figure>\n<figure><img src=\"/wiki-files/5e/5e54a690ed02b0da4ee32d10b49d3db02109cb20.png\" width=\"300\" height=\"232\" loading=\"lazy\"><figcaption>Two crowns turn in</figcaption></figure>\n<figure><img src=\"/wiki-files/5d/5daa285bd19a1f723b7d1803129c117a34720072.png\" width=\"300\" height=\"233\" loading=\"lazy\"><figcaption>Cinderstone turn in</figcaption></figure>\n<figure><img src=\"/wiki-files/36/36b960ab5e858ef95e283bf58cb1b3b9e27ca955.png\" width=\"295\" height=\"204\" loading=\"lazy\"><figcaption>Solzreed turn in</figcaption></figure>",
+ "wikitext": "[[File:Freedich_turn_in.png|thumb|left|Freedich turn in]]\n[[File:Solis_Turn_in_Location.png|thumb|left|Solis turn in]]\n[[File:Screenshot_2024-04-02_122512.png|thumb|left|Yny turn in]]\n[[File:Villanelle_turn_in.png|thumb|left|Villanelle turn in]]\n[[File:Two_Crowns_Turn_In.png|thumb|left|Two crowns turn in]]\n[[File:Cinderstone_turn_in.png|thumb|left|Cinderstone turn in]]\n[[File:Solzreed_Turn_In.png|thumb|left|Solzreed turn in]]"
 }

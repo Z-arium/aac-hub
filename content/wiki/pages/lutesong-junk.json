@@ -1,12 +1,16 @@
 {
  "slug": "lutesong-junk",
  "title": "Lutesong Junk",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 856,
  "revid": 1637,
  "updated": "2024-07-21T01:03:37Z",
  "source": "https://wiki.aa-classic.com/Lutesong_Junk",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "Back to Galleons tbc",
- "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\n</p><p>tbc\n</p>"
+ "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\n</p><p>tbc\n</p>",
+ "wikitext": "Back to [[Galleons]]\n \n\n\ntbc"
 }

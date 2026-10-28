@@ -1,0 +1,47 @@
+{
+ "slug": "main-page",
+ "title": "Main Page",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 1,
+ "revid": 3329,
+ "updated": "2026-02-25T13:30:59Z",
+ "source": "https://wiki.aa-classic.com/Main_Page",
+ "headings": [
+  {
+   "level": 3,
+   "id": "General",
+   "text": "General"
+  },
+  {
+   "level": 3,
+   "id": "Popular_Pages",
+   "text": "Popular Pages"
+  },
+  {
+   "level": 3,
+   "id": "Combat",
+   "text": "Combat"
+  },
+  {
+   "level": 3,
+   "id": "Professions",
+   "text": "Professions"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "Gliders.webp",
+  "1-2patchwithbackground.png",
+  "JoinRetail.jpg",
+  "Races.jpg",
+  "SkillTrees.png",
+  "FreighterRun.jpg",
+  "Gearworkbench.png",
+  "Abyssalisland.png",
+  "Red dragon.webp"
+ ],
+ "text": "👋 Welcome to the ArcheAge Classic Wiki Search the ArcheAge Classic Wiki Getting Started Beginner's Guide to Classic Custom Server Changes Only on Classic! Joining Classic from Retail Differences with the base game General Races Skill Trees Earning Gold Gearing World Events World Bosses Popular Pages Activity Tokens Emerald Weapons Festivals Regrade Rates Mounts Currencies Gliders Ships Cosmetic Costumes & Imaging Stat Migration Stat Costumes & Undergarments Combat Skill Trees Status Effects Abyssal Skills Buffs / Potions Professions (NEW) Taming Larceny Fishing Commerce Dawnsdrop Tools",
+ "html": "<div>\n<div>\n<div>👋 Welcome to the</div>\n<h1 id=\"ArcheAge_Classic_Wiki\">ArcheAge Classic Wiki</h1>\n<div role=\"button\"><span>Search the ArcheAge Classic Wiki</span></div>\n</div>\n\n<div>\n<div>\n<div>\n  <div><span><a href=\"/wiki/getting-started\"><img src=\"/wiki-files/b7/b7fd4c5be56daec34dbbaa28d44c7e68eb8d4dd2.webp\" width=\"370\" height=\"200\" loading=\"lazy\"></a></span></div>\n  <div>\n    <div>Getting Started</div>\n    <div>Beginner's Guide to Classic</div>\n  </div>\n</div>\n</div>\n<div>\n<div>\n  <div><span><a href=\"/wiki/custom-server-changes\"><img src=\"/wiki-files/c7/c7a4f3341cb3a42c21deefbd21ecac79a1167455.png\" width=\"356\" height=\"200\" loading=\"lazy\"></a></span></div>\n  <div>\n    <div>Custom Server Changes</div>\n    <div>Only on Classic!</div>\n  </div>\n</div>\n</div>\n<div>\n<div>\n  <div><span><a href=\"/wiki/joining-classic-from-retail\"><img src=\"/wiki-files/50/50ed5eb9a4c8b3445ea4f9793670fa4350e8cd55.jpg\" width=\"365\" height=\"200\" loading=\"lazy\"></a></span></div>\n  <div>\n    <div>Joining Classic from Retail</div>\n    <div>Differences with the base game</div>\n  </div>\n</div>\n</div>\n</div>\n<h3 id=\"General\">General</h3>\n<div role=\"navigation\"><div><div><span><span><img src=\"/wiki-files/e7/e7d4a7fa3b91a292fe053b92230ce6cb429fa9b6.jpg\" width=\"86\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/races\">Races</a></div><div><div><span><span><img src=\"/wiki-files/81/81ea2e37b7979e8f957e61fa364a2563790f60f5.png\" width=\"50\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/skill-trees\">Skill Trees</a></div><div><div><span><span><img src=\"/wiki-files/de/de7ef3f66f141ef96dd1d574a64b5295153953e5.jpg\" width=\"88\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/earning-gold\">Earning Gold</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b86d3fd834b1f73dec540f28ed148576657b8cc.png\" width=\"71\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/gearing\">Gearing</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b435e9d5dfc922002559f3ce04f35b2b5a66ddf.png\" width=\"72\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-events\">World Events</a></div><div><div><span><span><img src=\"/wiki-files/6c/6cd4d2265bea0588e0dfbf5d4760f98aa974dfa8.webp\" width=\"77\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-bosses\">World Bosses</a></div></div>\n<div>\n  <div>\n<h3 id=\"Popular_Pages\">Popular Pages</h3>\n<ul><li><a href=\"/wiki/activity-tokens\">Activity Tokens</a></li>\n<li><a href=\"/wiki/emerald-weapons\">Emerald Weapons</a></li>\n<li><a href=\"/wiki/festivals\">Festivals</a></li>\n<li><a href=\"/wiki/regrade-rates\">Regrade Rates</a></li>\n<li><a href=\"/wiki/mounts\">Mounts</a></li>\n<li><a href=\"/wiki/currencies\">Currencies</a></li>\n<li><a href=\"/wiki/gliders\">Gliders</a></li>\n<li><a href=\"/wiki/ships\">Ships</a></li>\n<li><a href=\"/wiki/cosmetic-costumes-imaging\">Cosmetic Costumes &amp; Imaging</a></li>\n<li><a href=\"/wiki/stat-migration\">Stat Migration</a></li>\n<li><a href=\"/wiki/stat-costumes-undergarments\">Stat Costumes &amp; Undergarments</a></li></ul>\n  </div>\n  <div>\n<h3 id=\"Combat\">Combat</h3>\n<ul><li><a href=\"/wiki/skill-trees\">Skill Trees</a></li>\n<li><a href=\"/wiki/status-effects\">Status Effects</a></li>\n<li><a href=\"/wiki/abyssal-skills\">Abyssal Skills</a></li>\n<li><a href=\"/wiki/buffs-potions\">Buffs / Potions</a></li></ul>\n  </div>\n  <div>\n<h3 id=\"Professions\">Professions</h3>\n<ul><li><b>(NEW) <a href=\"/wiki/taming\">Taming</a></b></li>\n<li><a href=\"/wiki/larceny\">Larceny</a></li>\n<li><a href=\"/wiki/fishing\">Fishing</a></li>\n<li><a href=\"/wiki/commerce\">Commerce</a></li>\n<li><a href=\"/wiki/dawnsdrop-tools\">Dawnsdrop Tools</a></li></ul>\n  </div>\n</div>\n</div>",
+ "wikitext": "<div class=\"mainpage\">\n{{Main_page/header}}\n\n{{Main page/featured}}\n\n=== General ===\n\n{{Contents}}\n\n<div style=\"display: flex; gap: 2em;\">\n\n  <div style=\"flex: 1;\">\n=== Popular Pages ===  \n    {{PopularPages}}\n  </div>\n\n  <div style=\"flex: 1;\">\n=== Combat ===  \n    {{CombatPages}}\n  </div>\n\n  <div style=\"flex: 1;\">\n=== Professions ===  \n    {{ProfessionsPages}}\n  </div>\n\n</div>\n\n</div>\n__NOTOC__"
+}

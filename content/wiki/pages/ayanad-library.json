@@ -1,12 +1,16 @@
 {
  "slug": "ayanad-library",
  "title": "Ayanad Library",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1464,
  "revid": 2997,
  "updated": "2025-11-08T12:57:27Z",
  "source": "https://wiki.aa-classic.com/Ayanad_Library",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "tbc",
- "html": "<p>tbc\n</p>"
+ "html": "<p>tbc\n</p>",
+ "wikitext": "tbc"
 }

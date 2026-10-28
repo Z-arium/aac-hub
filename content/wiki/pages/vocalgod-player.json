@@ -1,12 +1,16 @@
 {
  "slug": "vocalgod-player",
  "title": "Vocalgod (Player)",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 415,
  "revid": 770,
  "updated": "2024-04-13T17:13:47Z",
  "source": "https://wiki.aa-classic.com/Vocalgod_(Player)",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "An archeage player that ran a self proclaimed pvp guild who was notorious for illegally planting trees in a housing district that everyone stole from.",
- "html": "<p>An archeage player that ran a self proclaimed pvp guild who was notorious for illegally planting trees in a housing district that everyone stole from.\n</p>"
+ "html": "<p>An archeage player that ran a self proclaimed pvp guild who was notorious for illegally planting trees in a housing district that everyone stole from.\n</p>",
+ "wikitext": "An archeage player that ran a self proclaimed pvp guild who was notorious for illegally planting trees in a housing district that everyone stole from."
 }

@@ -1,0 +1,20 @@
+{
+ "slug": "template-main-page-featured",
+ "title": "Template:Main page/featured",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 1641,
+ "revid": 3324,
+ "updated": "2026-02-25T13:27:32Z",
+ "source": "https://wiki.aa-classic.com/Template:Main_page/featured",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Gliders.webp",
+  "1-2patchwithbackground.png",
+  "JoinRetail.jpg"
+ ],
+ "text": "Getting Started Beginner's Guide to Classic Custom Server Changes Only on Classic! Joining Classic from Retail Differences with the base game",
+ "html": "<div>\n<div>\n<div>\n  <div><span><a href=\"/wiki/getting-started\"><img src=\"/wiki-files/b7/b7fd4c5be56daec34dbbaa28d44c7e68eb8d4dd2.webp\" width=\"370\" height=\"200\" loading=\"lazy\"></a></span></div>\n  <div>\n    <div>Getting Started</div>\n    <div>Beginner's Guide to Classic</div>\n  </div>\n</div>\n</div>\n<div>\n<div>\n  <div><span><a href=\"/wiki/custom-server-changes\"><img src=\"/wiki-files/c7/c7a4f3341cb3a42c21deefbd21ecac79a1167455.png\" width=\"356\" height=\"200\" loading=\"lazy\"></a></span></div>\n  <div>\n    <div>Custom Server Changes</div>\n    <div>Only on Classic!</div>\n  </div>\n</div>\n</div>\n<div>\n<div>\n  <div><span><a href=\"/wiki/joining-classic-from-retail\"><img src=\"/wiki-files/50/50ed5eb9a4c8b3445ea4f9793670fa4350e8cd55.jpg\" width=\"365\" height=\"200\" loading=\"lazy\"></a></span></div>\n  <div>\n    <div>Joining Classic from Retail</div>\n    <div>Differences with the base game</div>\n  </div>\n</div>\n</div>\n</div>",
+ "wikitext": "<templatestyles src=\"Template:Main page/featured/styles.css\"/>\n\n<div style=\"display: flex; gap: 2em;\">\n\n<div style=\"flex: 1;\">\n<div id=\"home-featured\" class=\"home-card home-card--button home-card--col2 home-card--row3\" style=\"view-transition-name: infobox-image\">\n  <div class=\"home-card__background\">[[File:Gliders.webp|x200px|link=Getting Started]]</div>\n  <div class=\"home-card__foreground\">\n    <div class=\"home-card__header\">Getting Started</div>\n    <div class=\"home-card__label\">Beginner's Guide to Classic</div>\n  </div>\n</div>\n</div>\n<div style=\"flex: 1;\">\n<div id=\"home-featured\" class=\"home-card home-card--button home-card--col2 home-card--row3\" style=\"view-transition-name: infobox-image\">\n  <div class=\"home-card__background\">[[File:1-2patchwithbackground.png|x200px|link=Custom Server Changes]]</div>\n  <div class=\"home-card__foreground\">\n    <div class=\"home-card__header\">Custom Server Changes</div>\n    <div class=\"home-card__label\">Only on Classic!</div>\n  </div>\n</div>\n</div>\n<div style=\"flex: 1;\">\n<div id=\"home-featured\" class=\"home-card home-card--button home-card--col2 home-card--row3\" style=\"view-transition-name: infobox-image\">\n  <div class=\"home-card__background\">[[File:JoinRetail.jpg|x200px|link=Joining Classic from Retail]]</div>\n  <div class=\"home-card__foreground\">\n    <div class=\"home-card__header\">Joining Classic from Retail</div>\n    <div class=\"home-card__label\">Differences with the base game</div>\n  </div>\n</div>\n</div>\n</div>"
+}

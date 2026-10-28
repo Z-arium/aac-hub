@@ -1,0 +1,16 @@
+{
+ "slug": "template-videoguide",
+ "title": "Template:VideoGuide",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 1197,
+ "revid": 2421,
+ "updated": "2025-03-31T10:58:44Z",
+ "source": "https://wiki.aa-classic.com/Template:VideoGuide",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "⚠️ <span>Notice!</span><br>This content has a video summary, <a href=\"#\" target=\"_blank\" style=\"text-decoration: underline;\">click here</a> to view.",
+ "html": "<div style=\"color: #8b0000; text-align: center; font-weight: bold\">\n<pre>   ⚠️ <span>Notice!</span><br>This content has a video summary, &lt;a href=\"#\" target=\"_blank\" style=\"text-decoration: underline;\"&gt;click here&lt;/a&gt; to view.\n</pre>\n</div>",
+ "wikitext": "<div style=\"border: 2px solid #b22222; background-color: #ffcccc; color: #8b0000; padding: 10px; margin: 10px 0; border-radius: 5px; text-align: center; font-weight: bold; font-size: 16px;\">\n    ⚠️ <span style=\"font-size:18px;\">Notice!</span><br />This content has a video summary, <a href=\"{{{1|#}}}\" target=\"_blank\" style=\"text-decoration: underline;\">click here</a> to view.\n</div>"
+}

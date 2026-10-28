@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-90018",
+ "title": "Module:Data/Cards/90018",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60464,
+ "revid": 62623,
+ "updated": "2026-10-26T23:30:24Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/90018",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [9001813] = { bind = \"soulbound_pickup\", category = \"Mount\", desc = \"These rare and ancient creatures are said to have been created by a Nuon god. He wanted a mount that would combine the elegant spirit of an elk with the ferocious spirit of a wolf. Kirin now roam wild, guardians of the Hiram Mountains, hiding among the snowy peaks.\\r\\nThis mount has the following skills:\\r\\n|nr;Lv10:|r |nd;Run!|r\\r\\n|nr;Lv20:|r |nd;Overwhelm|r\\r\\n|nr;Lv30:|r |nd;Shred|r\\r\\n|nr;Lv40:|r |nd;Guardian's Eyes|r\\r\\n|nr;Lv50:|r |nd;Evasive Leap|r\\r\\n|ni;Can only be equipped with special Kirin armor.|r\", grade = \"Arcane\", icon = \"icon_item_4978.png\", name = \"Hellwraith Kirin\", nosell = true, req = 1, use = \"Summons a mount.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9001813] = { bind = \"soulbound_pickup\", category = \"Mount\", desc = \"These rare and ancient creatures are said to have been created by a Nuon god. He wanted a mount that would combine the elegant spirit of an elk with the ferocious spirit of a wolf. Kirin now roam wild, guardians of the Hiram Mountains, hiding among the snowy peaks.\\r\\nThis mount has the following skills:\\r\\n|nr;Lv10:|r |nd;Run!|r\\r\\n|nr;Lv20:|r |nd;Overwhelm|r\\r\\n|nr;Lv30:|r |nd;Shred|r\\r\\n|nr;Lv40:|r |nd;Guardian's Eyes|r\\r\\n|nr;Lv50:|r |nd;Evasive Leap|r\\r\\n|ni;Can only be equipped with special Kirin armor.|r\", grade = \"Arcane\", icon = \"icon_item_4978.png\", name = \"Hellwraith Kirin\", nosell = true, req = 1, use = \"Summons a mount.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9001813] = { bind = \"soulbound_pickup\", category = \"Mount\", desc = \"These rare and ancient creatures are said to have been created by a Nuon god. He wanted a mount that would combine the elegant spirit of an elk with the ferocious spirit of a wolf. Kirin now roam wild, guardians of the Hiram Mountains, hiding among the snowy peaks.\\r\\nThis mount has the following skills:\\r\\n|nr;Lv10:|r |nd;Run!|r\\r\\n|nr;Lv20:|r |nd;Overwhelm|r\\r\\n|nr;Lv30:|r |nd;Shred|r\\r\\n|nr;Lv40:|r |nd;Guardian's Eyes|r\\r\\n|nr;Lv50:|r |nd;Evasive Leap|r\\r\\n|ni;Can only be equipped with special Kirin armor.|r\", grade = \"Arcane\", icon = \"icon_item_4978.png\", name = \"Hellwraith Kirin\", nosell = true, req = 1, use = \"Summons a mount.\" },\n}"
+}

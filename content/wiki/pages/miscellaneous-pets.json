@@ -1,12 +1,16 @@
 {
  "slug": "miscellaneous-pets",
  "title": "Miscellaneous Pets",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 831,
  "revid": 1565,
  "updated": "2024-07-01T16:00:25Z",
  "source": "https://wiki.aa-classic.com/Miscellaneous_Pets",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "Back to Battle Pets tbc Polaris Cub",
- "html": "<p>Back to <a href=\"/wiki/battle-pets\">Battle Pets</a>\n</p><p><br>\ntbc\n</p><p>Polaris Cub\n</p>"
+ "html": "<p>Back to <a href=\"/wiki/battle-pets\">Battle Pets</a>\n</p><p><br>\ntbc\n</p><p>Polaris Cub\n</p>",
+ "wikitext": "Back to [[Battle Pets]]\n\n\ntbc\n\nPolaris Cub"
 }

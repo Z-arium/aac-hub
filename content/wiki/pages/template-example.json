@@ -1,0 +1,331 @@
+{
+ "slug": "template-example",
+ "title": "Template example",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 49963,
+ "revid": 52015,
+ "updated": "2026-10-25T03:59:42Z",
+ "source": "https://wiki.aa-classic.com/Template_example",
+ "headings": [
+  {
+   "level": 2,
+   "id": "A_Page_dedicated_to_Wiki_Editors",
+   "text": "A Page dedicated to Wiki Editors"
+  },
+  {
+   "level": 3,
+   "id": "How_to_add_Mounts",
+   "text": "How to add Mounts"
+  },
+  {
+   "level": 3,
+   "id": "How_to_add_Recipe_Boxes",
+   "text": "How to add Recipe Boxes"
+  },
+  {
+   "level": 3,
+   "id": "How_to_write_in_Grade_Colors",
+   "text": "How to write in Grade Colors"
+  },
+  {
+   "level": 3,
+   "id": "How_to_add_an_Item",
+   "text": "How to add an Item"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "How to add Recipe Boxes",
+   "caption": "",
+   "headers": [],
+   "rows": [
+    [
+     "Recipe",
+     "Large-Caliber Cannon × 1"
+    ],
+    [
+     "Labor Cost",
+     "× 25"
+    ],
+    [
+     "Workbench",
+     "Shipyard Workbench"
+    ],
+    [
+     "Proficiency",
+     "Machining"
+    ],
+    [
+     "Materials",
+     "Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 31"
+    ],
+    [
+     "Recipe Cost",
+     "30 37 1"
+    ]
+   ]
+  },
+  {
+   "heading": "How to add Recipe Boxes",
+   "caption": "",
+   "headers": [],
+   "rows": [
+    [
+     "Recipe",
+     "Large-Caliber Cannon × 1"
+    ],
+    [
+     "Labor Cost",
+     "× 25"
+    ],
+    [
+     "Workbench",
+     "Shipyard Workbench"
+    ],
+    [
+     "Proficiency",
+     "Machining"
+    ],
+    [
+     "Materials",
+     "Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 31"
+    ],
+    [
+     "Recipe Cost",
+     "30 37 1"
+    ]
+   ]
+  },
+  {
+   "heading": "How to add Recipe Boxes",
+   "caption": "",
+   "headers": [],
+   "rows": [
+    [
+     "Recipe",
+     "Large-Caliber Cannon × 1"
+    ],
+    [
+     "Labor Cost",
+     "× 25"
+    ],
+    [
+     "Workbench",
+     "Shipyard Workbench"
+    ],
+    [
+     "Proficiency",
+     "Machining"
+    ],
+    [
+     "Materials",
+     "Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 31"
+    ],
+    [
+     "Recipe Cost",
+     "30 37 1"
+    ]
+   ]
+  },
+  {
+   "heading": "How to add Recipe Boxes",
+   "caption": "",
+   "headers": [],
+   "rows": [
+    [
+     "Recipe",
+     "Large-Caliber Cannon × 1"
+    ],
+    [
+     "Labor Cost",
+     "× 25"
+    ],
+    [
+     "Workbench",
+     "Shipyard Workbench"
+    ],
+    [
+     "Proficiency",
+     "Machining"
+    ],
+    [
+     "Materials",
+     "Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 31"
+    ],
+    [
+     "Recipe Cost",
+     "30 37 1"
+    ]
+   ]
+  },
+  {
+   "heading": "How to write in Grade Colors",
+   "caption": "",
+   "headers": [],
+   "rows": [
+    [
+     "Source Code",
+     "Output"
+    ],
+    [
+     "{{Grade|Crude|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Basic|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Grand|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Rare|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Arcane|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Heroic|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Unique|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Celestial|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Divine|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Epic|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Legendary|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Mythic|Text}}",
+     "AAClassic Ayanad Library"
+    ],
+    [
+     "{{Grade|Eternal|Text}}",
+     "AAClassic Ayanad Library"
+    ]
+   ]
+  },
+  {
+   "heading": "How to add an Item",
+   "caption": "",
+   "headers": [],
+   "rows": [
+    [
+     "Source Code",
+     "Output"
+    ],
+    [
+     "{{Item|Enoan|Crude|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Basic|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Grand|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Rare|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Arcane|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Heroic|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Unique|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Celestial|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Divine|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Epic|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Legendary|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Mythic|7}}",
+     "Enoan × 7"
+    ],
+    [
+     "{{Item|Enoan|Eternal|7}}",
+     "Enoan × 7"
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "Choose mount template.png",
+  "Mount input itemID.png",
+  "Mount template settings.png",
+  "Icon item 5149.png",
+  "Grade4.png",
+  "Icon skill fatcat 01.png",
+  "Icon skill fatcat 02.png",
+  "Icon skill fatcat 03.png",
+  "Icon skill fatcat 04.png",
+  "Choose recipebox template.png",
+  "RecipeBox inpput recipeID.png",
+  "RecipeBox template settings.png",
+  "Icon item 2104.png",
+  "Grade2.png",
+  "Quest-icon item quest053.png",
+  "Grade1.png",
+  "Icon item 0002.png",
+  "Icon item 0855.png",
+  "Icon item 1766.png",
+  "Copper.png",
+  "Gold.png",
+  "Silver.png",
+  "GradeColor text select.png",
+  "Grade template settings.png",
+  "Hay Bale.png",
+  "Grade11.png",
+  "Choose item template.png",
+  "Item template required.png",
+  "Item template optional.png",
+  "Enoan.png",
+  "Grade3.png",
+  "Grade5.png",
+  "Grade6.png",
+  "Grade7.png",
+  "Grade8.png",
+  "Grade9.png",
+  "Grade10.png"
+ ],
+ "text": "A Page dedicated to Wiki Editors Sheoix made alot of new Templates and Tables for us to use and this is a quick explanation of all new functions to it. How to add Mounts To add a mount you can simply use Insert > Template and search for Mount. To add a new mount, simple grab its ID from the AA Classic Database and paste it into field called Item ID. As an addition you can also add a custom Mount Speed and the position of the Mount Box by selecting both on the left side of the Template. <span><img src=\"/wiki-files/c8/c8f35ab56619fd7a4cdd4a93049b191cc6b32499.png\" width=\"453\" height=\"432\" loading=\"lazy\"></span> <span><img src=\"/wiki-files/52/52b30fff176543330bdc0442ee81eef9f572529a.png\" width=\"486\" height=\"161\" loading=\"lazy\"></span> <br><br> <span><img src=\"/wiki-files/58/58e5b35d311722ef62f89c6f78261b1c98fd2d23.png\" width=\"482\" height=\"328\" loading=\"lazy\"></span> In case you should prefer Source editing, just use {{Mount|<MountID>|speed=<Mount Speed>|float=<right/left/center>}}. The follwing example was made using this Source Edit: {{Mount|51188|speed=15.8|float=center}}. Mount Arcane Ser Meatball His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball. Ser Meatball has the following skills: Lv20: Run!Run!Mana 20Instant30sec CooldownIncreases Mount Move Speed +50% for 10sec. Can't be used while carrying a trade pack. Lv30: Reckless ChargeReckless ChargeInstant30sec CooldownStealths the owner and the mount and charges forward for 3sec, breaking through enemy lines. Inflicts Knockback and Trip on affected enemies. This skill counts as a Push effect. Can't be used while carrying a trade pack. Lv40: ShredShredInstant24sec CooldownCharges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies). Can't be used while carrying a trade pack. Lv50: Adore MeAdore MeInstant1min CooldownSer Meatball demands people within a 5m radius to Slow for 4sec and adore his cuteness. Use: Summons a mount. Base Move Speed 15.8m/s You can also put multiple of those next to each other, displaying multiple mounts like this, but it looks weird on mobiles or smaller screens, since one is aligned to the left, one to the right and one to the center. Mount Arcane Ser Meatball His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball. Ser Meatball has the following skills: Lv20: Run!Run!Mana 20Instant30sec CooldownIncreases Mount Move Speed +50% for 10sec. Can't be used while carrying a trade pack. Lv30: Reckless ChargeReckless ChargeInstant30sec CooldownStealths the owner and the mount and charges forward for 3sec, breaking through enemy lines. Inflicts Knockback and Trip on affected enemies. This skill counts as a Push effect. Can't be used while carrying a trade pack. Lv40: ShredShredInstant24sec CooldownCharges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies). Can't be used while carrying a trade pack. Lv50: Adore MeAdore MeInstant1min CooldownSer Meatball demands people within a 5m radius to Slow for 4sec and adore his cuteness. Use: Summons a mount. Base Move Speed 11.5m/s Mount Arcane Ser Meatball His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball. Ser Meatball has the following skills: Lv20: Run!Run!Mana 20Instant30sec CooldownIncreases Mount Move Speed +50% for 10sec. Can't be used while carrying a trade pack. Lv30: Reckless ChargeReckless ChargeInstant30sec CooldownStealths the owner and the mount and charges forward for 3sec, breaking through enemy lines. Inflicts Knockback and Trip on affected enemies. This skill counts as a Push effect. Can't be used while carrying a trade pack. Lv40: ShredShredInstant24sec CooldownCharges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies). Can't be used while carrying a trade pack. Lv50: Adore MeAdore MeInstant1min CooldownSer Meatball demands people within a 5m radius to Slow for 4sec and adore his cuteness. Use: Summons a mount. Base Move Speed 11.5m/s Mount Arcane Ser Meatball His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball. Ser Meatball has the following skills: Lv20: Run!Run!Mana 20Instant30sec CooldownIncreases Mount Move Speed +50% for 10sec. Can't be used while carrying a trade pack. Lv30: Reckless ChargeReckless ChargeInstant30sec CooldownStealths the owner and the mount and charges forward for 3sec, breaking through enemy lines. Inflicts Knockback and Trip on affected enemies. This skill counts as a Push effect. Can't be used while carrying a trade pack. Lv40: ShredShredInstant24sec CooldownCharges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies). Can't be used while carrying a trade pack. Lv50: Adore MeAdore MeInstant1min CooldownSer Meatball demands people within a 5m radius to Slow for 4sec and adore his cuteness. Use: Summons a mount. Base Move Speed 11.5m/s How to add Recipe Boxes To add a recipe box you can simply use Insert > Template and search for RecipeBox. To add a new recipe, simple grab its ID from the AA Classic Database and paste it into field called Craft ID. As an addition you can also set the position of the Recipe Box by selecting it on the left side of the Template. <span><img src=\"/wiki-files/70/70fe20ff9dd93a8bc8f2b0f595b053febf985e48.png\" width=\"452\" height=\"431\" loading=\"lazy\"></span> <span><img src=\"/wiki-files/38/3811787fa691208508f04b288c0eedc1cff11e7d.png\" width=\"486\" height=\"143\" loading=\"lazy\"></span> <br><br> <span><img src=\"/wiki-files/e0/e0435025ed5a2d1fc4470c915ce9e5f137b734e0.png\" width=\"482\" height=\"207\" loading=\"lazy\"></span> In case you should prefer Source editing, just use {{RecipeBox|<RecipeID>|float=<right/left/center>}}. The follwing example was made using this Source Edit: {{RecipeBox|7136|float=center}}. Recipe Large-Caliber Cannon × 1 Labor Cost × 25 Workbench Shipyard Workbench Proficiency Machining Materials Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 3 1 Recipe Cost 30 37 1 You can also put multiple of those next to each other, displaying multiple recipes like this, but it looks weird on mobiles or smaller screens, since one is aligned to the left, one to the right and one to the center. Recipe Large-Caliber Cannon × 1 Labor Cost × 25 Workbench Shipyard Workbench Proficiency Machining Materials Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 3 1 Recipe Cost 30 37 1 Recipe Large-Caliber Cannon × 1 Labor Cost × 25 Workbench Shipyard Workbench Proficiency Machining Materials Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 3 1 Recipe Cost 30 37 1 Recipe Large-Caliber Cannon × 1 Labor Cost × 25 Workbench Shipyard Workbench Proficiency Machining Materials Iron Ingot × 25 Large-Caliber Cannon Design × 1 Starshard Ingot × 1 Charcoal Stabilizer × 3 1 Recipe Cost 30 37 1 How to write in Grade Colors To write in an item grade color such as Mythic, you can simply use Insert > Template and search for Grade. To choose a color simply select the desired grade in the dropdown and input your text in the box below that. <span><img src=\"/wiki-files/76/768e2202a8731c494db16d63f77c8ede1a45103c.png\" width=\"453\" height=\"431\" loading=\"lazy\"></span> <span><img src=\"/wiki-files/15/15aa88b07248a9fd34bb2c0acefcfd32ff176d91.png\" width=\"486\" height=\"234\" loading=\"lazy\"></span> In case you should prefer Source editing, just use {{Grade|<Grade>|<Text>}}. Here a preview of all Versions with their Source Text. Source Code Output {{Grade|Crude|Text}} AAClassic Ayanad Library {{Grade|Basic|Text}} AAClassic Ayanad Library {{Grade|Grand|Text}} AAClassic Ayanad Library {{Grade|Rare|Text}} AAClassic Ayanad Library {{Grade|Arcane|Text}} AAClassic Ayanad Library {{Grade|Heroic|Text}} AAClassic Ayanad Library {{Grade|Unique|Text}} AAClassic Ayanad Library {{Grade|Celestial|Text}} AAClassic Ayanad Library {{Grade|Divine|Text}} AAClassic Ayanad Library {{Grade|Epic|Text}} AAClassic Ayanad Library {{Grade|Legendary|Text}} AAClassic Ayanad Library {{Grade|Mythic|Text}} AAClassic Ayanad Library {{Grade|Eternal|Text}} AAClassic Ayanad Library How to add an Item To write in an item to your text with a grade to it such as Hay Bale × 50, you can simply use Insert > Template and search for Item. To choose an item simply select the desired item in the dropdown, select your grade in the dropdown below that and as an extra option, you can choose a quantity for it by selecting the setting in the left side of the template and typing the desired number into the input field. (Currently Only Hay Bales exist, more tba in future). <span><img src=\"/wiki-files/03/03f7a0b466210f0c2e4c602689378b1101ce4829.png\" width=\"453\" height=\"433\" loading=\"lazy\"></span> <span><img src=\"/wiki-files/ab/ab24b401053905c2106314230745867a7eeb0571.png\" width=\"486\" height=\"273\" loading=\"lazy\"></span> <br><br> <span><img src=\"/wiki-files/c0/c0561c0db73ade3049312cb416b5e706a12c8f25.png\" width=\"482\" height=\"84\" loading=\"lazy\"></span> In case you should prefer Source editing, just use {{Item|<Item Name>|<Grade>|<Quantity>}}. Here a preview of all Versions with their Source Text. Source Code Output {{Item|Enoan|Crude|7}} Enoan × 7 {{Item|Enoan|Basic|7}} Enoan × 7 {{Item|Enoan|Grand|7}} Enoan × 7 {{Item|Enoan|Rare|7}} Enoan × 7 {{Item|Enoan|Arcane|7}} Enoan × 7 {{Item|Enoan|Heroic|7}} Enoan × 7 {{Item|Enoan|Unique|7}} Enoan × 7 {{Item|Enoan|Celestial|7}} Enoan × 7 {{Item|Enoan|Divine|7}} Enoan × 7 {{Item|Enoan|Epic|7}} Enoan × 7 {{Item|Enoan|Legendary|7}} Enoan × 7 {{Item|Enoan|Mythic|7}} Enoan × 7 {{Item|Enoan|Eternal|7}} Enoan × 7",
+ "html": "<h2 id=\"A_Page_dedicated_to_Wiki_Editors\">A Page dedicated to Wiki Editors</h2>\n<p>Sheoix made alot of new Templates and Tables for us to use and this is a quick explanation of all new functions to it.\n</p>\n<h3 id=\"How_to_add_Mounts\">How to add Mounts</h3>\n<p>To add a mount you can simply use <code>Insert &gt; Template</code> and search for <u>Mount</u>. \n</p><p>To add a new mount, simple grab its ID from the <a rel=\"noopener\" href=\"https://aa-classic.com/database/item\">AA Classic Database</a> and paste it into field called Item ID. As an addition you can also add a custom Mount Speed and the position of the Mount Box by selecting both on the left side of the Template.\n</p>\n<div style=\"width: 100%\">\n  <div>\n<pre>   <span><img src=\"/wiki-files/c8/c8f35ab56619fd7a4cdd4a93049b191cc6b32499.png\" width=\"453\" height=\"432\" loading=\"lazy\"></span>\n</pre>\n  </div>\n  <div style=\"text-align: left\">\n<pre>   <span><img src=\"/wiki-files/52/52b30fff176543330bdc0442ee81eef9f572529a.png\" width=\"486\" height=\"161\" loading=\"lazy\"></span>\n   <br><br>\n   <span><img src=\"/wiki-files/58/58e5b35d311722ef62f89c6f78261b1c98fd2d23.png\" width=\"482\" height=\"328\" loading=\"lazy\"></span>\n</pre>\n  </div>\n</div>\n<div></div>\n<p>In case you should prefer Source editing, just use <code>{{Mount|&lt;MountID&gt;|speed=&lt;Mount Speed&gt;|float=&lt;right/left/center&gt;}}</code>. The follwing example was made using this Source Edit: <code>{{Mount|51188|speed=15.8|float=center}}</code>.\n</p>\n<div><div><div><span style=\"width:48px; vertical-align:middle\"><span><span><img src=\"/wiki-files/82/8220cf8397a1bb5766e1f44c6ab33d6dd0537105.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/08/085aef9e9c2a7c6c81b54b03154b1f83b767eb97.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span></span></span></div><div><div><a href=\"/wiki/mounts\">Mount</a></div><div><span style=\"color: rgb(203, 114, 216)\">Arcane</span></div><div><span style=\"color: rgb(203, 114, 216)\">Ser Meatball</span></div></div></div><div></div><div>His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball.</div><div>Ser Meatball has the following skills:</div><div><span>Lv20</span>: <span tabindex=\"0\">Run!<span><span><span><span><span><img src=\"/wiki-files/ee/ee6495be62f44527fc79caaf31215748c1b9a01c.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Run!</span></span><span><span>Mana 20</span><span>Instant</span><span>30sec Cooldown</span></span><span>Increases Mount Move Speed <span style=\"color:#FF9C27\">+50%</span> for <span style=\"color:#FF9C27\">10sec</span>.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv30</span>: <span tabindex=\"0\">Reckless Charge<span><span><span><span><span><img src=\"/wiki-files/46/46d5517bb16f42604df54cc2d47ec56ffaa75bc8.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Reckless Charge</span></span><span><span>Instant</span><span>30sec Cooldown</span></span><span>Stealths the owner and the mount and charges forward for <span style=\"color:#FF9C27\">3sec</span>, breaking through enemy lines.<br>Inflicts Knockback and Trip on affected enemies.<br>This skill counts as a Push effect.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv40</span>: <span tabindex=\"0\">Shred<span><span><span><span><span><img src=\"/wiki-files/03/0363bc4faf2b3ba07b44c8e1d0220e048c976be7.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Shred</span></span><span><span>Instant</span><span>24sec Cooldown</span></span><span>Charges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies).<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv50</span>: <span tabindex=\"0\">Adore Me<span><span><span><span><span><img src=\"/wiki-files/56/56299db9b7639d00db801af2275c0340807d564d.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Adore Me</span></span><span><span>Instant</span><span>1min Cooldown</span></span><span>Ser Meatball demands people within a <span style=\"color:#FF9C27\">5m</span> radius to Slow for <span style=\"color:#FF9C27\">4sec</span> and adore his cuteness.</span></span></span></div><div>Use:</div><div>Summons a mount.</div><div>Base Move Speed <span>15.8m/s</span></div></div>\n<p>You can also put multiple of those next to each other, displaying multiple mounts like this, but it looks weird on mobiles or smaller screens, since one is aligned to the left, one to the right and one to the center.\n</p>\n<div><div><div><span style=\"width:48px; vertical-align:middle\"><span><span><img src=\"/wiki-files/82/8220cf8397a1bb5766e1f44c6ab33d6dd0537105.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/08/085aef9e9c2a7c6c81b54b03154b1f83b767eb97.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span></span></span></div><div><div><a href=\"/wiki/mounts\">Mount</a></div><div><span style=\"color: rgb(203, 114, 216)\">Arcane</span></div><div><span style=\"color: rgb(203, 114, 216)\">Ser Meatball</span></div></div></div><div></div><div>His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball.</div><div>Ser Meatball has the following skills:</div><div><span>Lv20</span>: <span tabindex=\"0\">Run!<span><span><span><span><span><img src=\"/wiki-files/ee/ee6495be62f44527fc79caaf31215748c1b9a01c.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Run!</span></span><span><span>Mana 20</span><span>Instant</span><span>30sec Cooldown</span></span><span>Increases Mount Move Speed <span style=\"color:#FF9C27\">+50%</span> for <span style=\"color:#FF9C27\">10sec</span>.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv30</span>: <span tabindex=\"0\">Reckless Charge<span><span><span><span><span><img src=\"/wiki-files/46/46d5517bb16f42604df54cc2d47ec56ffaa75bc8.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Reckless Charge</span></span><span><span>Instant</span><span>30sec Cooldown</span></span><span>Stealths the owner and the mount and charges forward for <span style=\"color:#FF9C27\">3sec</span>, breaking through enemy lines.<br>Inflicts Knockback and Trip on affected enemies.<br>This skill counts as a Push effect.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv40</span>: <span tabindex=\"0\">Shred<span><span><span><span><span><img src=\"/wiki-files/03/0363bc4faf2b3ba07b44c8e1d0220e048c976be7.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Shred</span></span><span><span>Instant</span><span>24sec Cooldown</span></span><span>Charges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies).<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv50</span>: <span tabindex=\"0\">Adore Me<span><span><span><span><span><img src=\"/wiki-files/56/56299db9b7639d00db801af2275c0340807d564d.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Adore Me</span></span><span><span>Instant</span><span>1min Cooldown</span></span><span>Ser Meatball demands people within a <span style=\"color:#FF9C27\">5m</span> radius to Slow for <span style=\"color:#FF9C27\">4sec</span> and adore his cuteness.</span></span></span></div><div>Use:</div><div>Summons a mount.</div><div>Base Move Speed <span>11.5m/s</span></div></div><div><div><div><span style=\"width:48px; vertical-align:middle\"><span><span><img src=\"/wiki-files/82/8220cf8397a1bb5766e1f44c6ab33d6dd0537105.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/08/085aef9e9c2a7c6c81b54b03154b1f83b767eb97.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span></span></span></div><div><div><a href=\"/wiki/mounts\">Mount</a></div><div><span style=\"color: rgb(203, 114, 216)\">Arcane</span></div><div><span style=\"color: rgb(203, 114, 216)\">Ser Meatball</span></div></div></div><div></div><div>His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball.</div><div>Ser Meatball has the following skills:</div><div><span>Lv20</span>: <span tabindex=\"0\">Run!<span><span><span><span><span><img src=\"/wiki-files/ee/ee6495be62f44527fc79caaf31215748c1b9a01c.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Run!</span></span><span><span>Mana 20</span><span>Instant</span><span>30sec Cooldown</span></span><span>Increases Mount Move Speed <span style=\"color:#FF9C27\">+50%</span> for <span style=\"color:#FF9C27\">10sec</span>.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv30</span>: <span tabindex=\"0\">Reckless Charge<span><span><span><span><span><img src=\"/wiki-files/46/46d5517bb16f42604df54cc2d47ec56ffaa75bc8.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Reckless Charge</span></span><span><span>Instant</span><span>30sec Cooldown</span></span><span>Stealths the owner and the mount and charges forward for <span style=\"color:#FF9C27\">3sec</span>, breaking through enemy lines.<br>Inflicts Knockback and Trip on affected enemies.<br>This skill counts as a Push effect.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv40</span>: <span tabindex=\"0\">Shred<span><span><span><span><span><img src=\"/wiki-files/03/0363bc4faf2b3ba07b44c8e1d0220e048c976be7.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Shred</span></span><span><span>Instant</span><span>24sec Cooldown</span></span><span>Charges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies).<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv50</span>: <span tabindex=\"0\">Adore Me<span><span><span><span><span><img src=\"/wiki-files/56/56299db9b7639d00db801af2275c0340807d564d.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Adore Me</span></span><span><span>Instant</span><span>1min Cooldown</span></span><span>Ser Meatball demands people within a <span style=\"color:#FF9C27\">5m</span> radius to Slow for <span style=\"color:#FF9C27\">4sec</span> and adore his cuteness.</span></span></span></div><div>Use:</div><div>Summons a mount.</div><div>Base Move Speed <span>11.5m/s</span></div></div><div><div><div><span style=\"width:48px; vertical-align:middle\"><span><span><img src=\"/wiki-files/82/8220cf8397a1bb5766e1f44c6ab33d6dd0537105.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/08/085aef9e9c2a7c6c81b54b03154b1f83b767eb97.png\" width=\"48\" height=\"48\" loading=\"lazy\"></span></span></span></span></div><div><div><a href=\"/wiki/mounts\">Mount</a></div><div><span style=\"color: rgb(203, 114, 216)\">Arcane</span></div><div><span style=\"color: rgb(203, 114, 216)\">Ser Meatball</span></div></div></div><div></div><div>His royal furriness, anointed knight of toebeans, nemesis of rodents, breaker of tea cups and champion of the litterbox: Ser Meatball.</div><div>Ser Meatball has the following skills:</div><div><span>Lv20</span>: <span tabindex=\"0\">Run!<span><span><span><span><span><img src=\"/wiki-files/ee/ee6495be62f44527fc79caaf31215748c1b9a01c.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Run!</span></span><span><span>Mana 20</span><span>Instant</span><span>30sec Cooldown</span></span><span>Increases Mount Move Speed <span style=\"color:#FF9C27\">+50%</span> for <span style=\"color:#FF9C27\">10sec</span>.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv30</span>: <span tabindex=\"0\">Reckless Charge<span><span><span><span><span><img src=\"/wiki-files/46/46d5517bb16f42604df54cc2d47ec56ffaa75bc8.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Reckless Charge</span></span><span><span>Instant</span><span>30sec Cooldown</span></span><span>Stealths the owner and the mount and charges forward for <span style=\"color:#FF9C27\">3sec</span>, breaking through enemy lines.<br>Inflicts Knockback and Trip on affected enemies.<br>This skill counts as a Push effect.<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv40</span>: <span tabindex=\"0\">Shred<span><span><span><span><span><img src=\"/wiki-files/03/0363bc4faf2b3ba07b44c8e1d0220e048c976be7.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Shred</span></span><span><span>Instant</span><span>24sec Cooldown</span></span><span>Charges into a target in the distance, dealing (varies) Physical Damage and an additional (varies) damage over (varies).<br>Can&#39;t be used while carrying a trade pack.</span></span></span></div><div><span>Lv50</span>: <span tabindex=\"0\">Adore Me<span><span><span><span><span><img src=\"/wiki-files/56/56299db9b7639d00db801af2275c0340807d564d.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span></span><span>Adore Me</span></span><span><span>Instant</span><span>1min Cooldown</span></span><span>Ser Meatball demands people within a <span style=\"color:#FF9C27\">5m</span> radius to Slow for <span style=\"color:#FF9C27\">4sec</span> and adore his cuteness.</span></span></span></div><div>Use:</div><div>Summons a mount.</div><div>Base Move Speed <span>11.5m/s</span></div></div>\n<h3 id=\"How_to_add_Recipe_Boxes\">How to add Recipe Boxes</h3>\n<p>To add a recipe box you can simply use <code>Insert &gt; Template</code> and search for <u>RecipeBox</u>.\n</p><p>To add a new recipe, simple grab its ID from the <a rel=\"noopener\" href=\"https://aa-classic.com/database/crafts\">AA Classic Database</a> and paste it into field called Craft ID. As an addition you can also set the position of the Recipe Box by selecting it on the left side of the Template.\n</p>\n<div style=\"width: 100%\">\n  <div>\n<pre>   <span><img src=\"/wiki-files/70/70fe20ff9dd93a8bc8f2b0f595b053febf985e48.png\" width=\"452\" height=\"431\" loading=\"lazy\"></span>\n</pre>\n  </div>\n  <div style=\"text-align: left\">\n<pre>   <span><img src=\"/wiki-files/38/3811787fa691208508f04b288c0eedc1cff11e7d.png\" width=\"486\" height=\"143\" loading=\"lazy\"></span>\n   <br><br>\n   <span><img src=\"/wiki-files/e0/e0435025ed5a2d1fc4470c915ce9e5f137b734e0.png\" width=\"482\" height=\"207\" loading=\"lazy\"></span>\n</pre>\n  </div>\n</div>\n<div></div>\n<p>In case you should prefer Source editing, just use <code>{{RecipeBox|&lt;RecipeID&gt;|float=&lt;right/left/center&gt;}}</code>. The follwing example was made using this Source Edit: <code>{{RecipeBox|7136|float=center}}</code>.\n</p>\n<div style=\"width:fit-content\"><table class=\"wikitable\"><tbody><tr><th>Recipe</th><td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/a8/a8d9f837adc8afdc28dd0dd30bac58867e18ad46.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon</span>&#160;× 1</td></tr><tr><th>Labor Cost</th><td>× 25</td></tr><tr><th>Workbench</th><td>Shipyard Workbench</td></tr><tr><th>Proficiency</th><td>Machining</td></tr><tr><th>Materials</th><td><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/6d/6d559c1f88460a816b73f9a1aa088e9c1e7c80b6.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Iron Ingot</span>&#160;× 25</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/10/104f153f4fcac8c4d12eb043b6256aea16a23179.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon Design</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/90/90cde5c61f8650ac1c29947fadd9a51a0ad4ce50.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Starshard Ingot</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0c/0c9c96ec059da313184badc274c7c6b15c2d55a3.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Charcoal Stabilizer</span>&#160;× 3</div><div>1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></div></td></tr><tr><th>Recipe Cost</th><td>30<span><img src=\"/wiki-files/d8/d8968e843422cccd79ff6aba6872152b665e9fd0.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;37<span><img src=\"/wiki-files/d9/d9de3ea1544ce14a7c754bd30a29cf6e937252ef.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></td></tr></tbody></table></div>\n<p>You can also put multiple of those next to each other, displaying multiple recipes like this, but it looks weird on mobiles or smaller screens, since one is aligned to the left, one to the right and one to the center.\n</p>\n<div><table class=\"wikitable\"><tbody><tr><th>Recipe</th><td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/a8/a8d9f837adc8afdc28dd0dd30bac58867e18ad46.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon</span>&#160;× 1</td></tr><tr><th>Labor Cost</th><td>× 25</td></tr><tr><th>Workbench</th><td>Shipyard Workbench</td></tr><tr><th>Proficiency</th><td>Machining</td></tr><tr><th>Materials</th><td><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/6d/6d559c1f88460a816b73f9a1aa088e9c1e7c80b6.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Iron Ingot</span>&#160;× 25</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/10/104f153f4fcac8c4d12eb043b6256aea16a23179.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon Design</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/90/90cde5c61f8650ac1c29947fadd9a51a0ad4ce50.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Starshard Ingot</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0c/0c9c96ec059da313184badc274c7c6b15c2d55a3.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Charcoal Stabilizer</span>&#160;× 3</div><div>1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></div></td></tr><tr><th>Recipe Cost</th><td>30<span><img src=\"/wiki-files/d8/d8968e843422cccd79ff6aba6872152b665e9fd0.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;37<span><img src=\"/wiki-files/d9/d9de3ea1544ce14a7c754bd30a29cf6e937252ef.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></td></tr></tbody></table></div><div><table class=\"wikitable\"><tbody><tr><th>Recipe</th><td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/a8/a8d9f837adc8afdc28dd0dd30bac58867e18ad46.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon</span>&#160;× 1</td></tr><tr><th>Labor Cost</th><td>× 25</td></tr><tr><th>Workbench</th><td>Shipyard Workbench</td></tr><tr><th>Proficiency</th><td>Machining</td></tr><tr><th>Materials</th><td><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/6d/6d559c1f88460a816b73f9a1aa088e9c1e7c80b6.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Iron Ingot</span>&#160;× 25</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/10/104f153f4fcac8c4d12eb043b6256aea16a23179.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon Design</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/90/90cde5c61f8650ac1c29947fadd9a51a0ad4ce50.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Starshard Ingot</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0c/0c9c96ec059da313184badc274c7c6b15c2d55a3.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Charcoal Stabilizer</span>&#160;× 3</div><div>1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></div></td></tr><tr><th>Recipe Cost</th><td>30<span><img src=\"/wiki-files/d8/d8968e843422cccd79ff6aba6872152b665e9fd0.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;37<span><img src=\"/wiki-files/d9/d9de3ea1544ce14a7c754bd30a29cf6e937252ef.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></td></tr></tbody></table></div><div style=\"width:fit-content\"><table class=\"wikitable\"><tbody><tr><th>Recipe</th><td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/a8/a8d9f837adc8afdc28dd0dd30bac58867e18ad46.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon</span>&#160;× 1</td></tr><tr><th>Labor Cost</th><td>× 25</td></tr><tr><th>Workbench</th><td>Shipyard Workbench</td></tr><tr><th>Proficiency</th><td>Machining</td></tr><tr><th>Materials</th><td><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/6d/6d559c1f88460a816b73f9a1aa088e9c1e7c80b6.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Iron Ingot</span>&#160;× 25</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/10/104f153f4fcac8c4d12eb043b6256aea16a23179.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Large-Caliber Cannon Design</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/90/90cde5c61f8650ac1c29947fadd9a51a0ad4ce50.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Starshard Ingot</span>&#160;× 1</div><div><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0c/0c9c96ec059da313184badc274c7c6b15c2d55a3.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Charcoal Stabilizer</span>&#160;× 3</div><div>1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></div></td></tr><tr><th>Recipe Cost</th><td>30<span><img src=\"/wiki-files/d8/d8968e843422cccd79ff6aba6872152b665e9fd0.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;37<span><img src=\"/wiki-files/d9/d9de3ea1544ce14a7c754bd30a29cf6e937252ef.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span>&#32;1<span><img src=\"/wiki-files/f3/f314d1f39d96ae775b3e288fe967b4244de1bc9d.png\" width=\"24\" height=\"22\" loading=\"lazy\"></span></td></tr></tbody></table></div>\n<h3 id=\"How_to_write_in_Grade_Colors\">How to write in Grade Colors</h3>\n<p>To write in an item grade color such as <span style=\"color: rgb(201, 11, 11)\">Mythic</span>, you can simply use <code>Insert &gt; Template</code> and search for <u>Grade</u>.\n</p><p>To choose a color simply select the desired grade in the dropdown and input your text in the box below that.\n</p>\n<div style=\"width: 100%\">\n  <div>\n<pre>   <span><img src=\"/wiki-files/76/768e2202a8731c494db16d63f77c8ede1a45103c.png\" width=\"453\" height=\"431\" loading=\"lazy\"></span>\n</pre>\n  </div>\n  <div style=\"text-align: left\">\n<pre>   <span><img src=\"/wiki-files/15/15aa88b07248a9fd34bb2c0acefcfd32ff176d91.png\" width=\"486\" height=\"234\" loading=\"lazy\"></span>\n</pre>\n  </div>\n</div>\n<div></div>\n<p>In case you should prefer Source editing, just use <code>{{Grade|&lt;Grade&gt;|&lt;Text&gt;}}</code>. Here a preview of all Versions with their Source Text.\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<td><b><big>Source Code</big></b>\n</td>\n<td><b><big>Output</big></b>\n</td></tr>\n<tr>\n<td>{{Grade|Crude|Text}}\n</td>\n<td><span style=\"color: rgb(148, 146, 146)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Basic|Text}}\n</td>\n<td><span style=\"color: rgb(186, 151, 109)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Grand|Text}}\n</td>\n<td><span style=\"color: rgb(119, 176, 100)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Rare|Text}}\n</td>\n<td><span style=\"color: rgb(85, 143, 215)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Arcane|Text}}\n</td>\n<td><span style=\"color: rgb(203, 114, 216)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Heroic|Text}}\n</td>\n<td><span style=\"color: rgb(215, 139, 6)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Unique|Text}}\n</td>\n<td><span style=\"color: rgb(225, 120, 83)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Celestial|Text}}\n</td>\n<td><span style=\"color: rgb(249, 82, 82)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Divine|Text}}\n</td>\n<td><span style=\"color: rgb(207, 125, 93)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Epic|Text}}\n</td>\n<td><span style=\"color: rgb(143, 165, 202)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Legendary|Text}}\n</td>\n<td><span style=\"color: rgb(191, 121, 0)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Mythic|Text}}\n</td>\n<td><span style=\"color: rgb(201, 11, 11)\">AAClassic Ayanad Library</span>\n</td></tr>\n<tr>\n<td>{{Grade|Eternal|Text}}\n</td>\n<td><span style=\"color: rgb(173, 151, 253)\">AAClassic Ayanad Library</span>\n</td></tr></tbody></table>\n<h3 id=\"How_to_add_an_Item\">How to add an Item</h3>\n<p>To write in an item to your text with a grade to it such as <span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/1f/1f2a2603ea656d53f0f87c7ceba22a02eeaa3996.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/7b/7bd27f9fa477796629bc90db3ce728abab64aade.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(201, 11, 11)\">Hay Bale</span>&#160;× 50, you can simply use <code>Insert &gt; Template</code> and search for <u>Item</u>.\n</p><p>To choose an item simply select the desired item in the dropdown, select your grade in the dropdown below that and as an extra option, you can choose a quantity for it by selecting the setting in the left side of the template and typing the desired number into the input field. (Currently Only Hay Bales exist, more tba in future).\n</p>\n<div style=\"width: 100%\">\n  <div>\n<pre>   <span><img src=\"/wiki-files/03/03f7a0b466210f0c2e4c602689378b1101ce4829.png\" width=\"453\" height=\"433\" loading=\"lazy\"></span>\n</pre>\n  </div>\n  <div style=\"text-align: left\">\n<pre>   <span><img src=\"/wiki-files/ab/ab24b401053905c2106314230745867a7eeb0571.png\" width=\"486\" height=\"273\" loading=\"lazy\"></span>\n   <br><br>\n   <span><img src=\"/wiki-files/c0/c0561c0db73ade3049312cb416b5e706a12c8f25.png\" width=\"482\" height=\"84\" loading=\"lazy\"></span>\n</pre>\n  </div>\n</div>\n<div></div>\n<p>In case you should prefer Source editing, just use <code>{{Item|&lt;Item Name&gt;|&lt;Grade&gt;|&lt;Quantity&gt;}}</code>. Here a preview of all Versions with their Source Text.\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<td><b><big>Source Code</big></b>\n</td>\n<td><b><big>Output</big></b>\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Crude|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(148, 146, 146)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Basic|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(186, 151, 109)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Grand|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/3d/3d69fde87560c1dc262c6be841560eb3af03f07d.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(119, 176, 100)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Rare|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/48/48d9ba103d55983f61dabb3c7866f779be11f42e.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(85, 143, 215)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Arcane|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/08/085aef9e9c2a7c6c81b54b03154b1f83b767eb97.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(203, 114, 216)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Heroic|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/92/923ef9459b5c3fce27b1e581e334a6d56312a3af.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(215, 139, 6)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Unique|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/52/52a8e836d1894638ef5c06ad8ccd012cbd3bdf73.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(225, 120, 83)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Celestial|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/777eae21a4f28ae8a34b9580430c25a8d2160c43.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(249, 82, 82)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Divine|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/29/2930f7f4c011032a0d4017aaaa452b260d8b3089.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(207, 125, 93)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Epic|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/a7/a7d6a5e7a1796bc9cad3bca710e79ea5e19f1019.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(143, 165, 202)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Legendary|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/d5/d5390fe46f44614c1e76ae8abb70d7fdc6d57e46.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(191, 121, 0)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Mythic|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/7b/7bd27f9fa477796629bc90db3ce728abab64aade.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(201, 11, 11)\">Enoan</span>&#160;× 7\n</td></tr>\n<tr>\n<td>{{Item|Enoan|Eternal|7}}\n</td>\n<td><span style=\"width:32px; vertical-align:middle\"><span><span><img src=\"/wiki-files/0f/0f79de3dcfe7182e3914368f37e8df9e8139d172.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span><span><span><span><img src=\"/wiki-files/77/77588dac5ba705af83696cb882ee6c5c86059717.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span></span></span></span> <span style=\"color: rgb(173, 151, 253)\">Enoan</span>&#160;× 7\n</td></tr></tbody></table>",
+ "wikitext": "== A Page dedicated to Wiki Editors ==\nSheoix made alot of new Templates and Tables for us to use and this is a quick explanation of all new functions to it.\n\n=== How to add Mounts ===\nTo add a mount you can simply use <code>Insert > Template</code> and search for <u>Mount</u>. \n\nTo add a new mount, simple grab its ID from the [https://aa-classic.com/database/item AA Classic Database] and paste it into field called Item ID. As an addition you can also add a custom Mount Speed and the position of the Mount Box by selecting both on the left side of the Template.\n<div style=\"display: block; overflow: hidden; width: 100%; margin-bottom: 20px;\">\n  <div style=\"float: left; margin-right: 20px; margin-bottom: 20px;\">\n    [[File:Choose mount template.png|frameless|453x453px]]\n  </div>\n  <div style=\"float: left; margin-bottom: 20px; text-align: left;\">\n    [[File:Mount input itemID.png|frameless|486x486px]]\n    <br><br>\n    [[File:Mount template settings.png|frameless|482x482px]]\n  </div>\n</div>\n<div style=\"clear: both; height: 1px;\"></div>\nIn case you should prefer Source editing, just use <code><nowiki>{{Mount|<MountID>|speed=<Mount Speed>|float=<right/left/center>}}</nowiki></code>. The follwing example was made using this Source Edit: <code><nowiki>{{Mount|51188|speed=15.8|float=center}}</nowiki></code>.\n\n{{Mount|51188|speed=15.8|float=center}}\n\nYou can also put multiple of those next to each other, displaying multiple mounts like this, but it looks weird on mobiles or smaller screens, since one is aligned to the left, one to the right and one to the center.\n\n{{Mount|51188|float=left}}{{Mount|51188|float=right}}{{Mount|51188|float=center}}\n\n=== How to add Recipe Boxes ===\nTo add a recipe box you can simply use <code>Insert > Template</code> and search for <u>RecipeBox</u>.\n\nTo add a new recipe, simple grab its ID from the [https://aa-classic.com/database/crafts AA Classic Database] and paste it into field called Craft ID. As an addition you can also set the position of the Recipe Box by selecting it on the left side of the Template.\n<div style=\"display: block; overflow: hidden; width: 100%; margin-bottom: 20px;\">\n  <div style=\"float: left; margin-right: 20px; margin-bottom: 20px;\">\n    [[File:Choose recipebox template.png|frameless|452x452px]]\n  </div>\n  <div style=\"float: left; margin-bottom: 20px; text-align: left;\">\n    [[File:RecipeBox inpput recipeID.png|frameless|486x486px]]\n    <br><br>\n    [[File:RecipeBox template settings.png|frameless|482x482px]]\n  </div>\n</div>\n<div style=\"clear: both; height: 1px;\"></div>\nIn case you should prefer Source editing, just use <code><nowiki>{{RecipeBox|<RecipeID>|float=<right/left/center>}}</nowiki></code>. The follwing example was made using this Source Edit: <code><nowiki>{{RecipeBox|7136|float=center}}</nowiki></code>.\n{{RecipeBox|7136|float=center}}\nYou can also put multiple of those next to each other, displaying multiple recipes like this, but it looks weird on mobiles or smaller screens, since one is aligned to the left, one to the right and one to the center.\n{{RecipeBox|7136|float=left}}{{RecipeBox|7136|float=right}}{{RecipeBox|7136|float=center}}\n\n=== How to write in Grade Colors ===\nTo write in an item grade color such as {{Grade|Mythic|Mythic}}, you can simply use <code>Insert > Template</code> and search for <u>Grade</u>.\n\nTo choose a color simply select the desired grade in the dropdown and input your text in the box below that.\n<div style=\"display: block; overflow: hidden; width: 100%; margin-bottom: 20px;\">\n  <div style=\"float: left; margin-right: 20px; margin-bottom: 20px;\">\n    [[File:GradeColor text select.png|frameless|453x453px]]\n  </div>\n  <div style=\"float: left; margin-bottom: 20px; text-align: left;\">\n    [[File:Grade template settings.png|frameless|486x486px]]\n  </div>\n</div>\n<div style=\"clear: both; height: 1px;\"></div>\nIn case you should prefer Source editing, just use <code><nowiki>{{Grade|<Grade>|<Text>}}</nowiki></code>. Here a preview of all Versions with their Source Text.\n{| class=\"wikitable\"\n|'''<big>Source Code</big>'''\n|'''<big>Output</big>'''\n|-\n|<nowiki>{{Grade|Crude|Text}}</nowiki>\n|{{Grade|Crude|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Basic|Text}}</nowiki>\n|{{Grade|Basic|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Grand|Text}}</nowiki>\n|{{Grade|Grand|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Rare|Text}}</nowiki>\n|{{Grade|Rare|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Arcane|Text}}</nowiki>\n|{{Grade|Arcane|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Heroic|Text}}</nowiki>\n|{{Grade|Heroic|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Unique|Text}}</nowiki>\n|{{Grade|Unique|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Celestial|Text}}</nowiki>\n|{{Grade|Celestial|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Divine|Text}}</nowiki>\n|{{Grade|Divine|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Epic|Text}}</nowiki>\n|{{Grade|Epic|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Legendary|Text}}</nowiki>\n|{{Grade|Legendary|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Mythic|Text}}</nowiki>\n|{{Grade|Mythic|AAClassic Ayanad Library}}\n|-\n|<nowiki>{{Grade|Eternal|Text}}</nowiki>\n|{{Grade|Eternal|AAClassic Ayanad Library}}\n|}\n\n=== How to add an Item ===\nTo write in an item to your text with a grade to it such as {{Item|Hay Bale|Mythic|50}}, you can simply use <code>Insert > Template</code> and search for <u>Item</u>.\n\nTo choose an item simply select the desired item in the dropdown, select your grade in the dropdown below that and as an extra option, you can choose a quantity for it by selecting the setting in the left side of the template and typing the desired number into the input field. (Currently Only Hay Bales exist, more tba in future).\n<div style=\"display: block; overflow: hidden; width: 100%; margin-bottom: 20px;\">\n  <div style=\"float: left; margin-right: 20px; margin-bottom: 20px;\">\n    [[File:Choose item template.png|frameless|453x453px]]\n  </div>\n  <div style=\"float: left; margin-bottom: 20px; text-align: left;\">\n    [[File:Item template required.png|frameless|486x486px]]\n    <br><br>\n    [[File:Item template optional.png|frameless|482x482px]]\n  </div>\n</div>\n<div style=\"clear: both; height: 1px;\"></div>\nIn case you should prefer Source editing, just use <code><nowiki>{{Item|<Item Name>|<Grade>|<Quantity>}}</nowiki></code>. Here a preview of all Versions with their Source Text.\n{| class=\"wikitable\"\n|'''<big>Source Code</big>'''\n|'''<big>Output</big>'''\n|-\n|<nowiki>{{Item|Enoan|Crude|7}}</nowiki>\n|{{Item|Enoan|Crude|7}}\n|-\n|<nowiki>{{Item|Enoan|Basic|7}}</nowiki>\n|{{Item|Enoan|Basic|7}}\n|-\n|<nowiki>{{Item|Enoan|Grand|7}}</nowiki>\n|{{Item|Enoan|Grand|7}}\n|-\n|<nowiki>{{Item|Enoan|Rare|7}}</nowiki>\n|{{Item|Enoan|Rare|7}}\n|-\n|<nowiki>{{Item|Enoan|Arcane|7}}</nowiki>\n|{{Item|Enoan|Arcane|7}}\n|-\n|<nowiki>{{Item|Enoan|Heroic|7}}</nowiki>\n|{{Item|Enoan|Heroic|7}}\n|-\n|<nowiki>{{Item|Enoan|Unique|7}}</nowiki>\n|{{Item|Enoan|Unique|7}}\n|-\n|<nowiki>{{Item|Enoan|Celestial|7}}</nowiki>\n|{{Item|Enoan|Celestial|7}}\n|-\n|<nowiki>{{Item|Enoan|Divine|7}}</nowiki>\n|{{Item|Enoan|Divine|7}}\n|-\n|<nowiki>{{Item|Enoan|Epic|7}}</nowiki>\n|{{Item|Enoan|Epic|7}}\n|-\n|<nowiki>{{Item|Enoan|Legendary|7}}</nowiki>\n|{{Item|Enoan|Legendary|7}}\n|-\n|<nowiki>{{Item|Enoan|Mythic|7}}</nowiki>\n|{{Item|Enoan|Mythic|7}}\n|-\n|<nowiki>{{Item|Enoan|Eternal|7}}</nowiki>\n|{{Item|Enoan|Eternal|7}}\n|}"
+}

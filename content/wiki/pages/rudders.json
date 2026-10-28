@@ -1,12 +1,16 @@
 {
  "slug": "rudders",
  "title": "Rudders",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 865,
  "revid": 1651,
  "updated": "2024-07-21T01:29:06Z",
  "source": "https://wiki.aa-classic.com/Rudders",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "Back to Galleons or Ships tbc",
- "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a> or <a href=\"/wiki/ships\">Ships</a>\n</p><p><br>\ntbc\n</p>"
+ "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a> or <a href=\"/wiki/ships\">Ships</a>\n</p><p><br>\ntbc\n</p>",
+ "wikitext": "Back to [[Galleons]] or [[Ships]]\n\n\ntbc"
 }

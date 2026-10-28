@@ -1,0 +1,24 @@
+{
+ "slug": "test-page",
+ "title": "Test Page",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 1632,
+ "revid": 3311,
+ "updated": "2026-02-25T11:07:48Z",
+ "source": "https://wiki.aa-classic.com/Test_Page",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Races.jpg",
+  "SkillTrees.png",
+  "FreighterRun.jpg",
+  "Gearworkbench.png",
+  "Abyssalisland.png",
+  "Red dragon.webp",
+  "Gliders.webp"
+ ],
+ "text": "Races Skill Trees Earning Gold Gearing World Events World Bosses Featured Getting Started Your guide to starting in Classic test text",
+ "html": "<p><br>\n</p>\n<div role=\"navigation\"><div><div><span><span><img src=\"/wiki-files/e7/e7d4a7fa3b91a292fe053b92230ce6cb429fa9b6.jpg\" width=\"86\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/races\">Races</a></div><div><div><span><span><img src=\"/wiki-files/81/81ea2e37b7979e8f957e61fa364a2563790f60f5.png\" width=\"50\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/skill-trees\">Skill Trees</a></div><div><div><span><span><img src=\"/wiki-files/de/de7ef3f66f141ef96dd1d574a64b5295153953e5.jpg\" width=\"88\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/earning-gold\">Earning Gold</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b86d3fd834b1f73dec540f28ed148576657b8cc.png\" width=\"71\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/gearing\">Gearing</a></div><div><div><span><span><img src=\"/wiki-files/3b/3b435e9d5dfc922002559f3ce04f35b2b5a66ddf.png\" width=\"72\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-events\">World Events</a></div><div><div><span><span><img src=\"/wiki-files/6c/6cd4d2265bea0588e0dfbf5d4760f98aa974dfa8.webp\" width=\"77\" height=\"48\" loading=\"lazy\"></span></span></div><a href=\"/wiki/world-bosses\">World Bosses</a></div></div>\n<p><br>\n</p>\n\n<div><div><span><a href=\"/wiki/getting-started\"><img src=\"/wiki-files/b7/b7fd4c5be56daec34dbbaa28d44c7e68eb8d4dd2.webp\" width=\"554\" height=\"300\" loading=\"lazy\"></a></span></div>\n<div>\n<div>Featured</div>\n<div>Getting Started</div>\n<div>Your guide to starting in Classic</div>\n</div>\n<p>test text\n</p></div>",
+ "wikitext": "<templatestyles src=\"Template:Main page/shared/styles.css\" />\n\n\n{{Navpills\n|page1 = Races \n|image1 = Races.jpg\n|page2 = Skill Trees \n|image2 = SkillTrees.png\n|page3 = Earning Gold \n|image3 = FreighterRun.jpg\n|page4 = Gearing \n|image4 = Gearworkbench.png\n|page5 = World Events \n|image5 = Abyssalisland.png\n|page6 = World Bosses \n|image6 = Red dragon.webp\n}}\n\n\n\n<templatestyles src=\"Template:Main page/featured/styles.css\"/>\n<div id=\"home-featured\" class=\"home-card home-card--button home-card--col2 home-card--row3\" style=\"view-transition-name: infobox-image\"><div class=\"home-card__background\">[[File:Gliders.webp|x300px|link=Getting Started]]</div>\n<div class=\"home-card__foreground\">\n<div class=\"home-card__badge\">Featured</div>\n<div class=\"home-card__header\">Getting Started</div>\n<div class=\"home-card__label\">Your guide to starting in Classic</div>\n</div>\ntest text"
+}

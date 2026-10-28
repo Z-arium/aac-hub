@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skills-15",
+ "title": "Module:Data/Skills/15",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60386,
+ "revid": 62511,
+ "updated": "2026-10-26T20:28:55Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Skills/15",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [15267] = { cd = \"1m\", desc = \"Increases the donkey's Move Speed +|cFFFF9C2730%|r for 1m.\\nCan only be used while wearing a trade pack and consumes |cFFFF9C271 Carrot|r.\", icon = \"icon_skill_donkey01.png\", mana = 0, name = \"Dreaming Donkey\" }, [15581] = { cd = \"3m\", desc = \"Stealths both mount and rider for 30s.\\nDecreases Move Speed |cFFFF9C27-30%|r.\\nStealth ends if you move, attack, or are attacked.\\nCan't be used in combat.\", icon = \"icon_skill_tare01.png\", mana = 0, name = \"Stealth Move\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[15267] = { cd = \"1m\", desc = \"Increases the donkey's Move Speed +|cFFFF9C2730%|r for 1m.\\nCan only be used while wearing a trade pack and consumes |cFFFF9C271 Carrot|r.\", icon = \"icon_skill_donkey01.png\", mana = 0, name = \"Dreaming Donkey\" },\n\t[15581] = { cd = \"3m\", desc = \"Stealths both mount and rider for 30s.\\nDecreases Move Speed |cFFFF9C27-30%|r.\\nStealth ends if you move, attack, or are attacked.\\nCan't be used in combat.\", icon = \"icon_skill_tare01.png\", mana = 0, name = \"Stealth Move\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[15267] = { cd = \"1m\", desc = \"Increases the donkey's Move Speed +|cFFFF9C2730%|r for 1m.\\nCan only be used while wearing a trade pack and consumes |cFFFF9C271 Carrot|r.\", icon = \"icon_skill_donkey01.png\", mana = 0, name = \"Dreaming Donkey\" },\n\t[15581] = { cd = \"3m\", desc = \"Stealths both mount and rider for 30s.\\nDecreases Move Speed |cFFFF9C27-30%|r.\\nStealth ends if you move, attack, or are attacked.\\nCan't be used in combat.\", icon = \"icon_skill_tare01.png\", mana = 0, name = \"Stealth Move\" },\n}"
+}

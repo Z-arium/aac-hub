@@ -1,12 +1,16 @@
 {
  "slug": "dream-ring",
  "title": "Dream Ring",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 406,
  "revid": 947,
  "updated": "2024-05-05T22:49:52Z",
  "source": "https://wiki.aa-classic.com/Dream_Ring",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "https://www.ign.com/wikis/archeage/Dream_Ring Evenbards",
- "html": "<p><a rel=\"noopener\" href=\"https://www.ign.com/wikis/archeage/Dream_Ring\">https://www.ign.com/wikis/archeage/Dream_Ring</a>\n</p><p><a href=\"/wiki/evenbards\">Evenbards</a>\n</p>"
+ "html": "<p><a rel=\"noopener\" href=\"https://www.ign.com/wikis/archeage/Dream_Ring\">https://www.ign.com/wikis/archeage/Dream_Ring</a>\n</p><p><a href=\"/wiki/evenbards\">Evenbards</a>\n</p>",
+ "wikitext": "https://www.ign.com/wikis/archeage/Dream_Ring\n\n[[Evenbards]]"
 }

@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-pets-560",
+ "title": "Module:Data/Pets/560",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60459,
+ "revid": 62610,
+ "updated": "2026-10-26T23:12:26Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Pets/560",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Pets). Do not edit by hand, it is overwritten when the script runs. return { [56039] = { bind = \"soulbound_unpack\", category = \"Powerstone Pet\", desc = \"This pet is a cute capybara.\\n\\nThis pet has the following skills:\\n|nd;Relaxed Life|r\\n\\n|ni;Can be used as a Farmhand appearance.|r\", grade = \"Arcane\", icon = \"icon_item_6048.png\", name = \"Capiel\", nosell = true, req = 1, skills = { { desc = \"With Capiel's ability, grant the following effects to the owner for 10 min.\\n- Reduce production activity time 20%\\n- Increase Life Experience generated from labor consumption 40%\\n- Increase Life Point acquisition rate 10%\\nThis buff can't be used if Cooling Off is active.\\nRight-click to activate auto-use.\\nEffect disappears when the Powerstone Pet is not being used.\", icon = \"icon_skill_capybara_01.png\", id = 52965, name = \"Relaxed Life\" } }, use = \"Summons a pet.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Pets). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[56039] = { bind = \"soulbound_unpack\", category = \"Powerstone Pet\", desc = \"This pet is a cute capybara.\\n\\nThis pet has the following skills:\\n|nd;Relaxed Life|r\\n\\n|ni;Can be used as a Farmhand appearance.|r\", grade = \"Arcane\", icon = \"icon_item_6048.png\", name = \"Capiel\", nosell = true, req = 1, skills = { { desc = \"With Capiel's ability, grant the following effects to the owner for 10 min.\\n- Reduce production activity time 20%\\n- Increase Life Experience generated from labor consumption 40%\\n- Increase Life Point acquisition rate 10%\\nThis buff can't be used if Cooling Off is active.\\nRight-click to activate auto-use.\\nEffect disappears when the Powerstone Pet is not being used.\", icon = \"icon_skill_capybara_01.png\", id = 52965, name = \"Relaxed Life\" } }, use = \"Summons a pet.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Pets). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[56039] = { bind = \"soulbound_unpack\", category = \"Powerstone Pet\", desc = \"This pet is a cute capybara.\\n\\nThis pet has the following skills:\\n|nd;Relaxed Life|r\\n\\n|ni;Can be used as a Farmhand appearance.|r\", grade = \"Arcane\", icon = \"icon_item_6048.png\", name = \"Capiel\", nosell = true, req = 1, skills = { { desc = \"With Capiel's ability, grant the following effects to the owner for 10 min.\\n- Reduce production activity time 20%\\n- Increase Life Experience generated from labor consumption 40%\\n- Increase Life Point acquisition rate 10%\\nThis buff can't be used if Cooling Off is active.\\nRight-click to activate auto-use.\\nEffect disappears when the Powerstone Pet is not being used.\", icon = \"icon_skill_capybara_01.png\", id = 52965, name = \"Relaxed Life\" } }, use = \"Summons a pet.\" },\n}"
+}

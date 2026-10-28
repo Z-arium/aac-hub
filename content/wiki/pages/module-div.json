@@ -1,0 +1,16 @@
+{
+ "slug": "module-div",
+ "title": "Module:Div",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 49983,
+ "revid": 52064,
+ "updated": "2026-10-25T14:55:34Z",
+ "source": "https://wiki.aa-classic.com/Module:Div",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "local p = {} -- {{Div|em=0.5|first|second|third|...}} -> a flex row of <div>s that wraps when it is too wide. -- Reads the arguments of the template that called it, so there is no limit on how many you give. function p.row(frame) local args = frame:getParent().args -- gap between the boxes, in em (default 0.5) local gap = tonumber(mw.text.trim(args.em or '')) if not gap or gap < 0 then gap = 0.5 end -- collect the numbered arguments in order (1, 2, 3 ...) local keys = {} for k in pairs(args) do if type(k) == 'number' then keys[#keys + 1] = k end end table.sort(keys) local root = mw.html.create('div') :css('display', 'flex') :css('gap', gap .. 'em') :css('flex-wrap', 'wrap') local any = false for _, k in ipairs(keys) do local v = args[k] if mw.text.trim(v) ~= '' then -- empty arguments do not make an empty box root:tag('div'):wikitext(v) any = true end end if not any then return '' end return tostring(root) end return p",
+ "html": "<pre><code>local p = {}\n\n-- {{Div|em=0.5|first|second|third|...}}  -&gt;  a flex row of &lt;div&gt;s that wraps when it is too wide.\n-- Reads the arguments of the template that called it, so there is no limit on how many you give.\nfunction p.row(frame)\n\tlocal args = frame:getParent().args\n\n\t-- gap between the boxes, in em (default 0.5)\n\tlocal gap = tonumber(mw.text.trim(args.em or ''))\n\tif not gap or gap &lt; 0 then gap = 0.5 end\n\n\t-- collect the numbered arguments in order (1, 2, 3 ...)\n\tlocal keys = {}\n\tfor k in pairs(args) do\n\t\tif type(k) == 'number' then keys[#keys + 1] = k end\n\tend\n\ttable.sort(keys)\n\n\tlocal root = mw.html.create('div')\n\t\t:css('display', 'flex')\n\t\t:css('gap', gap .. 'em')\n\t\t:css('flex-wrap', 'wrap')\n\tlocal any = false\n\tfor _, k in ipairs(keys) do\n\t\tlocal v = args[k]\n\t\tif mw.text.trim(v) ~= '' then   -- empty arguments do not make an empty box\n\t\t\troot:tag('div'):wikitext(v)\n\t\t\tany = true\n\t\tend\n\tend\n\tif not any then return '' end\n\treturn tostring(root)\nend\n\nreturn p</code></pre>",
+ "wikitext": "local p = {}\n\n-- {{Div|em=0.5|first|second|third|...}}  ->  a flex row of <div>s that wraps when it is too wide.\n-- Reads the arguments of the template that called it, so there is no limit on how many you give.\nfunction p.row(frame)\n\tlocal args = frame:getParent().args\n\n\t-- gap between the boxes, in em (default 0.5)\n\tlocal gap = tonumber(mw.text.trim(args.em or ''))\n\tif not gap or gap < 0 then gap = 0.5 end\n\n\t-- collect the numbered arguments in order (1, 2, 3 ...)\n\tlocal keys = {}\n\tfor k in pairs(args) do\n\t\tif type(k) == 'number' then keys[#keys + 1] = k end\n\tend\n\ttable.sort(keys)\n\n\tlocal root = mw.html.create('div')\n\t\t:css('display', 'flex')\n\t\t:css('gap', gap .. 'em')\n\t\t:css('flex-wrap', 'wrap')\n\tlocal any = false\n\tfor _, k in ipairs(keys) do\n\t\tlocal v = args[k]\n\t\tif mw.text.trim(v) ~= '' then   -- empty arguments do not make an empty box\n\t\t\troot:tag('div'):wikitext(v)\n\t\t\tany = true\n\t\tend\n\tend\n\tif not any then return '' end\n\treturn tostring(root)\nend\n\nreturn p"
+}

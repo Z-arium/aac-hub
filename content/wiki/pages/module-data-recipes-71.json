@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-recipes-71",
+ "title": "Module:Data/Recipes/71",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60382,
+ "revid": 62507,
+ "updated": "2026-10-26T20:28:50Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Recipes/71",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [7136] = { coin = 1, labor = 25, materials = { { amount = 25, grade = \"None\", icon = \"quest/icon_item_quest053.png\", id = 8318, name = \"Iron Ingot\", required = \"Any\" }, { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35940, name = \"Large-Caliber Cannon Design\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_0855.png\", id = 3332, name = \"Starshard Ingot\", required = \"Any\" }, { amount = 3, grade = \"None\", icon = \"icon_item_1766.png\", id = 32103, name = \"Charcoal Stabilizer\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_2104.png\", id = 35138, name = \"Large-Caliber Cannon\" }, prof = \"Machining\", rate = 100, req = 0, station = \"Shipyard Workbench\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[7136] = { coin = 1, labor = 25, materials = { { amount = 25, grade = \"None\", icon = \"quest/icon_item_quest053.png\", id = 8318, name = \"Iron Ingot\", required = \"Any\" }, { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35940, name = \"Large-Caliber Cannon Design\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_0855.png\", id = 3332, name = \"Starshard Ingot\", required = \"Any\" }, { amount = 3, grade = \"None\", icon = \"icon_item_1766.png\", id = 32103, name = \"Charcoal Stabilizer\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_2104.png\", id = 35138, name = \"Large-Caliber Cannon\" }, prof = \"Machining\", rate = 100, req = 0, station = \"Shipyard Workbench\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[7136] = { coin = 1, labor = 25, materials = { { amount = 25, grade = \"None\", icon = \"quest/icon_item_quest053.png\", id = 8318, name = \"Iron Ingot\", required = \"Any\" }, { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35940, name = \"Large-Caliber Cannon Design\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_0855.png\", id = 3332, name = \"Starshard Ingot\", required = \"Any\" }, { amount = 3, grade = \"None\", icon = \"icon_item_1766.png\", id = 32103, name = \"Charcoal Stabilizer\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_2104.png\", id = 35138, name = \"Large-Caliber Cannon\" }, prof = \"Machining\", rate = 100, req = 0, station = \"Shipyard Workbench\" },\n}"
+}

@@ -1,12 +1,18 @@
 {
  "slug": "staging-packs",
  "title": "Staging Packs",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 971,
  "revid": 1911,
  "updated": "2024-09-13T05:53:37Z",
  "source": "https://wiki.aa-classic.com/Staging_Packs",
  "headings": [],
  "tables": [],
+ "images": [
+  "Staging.png"
+ ],
  "text": "Example of Staged Packs Staging is a way players can take advantage of their land to make for more efficient trade running. If you're delivering packs out of a zone with a Peace/War cycle, staging packs on land soon after you exit that zone, rather than completing the full run, more efficiently uses the Peace cycle of the zone. For example, if you are doing the Double Peace Trade Run, you could stage your packs as soon after leaving Halcyona.",
- "html": "<figure><img alt=\"Example of Staged Packs\" src=\"https://wiki.aa-classic.com/images/c/c1/Staging.png\" width=\"414\" height=\"337\" loading=\"lazy\"><figcaption>Example of Staged Packs</figcaption></figure>\n<p>Staging is a way players can take advantage of their land to make for more efficient trade running. If you're delivering packs out of a zone with a Peace/War cycle, staging packs on land soon after you exit that zone, rather than completing the full run, more efficiently uses the Peace cycle of the zone.\n</p><p>For example, if you are doing the <a href=\"/wiki/double-peace-trade-run\">Double Peace Trade Run</a>, you could stage your packs as soon after leaving Halcyona.\n</p>"
+ "html": "<figure><img alt=\"Example of Staged Packs\" src=\"/wiki-files/1e/1e101bd1e7fbd29ebaa8aedb113e5bf76888f2f1.png\" width=\"414\" height=\"337\" loading=\"lazy\"><figcaption>Example of Staged Packs</figcaption></figure>\n<p>Staging is a way players can take advantage of their land to make for more efficient trade running. If you're delivering packs out of a zone with a Peace/War cycle, staging packs on land soon after you exit that zone, rather than completing the full run, more efficiently uses the Peace cycle of the zone.\n</p><p>For example, if you are doing the <a href=\"/wiki/double-peace-trade-run\">Double Peace Trade Run</a>, you could stage your packs as soon after leaving Halcyona.\n</p>",
+ "wikitext": "[[File:Staging.png|alt=Example of Staged Packs|thumb|414x414px|Example of Staged Packs]]\nStaging is a way players can take advantage of their land to make for more efficient trade running. If you're delivering packs out of a zone with a Peace/War cycle, staging packs on land soon after you exit that zone, rather than completing the full run, more efficiently uses the Peace cycle of the zone.\n\nFor example, if you are doing the [[Double Peace (Trade Run)|Double Peace Trade Run]], you could stage your packs as soon after leaving Halcyona."
 }

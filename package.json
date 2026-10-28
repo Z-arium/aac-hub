@@ -9,7 +9,8 @@
     "lint": "eslint",
     "wiki:import": "node scripts/wiki-import/import.mjs",
     "wiki:extract": "node scripts/wiki-import/extract.mjs",
-    "wiki:check": "node --experimental-strip-types --no-warnings scripts/wiki-import/check-data.mjs"
+    "wiki:check": "node --experimental-strip-types --no-warnings scripts/wiki-import/check-data.mjs",
+    "wiki:coverage": "node scripts/wiki-import/coverage.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.118.0",

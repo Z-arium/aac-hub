@@ -1,0 +1,104 @@
+{
+ "slug": "16x16",
+ "title": "16x16",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 1422,
+ "revid": 2937,
+ "updated": "2025-10-14T11:10:06Z",
+ "source": "https://wiki.aa-classic.com/16x16",
+ "headings": [
+  {
+   "level": 3,
+   "id": "Scarecrow_Farm",
+   "text": "Scarecrow Farm"
+  },
+  {
+   "level": 3,
+   "id": "Improved_Scarecrow_Farm",
+   "text": "Improved Scarecrow Farm"
+  },
+  {
+   "level": 3,
+   "id": "Full_Kit",
+   "text": "Full Kit"
+  },
+  {
+   "level": 3,
+   "id": "Aquafarm",
+   "text": "Aquafarm"
+  },
+  {
+   "level": 3,
+   "id": "Small_House",
+   "text": "Small House"
+  },
+  {
+   "level": 3,
+   "id": "2-story_Small_House",
+   "text": "2-story Small House"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Scarecrow Farm",
+   "caption": "Construction materials in order",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Lumber Pack",
+     "",
+     "1"
+    ]
+   ]
+  },
+  {
+   "heading": "Improved Scarecrow Farm",
+   "caption": "Upgrading materials",
+   "headers": [
+    "Pack",
+    "Icon",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Wooden Beam Bundle",
+     "",
+     "2"
+    ],
+    [
+     "Construction Tool Bundle",
+     "",
+     "2"
+    ],
+    [
+     "Finishing Touches Bundle",
+     "",
+     "1"
+    ],
+    [
+     "Construction Brick Bundle",
+     "",
+     "1"
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "Scarecrowfarm.png",
+  "Lumberpack.png",
+  "Improvedscarecrowfarm.png",
+  "Woodenbeambundle.png",
+  "Constructiontoolbundle.png",
+  "Finsihingtouchesbundle.png",
+  "Constructionbrickbundle.png",
+  "Aquafarm.png"
+ ],
+ "text": "Next in the size after 8x8 are the 16x16 land plots. They are little bit bigger areas to store packs, grow crops or livestock. They also include some houses and aquafarms. Scarecrow Farm After getting the 8x8 Garden from Blue Salt Brotherhood quest, the questline continues with the 16x16 Farm questline. Hamiltons guidevideo explains in a detail how to get it. It can be obtained from the quest only once by character. Can be sold after being placed. Cannot be Full Kitted. Construction materials in order Pack Icon Amount Lumber Pack 1 Improved Scarecrow Farm The 8x8 Scarecrow Garden from the Blue Salt Brotherhood questline can be upgraded into 16x16 Farm on Carpentry workbench with come materials. Can be sold after being placed, cannot be Full Kitted. Upgrading materials Pack Icon Amount Wooden Beam Bundle 2 Construction Tool Bundle 2 Finishing Touches Bundle 1 Construction Brick Bundle 1 Full Kit Solar Scarecrow Farm Stellar Scarecrow Farm Lunar Scarecrow Farm Aquafarm Aquafarms are basically same as Scarecrow Farms but underwater. They can grow different kinds of corals, pearls and fish traps that are used in crafting. Aquafarm designs can be bought from the Gilda shop in Marketplace and they cost 20 Gilda Stars. Aquafarms have a device in the middle that players can use and get more oxygen for working underwater. Aquafarms are always Full Kits meaning they don't need to be built. They can be sold. Small House Tudor Slate Cottage Stone Slate Cottage Rustic Slate Cottage Tudor Spring Cottage Stone Spring Cottage Rustic Spring Cottage Tudor Rose Cottage Stone Rose Cottage Rustic Rose Cottage Swept-Roof Cottage 2-story Small House Raised Slate Cottage Raised Spring Cottage Raised Rose Cottage Raised Swept-Roof Cottage",
+ "html": "<p>Next in the size after 8x8 are the 16x16 land plots. They are little bit bigger areas to store packs, grow crops or livestock. They also include some houses and aquafarms. \n</p>\n\n<h3 id=\"Scarecrow_Farm\">Scarecrow Farm</h3>\n<p>After getting the 8x8 Garden from Blue Salt Brotherhood quest, the questline continues with the 16x16 Farm questline. Hamiltons <a rel=\"noopener\" href=\"https://www.youtube.com/watch?v=PBCb4NqijDA\">guidevideo</a> explains in a detail how to get it. It can be obtained from the quest only once by character.\n</p><p><b>Can be sold after being placed. Cannot be Full Kitted.</b>\n</p><p><span><img src=\"/wiki-files/35/35bc49637e44b9213ff052556bbcbb8d242c9472.png\" width=\"448\" height=\"320\" loading=\"lazy\"></span>\n</p>\n<table class=\"wikitable\">\n<caption>Construction materials in order\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Lumber Pack\n</td>\n<td><figure><img src=\"/wiki-files/af/af88d26308ada9767631d356b2b31a72cec77aea.png\" width=\"37\" height=\"36\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Improved_Scarecrow_Farm\">Improved Scarecrow Farm</h3>\n<p>The <a rel=\"noopener\" href=\"https://wiki.aa-classic.com/8x8#Scarecrow_Garden\">8x8 Scarecrow Garden</a> from the Blue Salt Brotherhood questline can be upgraded into 16x16 Farm on Carpentry workbench with come materials.\n</p><p><span><img src=\"/wiki-files/1d/1d849e283899838dd3c4da18c131170315bef8e4.png\" width=\"530\" height=\"358\" loading=\"lazy\"></span>\n</p><p><b>Can be sold after being placed, cannot be Full Kitted.</b>\n</p>\n<table class=\"wikitable\">\n<caption>Upgrading materials\n</caption>\n<tbody><tr>\n<th>Pack\n</th>\n<th>Icon\n</th>\n<th>Amount\n</th></tr>\n<tr>\n<td>Wooden Beam Bundle\n</td>\n<td><figure><img src=\"/wiki-files/ce/ce99d2330ba469c39e7b92db329553012147afdc.png\" width=\"47\" height=\"44\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>2\n</td></tr>\n<tr>\n<td>Construction Tool Bundle\n</td>\n<td><figure><img src=\"/wiki-files/3e/3e224cd87962eea0d21b62eef20b0fa34b58ae81.png\" width=\"46\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>2\n</td></tr>\n<tr>\n<td>Finishing Touches Bundle\n</td>\n<td><figure><img src=\"/wiki-files/63/6371c2114447320d89e66cdb6401c7f7e70e21bf.png\" width=\"45\" height=\"42\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>Construction Brick Bundle\n</td>\n<td><figure><img src=\"/wiki-files/b4/b43a1a7987e1d10d31abc17fbeec8c2684d93e57.png\" width=\"47\" height=\"45\" loading=\"lazy\"><figcaption></figcaption></figure>\n</td>\n<td>1\n</td></tr></tbody></table>\n<p><br>\n</p>\n<h3 id=\"Full_Kit\">Full Kit</h3>\n<h4 id=\"Solar_Scarecrow_Farm\">Solar Scarecrow Farm</h4>\n<h4 id=\"Stellar_Scarecrow_Farm\">Stellar Scarecrow Farm</h4>\n<h4 id=\"Lunar_Scarecrow_Farm\">Lunar Scarecrow Farm</h4>\n<h3 id=\"Aquafarm\">Aquafarm</h3>\n<p>Aquafarms are basically same as Scarecrow Farms but underwater. They can grow different kinds of corals, pearls and fish traps that are used in crafting. Aquafarm designs can be bought from the Gilda shop in Marketplace and they cost 20 <a href=\"/wiki/currencies\">Gilda Stars</a>. \n</p><p>Aquafarms have a device in the middle that players can use and get more oxygen for working underwater. \n</p><p><b>Aquafarms are always Full Kits meaning they don't need to be built.</b> <b>They can be sold.</b>\n</p><p><span><img src=\"/wiki-files/3a/3a9602d0f71ad9ce6c1809477174be45fc508dbf.png\" width=\"576\" height=\"373\" loading=\"lazy\"></span>\n</p><p><br>\n</p><p><br>\n</p>\n<h3 id=\"Small_House\">Small House</h3>\n<h4 id=\"Tudor_Slate_Cottage\">Tudor Slate Cottage</h4>\n<h4 id=\"Stone_Slate_Cottage\">Stone Slate Cottage</h4>\n<h4 id=\"Rustic_Slate_Cottage\">Rustic Slate Cottage</h4>\n<h4 id=\"Tudor_Spring_Cottage\">Tudor Spring Cottage</h4>\n<h4 id=\"Stone_Spring_Cottage\">Stone Spring Cottage</h4>\n<h4 id=\"Rustic_Spring_Cottage\">Rustic Spring Cottage</h4>\n<h4 id=\"Tudor_Rose_Cottage\">Tudor Rose Cottage</h4>\n<h4 id=\"Stone_Rose_Cottage\">Stone Rose Cottage</h4>\n<h4 id=\"Rustic_Rose_Cottage\">Rustic Rose Cottage</h4>\n<h4 id=\"Swept-Roof_Cottage\">Swept-Roof Cottage</h4>\n<h3 id=\"2-story_Small_House\">2-story Small House</h3>\n<h4 id=\"Raised_Slate_Cottage\">Raised Slate Cottage</h4>\n<h4 id=\"Raised_Spring_Cottage\">Raised Spring Cottage</h4>\n<h4 id=\"Raised_Rose_Cottage\">Raised Rose Cottage</h4>\n<h4 id=\"Raised_Swept-Roof_Cottage\">Raised Swept-Roof Cottage</h4>",
+ "wikitext": "Next in the size after 8x8 are the 16x16 land plots. They are little bit bigger areas to store packs, grow crops or livestock. They also include some houses and aquafarms. \n\n=== Scarecrow Farm ===\nAfter getting the 8x8 Garden from Blue Salt Brotherhood quest, the questline continues with the 16x16 Farm questline. Hamiltons [https://www.youtube.com/watch?v=PBCb4NqijDA guidevideo] explains in a detail how to get it. It can be obtained from the quest only once by character.\n\n'''Can be sold after being placed. Cannot be Full Kitted.'''\n\n[[File:Scarecrowfarm.png]]\n\n{| class=\"wikitable\"\n|+Construction materials in order\n!Pack\n!Icon\n!Amount\n|-\n|Lumber Pack\n|[[File:Lumberpack.png|center]]\n|1\n|}\n\n\n\n=== Improved Scarecrow Farm ===\n\nThe [https://wiki.aa-classic.com/8x8#Scarecrow_Garden 8x8 Scarecrow Garden] from the Blue Salt Brotherhood questline can be upgraded into 16x16 Farm on Carpentry workbench with come materials.\n\n[[File:Improvedscarecrowfarm.png]]\n\n'''Can be sold after being placed, cannot be Full Kitted.'''\n\n{| class=\"wikitable\"\n|+Upgrading materials\n!Pack\n!Icon\n!Amount\n|-\n|Wooden Beam Bundle\n|[[File:Woodenbeambundle.png|center]]\n|2\n|-\n|Construction Tool Bundle\n|[[File:Constructiontoolbundle.png|center]]\n|2\n|-\n|Finishing Touches Bundle\n|[[File:Finsihingtouchesbundle.png|center]]\n|1\n|-\n|Construction Brick Bundle\n|[[File:Constructionbrickbundle.png|center]]\n|1\n|}\n\n\n\n=== Full Kit ===\n\n==== Solar Scarecrow Farm ====\n\n\n==== Stellar Scarecrow Farm ====\n\n\n==== Lunar Scarecrow Farm ====\n\n\n\n\n\n=== Aquafarm ===\nAquafarms are basically same as Scarecrow Farms but underwater. They can grow different kinds of corals, pearls and fish traps that are used in crafting. Aquafarm designs can be bought from the Gilda shop in Marketplace and they cost 20 [[Currencies|Gilda Stars]]. \n\nAquafarms have a device in the middle that players can use and get more oxygen for working underwater. \n\n'''Aquafarms are always Full Kits meaning they don't need to be built.''' '''They can be sold.'''\n\n[[File:Aquafarm.png]]\n\n\n\n\n=== Small House ===\n\n==== Tudor Slate Cottage ====\n==== Stone Slate Cottage ====\n==== Rustic Slate Cottage ====\n\n\n\n==== Tudor Spring Cottage ====\n\n==== Stone Spring Cottage ====\n\n==== Rustic Spring Cottage ====\n\n==== Tudor Rose Cottage ====\n\n==== Stone Rose Cottage ====\n\n==== Rustic Rose Cottage ====\n\n==== Swept-Roof Cottage ====\n\n\n\n=== 2-story Small House ===\n\n==== Raised Slate Cottage ====\n\n==== Raised Spring Cottage ====\n\n==== Raised Rose Cottage ====\n\n==== Raised Swept-Roof Cottage ===="
+}

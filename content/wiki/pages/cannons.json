@@ -1,12 +1,16 @@
 {
  "slug": "cannons",
  "title": "Cannons",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 860,
  "revid": 1643,
  "updated": "2024-07-21T01:18:46Z",
  "source": "https://wiki.aa-classic.com/Cannons",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "Back to Galleons tbc",
- "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\ntbc\n</p>"
+ "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\ntbc\n</p>",
+ "wikitext": "Back to [[Galleons]]\n\n\ntbc"
 }

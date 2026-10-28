@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skills-31",
+ "title": "Module:Data/Skills/31",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60396,
+ "revid": 62521,
+ "updated": "2026-10-26T20:29:09Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Skills/31",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [31177] = { cd = \"2s\", desc = \"Triggers a jump. Can't be used while carrying a trade pack.\", icon = \"icon_skill_yata01.png\", mana = 200, name = \"Hippity Hop\" }, [31290] = { cd = \"18s\", desc = \"Triggers a |cFFFF9C2712 m|r backwards leap to escape danger. Can't be used while carrying a trade pack.\", icon = \"icon_skill_passive01.png\", mana = 240, name = \"Hop Back\" }, [31299] = { cd = \"1m\", desc = \"Allows the rabbit to munch on a carrot for 10 seconds, restoring health and mana. \\nMovement cancels the skill.\", icon = \"icon_skill_rabbit01.png\", mana = 100, name = \"Carrot Care\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[31177] = { cd = \"2s\", desc = \"Triggers a jump. Can't be used while carrying a trade pack.\", icon = \"icon_skill_yata01.png\", mana = 200, name = \"Hippity Hop\" },\n\t[31290] = { cd = \"18s\", desc = \"Triggers a |cFFFF9C2712 m|r backwards leap to escape danger. Can't be used while carrying a trade pack.\", icon = \"icon_skill_passive01.png\", mana = 240, name = \"Hop Back\" },\n\t[31299] = { cd = \"1m\", desc = \"Allows the rabbit to munch on a carrot for 10 seconds, restoring health and mana. \\nMovement cancels the skill.\", icon = \"icon_skill_rabbit01.png\", mana = 100, name = \"Carrot Care\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[31177] = { cd = \"2s\", desc = \"Triggers a jump. Can't be used while carrying a trade pack.\", icon = \"icon_skill_yata01.png\", mana = 200, name = \"Hippity Hop\" },\n\t[31290] = { cd = \"18s\", desc = \"Triggers a |cFFFF9C2712 m|r backwards leap to escape danger. Can't be used while carrying a trade pack.\", icon = \"icon_skill_passive01.png\", mana = 240, name = \"Hop Back\" },\n\t[31299] = { cd = \"1m\", desc = \"Allows the rabbit to munch on a carrot for 10 seconds, restoring health and mana. \\nMovement cancels the skill.\", icon = \"icon_skill_rabbit01.png\", mana = 100, name = \"Carrot Care\" },\n}"
+}

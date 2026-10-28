@@ -1,0 +1,16 @@
+{
+ "slug": "template-recipebox-styles-css",
+ "title": "Template:RecipeBox/styles.css",
+ "ns": 10,
+ "model": "sanitized-css",
+ "pageid": 49973,
+ "revid": 52023,
+ "updated": "2026-10-25T04:24:34Z",
+ "source": "https://wiki.aa-classic.com/Template:RecipeBox/styles.css",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "/* RecipeBox layout. Where the box sits (float parameter) is set inline by Template:RecipeBox, this page only adds a minimum width and the phone layout. */ .aa-recipebox { display: flow-root; box-sizing: border-box; max-width: 100%; min-width: 320px; /* never squeezed narrower than this, also inside a row of boxes */ min-width: min(320px, calc(100vw - 2rem)); /* on very small screens: the screen width */ flex: 0 0 auto; /* a flex row (like display:flex; flex-wrap:wrap) wraps the box instead of shrinking it */ } .aa-recipebox table.wikitable { margin: 0; max-width: 100%; min-width: 100%; } /* Phones: a floated box gets its own line instead of squeezing the text */ @media (max-width: 500px) { .aa-recipebox-float { float: none !important; clear: both !important; margin: 0.5em 0 !important; } }",
+ "html": "<pre><code>/* RecipeBox layout. Where the box sits (float parameter) is set inline by Template:RecipeBox,\n   this page only adds a minimum width and the phone layout. */\n.aa-recipebox {\n  display: flow-root;\n  box-sizing: border-box;\n  max-width: 100%;\n  min-width: 320px; /* never squeezed narrower than this, also inside a row of boxes */\n  min-width: min(320px, calc(100vw - 2rem)); /* on very small screens: the screen width */\n  flex: 0 0 auto;   /* a flex row (like display:flex; flex-wrap:wrap) wraps the box instead of shrinking it */\n}\n.aa-recipebox table.wikitable {\n  margin: 0;\n  max-width: 100%;\n  min-width: 100%;\n}\n \n/* Phones: a floated box gets its own line instead of squeezing the text */\n@media (max-width: 500px) {\n  .aa-recipebox-float {\n    float: none !important;\n    clear: both !important;\n    margin: 0.5em 0 !important;\n  }\n}</code></pre>",
+ "wikitext": "/* RecipeBox layout. Where the box sits (float parameter) is set inline by Template:RecipeBox,\n   this page only adds a minimum width and the phone layout. */\n.aa-recipebox {\n  display: flow-root;\n  box-sizing: border-box;\n  max-width: 100%;\n  min-width: 320px; /* never squeezed narrower than this, also inside a row of boxes */\n  min-width: min(320px, calc(100vw - 2rem)); /* on very small screens: the screen width */\n  flex: 0 0 auto;   /* a flex row (like display:flex; flex-wrap:wrap) wraps the box instead of shrinking it */\n}\n.aa-recipebox table.wikitable {\n  margin: 0;\n  max-width: 100%;\n  min-width: 100%;\n}\n \n/* Phones: a floated box gets its own line instead of squeezing the text */\n@media (max-width: 500px) {\n  .aa-recipebox-float {\n    float: none !important;\n    clear: both !important;\n    margin: 0.5em 0 !important;\n  }\n}"
+}

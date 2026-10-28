@@ -1,12 +1,16 @@
 {
  "slug": "enoan-galleon",
  "title": "Enoan Galleon",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 858,
  "revid": 1640,
  "updated": "2024-07-21T01:04:33Z",
  "source": "https://wiki.aa-classic.com/Enoan_Galleon",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "Back to Galleons tbc",
- "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\n</p><p>tbc\n</p>"
+ "html": "<p>Back to <a href=\"/wiki/ships\">Galleons</a>\n</p><p><br>\n</p><p>tbc\n</p>",
+ "wikitext": "Back to [[Galleons]]\n \n\n\ntbc"
 }

@@ -1,0 +1,16 @@
+{
+ "slug": "template-recipecoinline",
+ "title": "Template:RecipeCoinLine",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 2033,
+ "revid": 3986,
+ "updated": "2026-10-20T15:19:19Z",
+ "source": "https://wiki.aa-classic.com/Template:RecipeCoinLine",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Row template for RecipeBox. Shows only the coin row (mode = currency) of a recipe, as Gold / Silver / Copper. All other rows are skipped. Called after Template:RecipeMaterialLine so the coins end up at the bottom.",
+ "html": "<p>Row template for RecipeBox. Shows only the coin row (mode = currency) of a recipe, as Gold / Silver / Copper. All other rows are skipped.\nCalled after Template:RecipeMaterialLine so the coins end up at the bottom.\n</p>",
+ "wikitext": "{{#ifeq:{{{mode|}}}|currency|<div>{{Coins|{{{amount}}}}}</div>}}<noinclude>\nRow template for RecipeBox. Shows only the coin row (mode = currency) of a recipe, as Gold / Silver / Copper. All other rows are skipped.\nCalled after Template:RecipeMaterialLine so the coins end up at the bottom.\n</noinclude>"
+}

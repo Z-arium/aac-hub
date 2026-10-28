@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import PageTitle from "@/components/PageTitle";
-import { formatWikiDate, getWikiCategories, getWikiPages } from "@/lib/wiki";
+import { formatWikiDate, getWikiArticles, getWikiCategories, getWikiCoverage, getWikiPages } from "@/lib/wiki";
 import WikiPageCard from "./WikiPageCard";
 import WikiSearch from "./WikiSearch";
 
@@ -13,8 +13,11 @@ export const metadata: Metadata = {
 const PREVIEW = 6;
 
 export default function WikiHome() {
-  const categories = getWikiCategories();
-  const pages = getWikiPages();
+  const all = getWikiCategories();
+  const categories = all.filter((c) => !c.internal);
+  const internals = all.filter((c) => c.internal);
+  const pages = getWikiArticles();
+  const coverage = getWikiCoverage();
   const recent = [...pages].sort((a, b) => b.updated.localeCompare(a.updated)).slice(0, 6);
 
   return (
@@ -23,14 +26,35 @@ export default function WikiHome() {
         title="Wiki"
         subtitle={
           <>
-            All {pages.length} articles from the{" "}
+            A complete copy of the{" "}
             <a href="https://wiki.aa-classic.com/Main_Page" className="underline hover:text-text">
               AAClassic wiki
             </a>
-            , cleaned up and searchable. Content is CC0 and each page links back to its source.
+            , cleaned up and searchable: every page and every image, stored on this site. Content is CC0 and each page
+            links back to its source.
           </>
         }
       />
+
+      <div className="mb-6 flex flex-wrap gap-3 text-sm">
+        <span className="rounded-lg border border-line bg-panel px-3 py-2">
+          <b>{pages.length}</b> <span className="text-muted">articles</span>
+        </span>
+        <span className="rounded-lg border border-line bg-panel px-3 py-2">
+          <b>{getWikiPages().length - pages.length}</b> <span className="text-muted">templates, modules &amp; other pages</span>
+        </span>
+        <Link href="/wiki/files" className="rounded-lg border border-line bg-panel px-3 py-2 hover:border-accent">
+          <b>{coverage ? coverage.files.wiki.toLocaleString() : "All"}</b> <span className="text-muted">images &amp; files →</span>
+        </Link>
+        {coverage && (
+          <Link href="/wiki/coverage" className="rounded-lg border border-line bg-panel px-3 py-2 hover:border-accent">
+            <span className={coverage.complete ? "text-accent-2" : "text-red-400"}>
+              {coverage.complete ? "✓ Verified complete" : `${coverage.problems.length} gaps`}
+            </span>{" "}
+            <span className="text-muted">{formatWikiDate(coverage.checked)} →</span>
+          </Link>
+        )}
+      </div>
 
       <WikiSearch />
 
@@ -61,6 +85,29 @@ export default function WikiHome() {
               </div>
             </section>
           ))}
+
+          {internals.length > 0 && (
+            <section className="rounded-xl border border-line p-5">
+              <h2 className="text-lg font-semibold">Wiki internals</h2>
+              <p className="mt-1 text-sm text-muted">
+                The building blocks behind the articles, kept so nothing from the wiki is left out.
+              </p>
+              <div className="mt-3 flex flex-wrap gap-2 text-sm">
+                {internals.map((c) => (
+                  <Link
+                    key={c.slug}
+                    href={`/wiki/category/${c.slug}`}
+                    className="rounded-lg border border-line bg-panel px-3 py-1.5 hover:border-accent"
+                  >
+                    {c.name} <span className="text-muted">{c.pages.length}</span>
+                  </Link>
+                ))}
+                <Link href="/wiki/files" className="rounded-lg border border-line bg-panel px-3 py-1.5 hover:border-accent">
+                  Files
+                </Link>
+              </div>
+            </section>
+          )}
         </div>
 
         <aside className="space-y-6 lg:sticky lg:top-20 lg:self-start">

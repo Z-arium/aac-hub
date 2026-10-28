@@ -1,0 +1,16 @@
+{
+ "slug": "module-test",
+ "title": "Module:Test",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 1631,
+ "revid": 3282,
+ "updated": "2026-02-23T22:16:10Z",
+ "source": "https://wiki.aa-classic.com/Module:Test",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "local p = {} function p.hello(frame) return \"Hello from Lua 👋\" end return p",
+ "html": "<pre><code>local p = {}\n\nfunction p.hello(frame)\n    return \"Hello from Lua 👋\"\nend\n\nreturn p</code></pre>",
+ "wikitext": "local p = {}\n\nfunction p.hello(frame)\n    return \"Hello from Lua 👋\"\nend\n\nreturn p"
+}

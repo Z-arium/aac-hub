@@ -1,6 +1,8 @@
 {
  "slug": "alchemy-merchant",
  "title": "Alchemy Merchant",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1734,
  "revid": 3569,
  "updated": "2026-09-03T20:53:30Z",
@@ -32,6 +34,12 @@
    ]
   }
  ],
+ "images": [
+  "Archeage RmGzv2sswi.png",
+  "Silver.webp",
+  "Archeage MI7IAIiCB8.png"
+ ],
  "text": "The Alchemy Merchant is a merchant NPC that sells basic alchemical supplies and consumables. Shop Item Price Item Price Veiled Flame 4 Mage's Vapor 6",
- "html": "<p>The Alchemy Merchant is a merchant NPC that sells basic alchemical\nsupplies and consumables.\n</p>\n<h2 id=\"Shop\">Shop</h2>\n<table class=\"wikitable\" style=\"width: 830px\">\n<tbody><tr>\n<th style=\"width: 325px\">Item\n</th>\n<th style=\"width: 90px\">Price\n</th>\n<th style=\"width: 325px\">Item\n</th>\n<th style=\"width: 90px\">Price\n</th></tr>\n<tr>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/c/c0/Archeage_RmGzv2sswi.png/32px-Archeage_RmGzv2sswi.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/c/c0/Archeage_RmGzv2sswi.png/48px-Archeage_RmGzv2sswi.png 1.5x, https://wiki.aa-classic.com/images/c/c0/Archeage_RmGzv2sswi.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/15580\">Veiled Flame</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">4<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td>\n<td style=\"vertical-align:middle\"><span><img src=\"https://wiki.aa-classic.com/images/thumb/9/93/Archeage_MI7IAIiCB8.png/32px-Archeage_MI7IAIiCB8.png\" width=\"32\" height=\"32\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/93/Archeage_MI7IAIiCB8.png/48px-Archeage_MI7IAIiCB8.png 1.5x, https://wiki.aa-classic.com/images/9/93/Archeage_MI7IAIiCB8.png 2x\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/31770\">Mage's Vapor</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">6<span><img src=\"https://wiki.aa-classic.com/images/1/17/Silver.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td></tr></tbody></table>"
+ "html": "<p>The Alchemy Merchant is a merchant NPC that sells basic alchemical\nsupplies and consumables.\n</p>\n<h2 id=\"Shop\">Shop</h2>\n<table class=\"wikitable\" style=\"width: 830px\">\n<tbody><tr>\n<th style=\"width: 325px\">Item\n</th>\n<th style=\"width: 90px\">Price\n</th>\n<th style=\"width: 325px\">Item\n</th>\n<th style=\"width: 90px\">Price\n</th></tr>\n<tr>\n<td style=\"vertical-align:middle\"><span><img src=\"/wiki-files/36/36114f7e642111b4138ae11a23f3a9769228c346.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/15580\">Veiled Flame</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">4<span><img src=\"/wiki-files/d6/d6efc9773a125d576cdc8e73b1730c7d79d556b2.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td>\n<td style=\"vertical-align:middle\"><span><img src=\"/wiki-files/fb/fbd1dba25bbff46d4fc7ff21e5a9f31236ccac66.png\" width=\"32\" height=\"32\" loading=\"lazy\"></span> <a rel=\"noopener\" href=\"https://aa-classic.com/database/item/31770\">Mage's Vapor</a>\n</td>\n<td style=\"text-align:right; vertical-align:middle\">6<span><img src=\"/wiki-files/d6/d6efc9773a125d576cdc8e73b1730c7d79d556b2.webp\" width=\"20\" height=\"20\" loading=\"lazy\"></span>\n</td></tr></tbody></table>",
+ "wikitext": "= Alchemy Merchant =\n\nThe Alchemy Merchant is a merchant NPC that sells basic alchemical\nsupplies and consumables.\n\n== Shop ==\n{| class=\"wikitable\" style=\"table-layout: fixed; width: 830px;\"\n! style=\"width: 325px;\" | Item\n! style=\"width: 90px;\" | Price\n! style=\"width: 325px;\" | Item\n! style=\"width: 90px;\" | Price\n|-\n| style=\"vertical-align:middle;\" | [[File:Archeage RmGzv2sswi.png|32px]] [https://aa-classic.com/database/item/15580 Veiled Flame]\n| style=\"text-align:right; vertical-align:middle;\" | 4[[File:Silver.webp|20px]]\n| style=\"vertical-align:middle;\" | [[File:Archeage MI7IAIiCB8.png|32px]] [https://aa-classic.com/database/item/31770 Mage's Vapor]\n| style=\"text-align:right; vertical-align:middle;\" | 6[[File:Silver.webp|20px]]\n|}"
 }

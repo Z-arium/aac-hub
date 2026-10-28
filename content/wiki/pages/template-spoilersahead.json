@@ -1,0 +1,18 @@
+{
+ "slug": "template-spoilersahead",
+ "title": "Template:SpoilersAhead",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 1192,
+ "revid": 2397,
+ "updated": "2025-03-28T22:54:13Z",
+ "source": "https://wiki.aa-classic.com/Template:SpoilersAhead",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Spoiler daru.png"
+ ],
+ "text": "File:Spoiler daru.png ⚠️ Warning! This article contains spoilers. Read ahead at your own risk!",
+ "html": "<div style=\"color: #8b0000\">\n    <div style=\"text-align: center\"><span><a href=\"https://wiki.aa-classic.com/index.php?title=Special:Upload&wpDestFile=Spoiler_daru.png\" rel=\"noopener\"><span>File:Spoiler daru.png</span></a></span></div>\n    <div style=\"text-align: center; font-weight: bold\">⚠️ <span>Warning!</span><br>This article contains spoilers. Read ahead at your own risk!</div>\n</div>",
+ "wikitext": "<div style=\"border: 2px solid #b22222; background-color: #ffcccc; color: #8b0000; padding: 10px; margin: 10px 0; border-radius: 5px; display: flex; align-items: center;\">\n    <div style=\"flex: 0 0 50px; text-align: center; padding-right: 10px;\">[[File:spoiler_daru.png|100px]]</div>\n    <div style=\"flex: 1; text-align: center; font-weight: bold; font-size: 16px;\">⚠️ <span style=\"font-size:18px;\">Warning!</span><br />This article contains spoilers. Read ahead at your own risk!</div>\n</div>"
+}

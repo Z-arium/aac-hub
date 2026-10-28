@@ -1,12 +1,21 @@
 {
  "slug": "active-adventurers-appreciated",
  "title": "Active Adventurers Appreciated",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 769,
  "revid": 3000,
  "updated": "2025-11-08T13:05:04Z",
  "source": "https://wiki.aa-classic.com/Active_Adventurers_Appreciated",
  "headings": [],
  "tables": [],
+ "images": [
+  "Thiefday.png",
+  "Matsnpacks.png",
+  "Fishing.png",
+  "Mine Mine Mine.png"
+ ],
  "text": "AAA are custom added Merit Quests that give Activity Tokens once completed. Spend labor for Larceny Spend labor for Commerce Spend labor for Fishing Spend labor for Mining",
- "html": "<p>AAA are custom added Merit Quests that give <a href=\"/wiki/currencies\">Activity Tokens</a> once completed. \n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/f/fc/Thiefday.png\" width=\"517\" height=\"283\" loading=\"lazy\"><figcaption>Spend labor for Larceny</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/7/74/Matsnpacks.png\" width=\"527\" height=\"273\" loading=\"lazy\"><figcaption>Spend labor for Commerce</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/1/19/Fishing.png\" width=\"519\" height=\"280\" loading=\"lazy\"><figcaption>Spend labor for Fishing</figcaption></figure>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/e/e5/Mine_Mine_Mine.png/519px-Mine_Mine_Mine.png\" width=\"519\" height=\"317\" srcset=\"https://wiki.aa-classic.com/images/e/e5/Mine_Mine_Mine.png 1.5x\" loading=\"lazy\"><figcaption>Spend labor for Mining</figcaption></figure>"
+ "html": "<p>AAA are custom added Merit Quests that give <a href=\"/wiki/currencies\">Activity Tokens</a> once completed. \n</p>\n<figure><img src=\"/wiki-files/f9/f9a0f42d8be5affe134a7d27ec1d8be6b74baaea.png\" width=\"517\" height=\"283\" loading=\"lazy\"><figcaption>Spend labor for Larceny</figcaption></figure>\n<figure><img src=\"/wiki-files/95/95ae98b37523c8f53bdf40fd2ec46e02892e0b5d.png\" width=\"527\" height=\"273\" loading=\"lazy\"><figcaption>Spend labor for Commerce</figcaption></figure>\n<figure><img src=\"/wiki-files/82/824d4762dd5c8967b84d04f2e8554e8666b71bfc.png\" width=\"519\" height=\"280\" loading=\"lazy\"><figcaption>Spend labor for Fishing</figcaption></figure>\n<figure><img src=\"/wiki-files/ea/ea2b6d9367606ad98e1f5b068285d7f85d1de7d0.png\" width=\"519\" height=\"317\" loading=\"lazy\"><figcaption>Spend labor for Mining</figcaption></figure>",
+ "wikitext": "AAA are custom added Merit Quests that give [[Currencies|Activity Tokens]] once completed. \n\n[[File:Thiefday.png|none|frame|Spend labor for Larceny]]\n[[File:Matsnpacks.png|none|frame|Spend labor for Commerce]]\n[[File:Fishing.png|none|frame|Spend labor for Fishing]]\n[[File:Mine Mine Mine.png|left|thumb|519x519px|Spend labor for Mining]]"
 }

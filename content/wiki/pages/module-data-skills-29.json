@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skills-29",
+ "title": "Module:Data/Skills/29",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60395,
+ "revid": 62520,
+ "updated": "2026-10-26T20:29:08Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Skills/29",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [29092] = { cd = \"5s\", desc = \"Triggers an instant dash forward.\", icon = \"icon_skill_snail01.png\", mana = 20, name = \"Pumpkin Candy Power\" }, [29231] = { cd = \"20s\", desc = \"Launches the rider forward. Can't be used if the rider is carrying a trade pack.\", icon = \"icon_skill_will11.png\", mana = 0, name = \"Launch Owner\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[29092] = { cd = \"5s\", desc = \"Triggers an instant dash forward.\", icon = \"icon_skill_snail01.png\", mana = 20, name = \"Pumpkin Candy Power\" },\n\t[29231] = { cd = \"20s\", desc = \"Launches the rider forward. Can't be used if the rider is carrying a trade pack.\", icon = \"icon_skill_will11.png\", mana = 0, name = \"Launch Owner\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[29092] = { cd = \"5s\", desc = \"Triggers an instant dash forward.\", icon = \"icon_skill_snail01.png\", mana = 20, name = \"Pumpkin Candy Power\" },\n\t[29231] = { cd = \"20s\", desc = \"Launches the rider forward. Can't be used if the rider is carrying a trade pack.\", icon = \"icon_skill_will11.png\", mana = 0, name = \"Launch Owner\" },\n}"
+}

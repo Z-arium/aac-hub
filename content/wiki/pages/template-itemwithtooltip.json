@@ -1,0 +1,16 @@
+{
+ "slug": "template-itemwithtooltip",
+ "title": "Template:ItemWithTooltip",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 2029,
+ "revid": 3983,
+ "updated": "2026-10-20T04:38:34Z",
+ "source": "https://wiki.aa-classic.com/Template:ItemWithTooltip",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Usage: {{ItemWithTooltip|Item Name|icon=Icon.png|grade=Arcane|type=...|level=...|gearscore=...|bind=...|stats=...|effects=...|desc=...|gold=|silver=|copper=}}",
+ "html": "<p>Usage:\n</p>\n<pre>{{ItemWithTooltip|Item Name|icon=Icon.png|grade=Arcane|type=...|level=...|gearscore=...|bind=...|stats=...|effects=...|desc=...|gold=|silver=|copper=}}</pre>",
+ "wikitext": "<includeonly><templatestyles src=\"Template:ItemWithTooltip/styles.css\" /><span class=\"aa-item aa-grade-{{lc:{{{grade|basic}}}}}\"><!--\n-->[[File:{{{icon|Icon_unknown.png}}}|20px|link={{{link|{{#if:1|{{{1|}}} }} }}}]] <!--\n-->[[{{{link|{{#if:1|{{{1|}}} }} }}}|<span class=\"aa-item-name\">{{#if:1|{{{1|}}} }}</span>]]<!--\n--><span class=\"aa-tooltip\"><!--\n  --><span class=\"aa-tt-header\"><!--\n    --><span class=\"aa-tt-icon\">[[File:{{{icon|Icon_unknown.png}}}|42px|link=]]</span><!--\n    --><span class=\"aa-tt-title\"><!--\n      --><span class=\"aa-tt-name\">{{#if:1|{{{1|}}} }}</span><!--\n      --><span class=\"aa-tt-grade\">{{{grade|Basic}}}</span><!--\n    --></span><!--\n  --></span><!--\n  -->{{#if:{{{type|}}}|<span class=\"aa-tt-line aa-tt-type\">{{{type}}}</span>}}<!--\n  -->{{#if:{{{level|}}}{{{gearscore|}}}|<span class=\"aa-tt-line aa-tt-row\"><!--\n    --><span>{{#if:{{{level|}}}|Level {{{level}}}}}</span><!--\n    --><span>{{#if:{{{gearscore|}}}|Gear Score {{{gearscore}}}}}</span><!--\n  --></span>}}<!--\n  -->{{#if:{{{bind|}}}|<span class=\"aa-tt-line aa-tt-bind\">{{{bind}}}</span>}}<!--\n  -->{{#if:{{{stats|}}}|<span class=\"aa-tt-sep\"></span><span class=\"aa-tt-line aa-tt-stats\">{{{stats}}}</span>}}<!--\n  -->{{#if:{{{effects|}}}|<span class=\"aa-tt-sep\"></span><span class=\"aa-tt-line aa-tt-effects\">{{{effects}}}</span>}}<!--\n  -->{{#if:{{{desc|}}}|<span class=\"aa-tt-sep\"></span><span class=\"aa-tt-line aa-tt-desc\">{{{desc}}}</span>}}<!--\n  -->{{#if:{{{gold|}}}{{{silver|}}}{{{copper|}}}|<span class=\"aa-tt-sep\"></span><span class=\"aa-tt-line aa-tt-price\">Sell Price <!--\n    -->{{#if:{{{gold|}}}|<span class=\"aa-coin aa-gold\">{{{gold}}}</span>}}<!--\n    -->{{#if:{{{silver|}}}|<span class=\"aa-coin aa-silver\">{{{silver}}}</span>}}<!--\n    -->{{#if:{{{copper|}}}|<span class=\"aa-coin aa-copper\">{{{copper}}}</span>}}<!--\n  --></span>}}<!--\n--></span><!--\n--></span></includeonly><noinclude>\nUsage:\n<pre>{{ItemWithTooltip|Item Name|icon=Icon.png|grade=Arcane|type=...|level=...|gearscore=...|bind=...|stats=...|effects=...|desc=...|gold=|silver=|copper=}}</pre>\n</noinclude>"
+}

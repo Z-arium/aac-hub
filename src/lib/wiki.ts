@@ -10,7 +10,11 @@ const DIR = path.join(process.cwd(), "content", "wiki");
 export interface WikiPageMeta {
   slug: string;
   title: string;
+  /** MediaWiki namespace: 0 articles, 2 users, 8 settings, 10 templates, 828 modules. */
+  ns: number;
   category: string;
+  /** Templates, modules, user pages and other wiki plumbing. */
+  internal: boolean;
   summary: string;
   updated: string;
   source: string;
@@ -27,10 +31,22 @@ export interface WikiTable {
 export interface WikiPage extends WikiPageMeta {
   pageid: number;
   revid: number;
+  /** Content model: "wikitext", "Scribunto" (Lua), "css", "javascript", "json"… */
+  model: string;
+  /** Files the page shows. */
+  images: string[];
+  /** The page's source as stored on the wiki. */
+  wikitext: string;
   headings: { level: number; id: string; text: string }[];
   tables: WikiTable[];
   text: string;
   html: string;
+}
+
+export interface WikiRedirect {
+  to: string;
+  from: string;
+  fragment?: string;
 }
 
 interface WikiIndex {
@@ -38,7 +54,8 @@ interface WikiIndex {
   license: string;
   pages: WikiPageMeta[];
   categories: string[];
-  redirects: Record<string, string>;
+  internalCategories: string[];
+  redirects: Record<string, WikiRedirect>;
 }
 
 let cached: WikiIndex | undefined;
@@ -48,7 +65,7 @@ export function getWikiIndex(): WikiIndex {
     const file = path.join(DIR, "index.json");
     cached = fs.existsSync(file)
       ? JSON.parse(fs.readFileSync(file, "utf8"))
-      : { source: "https://wiki.aa-classic.com", license: "CC0 1.0", pages: [], categories: [], redirects: {} };
+      : { source: "https://wiki.aa-classic.com", license: "CC0 1.0", pages: [], categories: [], internalCategories: [], redirects: {} };
   }
   return cached!;
 }
@@ -65,7 +82,7 @@ export function getWikiPage(slug: string): WikiPage | undefined {
 }
 
 /** Where an old or alternate title now lives, if the wiki redirects it. */
-export function getWikiRedirect(slug: string): string | undefined {
+export function getWikiRedirect(slug: string): WikiRedirect | undefined {
   return getWikiIndex().redirects[slug];
 }
 
@@ -73,10 +90,23 @@ export function categorySlug(category: string): string {
   return category.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
 
-export function getWikiCategories(): { name: string; slug: string; pages: WikiPageMeta[] }[] {
-  const pages = getWikiPages();
-  return getWikiIndex()
-    .categories.map((name) => ({ name, slug: categorySlug(name), pages: pages.filter((p) => p.category === name) }))
+export interface WikiCategory {
+  name: string;
+  slug: string;
+  internal: boolean;
+  pages: WikiPageMeta[];
+}
+
+/** Every category, articles first; `internal` ones hold templates, modules and the like. */
+export function getWikiCategories(): WikiCategory[] {
+  const { pages, categories, internalCategories = [] } = getWikiIndex();
+  return categories
+    .map((name) => ({
+      name,
+      slug: categorySlug(name),
+      internal: internalCategories.includes(name),
+      pages: pages.filter((p) => p.category === name),
+    }))
     .sort((a, b) => (a.name === "General" ? 1 : b.name === "General" ? -1 : b.pages.length - a.pages.length));
 }
 
@@ -87,4 +117,42 @@ export function getWikiTables(slug: string): WikiTable[] {
 
 export function formatWikiDate(iso: string): string {
   return iso ? new Date(iso).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric", timeZone: "UTC" }) : "";
+}
+
+/** Articles a reader would browse: everything outside the wiki's plumbing. */
+export function getWikiArticles(): WikiPageMeta[] {
+  return getWikiPages().filter((p) => !p.internal);
+}
+
+export interface WikiCoverage {
+  checked: string;
+  complete: boolean;
+  statistics: { pages: number; articles: number; images: number; edits: number; users: number };
+  namespaces: {
+    id: number;
+    name: string;
+    wikiPages: number;
+    mirrored: number;
+    wikiRedirects: number;
+    redirectsMirrored: number;
+    missing: string[];
+    missingRedirects: string[];
+  }[];
+  files: { wiki: number; verified: number; distinctOnDisk: number; megabytes: number };
+  totals: { wikiPagesAllNamespaces: number; statisticsPages: number; mirroredPages: number; mirroredRedirects: number; mirroredFiles: number };
+  brokenOnWiki: Record<string, string[]>;
+  problems: string[];
+  notes: string[];
+}
+
+/** The last completeness check (scripts/wiki-import/coverage.mjs), if one has run. */
+export function getWikiCoverage(): WikiCoverage | undefined {
+  const file = path.join(DIR, "coverage.json");
+  return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : undefined;
+}
+
+/** Imported HTML uses root-relative links; add the deploy base path to them. */
+export function withBasePath(html: string): string {
+  const base = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  return base ? html.replace(/(href|src)="\/(wiki|wiki-files)\//g, `$1="${base}/$2/`) : html;
 }

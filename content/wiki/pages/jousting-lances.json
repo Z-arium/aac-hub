@@ -1,12 +1,18 @@
 {
  "slug": "jousting-lances",
  "title": "Jousting Lances",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 227,
  "revid": 1802,
  "updated": "2024-08-24T15:37:17Z",
  "source": "https://wiki.aa-classic.com/Jousting_Lances",
  "headings": [],
  "tables": [],
+ "images": [
+  "Jousting.png"
+ ],
  "text": "Jousting Lances are used when performing Jousting Lance Charge skill on Black Arrow mount, which can break ally and enemy imprisons. Skill consumes one Jousting Lance every time it is used. Jousting Lances can be crafted on normal Anvil with 15 Iron Ingots and 5 Lumber.",
- "html": "<p>Jousting Lances are used when performing Jousting Lance Charge skill on Black Arrow mount, which can break ally and enemy imprisons.  \n</p><p>Skill consumes one Jousting Lance every time it is used. Jousting Lances can be crafted on normal Anvil with 15 Iron Ingots and 5 Lumber. \n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/c/cb/Jousting.png\" width=\"328\" height=\"306\" loading=\"lazy\"><figcaption></figcaption></figure>"
+ "html": "<p>Jousting Lances are used when performing Jousting Lance Charge skill on Black Arrow mount, which can break ally and enemy imprisons.  \n</p><p>Skill consumes one Jousting Lance every time it is used. Jousting Lances can be crafted on normal Anvil with 15 Iron Ingots and 5 Lumber. \n</p>\n<figure><img src=\"/wiki-files/2f/2f5f116f428cfdc11e8fb824251d4a01ae44d24f.png\" width=\"328\" height=\"306\" loading=\"lazy\"><figcaption></figcaption></figure>",
+ "wikitext": "Jousting Lances are used when performing Jousting Lance Charge skill on Black Arrow mount, which can break ally and enemy imprisons.  \n\nSkill consumes one Jousting Lance every time it is used. Jousting Lances can be crafted on normal Anvil with 15 Iron Ingots and 5 Lumber. \n[[File:Jousting.png|left]]"
 }

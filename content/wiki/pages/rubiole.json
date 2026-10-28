@@ -1,12 +1,16 @@
 {
  "slug": "rubiole",
  "title": "Rubiole",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 950,
  "revid": 1799,
  "updated": "2024-08-16T00:49:27Z",
  "source": "https://wiki.aa-classic.com/Rubiole",
  "headings": [],
  "tables": [],
+ "images": [],
  "text": "He's hot and he's mexican",
- "html": "<p>He's hot and he's mexican\n</p>"
+ "html": "<p>He's hot and he's mexican\n</p>",
+ "wikitext": "He's hot and he's mexican"
 }

@@ -1,12 +1,18 @@
 {
  "slug": "event-castaway-treasures",
  "title": "Event: Castaway Treasures",
+ "ns": 0,
+ "model": "wikitext",
  "pageid": 1088,
  "revid": 2684,
  "updated": "2025-07-27T16:51:45Z",
  "source": "https://wiki.aa-classic.com/Event:_Castaway_Treasures",
  "headings": [],
  "tables": [],
+ "images": [
+  "Castaway Strait Map.png"
+ ],
  "text": "The Castaway Treasures event is a very simple gold-centric event. When it's active, treasure chests will spawn all over the Castaway Strait. The chests can be worth 50 gold, 300 gold or 1000 gold The chests can be turned in at any Relic Trader, which are found next to the Ezi's Lights of all nations, aswell as in Freedich",
- "html": "<p>The Castaway Treasures event is a very simple gold-centric event. When it's active, treasure chests will spawn all over the Castaway Strait.\n</p><p>The chests can be worth 50 gold, 300 gold or 1000 gold\n</p><p>The chests can be turned in at any Relic Trader, which are found next to the Ezi's Lights of all nations, aswell as in Freedich\n</p>\n<figure><img src=\"https://wiki.aa-classic.com/images/thumb/9/91/Castaway_Strait_Map.png/596px-Castaway_Strait_Map.png\" width=\"596\" height=\"357\" srcset=\"https://wiki.aa-classic.com/images/thumb/9/91/Castaway_Strait_Map.png/894px-Castaway_Strait_Map.png 1.5x, https://wiki.aa-classic.com/images/9/91/Castaway_Strait_Map.png 2x\" loading=\"lazy\"><figcaption></figcaption></figure>"
+ "html": "<p>The Castaway Treasures event is a very simple gold-centric event. When it's active, treasure chests will spawn all over the Castaway Strait.\n</p><p>The chests can be worth 50 gold, 300 gold or 1000 gold\n</p><p>The chests can be turned in at any Relic Trader, which are found next to the Ezi's Lights of all nations, aswell as in Freedich\n</p>\n<figure><img src=\"/wiki-files/e5/e54318568530b599c9786a154e92fb22348eaaee.png\" width=\"596\" height=\"357\" loading=\"lazy\"><figcaption></figcaption></figure>",
+ "wikitext": "The Castaway Treasures event is a very simple gold-centric event. When it's active, treasure chests will spawn all over the Castaway Strait.\n\nThe chests can be worth 50 gold, 300 gold or 1000 gold\n\nThe chests can be turned in at any Relic Trader, which are found next to the Ezi's Lights of all nations, aswell as in Freedich\n\n[[File:Castaway Strait Map.png|left|frameless|596x596px]]"
 }
