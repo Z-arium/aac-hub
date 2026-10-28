@@ -5,8 +5,8 @@ import { useState } from "react";
 import { useNow } from "@/components/UpcomingTimers";
 import { dailyResetKey, formatCountdown, formatLocal, nextDailyReset, nextOccurrence } from "@/lib/time";
 import { useSynced } from "@/lib/sync";
-import { CATEGORIES, DEFAULT_PINNED, PHASES, TASKS, type ChecklistTask } from "@/data/checklist";
-import { EVENTS } from "@/data/schedule";
+import { CATEGORIES, DEFAULT_PINNED, TASKS, type ChecklistTask } from "@/data/checklist";
+import { EVENTS, WEEKDAY_NAMES } from "@/data/schedule";
 
 interface Settings {
   pinned: string[];
@@ -24,11 +24,44 @@ function weeklyKey(now: number, resetDay: number) {
   return day.toISOString().slice(0, 10);
 }
 
-/** When the task's next scheduled event starts, if it has one. */
+/**
+ * When the task's scheduled event starts: the one running now if it lingers
+ * (upFor), otherwise the next one. Null for tasks without a schedule.
+ */
 function nextStart(task: ChecklistTask, now: number | null) {
   if (!now || !task.events) return null;
-  const times = EVENTS.filter((e) => task.events!.includes(e.id)).map((e) => nextOccurrence(e, now).at);
+  const from = now - (task.upFor ?? 0) * 3_600_000;
+  const times = EVENTS.filter((e) => task.events!.includes(e.id)).map((e) => nextOccurrence(e, from).at);
   return times.length ? Math.min(...times) : null;
+}
+
+/** Why a task can't be done today, or null if it can. */
+function unavailableReason(task: ChecklistTask, now: number | null) {
+  if (!now) return null;
+  if (task.resetDay !== undefined) {
+    const today = new Date(dailyResetKey(now) + "T00:00:00Z").getUTCDay();
+    if (today !== task.resetDay) return `${WEEKDAY_NAMES[task.resetDay]} pickup`;
+  }
+  const at = nextStart(task, now);
+  if (at && at >= nextDailyReset(now)) return "Not today";
+  return null;
+}
+
+const GROUPS = [
+  { id: "anytime", name: "Do anytime", blurb: "" },
+  { id: "timed", name: "Timed", blurb: "Next up first. Rifts pop every 4 hours, watch faction chat" },
+  { id: "unavailable", name: "Not available today", blurb: "Weekly quests you already have can still be finished" },
+] as const;
+
+/** The tasks of one "Your day" group, in the order to do them. */
+function groupTasks(group: (typeof GROUPS)[number]["id"], tasks: ChecklistTask[], now: number | null, isDone: (t: ChecklistTask) => boolean) {
+  const off = (t: ChecklistTask) => !isDone(t) && unavailableReason(t, now) !== null;
+  if (group === "unavailable") return tasks.filter(off);
+  const open = tasks.filter((t) => !off(t));
+  if (group === "anytime") return open.filter((t) => t.phase === "start" || t.phase === "anytime");
+  // Scheduled events by start time (running ones first), then the rifts.
+  const scheduled = open.filter((t) => t.phase === "scheduled").sort((a, b) => (nextStart(a, now) ?? Infinity) - (nextStart(b, now) ?? Infinity));
+  return [...scheduled, ...open.filter((t) => t.phase === "rifts")];
 }
 
 function toggleIn(list: string[], id: string) {
@@ -64,9 +97,7 @@ function NextTime({ task, now }: { task: ChecklistTask; now: number | null }) {
   const at = nextStart(task, now);
   if (!at || !now) return null;
   return (
-    <span className="mt-0.5 block text-xs text-accent-2">
-      Next: {formatLocal(at)} (in {formatCountdown(at - now)})
-    </span>
+    <span className="text-xs text-accent-2">{at <= now ? "Up now" : `${formatLocal(at)} · in ${formatCountdown(at - now)}`}</span>
   );
 }
 
@@ -83,17 +114,15 @@ interface RowProps {
 }
 
 function Row({ task, now, done, onToggle, editing, pinned, hidden, onPin, onHide }: RowProps) {
+  const unavailable = done ? null : unavailableReason(task, now);
   return (
-    <li className={`flex items-start gap-3 px-4 py-3 hover:bg-panel-2 ${hidden ? "opacity-50" : ""}`}>
-      <label className="flex flex-1 cursor-pointer items-start gap-3">
-        <input type="checkbox" className="mt-1 h-4 w-4 accent-[var(--accent)]" checked={done} onChange={onToggle} disabled={hidden} />
-        <span className="flex-1">
-          <span className="flex flex-wrap items-center gap-2">
-            <span className={done ? "text-muted line-through" : ""}>{task.label}</span>
-            <Badges task={task} />
-          </span>
-          {task.note && <span className="block text-xs text-muted">{task.note}</span>}
-          <NextTime task={task} now={now} />
+    <li className={`flex items-center gap-3 px-4 py-2 hover:bg-panel-2 ${hidden ? "opacity-50" : ""} ${unavailable ? "bg-red-500/5" : ""}`}>
+      <label className="flex min-w-0 flex-1 cursor-pointer items-center gap-3" title={task.note}>
+        <input type="checkbox" className="h-4 w-4 shrink-0 accent-[var(--accent)]" checked={done} onChange={onToggle} disabled={hidden} />
+        <span className="flex min-w-0 flex-wrap items-center gap-x-2 gap-y-0.5">
+          <span className={done ? "text-muted line-through" : unavailable ? "text-red-400" : ""}>{task.label}</span>
+          <Badges task={task} />
+          {unavailable ? <span className="text-xs text-red-400">{unavailable}</span> : !done && <NextTime task={task} now={now} />}
         </span>
       </label>
       {editing ? (
@@ -233,20 +262,18 @@ export default function Checklist() {
         </div>
       )}
 
-      <Section title="Your day" blurb="Your main tasks, in the order a well-planned day goes. Work down the list." tasks={mainActive} isDone={isDone}>
+      <Section title="Your day" tasks={mainActive} isDone={isDone}>
         {main.length ? (
-          PHASES.map((p, i) => {
-            const tasks = main.filter((t) => t.phase === p.id);
-            // Scheduled events go in the order they start.
-            if (p.id === "scheduled") tasks.sort((a, b) => (nextStart(a, now) ?? Infinity) - (nextStart(b, now) ?? Infinity));
+          GROUPS.map((g, i) => {
+            const tasks = groupTasks(g.id, main, now, isDone);
             if (!tasks.length) return null;
             return (
-              <div key={p.id}>
-                <div className="border-b border-line bg-panel-2/60 px-4 py-2">
-                  <span className="text-sm font-semibold text-accent">
-                    {i + 1}. {p.name}
+              <div key={g.id}>
+                <div className={`border-b border-line px-4 py-1.5 ${g.id === "unavailable" ? "bg-red-500/10" : "bg-panel-2/60"}`}>
+                  <span className={`text-xs font-semibold uppercase tracking-wide ${g.id === "unavailable" ? "text-red-400" : "text-accent"}`}>
+                    {i + 1}. {g.name}
                   </span>
-                  <span className="ml-2 text-xs text-muted">{p.blurb}</span>
+                  {g.blurb && <span className="ml-2 text-xs text-muted">{g.blurb}</span>}
                 </div>
                 <ul className="divide-y divide-line border-b border-line last:border-b-0">{tasks.map(row)}</ul>
               </div>
@@ -260,15 +287,28 @@ export default function Checklist() {
 
       {extras.length > 0 && (
         <>
-          <h2 className="pt-2 text-lg font-semibold">Extras</h2>
-          <div className="grid gap-6 md:grid-cols-2">
-            {extras.map((c) => (
-              <div key={c.id} className={editing && hiddenCategories.includes(c.id) ? "opacity-50" : ""}>
-                <Section title={c.name} blurb={c.blurb} tasks={c.tasks.filter((t) => !hidden.includes(t.id))} isDone={isDone}>
-                  <ul className="divide-y divide-line">{c.tasks.map(row)}</ul>
-                </Section>
-              </div>
-            ))}
+          <div>
+            <h2 className="text-lg font-semibold">Extras</h2>
+            <p className="text-xs text-muted">Gilda, PvP, bosses and more once your day is done. Tap a group to open it.</p>
+          </div>
+          <div className="space-y-2">
+            {extras.map((c) => {
+              const active = c.tasks.filter((t) => !hidden.includes(t.id));
+              const count = active.filter(isDone).length;
+              return (
+                <details key={c.id} open={editing} className={`group rounded-xl border border-line bg-panel ${editing && hiddenCategories.includes(c.id) ? "opacity-50" : ""}`}>
+                  <summary className="flex cursor-pointer list-none items-center gap-3 px-4 py-3 hover:bg-panel-2 [&::-webkit-details-marker]:hidden">
+                    <span className="text-muted transition-transform group-open:rotate-90">▸</span>
+                    <span className="font-semibold">{c.name}</span>
+                    <span className="hidden truncate text-xs text-muted sm:inline">{c.blurb}</span>
+                    <span className="ml-auto shrink-0 text-sm text-muted">
+                      {count}/{active.length}
+                    </span>
+                  </summary>
+                  <ul className="divide-y divide-line border-t border-line">{c.tasks.map(row)}</ul>
+                </details>
+              );
+            })}
           </div>
         </>
       )}
