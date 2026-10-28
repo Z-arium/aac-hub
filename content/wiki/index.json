@@ -1,4 +1,5 @@
 {
+ "version": 2,
  "source": "https://wiki.aa-classic.com",
  "license": "CC0 1.0",
  "pages": [
@@ -15,19 +16,19 @@
    "slug": "abyssal-attack",
    "title": "Abyssal Attack",
    "category": "World Bosses",
-   "summary": "Abyssal Attack The Abyssal Attack occurs multiple times throughout the week. You can check the in-game calendar or the [AAC website]timers for specific times. This event involves several stages and mechanics, all…",
+   "summary": "The Abyssal Attack occurs multiple times throughout the week. You can check the in-game calendar or the [AAC website]timers for specific times. This event involves several stages and mechanics, all leading to the…",
    "updated": "2025-09-26T12:43:02Z",
    "source": "https://wiki.aa-classic.com/Abyssal_Attack",
-   "words": 250
+   "words": 248
   },
   {
    "slug": "abyssal-shard",
    "title": "Abyssal Shard",
-   "category": "General",
-   "summary": "Abyssal Shard Abyssal Shards are a dungeon material primarily used for crafting and upgrading Dungeon Equipment. They are obtained from various dungeon-related sources and are commonly required in recipes for dungeon…",
+   "category": "Items",
+   "summary": "Abyssal Shards are a dungeon material primarily used for crafting and upgrading Dungeon Equipment. They are obtained from various dungeon-related sources and are commonly required in recipes for dungeon equipment and…",
    "updated": "2026-08-30T14:51:06Z",
    "source": "https://wiki.aa-classic.com/Abyssal_Shard",
-   "words": 161
+   "words": 159
   },
   {
    "slug": "abyssal-skills",
@@ -96,10 +97,10 @@
    "slug": "alchemy-merchant",
    "title": "Alchemy Merchant",
    "category": "Economy & Trade",
-   "summary": "Alchemy Merchant The Alchemy Merchant is a merchant NPC that sells basic alchemical supplies and consumables. Shop Item Price Item Price Veiled Flame 4 Mage's Vapor",
+   "summary": "The Alchemy Merchant is a merchant NPC that sells basic alchemical supplies and consumables. Shop Item Price Item Price Veiled Flame 4 Mage's Vapor",
    "updated": "2026-09-03T20:53:30Z",
    "source": "https://wiki.aa-classic.com/Alchemy_Merchant",
-   "words": 27
+   "words": 25
   },
   {
    "slug": "alexastria-player",
@@ -258,10 +259,10 @@
    "slug": "brave-warriors-medal",
    "title": "Brave Warrior's Medal",
    "category": "Gear & Regrading",
-   "summary": "Brave Warrior's Medal Brave Warrior's Medals are a special event currency introduced during the 3rd Anniversary celebration. They are primarily used to guarantee the crafting of Halcyona Necklaces up to Rank 11. Brave…",
+   "summary": "Brave Warrior's Medals are a special event currency introduced during the 3rd Anniversary celebration. They are primarily used to guarantee the crafting of Halcyona Necklaces up to Rank 11. Brave Warrior's Medals are…",
    "updated": "2026-08-30T06:10:19Z",
    "source": "https://wiki.aa-classic.com/Brave_Warrior's_Medal",
-   "words": 224
+   "words": 221
   },
   {
    "slug": "buffs-potions",
@@ -366,10 +367,10 @@
    "slug": "cooking-merchant",
    "title": "Cooking Merchant",
    "category": "Economy & Trade",
-   "summary": "Cooking Merchant The Cooking Merchant is a merchant NPC that sells basic food and drinks used in Cooking. Shop Item Price Item Price Hardtack 2 Savory Soup 8 Fruit Punch 12 Fruit Liquor 12 Mysterious Herb Wine 10…",
+   "summary": "The Cooking Merchant is a merchant NPC that sells basic food and drinks used in Cooking. Shop Item Price Item Price Hardtack 2 Savory Soup 8 Fruit Punch 12 Fruit Liquor 12 Mysterious Herb Wine 10 Assorted Meatballs 12…",
    "updated": "2026-09-03T20:53:13Z",
    "source": "https://wiki.aa-classic.com/Cooking_Merchant",
-   "words": 45
+   "words": 43
   },
   {
    "slug": "cosmetic-costumes-imaging",
@@ -419,7 +420,7 @@
   {
    "slug": "custom-weapon-skins",
    "title": "Custom weapon skins",
-   "category": "General",
+   "category": "Gear & Regrading",
    "summary": "Star Clad skins Currently the only skin from the Star Clad collection is the club. Star Clad club is only obtainable during Christmas event, where daily activities give candy canes that can be used to brake the big gift…",
    "updated": "2026-01-26T20:56:42Z",
    "source": "https://wiki.aa-classic.com/Custom_weapon_skins",
@@ -726,15 +727,15 @@
    "slug": "fishing-stand",
    "title": "Fishing Stand",
    "category": "Housing & Land",
-   "summary": "Fishing Stand You can place the Fishing Stand on any building with \"Classification: Mansion\". The Fishing Stand is a craftable furniture item that can only be placed on a 44x44 Mansions. Once placed the Fishing Stand…",
+   "summary": "You can place the Fishing Stand on any building with \"Classification: Mansion\". The Fishing Stand is a craftable furniture item that can only be placed on a 44x44 Mansions. Once placed the Fishing Stand functions…",
    "updated": "2026-08-30T06:44:42Z",
    "source": "https://wiki.aa-classic.com/Fishing_Stand",
-   "words": 203
+   "words": 201
   },
   {
    "slug": "frequently-asked-questions",
    "title": "Frequently Asked Questions",
-   "category": "General",
+   "category": "New Players",
    "summary": "Frequently Asked Questions (AAC) This page answers common questions for **ArcheAge Classic (AAC)** players. Note: AAC is based on the classic **3.5-era** ArcheAge with custom changes. See: Getting Started and Custom…",
    "updated": "2026-02-02T09:23:11Z",
    "source": "https://wiki.aa-classic.com/Frequently_Asked_Questions",
@@ -789,10 +790,10 @@
    "slug": "general-merchant",
    "title": "General Merchant",
    "category": "Economy & Trade",
-   "summary": "General Merchant The General Merchant is a merchant NPC that sells a variety of general-purpose goods and supplies. Shop Item Price Item Price Weapon Temper 30 Armor Temper 10 Shatigon's Sand 1 Evenstone 5 Dawnstone 5…",
+   "summary": "The General Merchant is a merchant NPC that sells a variety of general-purpose goods and supplies. Shop Item Price Item Price Weapon Temper 30 Armor Temper 10 Shatigon's Sand 1 Evenstone 5 Dawnstone 5 Bound Hereafter…",
    "updated": "2026-09-03T19:05:55Z",
    "source": "https://wiki.aa-classic.com/General_Merchant",
-   "words": 189
+   "words": 187
   },
   {
    "slug": "getting-started",
@@ -870,10 +871,10 @@
    "slug": "guild-cloak",
    "title": "Guild Cloak",
    "category": "Gear & Regrading",
-   "summary": "Guild Cloak The Guild Cloak, also commonly referred to as a Prestige Cloak, is a piece of Equipment that can be purchased from the Prestige Shop using Prestige or by completing the first section (Grand) of the…",
+   "summary": "The Guild Cloak, also commonly referred to as a Prestige Cloak, is a piece of Equipment that can be purchased from the Prestige Shop using Prestige or by completing the first section (Grand) of the Adventurer's Guide.…",
    "updated": "2026-09-04T04:17:11Z",
    "source": "https://wiki.aa-classic.com/Guild_Cloak",
-   "words": 1508
+   "words": 1506
   },
   {
    "slug": "guilds",
@@ -960,15 +961,15 @@
    "slug": "im-lost-msq",
    "title": "I'm Lost! (MSQ)",
    "category": "New Players",
-   "summary": "I'm Lost! (MSQ) A guide to help you navigate through tricky or unclear parts of the Main Story Questline in ArcheAge Classic. Introduction In ArcheAge Classic, progressing through the Main Story Questline (MSQ) is…",
+   "summary": "A guide to help you navigate through tricky or unclear parts of the Main Story Questline in ArcheAge Classic. Introduction In ArcheAge Classic, progressing through the Main Story Questline (MSQ) is essential for…",
    "updated": "2026-04-10T09:55:02Z",
    "source": "https://wiki.aa-classic.com/I'm_Lost!_(MSQ)",
-   "words": 311
+   "words": 308
   },
   {
    "slug": "image-items",
    "title": "Image Items",
-   "category": "General",
+   "category": "Items",
    "summary": "Image Items are \"skins\" for other items in the game. Weapon Customization Crates Onyx Ice Customization",
    "updated": "2025-06-19T13:49:18Z",
    "source": "https://wiki.aa-classic.com/Image_Items",
@@ -1014,10 +1015,10 @@
    "slug": "kraken",
    "title": "Kraken",
    "category": "World Bosses",
-   "summary": "Kraken A world boss spawning in the Arcadian Sea at a set of different times , see Event Timers Page this boss is one of the most valuable bosses in the game , which means teamwork, preparation and almost always a…",
+   "summary": "A world boss spawning in the Arcadian Sea at a set of different times , see Event Timers Page this boss is one of the most valuable bosses in the game , which means teamwork, preparation and almost always a content…",
    "updated": "2025-09-01T20:16:43Z",
    "source": "https://wiki.aa-classic.com/Kraken",
-   "words": 50
+   "words": 49
   },
   {
    "slug": "larceny",
@@ -1072,15 +1073,6 @@
    "updated": "2024-09-25T01:04:33Z",
    "source": "https://wiki.aa-classic.com/Mage_Guide",
    "words": 214
-  },
-  {
-   "slug": "main-page",
-   "title": "Main Page",
-   "category": "General",
-   "summary": "👋 Welcome to the ArcheAge Classic Wiki Search the ArcheAge Classic Wiki Getting Started Beginner's Guide to Classic Custom Server Changes Only on Classic! Joining Classic from Retail Differences with the base game…",
-   "updated": "2026-02-25T13:30:59Z",
-   "source": "https://wiki.aa-classic.com/Main_Page",
-   "words": 85
   },
   {
    "slug": "map",
@@ -1175,7 +1167,7 @@
   {
    "slug": "mysterious-chest",
    "title": "Mysterious Chest",
-   "category": "General",
+   "category": "Items",
    "summary": "How it works Every 4 hours 28 treasure chests spawn in Auroria. Interacting with these chests will either spawn a monster or give the player a tradepack worth 400g delivered to any ocean trader. The chance of getting…",
    "updated": "2024-08-26T17:08:22Z",
    "source": "https://wiki.aa-classic.com/Mysterious_Chest",
@@ -1212,10 +1204,10 @@
    "slug": "obsidian-transmuters",
    "title": "Obsidian Transmuters",
    "category": "Gear & Regrading",
-   "summary": "Obsidian Transmuters Obsidian Transmuters are a new feature introduced in Patch 1.3.5, allowing players to transform one piece of Obsidian Equipment into another of the same slot. This system provides greater…",
+   "summary": "Obsidian Transmuters are a new feature introduced in Patch 1.3.5, allowing players to transform one piece of Obsidian Equipment into another of the same slot. This system provides greater flexibility in gear progression…",
    "updated": "2026-04-15T02:49:20Z",
    "source": "https://wiki.aa-classic.com/Obsidian_Transmuters",
-   "words": 248
+   "words": 246
   },
   {
    "slug": "occultism",
@@ -1374,19 +1366,19 @@
    "slug": "prestige",
    "title": "Prestige",
    "category": "Economy & Trade",
-   "summary": "Prestige Prestige is a Currency associated with Guilds in ArcheAge Classic. It is primarily earned by completing Guild Missions. Prestige can be spent in the Prestige Shop on a variety of guild-related items, upgrade…",
+   "summary": "Prestige is a Currency associated with Guilds in ArcheAge Classic. It is primarily earned by completing Guild Missions. Prestige can be spent in the Prestige Shop on a variety of guild-related items, upgrade materials,…",
    "updated": "2026-09-04T08:22:13Z",
    "source": "https://wiki.aa-classic.com/Prestige",
-   "words": 696
+   "words": 695
   },
   {
    "slug": "prestige-shop",
    "title": "Prestige Shop",
    "category": "Economy & Trade",
-   "summary": "Prestige Shop The Prestige Shop is a shop found in your Guild interface that sells a variety of gear, gems and consumables. Shop Item Price Item Price Glider Customization: Golden Wyrmwings 3000 Melee Basic Costume 200…",
+   "summary": "The Prestige Shop is a shop found in your Guild interface that sells a variety of gear, gems and consumables. Shop Item Price Item Price Glider Customization: Golden Wyrmwings 3000 Melee Basic Costume 200 Ranged Basic…",
    "updated": "2026-09-03T19:06:03Z",
    "source": "https://wiki.aa-classic.com/Prestige_Shop",
-   "words": 257
+   "words": 255
   },
   {
    "slug": "priceless-coin-mounts",
@@ -1472,7 +1464,7 @@
   {
    "slug": "rubiole",
    "title": "Rubiole",
-   "category": "General",
+   "category": "Items",
    "summary": "He's hot and he's",
    "updated": "2024-08-16T00:49:27Z",
    "source": "https://wiki.aa-classic.com/Rubiole",
@@ -2120,7 +2112,7 @@
   {
    "slug": "zephyr-lamp",
    "title": "Zephyr Lamp",
-   "category": "General",
+   "category": "Items",
    "summary": "Zephyr Lamp A Zephyr Lamp is the standard, basic lighting equipped to all crafted ships. A Zephyr Lamp is also the base item required to craft any subsequent ship lighting, such as Shroudlights. Zephyr Lamp",
    "updated": "2024-09-19T01:17:59Z",
    "source": "https://wiki.aa-classic.com/Zephyr_Lamp",
@@ -2142,9 +2134,9 @@
   "Economy & Trade",
   "Events & Festivals",
   "Gear & Regrading",
-  "General",
   "Housing & Land",
   "Interface & Setup",
+  "Items",
   "Mounts & Pets",
   "New Players",
   "Patch Notes",
