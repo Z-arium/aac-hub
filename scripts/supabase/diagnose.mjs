@@ -31,15 +31,12 @@ const users = await call("POST", "/database/query", {
 });
 console.log("Users:", JSON.stringify(users));
 
-const since = new Date(Date.now() - 6 * 3600_000).toISOString();
-const sql = "select timestamp, event_message from auth_logs order by timestamp desc limit 40";
-const logs = await call("GET", `/analytics/endpoints/logs?sql=${encodeURIComponent(sql)}&iso_timestamp_start=${since}`);
-for (const row of logs?.result ?? []) {
-  let msg = row.event_message;
-  try {
-    const e = JSON.parse(msg);
-    msg = [e.level, e.method, e.path, e.status, e.msg, e.error, e.error_code].filter(Boolean).join(" | ");
-  } catch {}
-  console.log(new Date(row.timestamp / 1000).toISOString(), redact(msg));
-}
-if (!logs?.result) console.log("Logs:", redact(JSON.stringify(logs)).slice(0, 500));
+const sessions = await call("POST", "/database/query", {
+  query: "select created_at, updated_at, user_agent, not_after from auth.sessions order by created_at desc limit 10",
+});
+console.log("Sessions:", JSON.stringify(sessions, null, 2));
+
+const audit = await call("POST", "/database/query", {
+  query: "select created_at, payload ->> 'action' as action, payload ->> 'log_type' as type from auth.audit_log_entries order by created_at desc limit 30",
+});
+for (const row of Array.isArray(audit) ? audit : [audit]) console.log("Audit:", redact(JSON.stringify(row)));
