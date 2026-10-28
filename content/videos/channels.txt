@@ -2,4 +2,15 @@
 # One per line: a channel link, an @handle, or a channel ID (UC...).
 # Their newest uploads that mention ArcheAge go into "Recent uploads".
 # Channels of Community picks are added automatically.
-https://www.youtube.com/channel/UCzmV5UoMXUEMGzpFWAJ4y_Q
+https://www.youtube.com/channel/UCzmV5UoMXUEMGzpFWAJ4y_Q # Thranaerttv
+https://www.youtube.com/channel/UCQE7XWk_0mWdWpiNwUTznyg # Angelklaine
+https://www.youtube.com/channel/UC8BqcwyGBJk70GYqKlyTfwQ # ArcheAge Classic
+https://www.youtube.com/channel/UCYod9FuuF2VHYidm-IHBwGQ # Aura
+https://www.youtube.com/channel/UCTx0PZkzJdeJmwdeYpfLw7Q # CandyLove
+https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw # Ferelia ArcheAge
+https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w # Godsu
+https://www.youtube.com/channel/UChtDbhhSo3CmkT-Lhs-XBFw # Immortal Gladiator
+https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ # Mc Nasty
+https://www.youtube.com/channel/UCm1pUdwg6_zdcpEauYh0_wQ # The Mighty Xahl
+https://www.youtube.com/channel/UCvRUx03cb7wXvGP78S94Muw # TheCattamer
+https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ # TrapLord
