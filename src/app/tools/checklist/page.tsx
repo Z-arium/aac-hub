@@ -9,7 +9,7 @@ export default function ChecklistPage() {
     <>
       <PageTitle
         title="Daily & weekly checklist"
-        subtitle="Your main dailies on top, extras by category below. Press Customize to choose what you see. Clears itself at each reset and saves to your account when signed in."
+        subtitle="Tick things off as you go. It clears itself at the daily reset."
       />
       <Checklist />
     </>

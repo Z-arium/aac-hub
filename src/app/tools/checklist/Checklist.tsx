@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { useNow } from "@/components/UpcomingTimers";
-import { dailyResetKey, formatCountdown, formatLocal, nextDailyReset, nextOccurrence } from "@/lib/time";
+import { dailyResetKey, formatCountdown, nextDailyReset, nextOccurrence } from "@/lib/time";
 import { useSynced } from "@/lib/sync";
 import { CATEGORIES, DEFAULT_PINNED, TASKS, type ChecklistTask } from "@/data/checklist";
 import { EVENTS, WEEKDAY_NAMES } from "@/data/schedule";
@@ -43,14 +43,14 @@ function unavailableReason(task: ChecklistTask, now: number | null) {
     if (today !== task.resetDay) return `${WEEKDAY_NAMES[task.resetDay]} pickup`;
   }
   const at = nextStart(task, now);
-  if (at && at >= nextDailyReset(now)) return "Not today";
+  if (at && at >= nextDailyReset(now)) return `Next on ${new Date(at).toLocaleDateString(undefined, { weekday: "long" })}`;
   return null;
 }
 
 const GROUPS = [
-  { id: "anytime", name: "Do anytime", blurb: "" },
-  { id: "timed", name: "Timed", blurb: "Next up first. Rifts pop every 4 hours, watch faction chat" },
-  { id: "unavailable", name: "Not available today", blurb: "Weekly quests you already have can still be finished" },
+  { id: "anytime", name: "Anytime" },
+  { id: "timed", name: "Timed, next up first" },
+  { id: "unavailable", name: "Not today" },
 ] as const;
 
 /** The tasks of one "Your day" group, in the order to do them. */
@@ -85,20 +85,20 @@ function useProgress(now: number | null) {
 
 function Badges({ task }: { task: ChecklistTask }) {
   return (
-    <span className="flex shrink-0 gap-1 text-xs">
-      {task.gilda ? <span className="rounded bg-yellow-500/15 px-1.5 py-0.5 text-yellow-300">{task.gilda} Gilda</span> : null}
-      {task.tokens ? <span className="rounded bg-emerald-500/15 px-1.5 py-0.5 text-emerald-300">{task.tokens} tokens</span> : null}
-      {task.resetDay !== undefined && <span className="rounded bg-sky-500/15 px-1.5 py-0.5 text-sky-300">weekly</span>}
-    </span>
+    <>
+      {task.gilda ? <span className="text-xs text-yellow-300">{task.gilda} Gilda</span> : null}
+      {task.tokens ? <span className="text-xs text-emerald-300">{task.tokens} tokens</span> : null}
+    </>
   );
 }
 
-function NextTime({ task, now }: { task: ChecklistTask; now: number | null }) {
+/** One short muted hint: when it's on, or why it isn't today. */
+function Hint({ task, now }: { task: ChecklistTask; now: number | null }) {
+  const reason = unavailableReason(task, now);
+  if (reason) return <span className="text-xs text-red-400/80">{reason}</span>;
   const at = nextStart(task, now);
   if (!at || !now) return null;
-  return (
-    <span className="text-xs text-accent-2">{at <= now ? "Up now" : `${formatLocal(at)} · in ${formatCountdown(at - now)}`}</span>
-  );
+  return <span className="text-xs text-muted">{at <= now ? "up now" : `in ${formatCountdown(at - now)}`}</span>;
 }
 
 interface RowProps {
@@ -106,6 +106,7 @@ interface RowProps {
   now: number | null;
   done: boolean;
   onToggle: () => void;
+  details: boolean;
   editing: boolean;
   pinned: boolean;
   hidden: boolean;
@@ -113,42 +114,40 @@ interface RowProps {
   onHide: () => void;
 }
 
-function Row({ task, now, done, onToggle, editing, pinned, hidden, onPin, onHide }: RowProps) {
-  const unavailable = done ? null : unavailableReason(task, now);
+function Row({ task, now, done, onToggle, details, editing, pinned, hidden, onPin, onHide }: RowProps) {
+  const unavailable = !done && unavailableReason(task, now) !== null;
   return (
-    <li className={`flex items-center gap-3 px-4 py-2 hover:bg-panel-2 ${hidden ? "opacity-50" : ""} ${unavailable ? "bg-red-500/5" : ""}`}>
-      <label className="flex min-w-0 flex-1 cursor-pointer items-center gap-3" title={task.note}>
+    <li className={`group flex items-center gap-3 rounded-lg px-2 py-2 hover:bg-panel-2 ${hidden ? "opacity-50" : ""}`}>
+      <label className="flex min-w-0 flex-1 cursor-pointer items-center gap-3">
         <input type="checkbox" className="h-4 w-4 shrink-0 accent-[var(--accent)]" checked={done} onChange={onToggle} disabled={hidden} />
-        <span className="flex min-w-0 flex-wrap items-center gap-x-2 gap-y-0.5">
-          <span className={done ? "text-muted line-through" : unavailable ? "text-red-400" : ""}>{task.label}</span>
-          <Badges task={task} />
-          {unavailable ? <span className="text-xs text-red-400">{unavailable}</span> : !done && <NextTime task={task} now={now} />}
+        <span className="min-w-0">
+          <span className="flex flex-wrap items-baseline gap-x-2">
+            <span className={done ? "text-muted line-through" : unavailable ? "text-red-400" : ""}>{task.label}</span>
+            {!done && <Hint task={task} now={now} />}
+            {details && <Badges task={task} />}
+          </span>
+          {details && task.note && <span className="block text-xs text-muted">{task.note}</span>}
         </span>
       </label>
       {editing ? (
-        <span className="flex shrink-0 gap-1">
-          <button
-            type="button"
-            onClick={onPin}
-            title={pinned ? "Move out of Main" : "Move to Main"}
-            className={`rounded border border-line px-2 py-0.5 text-xs ${pinned ? "bg-accent/20 text-accent" : "text-muted hover:text-text"}`}
-          >
+        <span className="flex shrink-0 gap-1 text-xs">
+          <button type="button" onClick={onPin} className={`rounded px-2 py-0.5 ${pinned ? "text-accent" : "text-muted hover:text-text"}`}>
             {pinned ? "★ Main" : "☆ Main"}
           </button>
-          <button type="button" onClick={onHide} className="rounded border border-line px-2 py-0.5 text-xs text-muted hover:text-text">
+          <button type="button" onClick={onHide} className="rounded px-2 py-0.5 text-muted hover:text-text">
             {hidden ? "Show" : "Hide"}
           </button>
         </span>
       ) : (
-        <span className="flex shrink-0 gap-1 text-xs">
-          {task.guide && (
-            <Link href={`/guides/${task.guide}`} className="rounded border border-line px-2 py-0.5 text-accent hover:bg-panel-2">
-              Guide
+        <span className="flex shrink-0 gap-3 text-xs">
+          {details && task.wiki && (
+            <Link href={`/wiki/${task.wiki}`} className="text-muted hover:text-accent-2">
+              Wiki
             </Link>
           )}
-          {task.wiki && (
-            <Link href={`/wiki/${task.wiki}`} className="rounded border border-line px-2 py-0.5 text-accent-2 hover:bg-panel-2">
-              Wiki
+          {task.guide && (
+            <Link href={`/guides/${task.guide}`} className="text-muted hover:text-accent">
+              Guide
             </Link>
           )}
         </span>
@@ -157,39 +156,19 @@ function Row({ task, now, done, onToggle, editing, pinned, hidden, onPin, onHide
   );
 }
 
-function Section({ title, blurb, tasks, isDone, children }: { title: string; blurb?: string; tasks: ChecklistTask[]; isDone: (t: ChecklistTask) => boolean; children: React.ReactNode }) {
-  const count = tasks.filter(isDone).length;
-  return (
-    <section className="rounded-xl border border-line bg-panel">
-      <div className="flex items-center justify-between gap-4 border-b border-line px-4 py-3">
-        <div>
-          <h2 className="font-semibold">{title}</h2>
-          {blurb && <p className="text-xs text-muted">{blurb}</p>}
-        </div>
-        <span className="shrink-0 text-sm text-muted">
-          {count}/{tasks.length}
-        </span>
-      </div>
-      <div className="h-1 bg-panel-2">
-        <div className="h-1 bg-accent transition-all" style={{ width: `${tasks.length ? (count / tasks.length) * 100 : 0}%` }} />
-      </div>
-      {children}
-    </section>
-  );
-}
-
 export default function Checklist() {
   const now = useNow(30_000);
   const { isDone, toggle } = useProgress(now);
   const [settings, setSettings] = useSynced<Settings>("aac-checklist", DEFAULT_SETTINGS);
   const [editing, setEditing] = useState(false);
+  const [details, setDetails] = useState(false);
   const { pinned, hidden, hiddenCategories } = { ...DEFAULT_SETTINGS, ...settings };
 
   const update = (patch: Partial<Settings>) => setSettings({ pinned, hidden, hiddenCategories, ...patch });
   const shown = (t: ChecklistTask) => editing || !hidden.includes(t.id);
   const main = TASKS.filter((t) => pinned.includes(t.id) && shown(t));
   const mainActive = main.filter((t) => !hidden.includes(t.id));
-  const mainDone = mainActive.length > 0 && mainActive.every(isDone);
+  const mainCount = mainActive.filter(isDone).length;
   const extras = CATEGORIES.filter((c) => editing || !hiddenCategories.includes(c.id))
     .map((c) => ({ ...c, tasks: TASKS.filter((t) => t.category === c.id && !pinned.includes(t.id) && shown(t)) }))
     .filter((c) => c.tasks.length);
@@ -209,6 +188,7 @@ export default function Checklist() {
       now={now}
       done={isDone(t)}
       onToggle={() => toggle(t)}
+      details={details || editing}
       editing={editing}
       pinned={pinned.includes(t.id)}
       hidden={hidden.includes(t.id)}
@@ -217,29 +197,33 @@ export default function Checklist() {
     />
   );
 
+  const toggleBtn = (on: boolean, set: (v: boolean) => void, label: string) => (
+    <button type="button" onClick={() => set(!on)} className={on ? "text-accent" : "hover:text-text"}>
+      {label}
+    </button>
+  );
+
   return (
-    <div className="space-y-6">
-      <div className="flex flex-wrap items-center gap-x-6 gap-y-2 rounded-xl border border-line bg-panel px-4 py-3 text-sm">
-        <span>{now ? `Daily reset in ${h}h ${m}m (midnight UTC)` : " "}</span>
-        {gildaTotal > 0 && (
-          <span className="text-yellow-300">
-            Gilda Stars today: {gildaDone}/{gildaTotal}
-          </span>
-        )}
-        <button
-          type="button"
-          onClick={() => setEditing(!editing)}
-          className={`ml-auto rounded-lg border px-3 py-1.5 font-medium ${editing ? "border-accent bg-accent text-bg" : "border-line hover:bg-panel-2"}`}
-        >
-          {editing ? "Done" : "Customize"}
-        </button>
+    <div className="mx-auto max-w-2xl space-y-8">
+      <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-muted">
+        <span>{now ? `Resets in ${h}h ${m}m` : " "}</span>
+        <span className="ml-auto flex gap-4">
+          {toggleBtn(details, setDetails, "Details")}
+          {toggleBtn(editing, setEditing, editing ? "Done" : "Customize")}
+        </span>
       </div>
 
+      {(details || editing) && gildaTotal > 0 && (
+        <p className="text-sm text-yellow-300">
+          Gilda Stars today: {gildaDone}/{gildaTotal}
+        </p>
+      )}
+
       {editing && (
-        <div className="rounded-xl border border-accent/40 bg-panel p-4 text-sm">
+        <div className="rounded-xl border border-line p-4 text-sm">
           <p className="mb-3 text-muted">
-            Pick the categories you want to see. On each task, <b className="text-text">★ Main</b> moves it to your main list at the top and{" "}
-            <b className="text-text">Hide</b> takes it off your list. Your choices are saved to your account when you are signed in.
+            Pick the categories you want to see. <b className="text-text">★ Main</b> moves a task into Your day and <b className="text-text">Hide</b> takes it off
+            your list. Saved to your account when you are signed in.
           </p>
           <div className="flex flex-wrap gap-2">
             {CATEGORIES.map((c) => {
@@ -249,73 +233,62 @@ export default function Checklist() {
                   key={c.id}
                   type="button"
                   onClick={() => update({ hiddenCategories: toggleIn(hiddenCategories, c.id) })}
-                  className={`rounded-full border px-3 py-1 ${on ? "border-accent-2 bg-accent-2/15 text-accent-2" : "border-line text-muted line-through"}`}
+                  className={`rounded-full border px-3 py-1 ${on ? "border-accent-2 text-accent-2" : "border-line text-muted line-through"}`}
                 >
                   {c.name}
                 </button>
               );
             })}
-            <button type="button" onClick={() => setSettings(DEFAULT_SETTINGS)} className="ml-auto rounded-full border border-line px-3 py-1 text-muted hover:text-text">
+            <button type="button" onClick={() => setSettings(DEFAULT_SETTINGS)} className="ml-auto px-3 py-1 text-muted hover:text-text">
               Reset to defaults
             </button>
           </div>
         </div>
       )}
 
-      <Section title="Your day" tasks={mainActive} isDone={isDone}>
+      <section>
+        <h2 className="mb-2 flex items-baseline justify-between text-lg font-semibold">
+          Your day
+          <span className="text-sm font-normal text-muted">
+            {mainCount}/{mainActive.length}
+          </span>
+        </h2>
         {main.length ? (
-          GROUPS.map((g, i) => {
+          GROUPS.map((g) => {
             const tasks = groupTasks(g.id, main, now, isDone);
             if (!tasks.length) return null;
             return (
-              <div key={g.id}>
-                <div className={`border-b border-line px-4 py-1.5 ${g.id === "unavailable" ? "bg-red-500/10" : "bg-panel-2/60"}`}>
-                  <span className={`text-xs font-semibold uppercase tracking-wide ${g.id === "unavailable" ? "text-red-400" : "text-accent"}`}>
-                    {i + 1}. {g.name}
-                  </span>
-                  {g.blurb && <span className="ml-2 text-xs text-muted">{g.blurb}</span>}
-                </div>
-                <ul className="divide-y divide-line border-b border-line last:border-b-0">{tasks.map(row)}</ul>
+              <div key={g.id} className="mt-4">
+                <h3 className={`px-2 text-xs font-medium uppercase tracking-wide ${g.id === "unavailable" ? "text-red-400" : "text-muted"}`}>{g.name}</h3>
+                <ul className="mt-1">{tasks.map(row)}</ul>
               </div>
             );
           })
         ) : (
-          <p className="px-4 py-6 text-sm text-muted">Nothing here yet. Press Customize and star the tasks you never want to miss.</p>
+          <p className="text-sm text-muted">Nothing here yet. Press Customize and star the tasks you never want to miss.</p>
         )}
-        {mainDone && <p className="border-t border-line bg-accent/10 px-4 py-3 text-sm text-accent">Main list done. Pick up some extras below.</p>}
-      </Section>
+      </section>
 
       {extras.length > 0 && (
-        <>
-          <div>
-            <h2 className="text-lg font-semibold">Extras</h2>
-            <p className="text-xs text-muted">Gilda, PvP, bosses and more once your day is done. Tap a group to open it.</p>
-          </div>
-          <div className="space-y-2">
-            {extras.map((c) => {
-              const active = c.tasks.filter((t) => !hidden.includes(t.id));
-              const count = active.filter(isDone).length;
-              return (
-                <details key={c.id} open={editing} className={`group rounded-xl border border-line bg-panel ${editing && hiddenCategories.includes(c.id) ? "opacity-50" : ""}`}>
-                  <summary className="flex cursor-pointer list-none items-center gap-3 px-4 py-3 hover:bg-panel-2 [&::-webkit-details-marker]:hidden">
-                    <span className="text-muted transition-transform group-open:rotate-90">▸</span>
-                    <span className="font-semibold">{c.name}</span>
-                    <span className="hidden truncate text-xs text-muted sm:inline">{c.blurb}</span>
-                    <span className="ml-auto shrink-0 text-sm text-muted">
-                      {count}/{active.length}
-                    </span>
-                  </summary>
-                  <ul className="divide-y divide-line border-t border-line">{c.tasks.map(row)}</ul>
-                </details>
-              );
-            })}
-          </div>
-        </>
+        <section>
+          <h2 className="mb-2 text-lg font-semibold">Extras</h2>
+          {extras.map((c) => {
+            const active = c.tasks.filter((t) => !hidden.includes(t.id));
+            return (
+              <details key={c.id} open={editing} className={`group border-t border-line ${editing && hiddenCategories.includes(c.id) ? "opacity-50" : ""}`}>
+                <summary className="flex cursor-pointer list-none items-center gap-2 px-2 py-3 hover:text-accent [&::-webkit-details-marker]:hidden">
+                  <span className="text-muted transition-transform group-open:rotate-90">▸</span>
+                  {c.name}
+                  <span className="ml-auto text-sm text-muted">
+                    {active.filter(isDone).length}/{active.length}
+                  </span>
+                </summary>
+                <ul className="pb-2">{c.tasks.map(row)}</ul>
+              </details>
+            );
+          })}
+        </section>
       )}
-
-      <p className="text-xs text-muted">
-        Task list based on the DailyAge addon and the AAClassic wiki. Weekly token quests reset at midnight UTC on the day you can pick them up.
-      </p>
     </div>
   );
 }
