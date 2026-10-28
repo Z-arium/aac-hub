@@ -1,4 +1,5 @@
 import Link from "next/link";
+import AccountLink from "./AccountLink";
 
 const NAV = [
   { href: "/guides", label: "Guides" },
@@ -23,6 +24,7 @@ export default function SiteHeader() {
             </Link>
           ))}
         </nav>
+        <AccountLink />
       </div>
     </header>
   );

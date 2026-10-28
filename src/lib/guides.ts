@@ -12,6 +12,8 @@ export interface Guide {
   featured: boolean;
   updated: string;
   sources: string[];
+  /** YouTube id of a video that goes with the guide (see src/data/videos.ts). */
+  video?: string;
   body: string;
 }
 
@@ -31,6 +33,7 @@ function parse(slug: string, raw: string): Guide {
     featured: meta.featured === "true",
     updated: meta.updated ?? "",
     sources: (meta.sources ?? "").split(",").map((s) => s.trim()).filter(Boolean),
+    video: meta.video || undefined,
     body: match[2],
   };
 }

@@ -13,6 +13,7 @@
     "wiki:coverage": "node scripts/wiki-import/coverage.mjs"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
     "marked": "^15.0.12",
     "next": "15.5.28",
     "react": "19.1.0",
