@@ -5,6 +5,11 @@ name: Deploy site
 on:
   push:
     branches: [main]
+  # The wiki import commits to main with GITHUB_TOKEN, which doesn't fire push.
+  workflow_run:
+    workflows: [Wiki import]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -19,6 +24,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
