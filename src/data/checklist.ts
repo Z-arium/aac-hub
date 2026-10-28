@@ -35,7 +35,7 @@ export const PHASES: { id: Phase; name: string; blurb: string }[] = [
 
 // The order of a well-planned day. Every task id appears exactly once.
 const ROUTE: Record<Phase, string[]> = {
-  start: ["login", "aaa", "guild-start", "experia", "colonize", "ds-construction", "ahnimar", "meals", "farmhouse", "tradesman", "proficiency"],
+  start: ["login", "aaa", "guild-start", "experia", "colonize", "ds-construction", "meals", "farmhouse", "tradesman", "proficiency"],
   scheduled: ["mistmerrow", "kadum", "halcyona", "luscas", "abyssal", "ghost-ship-daily", "ghost-ship", "large-boss"],
   rifts: ["cr", "cr-hound", "anthalon", "crimson-threat", "gr", "gr-bosses", "whalesong", "aegis", "ocleera", "comet"],
   anytime: ["blue-salt", "ocean-ghosts", "seabugs", "jola", "meina", "glenn", "minor-boss", "guild-boss", "defend", "library-1", "library-2", "library-3", "ayanad-agent", "library", "dungeons", "arena", "bloodbath", "fish-market"],
@@ -87,7 +87,6 @@ const DAILY: TaskData[] = [
   // Gilda Stars
   { id: "blue-salt", category: "gilda", label: "Blue Salt dailies", note: "5 quests in the Blue Salt towns: animal raising, perfume, vases and more", gilda: 5, wiki: "gilda-star", guide: "gilda-stars#blue-salt-dailies" },
   { id: "ds-construction", category: "gilda", label: "Diamond Shores bridge and wall", gilda: 2, wiki: "gilda-star", guide: "guild-missions#colonizing-auroria" },
-  { id: "ahnimar", category: "gilda", label: "Ahnimar: water the Darus", gilda: 1, wiki: "gilda-star", guide: "gilda-stars#ahnimar-watering-the-darus" },
   { id: "meals", category: "gilda", label: "4 meals at a workstation", gilda: 4, wiki: "gilda-star", guide: "gilda-stars#workstation-meals" },
   { id: "farmhouse", category: "gilda", label: "Farmhouse quests", gilda: 2, wiki: "gilda-star", guide: "gilda-stars#farmhouse-quests" },
   { id: "tradesman", category: "gilda", label: "Tradesman, Apothecary or Armorer quests", gilda: 2, wiki: "gilda-star", guide: "gilda-stars#tradesman-apothecary-and-armorer-quests" },
