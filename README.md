@@ -18,7 +18,7 @@ An all-in-one site for [ArcheAge Classic](https://aa-classic.com), in the spirit
 | Trade pack calculator | `/tools/trade-packs` | Base value × turn-in % minus materials |
 | World bosses | `/database/world-bosses` | |
 | Festivals | `/database/festivals` | |
-| Videos | `/videos` | Refreshes hourly from YouTube |
+| Videos | `/videos` | Community picks, plus recent ArcheAge Classic uploads refreshed every 6 hours |
 
 ## Running it
 
@@ -31,10 +31,10 @@ Open http://localhost:3000.
 
 ## Videos
 
-Set one of these in `.env.local` (see `.env.example`):
+The Videos page has two parts, both kept in `content/videos`:
 
-- `YOUTUBE_API_KEY`: searches YouTube for "ArcheAge Classic", newest first.
-- `YOUTUBE_CHANNEL_IDS`: comma-separated channel IDs, read from their public RSS feeds. No key needed.
+- **Community picks** (`picks.json`): chosen by hand. To add or remove one, open a [Videos issue](https://github.com/Z-arium/aac-hub/issues/new?template=videos.yml), pick what should happen and paste the YouTube link. The Videos workflow updates the list, replies and closes the issue, and the site redeploys. Anyone can suggest a video the same way; a suggestion waits until the owner comments `approve` on it.
+- **Recent uploads** (`recent.json`): the Videos workflow refreshes it every 6 hours from the RSS feeds of the channels in `channels.txt` and of every Community pick, plus a YouTube-wide search when the `YOUTUBE_API_KEY` repository secret is set. Only ArcheAge Classic videos are kept (see `isClassic` in `scripts/videos/lib.mjs`); `hidden.txt` keeps out anything that slips through, and the same issue form can hide a video.
 
 ## Game data
 

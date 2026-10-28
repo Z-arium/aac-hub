@@ -1,0 +1,113 @@
+name: Videos
+
+# Keeps the Videos page fresh.
+# - Every 6 hours and on demand: refreshes Recent uploads (content/videos/recent.json).
+# - When the owner opens a "Videos" issue, or comments "approve" on someone
+#   else's: applies it to the Community picks or hidden list, replies on the
+#   issue and closes it.
+# - On a push that changes the video scripts or channel list: refreshes.
+# Both commit straight to main and then start the deploy workflow, since a
+# GITHUB_TOKEN push doesn't trigger it.
+on:
+  schedule:
+    - cron: "41 */6 * * *"
+  workflow_dispatch:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+  push:
+    branches: [main]
+    paths:
+      - scripts/videos/**
+      - content/videos/channels.txt
+      - content/videos/hidden.txt
+      - .github/workflows/videos.yml
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+# Both jobs commit to main, so run one at a time.
+concurrency:
+  group: videos
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.event_name != 'issues' && github.event_name != 'issue_comment'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/videos/refresh.mjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add content/videos
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "Refresh recent videos"
+          git pull --rebase origin main
+          git push
+          gh workflow run deploy-pages.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  request:
+    # Only the owner and collaborators can change the lists. Anyone else's issue
+    # waits until one of them comments "approve".
+    if: >-
+      contains(github.event.issue.body, '### YouTube links') &&
+      github.event.issue.state == 'open' &&
+      (
+        (github.event_name == 'issues' &&
+          contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association)) ||
+        (github.event_name == 'issue_comment' && !github.event.issue.pull_request &&
+          startsWith(github.event.comment.body, 'approve') &&
+          contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association))
+      )
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/videos/request.mjs
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          REPLY_FILE: ${{ runner.temp }}/reply.md
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      # A new pick's channel joins the Recent uploads sources, so refresh too.
+      - run: node scripts/videos/refresh.mjs || true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Commit
+        env:
+          ISSUE: ${{ github.event.issue.number }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add content/videos
+          if ! git diff --cached --quiet; then
+            git commit -m "Videos: update lists (#$ISSUE)"
+            git pull --rebase origin main
+            git push
+            gh workflow run deploy-pages.yml --ref main
+            echo "" >> "$RUNNER_TEMP/reply.md"
+            echo "The site updates in a few minutes." >> "$RUNNER_TEMP/reply.md"
+          fi
+      - name: Reply and close
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }} --comment "$(cat "$RUNNER_TEMP/reply.md")"

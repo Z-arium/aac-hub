@@ -9,8 +9,6 @@ import { FEATURED_VIDEOS } from "@/data/videos";
 import { getGuides } from "@/lib/guides";
 import { getVideos } from "@/lib/youtube";
 
-export const revalidate = 3600;
-
 function SectionHeader({ title, href, linkText }: { title: string; href?: string; linkText?: string }) {
   return (
     <div className="mb-4 flex items-end justify-between">
@@ -24,11 +22,11 @@ function SectionHeader({ title, href, linkText }: { title: string; href?: string
   );
 }
 
-export default async function Home() {
+export default function Home() {
   const guides = getGuides();
   const featured = guides.filter((g) => g.featured);
   const [lead, ...rest] = featured.length ? featured : guides;
-  const videos = await getVideos(8);
+  const videos = getVideos(8, FEATURED_VIDEOS.slice(0, 1).map((v) => v.id));
 
   return (
     <div className="space-y-12">

@@ -1,0 +1,5 @@
+# YouTube channels that make ArcheAge Classic videos.
+# One per line: a channel link, an @handle, or a channel ID (UC...).
+# Their newest uploads that mention ArcheAge go into "Recent uploads".
+# Channels of Community picks are added automatically.
+https://www.youtube.com/channel/UCzmV5UoMXUEMGzpFWAJ4y_Q

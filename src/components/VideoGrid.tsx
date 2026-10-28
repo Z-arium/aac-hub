@@ -1,10 +1,10 @@
-import type { Video } from "@/lib/youtube";
+import { thumbnail, type Video } from "@/lib/youtube";
 
 export default function VideoGrid({ videos }: { videos: Video[] }) {
   if (videos.length === 0) {
     return (
       <div className="rounded-xl border border-dashed border-line p-6 text-sm text-muted">
-        ArcheAge Classic videos are coming soon.
+        New ArcheAge Classic videos show up here a few hours after they are posted.
       </div>
     );
   }
@@ -19,11 +19,11 @@ export default function VideoGrid({ videos }: { videos: Video[] }) {
           className="group overflow-hidden rounded-xl border border-line bg-panel hover:border-accent"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={v.thumbnail} alt="" className="aspect-video w-full object-cover" loading="lazy" />
+          <img src={thumbnail(v.id)} alt="" className="aspect-video w-full object-cover" loading="lazy" />
           <div className="p-3">
             <p className="line-clamp-2 text-sm font-medium group-hover:text-accent">{v.title}</p>
             <p className="mt-1 text-xs text-muted">
-              {v.channel} · {new Date(v.published).toLocaleDateString()}
+              {v.channel} · {new Date(v.published).toLocaleDateString("en-US", { dateStyle: "medium" })}
             </p>
           </div>
         </a>
