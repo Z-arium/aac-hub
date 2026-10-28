@@ -177,7 +177,7 @@ function Profile({ userId, email }: { userId: string; email?: string }) {
   );
 
   return (
-    <div className="grid gap-6 md:grid-cols-2">
+    <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
       <form onSubmit={save} className="space-y-4 rounded-xl border border-line bg-panel p-6">
         <h2 className="font-semibold">Profile</h2>
         <p className="text-sm text-muted">Signed in as {email ?? "a Discord account"}.</p>

@@ -19,7 +19,7 @@ export default function LaborCalculator() {
 
   const input = "mt-1 w-full rounded border border-line bg-panel-2 px-3 py-2 text-text";
   return (
-    <div className="grid gap-6 md:grid-cols-2">
+    <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
       <div className="space-y-4 rounded-xl border border-line bg-panel p-5">
         <label className="block text-sm text-muted">
           Current labor

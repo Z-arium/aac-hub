@@ -21,7 +21,7 @@ export default function VideosPage() {
         <section className="mb-10">
           <h2 className="mb-1 text-xl font-bold">Community picks</h2>
           <p className="mb-4 text-sm text-muted">The videos most worth your time, chosen for the community.</p>
-          <div className="grid gap-4 lg:grid-cols-2">
+          <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
             {FEATURED_VIDEOS.map((v) => (
               <FeaturedVideo key={v.id} video={v} showGuide />
             ))}

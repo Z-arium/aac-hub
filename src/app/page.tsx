@@ -9,6 +9,13 @@ import { FEATURED_VIDEOS } from "@/data/videos";
 import { getGuides } from "@/lib/guides";
 import { getVideos } from "@/lib/youtube";
 
+const QUICK_LINKS = [
+  { href: "/timers", label: "Timers" },
+  { href: "/tools/checklist", label: "Daily checklist" },
+  { href: "/tools/class-builder", label: "Class builder" },
+  { href: "/tools/regrade", label: "Regrade calculator" },
+];
+
 function SectionHeader({ title, href, linkText }: { title: string; href?: string; linkText?: string }) {
   return (
     <div className="mb-4 flex items-end justify-between">
@@ -30,13 +37,29 @@ export default function Home() {
 
   return (
     <div className="space-y-12">
+      <section className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+        <div>
+          <h1 className="text-3xl font-bold tracking-tight md:text-4xl">
+            Everything for <span className="text-accent">ArcheAge Classic</span>
+          </h1>
+          <p className="mt-2 max-w-2xl text-muted">Guides, live boss timers, calculators and the full wiki, in one place.</p>
+        </div>
+        <div className="flex flex-wrap gap-2 text-sm">
+          {QUICK_LINKS.map((q) => (
+            <Link key={q.href} href={q.href} className="rounded-full border border-line bg-panel px-3 py-1.5 hover:border-accent/60 hover:text-accent">
+              {q.label}
+            </Link>
+          ))}
+        </div>
+      </section>
+
       <section>
         <SectionHeader title="Featured guides" href="/guides" linkText="All guides" />
-        <div className="grid gap-4 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
           <div className="lg:col-span-2">{lead && <GuideCard guide={lead} large />}</div>
           <UpcomingTimers limit={5} />
         </div>
-        <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {rest.slice(0, 3).map((g) => (
             <GuideCard key={g.slug} guide={g} />
           ))}
