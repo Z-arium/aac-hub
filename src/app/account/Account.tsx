@@ -21,10 +21,30 @@ export default function Account() {
   return user ? <Profile userId={user.id} email={user.email} /> : <SignIn />;
 }
 
+/** The error Supabase puts in the URL when a sign-in link fails (expired, already used, ...). */
+function linkError() {
+  const params = new URLSearchParams(window.location.hash.slice(1) || window.location.search);
+  const message = params.get("error_description");
+  if (!message) return "";
+  return params.get("error_code") === "otp_expired"
+    ? "That sign-in link has expired or was already used. Send yourself a new one below."
+    : `Sign-in failed: ${message.replaceAll("+", " ")}`;
+}
+
 function SignIn() {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "sending" | "sent">("idle");
   const [error, setError] = useState("");
+  const [code, setCode] = useState("");
+
+  useEffect(() => setError(linkError()), []);
+
+  async function verifyCode(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+    const { error } = await supabase!.auth.verifyOtp({ email, token: code.trim(), type: "email" });
+    if (error) setError(error.message.includes("expired") ? "That code has expired or is wrong. Check it, or send a new one." : error.message);
+  }
 
   async function sendLink(e: React.FormEvent) {
     e.preventDefault();
@@ -50,10 +70,28 @@ function SignIn() {
           <p className="text-center text-sm text-muted">or</p>
         </>
       )}
+      {error && <p className="text-sm text-red-400">{error}</p>}
       {status === "sent" ? (
-        <p>
-          Check <strong>{email}</strong> for a sign-in link. You can close this tab; the link signs you in wherever you open it.
-        </p>
+        <form onSubmit={verifyCode} className="space-y-3">
+          <p>
+            We emailed a code to <strong>{email}</strong>. Type it here, or click the link in the email.
+          </p>
+          <input
+            inputMode="numeric"
+            autoComplete="one-time-code"
+            required
+            value={code}
+            onChange={(e) => setCode(e.target.value.replace(/\D/g, ""))}
+            className={`${input} text-center text-2xl tracking-widest`}
+            placeholder="123456"
+          />
+          <button type="submit" className={`${primary} w-full`}>
+            Sign in
+          </button>
+          <button type="button" className="w-full text-sm text-muted underline" onClick={() => setStatus("idle")}>
+            Use a different email or send a new code
+          </button>
+        </form>
       ) : (
         <form onSubmit={sendLink} className="space-y-3">
           <label className="block text-sm">
@@ -61,9 +99,8 @@ function SignIn() {
             <input type="email" required value={email} onChange={(e) => setEmail(e.target.value)} className={input} placeholder="you@example.com" />
           </label>
           <button type="submit" className={`${discordEnabled ? button : primary} w-full`} disabled={status === "sending"}>
-            {status === "sending" ? "Sending…" : "Email me a sign-in link"}
+            {status === "sending" ? "Sending…" : "Email me a sign-in code"}
           </button>
-          {error && <p className="text-sm text-red-400">{error}</p>}
         </form>
       )}
       <p className="text-xs text-muted">No password needed. Your checklist, timer alerts and saved builds already in this browser are added to your account when you sign in.</p>
