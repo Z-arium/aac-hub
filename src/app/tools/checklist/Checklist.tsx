@@ -244,8 +244,7 @@ export default function Checklist() {
 
       {STEPS.map((step, i) => {
         const tasks = steps[step.id];
-        const last = i === STEPS.length - 1;
-        if (!tasks.length && !(last && notToday.length)) return null;
+        if (!tasks.length) return null;
         return (
           <section key={step.id}>
             <h2 className="text-lg font-semibold">
@@ -253,14 +252,6 @@ export default function Checklist() {
             </h2>
             {step.blurb && <p className="px-0 text-xs text-muted">{step.blurb}</p>}
             <ul className="mt-2">{tasks.map(row)}</ul>
-            {last && notToday.length > 0 &&
-              (editing ? (
-                <ul className="mt-2">{notToday.map(row)}</ul>
-              ) : (
-                <p className="mt-3 px-2 text-xs text-red-400/80">
-                  Not today: {notToday.map((t) => `${t.label} (${unavailableReason(t, now)})`).join(", ")}
-                </p>
-              ))}
           </section>
         );
       })}
@@ -287,6 +278,15 @@ export default function Checklist() {
             );
           })}
         </section>
+      )}
+      {notToday.length > 0 && (
+        <details open={editing} className="group">
+          <summary className="flex cursor-pointer list-none items-center gap-2 px-2 py-3 text-sm text-red-400 hover:text-red-300 [&::-webkit-details-marker]:hidden">
+            <span className="transition-transform group-open:rotate-90">▸</span>
+            Not available today ({notToday.length})
+          </summary>
+          <ul>{notToday.map(row)}</ul>
+        </details>
       )}
     </div>
   );
