@@ -191,6 +191,7 @@ function readJson(file, fallback) {
 
 async function main() {
   fs.mkdirSync(PAGES_DIR, { recursive: true });
+  fs.mkdirSync(path.dirname(SEARCH_FILE), { recursive: true });
   const previous = readJson(path.join(OUT, "index.json"), { pages: [] });
   const prevBySlug = new Map(previous.pages.map((p) => [p.slug, p]));
 
