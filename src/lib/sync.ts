@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import { supabase } from "./supabase";
+import { supabaseClient } from "./supabase";
 
 // Saved data lives in localStorage under "aac-" keys. When someone is signed
 // in, every write is also saved to their account, and signing in pulls the
@@ -28,6 +28,7 @@ export function writeSynced(key: string, value: unknown) {
     localStorage.setItem(key, JSON.stringify(value));
   } catch {}
   notify(key);
+  const supabase = supabaseClient();
   if (supabase && userId) {
     supabase
       .from("user_storage")
@@ -39,6 +40,7 @@ export function writeSynced(key: string, value: unknown) {
 /** Called by the auth provider whenever the signed-in user changes. */
 export async function setSyncUser(id: string | null) {
   userId = id;
+  const supabase = supabaseClient();
   if (!supabase || !id) return;
   const { data, error } = await supabase.from("user_storage").select("key, value");
   if (error || userId !== id) return;

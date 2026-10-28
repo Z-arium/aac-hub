@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useEffect, useState } from "react";
 import type { User } from "@supabase/supabase-js";
-import { supabase } from "@/lib/supabase";
+import { loadSupabase, supabaseEnabled } from "@/lib/supabase";
 import { setSyncUser } from "@/lib/sync";
 
 interface Auth {
@@ -19,19 +19,28 @@ export function useAuth() {
 }
 
 export default function AuthProvider({ children }: { children: React.ReactNode }) {
-  const [user, setUser] = useState<User | null | undefined>(supabase ? undefined : null);
+  const [user, setUser] = useState<User | null | undefined>(supabaseEnabled ? undefined : null);
 
   useEffect(() => {
-    if (!supabase) return;
-    const { data } = supabase.auth.onAuthStateChange((_event, session) => {
-      const next = session?.user ?? null;
-      setUser((prev) => {
-        if (prev?.id !== next?.id) setSyncUser(next?.id ?? null);
-        return next;
+    if (!supabaseEnabled) return;
+    let unsubscribe: (() => void) | undefined;
+    let cancelled = false;
+    loadSupabase().then((supabase) => {
+      if (!supabase || cancelled) return;
+      const { data } = supabase.auth.onAuthStateChange((_event, session) => {
+        const next = session?.user ?? null;
+        setUser((prev) => {
+          if (prev?.id !== next?.id) setSyncUser(next?.id ?? null);
+          return next;
+        });
       });
+      unsubscribe = () => data.subscription.unsubscribe();
     });
-    return () => data.subscription.unsubscribe();
+    return () => {
+      cancelled = true;
+      unsubscribe?.();
+    };
   }, []);
 
-  return <AuthContext.Provider value={{ enabled: !!supabase, user }}>{children}</AuthContext.Provider>;
+  return <AuthContext.Provider value={{ enabled: supabaseEnabled, user }}>{children}</AuthContext.Provider>;
 }
