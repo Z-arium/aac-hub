@@ -9,6 +9,8 @@ const input = "mt-1 w-full rounded border border-line bg-panel-2 px-3 py-2 text-
 const button = "rounded border border-line px-4 py-2 hover:bg-panel-2 disabled:opacity-50";
 const primary = "rounded bg-accent px-4 py-2 font-semibold text-bg hover:opacity-90 disabled:opacity-50";
 const discordEnabled = !!process.env.NEXT_PUBLIC_AUTH_DISCORD;
+// Sign-in emails only carry a code once custom email templates are set up.
+const emailCodes = !!process.env.NEXT_PUBLIC_AUTH_EMAIL_CODE;
 
 function redirectUrl() {
   return `${window.location.origin}${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/account/`;
@@ -71,7 +73,16 @@ function SignIn() {
         </>
       )}
       {error && <p className="text-sm text-red-400">{error}</p>}
-      {status === "sent" ? (
+      {status === "sent" && !emailCodes ? (
+        <div className="space-y-3">
+          <p>
+            We emailed a sign-in link to <strong>{email}</strong>. Open it <strong>in this same browser</strong> and you&apos;ll land here signed in.
+          </p>
+          <button type="button" className="w-full text-sm text-muted underline" onClick={() => setStatus("idle")}>
+            Use a different email or send a new link
+          </button>
+        </div>
+      ) : status === "sent" ? (
         <form onSubmit={verifyCode} className="space-y-3">
           <p>
             We emailed a code to <strong>{email}</strong>. Type it here, or click the link in the email.
@@ -99,7 +110,7 @@ function SignIn() {
             <input type="email" required value={email} onChange={(e) => setEmail(e.target.value)} className={input} placeholder="you@example.com" />
           </label>
           <button type="submit" className={`${discordEnabled ? button : primary} w-full`} disabled={status === "sending"}>
-            {status === "sending" ? "Sending…" : "Email me a sign-in code"}
+            {status === "sending" ? "Sending…" : emailCodes ? "Email me a sign-in code" : "Email me a sign-in link"}
           </button>
         </form>
       )}
