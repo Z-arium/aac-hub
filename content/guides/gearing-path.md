@@ -4,10 +4,13 @@ summary: Catch-up box, Emerald weapon, dungeon armor, Obsidian and what to buy i
 category: Gear
 featured: true
 updated: 2026-10-28
-sources: https://wiki.aa-classic.com/Gearing_Guide, https://wiki.aa-classic.com/Catch-up_Gear_Box
+sources: https://wiki.aa-classic.com/Gearing_Guide, https://wiki.aa-classic.com/Catch-up_Gear_Box, https://www.youtube.com/watch?v=mugI8Trhrcw
+video: mugI8Trhrcw
 ---
 
-This follows the wiki's player-written gearing guide. Its main advice: **buying finished gear from other players is usually cheaper than regrading it yourself.**
+**Watch first:** the video above, [Archeage Classic Gearing Guide 2025](https://www.youtube.com/watch?v=mugI8Trhrcw) by [Thranaerttv](https://www.youtube.com/channel/UCzmV5UoMXUEMGzpFWAJ4y_Q), is the best walkthrough of the gearing path we've found. It was made for new and returning players, and the written steps below follow the same path so you can check your progress as you go.
+
+The written guide follows the wiki's player-written gearing guide. Its main advice: **buying finished gear from other players is usually cheaper than regrading it yourself.**
 
 ## Step 1: Catch-up gear (level 50)
 

@@ -1,9 +1,11 @@
 import Link from "next/link";
+import FeaturedVideo from "@/components/FeaturedVideo";
 import GuideCard from "@/components/GuideCard";
 import ToolGrid from "@/components/ToolGrid";
 import UpcomingTimers from "@/components/UpcomingTimers";
 import VideoGrid from "@/components/VideoGrid";
 import { DATABASE } from "@/data/tools";
+import { FEATURED_VIDEOS } from "@/data/videos";
 import { getGuides } from "@/lib/guides";
 import { getVideos } from "@/lib/youtube";
 
@@ -44,7 +46,12 @@ export default async function Home() {
       </section>
 
       <section>
-        <SectionHeader title="Latest videos" href="/videos" linkText="More videos" />
+        <SectionHeader title="Videos" href="/videos" linkText="More videos" />
+        {FEATURED_VIDEOS[0] && (
+          <div className="mb-4 max-w-3xl">
+            <FeaturedVideo video={FEATURED_VIDEOS[0]} showGuide />
+          </div>
+        )}
         <VideoGrid videos={videos} />
       </section>
 
