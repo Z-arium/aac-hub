@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useAuth } from "@/components/AuthProvider";
-import { supabase } from "@/lib/supabase";
+import { supabaseClient, supabaseEnabled } from "@/lib/supabase";
 import { exportLocal } from "@/lib/sync";
 
 const input = "mt-1 w-full rounded border border-line bg-panel-2 px-3 py-2 text-text";
@@ -18,7 +18,7 @@ function redirectUrl() {
 
 export default function Account() {
   const { enabled, user } = useAuth();
-  if (!enabled || !supabase) return <p className="text-muted">Accounts aren&apos;t switched on for this copy of the site yet.</p>;
+  if (!enabled || !supabaseEnabled) return <p className="text-muted">Accounts aren&apos;t switched on for this copy of the site yet.</p>;
   if (user === undefined) return <p className="text-muted">Loading…</p>;
   return user ? <Profile userId={user.id} email={user.email} /> : <SignIn />;
 }
@@ -44,7 +44,7 @@ function SignIn() {
   async function verifyCode(e: React.FormEvent) {
     e.preventDefault();
     setError("");
-    const { error } = await supabase!.auth.verifyOtp({ email, token: code.trim(), type: "email" });
+    const { error } = await supabaseClient()!.auth.verifyOtp({ email, token: code.trim(), type: "email" });
     if (error) setError(error.message.includes("expired") ? "That code has expired or is wrong. Check it, or send a new one." : error.message);
   }
 
@@ -52,7 +52,7 @@ function SignIn() {
     e.preventDefault();
     setStatus("sending");
     setError("");
-    const { error } = await supabase!.auth.signInWithOtp({ email, options: { emailRedirectTo: redirectUrl() } });
+    const { error } = await supabaseClient()!.auth.signInWithOtp({ email, options: { emailRedirectTo: redirectUrl() } });
     if (error) {
       setError(error.message);
       setStatus("idle");
@@ -65,7 +65,7 @@ function SignIn() {
         <>
           <button
             className={`${primary} w-full`}
-            onClick={() => supabase!.auth.signInWithOAuth({ provider: "discord", options: { redirectTo: redirectUrl() } })}
+            onClick={() => supabaseClient()!.auth.signInWithOAuth({ provider: "discord", options: { redirectTo: redirectUrl() } })}
           >
             Sign in with Discord
           </button>
@@ -131,7 +131,7 @@ function Profile({ userId, email }: { userId: string; email?: string }) {
   const [confirmDelete, setConfirmDelete] = useState(false);
 
   useEffect(() => {
-    supabase!
+    supabaseClient()!
       .from("profiles")
       .select("display_name, server, main_character")
       .eq("id", userId)
@@ -141,7 +141,7 @@ function Profile({ userId, email }: { userId: string; email?: string }) {
 
   async function save(e: React.FormEvent) {
     e.preventDefault();
-    const { error } = await supabase!.from("profiles").upsert({ id: userId, ...profile, updated_at: new Date().toISOString() });
+    const { error } = await supabaseClient()!.from("profiles").upsert({ id: userId, ...profile, updated_at: new Date().toISOString() });
     setSaved(error ? `Couldn't save: ${error.message}` : "Saved");
   }
 
@@ -155,9 +155,9 @@ function Profile({ userId, email }: { userId: string; email?: string }) {
   }
 
   async function deleteAccount() {
-    const { error } = await supabase!.rpc("delete_my_account");
+    const { error } = await supabaseClient()!.rpc("delete_my_account");
     if (error) return setSaved(`Couldn't delete: ${error.message}`);
-    await supabase!.auth.signOut();
+    await supabaseClient()!.auth.signOut();
   }
 
   const field = (key: keyof ProfileRow, label: string, placeholder: string) => (
@@ -195,7 +195,7 @@ function Profile({ userId, email }: { userId: string; email?: string }) {
         <h2 className="font-semibold">Your data</h2>
         <p className="text-sm text-muted">Your daily and weekly checklist, timer alert settings and saved builds are saved to your account and follow you to any device you sign in on.</p>
         <div className="flex flex-wrap gap-3">
-          <button className={button} onClick={() => supabase!.auth.signOut()}>
+          <button className={button} onClick={() => supabaseClient()!.auth.signOut()}>
             Sign out
           </button>
           <button className={button} onClick={exportData}>

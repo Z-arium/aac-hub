@@ -90,7 +90,7 @@ ArcheAge Classic has no public auction house feed, so prices come from players r
 - [ ] Check in game the checklist dailies marked "not confirmed" in the Gilda Stars guide: Farmhouse quests; Tradesman's, Apothecary's and Armorer's Manor quests; Workstation cooking quests; the "50K proficiency" Gilda quests; the login reward path; the Ahnimar "watering the Darus" daily (not found in game on 2026-10-28, so it's off the checklist until confirmed)
 - [x] Design pass: mobile menu, active nav, home intro, footer links, card styles
 - [x] Site-wide search (Ctrl+K or /) across pages, tools, guides, timers and wiki titles
-- [ ] Full pass for broken links, mobile layout and page speed
+- [x] Full pass for broken links, mobile layout and page speed
 - [ ] Move Supabase to a plan that doesn't pause, if traffic needs it
 
 ## Launch 1.0
