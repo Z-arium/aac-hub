@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import AccountLink from "./AccountLink";
+import SearchPalette from "./SearchPalette";
 
 export const NAV = [
   { href: "/guides", label: "Guides" },
@@ -47,6 +48,7 @@ export default function SiteHeader() {
           ))}
         </nav>
         <div className="ml-auto flex items-center gap-2">
+          <SearchPalette />
           <AccountLink />
           <button
             onClick={() => setOpen(!open)}
