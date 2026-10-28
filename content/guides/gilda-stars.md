@@ -160,14 +160,3 @@ Five quests, **1 Gilda Star each**. Take them from the **Blue Salt Wanderer** an
 5. **Guerilla Marketing:** the same as in the east.
 
 Hand each one in where you took it.
-
-## Ahnimar: watering the Darus
-
-A custom daily in **Ahnimar** worth **1 Gilda Star**.
-
-1. Fly or ride to the **Ahnimar Community Center**.
-2. Take the watering quest from the Daru there.
-3. Water what the quest marks on your map.
-4. Turn it in at the Community Center.
-
-_These steps haven't been confirmed in game yet. If something is different, let us know._

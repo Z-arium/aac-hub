@@ -90,7 +90,7 @@ ArcheAge Classic has no public auction house API, so unlike garmoth's market the
 - Full pass for broken links, mobile layout and page load speed
 - Move Supabase to a plan that does not pause, if traffic needs it
 - Connect an email service for sign-in links (see phase 2)
-- Checklist guides: confirm in game how these dailies work, then update the steps in the Gilda Stars guide (each is marked "not confirmed" there): Farmhouse quests; Tradesman's, Apothecary's and Armorer's Manor quests; Workstation cooking quests; the "50K proficiency" Gilda quests for Mining, Gathering, Farming and Husbandry (remove them if they don't exist); the login reward path (Daily Schedule, Login Tracker)
+- Checklist guides: confirm in game how these dailies work, then update the steps in the Gilda Stars guide (each is marked "not confirmed" there): Farmhouse quests; Tradesman's, Apothecary's and Armorer's Manor quests; Workstation cooking quests; the "50K proficiency" Gilda quests for Mining, Gathering, Farming and Husbandry (remove them if they don't exist); the login reward path (Daily Schedule, Login Tracker); the Ahnimar "watering the Darus" Gilda daily (wiki lists it, but Jacob found no quest at the Ahnimar Community Center on 2026-10-28, so it is off the checklist until confirmed)
 
 ## 1.0 launch
 
