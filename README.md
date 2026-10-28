@@ -8,7 +8,9 @@ An all-in-one site for [ArcheAge Classic](https://aa-classic.com), in the spirit
 | --- | --- | --- |
 | Home | `/` | Featured guides, upcoming timers, latest videos, tools |
 | Guides | `/guides` | Markdown files in `content/guides` |
-| Wiki | `/wiki` | The whole AAClassic wiki, imported into `content/wiki`, with categories and search |
+| Wiki | `/wiki` | A complete mirror of the AAClassic wiki: every page, redirect and image, with categories and search |
+| Wiki files | `/wiki/files` | Every uploaded image, searchable, with the pages that use it |
+| Wiki coverage | `/wiki/coverage` | Proof the mirror matches the wiki |
 | Timers | `/timers` | Live countdowns, browser alerts, per-event mute |
 | Regrade calculator | `/tools/regrade` | Wiki rates, expected attempts and cost, simulator |
 | Daily & weekly checklist | `/tools/checklist` | Saved in the browser, clears at reset |
@@ -40,7 +42,7 @@ Game data lives in `src/data` and comes from the [AAClassic wiki](https://wiki.a
 
 ## Wiki import
 
-`/wiki` is a cleaned-up, searchable copy of every article on the [AAClassic wiki](https://wiki.aa-classic.com) (CC0). Each page links back to its source.
+`/wiki` is a complete, cleaned-up, searchable mirror of the [AAClassic wiki](https://wiki.aa-classic.com) (CC0): every page in every namespace (articles, templates, Lua modules, user and settings pages), every redirect, and every uploaded file. Each page links back to its source.
 
 ```bash
 npm run wiki:import            # only downloads pages edited since the last run
@@ -49,9 +51,12 @@ npm run wiki:import -- --force # re-download everything
 
 The importer (`scripts/wiki-import`) uses the MediaWiki API, waits 750 ms between requests (`WIKI_DELAY_MS` to change it) and writes:
 
-- `content/wiki/index.json`: every page's title, category, summary and last edit, plus redirects
-- `content/wiki/pages/<slug>.json`: cleaned HTML, headings, every table as rows of text, and the source link
+- `content/wiki/index.json`: every page's title, namespace, category, summary and last edit, plus redirects
+- `content/wiki/pages/<slug>.json`: cleaned HTML, wikitext, headings, every table as rows of text, and the source link
+- `content/wiki/files.json` and `public/wiki-files/`: every uploaded file, stored once per distinct file under its sha1 (`public/wiki-files/ab/abcd….png`) and checked against the wiki's checksum
 - `public/wiki-search.json`: the text index the search box loads
+
+`npm run wiki:coverage` asks the wiki for its full page, redirect and file lists, compares them with the mirror, re-hashes every stored file, and writes `content/wiki/coverage.json` (shown at `/wiki/coverage`). It exits with an error if anything is missing.
 
 The wiki has no categories of its own, so `scripts/wiki-import/categories.mjs` sorts pages by title. Add a rule there when a new page lands in "General".
 

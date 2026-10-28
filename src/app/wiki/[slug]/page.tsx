@@ -1,10 +1,20 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { notFound, permanentRedirect } from "next/navigation";
-import { categorySlug, formatWikiDate, getWikiPage, getWikiPages, getWikiRedirect } from "@/lib/wiki";
+import { notFound } from "next/navigation";
+import {
+  categorySlug,
+  formatWikiDate,
+  getWikiIndex,
+  getWikiPage,
+  getWikiPages,
+  getWikiRedirect,
+  withBasePath,
+} from "@/lib/wiki";
+import RedirectTo from "../RedirectTo";
 
 export function generateStaticParams() {
-  return getWikiPages().map((p) => ({ slug: p.slug }));
+  // Redirected titles get a page too, so old links keep working on a static host.
+  return [...getWikiPages().map((p) => p.slug), ...Object.keys(getWikiIndex().redirects)].map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -16,13 +26,22 @@ export default async function WikiArticle({ params }: { params: Promise<{ slug: 
   const { slug } = await params;
   const page = getWikiPage(slug);
   if (!page) {
-    const target = getWikiRedirect(slug);
-    if (target) permanentRedirect(`/wiki/${target}`);
-    notFound();
+    const redirect = getWikiRedirect(slug);
+    if (!redirect) notFound();
+    const target = getWikiPages().find((p) => p.slug === redirect.to);
+    const href = `/wiki/${redirect.to}${redirect.fragment ? `#${redirect.fragment.replace(/ /g, "_")}` : ""}`;
+    return (
+      <div className="mx-auto max-w-xl py-16 text-center">
+        <RedirectTo href={href} />
+        <p className="text-muted">“{redirect.from}” redirects to</p>
+        <Link href={href} className="mt-2 inline-block text-2xl font-bold text-accent hover:underline">
+          {target?.title ?? redirect.to}
+        </Link>
+      </div>
+    );
   }
   const toc = page.headings.filter((h) => h.level <= 3);
-  // Links inside the imported HTML skip next/link, so add the base path by hand.
-  const html = page.html.replaceAll('href="/wiki/', `href="${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/wiki/`);
+  const isSource = page.model !== "wikitext";
 
   return (
     <div className="grid gap-8 lg:grid-cols-[1fr_16rem]">
@@ -36,8 +55,16 @@ export default async function WikiArticle({ params }: { params: Promise<{ slug: 
             {page.category}
           </Link>
         </nav>
-        <h1 className="mt-3 text-3xl font-bold">{page.title}</h1>
-        <div className="prose-guide prose-wiki mt-6" dangerouslySetInnerHTML={{ __html: html }} />
+        <h1 className="mt-3 text-3xl font-bold break-words">{page.title}</h1>
+        {isSource && <p className="mt-2 text-sm text-muted">Source code ({page.model}) as stored on the wiki.</p>}
+        <div className="prose-guide prose-wiki mt-6" dangerouslySetInnerHTML={{ __html: withBasePath(page.html) }} />
+        {!page.html.trim() && <p className="mt-6 text-muted">This page is empty on the wiki.</p>}
+        {!isSource && page.wikitext && (
+          <details className="mt-10 rounded-lg border border-line bg-panel">
+            <summary className="cursor-pointer px-4 py-2 text-sm text-muted hover:text-text">View wiki source</summary>
+            <pre className="max-h-[32rem] overflow-auto border-t border-line px-4 py-3 text-xs whitespace-pre-wrap">{page.wikitext}</pre>
+          </details>
+        )}
         <footer className="mt-10 border-t border-line pt-4 text-sm text-muted">
           <p>
             From the{" "}
