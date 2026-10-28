@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "source": "https://wiki.aa-classic.com",
  "license": "CC0 1.0",
  "pages": [
@@ -218,10 +218,10 @@
    "ns": 0,
    "category": "World Bosses",
    "internal": false,
-   "summary": "Respawn time: After every <a href=\"/Daily_activities\" class=\"mw-redirect\" title=\"Daily activities\">Crimson Rift</a> in Sungold Fields Skills Tips Shadow Dart Crippling Mire Festival of the Dead Anthalon spawns mobs that…",
+   "summary": "Respawn time: After every <a href=\"/wiki/world-events\">Crimson Rift</a> in Sungold Fields Skills Tips Shadow Dart Crippling Mire Festival of the Dead Anthalon spawns mobs that stun the players. Kill ASAP. Absorb Mind Is…",
    "updated": "2025-04-18T12:05:58Z",
    "source": "https://wiki.aa-classic.com/Anthalon",
-   "words": 92
+   "words": 89
   },
   {
    "slug": "aquestria-questline",
@@ -3620,7 +3620,7 @@
    "summary": "A Page dedicated to Wiki Editors Sheoix made alot of new Templates and Tables for us to use and this is a quick explanation of all new functions to it. How to add Mounts To add a mount you can simply use Insert >…",
    "updated": "2026-10-25T03:59:42Z",
    "source": "https://wiki.aa-classic.com/Template_example",
-   "words": 1468
+   "words": 1377
   },
   {
    "slug": "template-coins",
@@ -4046,10 +4046,10 @@
    "ns": 10,
    "category": "Templates",
    "internal": true,
-   "summary": "⚠️ <span style=\"font-size:18px;\">Notice!</span><br />This content has a video summary, <a href=\"#\" target=\"_blank\" style=\"text-decoration: underline;\">click here</a> to",
+   "summary": "⚠️ <span>Notice!</span><br>This content has a video summary, <a href=\"#\" target=\"_blank\" style=\"text-decoration: underline;\">click here</a> to",
    "updated": "2025-03-31T10:58:44Z",
    "source": "https://wiki.aa-classic.com/Template:VideoGuide",
-   "words": 17
+   "words": 15
   },
   {
    "slug": "test-page",
@@ -4368,6 +4368,10 @@
    "to": "obsidian-gear",
    "from": "Obsidian Weapons"
   },
+  "costumes": {
+   "to": "cosmetic-costumes-imaging",
+   "from": "Costumes"
+  },
   "costumes-vanity": {
    "to": "cosmetic-costumes-imaging",
    "from": "Costumes (Vanity)"
@@ -4411,6 +4415,10 @@
   "cometfall": {
    "to": "starfall",
    "from": "Cometfall"
+  },
+  "rum-runners": {
+   "to": "rum-runner-rapids",
+   "from": "Rum Runners"
   },
   "rum-runner": {
    "to": "rum-runner-rapids",

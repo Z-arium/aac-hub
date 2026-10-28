@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-28T14:32:09.489Z",
+ "checked": "2026-10-28T15:17:34.257Z",
  "source": "https://wiki.aa-classic.com",
  "statistics": {
   "pages": 60892,
@@ -18,12 +18,9 @@
    "wikiPages": 249,
    "wikiRedirects": 25,
    "missing": [],
-   "missingRedirects": [
-    "Costumes",
-    "Rum Runners"
-   ],
+   "missingRedirects": [],
    "mirrored": 249,
-   "redirectsMirrored": 23
+   "redirectsMirrored": 25
   },
   {
    "id": 2,
@@ -92,10 +89,7 @@
   "distinctOnDisk": 22167,
   "megabytes": 240.3
  },
- "problems": [
-  "Redirect not mirrored: Costumes",
-  "Redirect not mirrored: Rum Runners"
- ],
+ "problems": [],
  "notes": [
   "3 images are used on pages but were never uploaded to the wiki, so they are broken there too (listed under brokenOnWiki).",
   "The wiki's statistics say 60892 pages; listing every namespace gives 60893. MediaWiki keeps that statistic as a running counter that drifts from the real count, so the listing is what we compare against.",
@@ -116,8 +110,8 @@
   "wikiPagesAllNamespaces": 60893,
   "statisticsPages": 60892,
   "mirroredPages": 391,
-  "mirroredRedirects": 23,
+  "mirroredRedirects": 25,
   "mirroredFiles": 60477
  },
- "complete": false
+ "complete": true
 }
