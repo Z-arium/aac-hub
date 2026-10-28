@@ -10,7 +10,7 @@ export const TOOLS: Tool[] = [
   { href: "/tools/class-builder", name: "Class builder", blurb: "Pick three skill trees to see your class name and key skills. Share builds by link.", icon: "🧙" },
   { href: "/tools/halcyona-necklace", name: "Halcyona Necklace planner", blurb: "Warrior Medals and Mana Wisps from your current rank to your goal.", icon: "📿" },
   { href: "/tools/regrade", name: "Regrade calculator", blurb: "Odds and expected scrolls to reach any grade, plus a simulator.", icon: "✨" },
-  { href: "/tools/checklist", name: "Daily & weekly checklist", blurb: "Track Rifts, Activity Token quests and dailies. Resets on its own.", icon: "✅" },
+  { href: "/tools/checklist", name: "Daily & weekly checklist", blurb: "Every daily and weekly, grouped by category. Pick what you see. Resets on its own.", icon: "✅" },
   { href: "/tools/labor", name: "Labor calculator", blurb: "When your labor will be full, and how much you'll have at a set time.", icon: "⚒️" },
   { href: "/tools/trade-packs", name: "Trade pack calculator", blurb: "Profit per pack and per labor after turn-in percentage and material cost.", icon: "📦" },
 ];
