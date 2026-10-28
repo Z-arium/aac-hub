@@ -8,6 +8,7 @@ const NAV = [
   { href: "/tools", label: "Tools" },
   { href: "/database", label: "Database" },
   { href: "/videos", label: "Videos" },
+  { href: "/roadmap", label: "Roadmap" },
 ];
 
 export default function SiteHeader() {
