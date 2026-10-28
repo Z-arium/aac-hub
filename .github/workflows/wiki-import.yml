@@ -21,9 +21,10 @@ permissions:
   contents: write
   pull-requests: write
 
+# A newer push makes an older run's import stale, so cancel it.
 concurrency:
   group: wiki-import-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 
 jobs:
   import:
@@ -48,6 +49,7 @@ jobs:
           git add content/wiki public/wiki-search.json
           if git diff --cached --quiet; then echo "No wiki changes."; exit 0; fi
           git commit -m "Import AAClassic wiki ($(date -u +%F))"
+          git pull --rebase -X theirs origin "${GITHUB_REF_NAME}"
           git push
 
       - name: Open refresh pull request
