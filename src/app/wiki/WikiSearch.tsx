@@ -74,7 +74,7 @@ export default function WikiSearch({ autoFocus = false }: { autoFocus?: boolean 
 
   useEffect(() => {
     if (!query || index) return;
-    fetch("/wiki-search.json")
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/wiki-search.json`)
       .then((r) => r.json())
       .then(setIndex)
       .catch(() => setIndex([]));

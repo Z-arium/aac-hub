@@ -21,6 +21,8 @@ export default async function WikiArticle({ params }: { params: Promise<{ slug: 
     notFound();
   }
   const toc = page.headings.filter((h) => h.level <= 3);
+  // Links inside the imported HTML skip next/link, so add the base path by hand.
+  const html = page.html.replaceAll('href="/wiki/', `href="${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/wiki/`);
 
   return (
     <div className="grid gap-8 lg:grid-cols-[1fr_16rem]">
@@ -35,7 +37,7 @@ export default async function WikiArticle({ params }: { params: Promise<{ slug: 
           </Link>
         </nav>
         <h1 className="mt-3 text-3xl font-bold">{page.title}</h1>
-        <div className="prose-guide prose-wiki mt-6" dangerouslySetInnerHTML={{ __html: page.html }} />
+        <div className="prose-guide prose-wiki mt-6" dangerouslySetInnerHTML={{ __html: html }} />
         <footer className="mt-10 border-t border-line pt-4 text-sm text-muted">
           <p>
             From the{" "}
