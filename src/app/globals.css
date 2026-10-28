@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #0e1117;
+  --panel: #161b24;
+  --panel-2: #1d2430;
+  --border: #283142;
+  --text: #e6e9ef;
+  --muted: #9aa4b5;
+  --accent: #e6b450;
+  --accent-2: #4fb3a9;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-panel: var(--panel);
+  --color-panel-2: var(--panel-2);
+  --color-line: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.prose-guide h2 { font-size: 1.35rem; font-weight: 700; margin: 2rem 0 0.75rem; color: var(--accent); }
+.prose-guide h3 { font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 0.5rem; }
+.prose-guide p { margin: 0.75rem 0; line-height: 1.7; }
+.prose-guide ul, .prose-guide ol { margin: 0.75rem 0 0.75rem 1.5rem; list-style: disc; }
+.prose-guide li { margin: 0.25rem 0; }
+.prose-guide a { color: var(--accent-2); text-decoration: underline; }
+.prose-guide blockquote { border-left: 3px solid var(--accent); padding: 0.5rem 1rem; background: var(--panel-2); margin: 1rem 0; color: var(--muted); }
+.prose-guide table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; display: block; overflow-x: auto; }
+.prose-guide th, .prose-guide td { border: 1px solid var(--border); padding: 0.5rem 0.75rem; text-align: left; }
+.prose-guide th { background: var(--panel-2); }
