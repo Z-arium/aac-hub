@@ -9,6 +9,7 @@ Items marked **(must-have)** are Jacob's 1.0 requirements. Items marked **(sugge
 The site as it stood when the roadmap was written, plus the groundwork everything else builds on.
 
 - [x] Live timers for world bosses and events, with browser alerts
+- [x] Crimson and Grimgast Rift countdowns on the in-game clock
 - [x] Calculators: regrade (with Resplendent scrolls), labor, trade packs, Halcyona necklace planner
 - [x] Database pages: world bosses, festivals, gliders, ships, currencies, races
 - [x] Full mirror of the AAClassic wiki: every page, redirect and image, searchable, refreshed weekly
@@ -84,6 +85,7 @@ ArcheAge Classic has no public auction house feed, so prices come from players r
 - [x] Video source decided: Community picks added through a GitHub form, and Recent uploads from creator channels every 6 hours (plus a YouTube-wide search once an API key is added)
 - [ ] Find the regrade break and downgrade odds above Celestial (players enter them for now)
 - [ ] Re-run the wiki import and spot-check boss and event times against the official timers page
+- [ ] Check the rift countdowns against the in-game clock (anchored to one reading on 2026-10-28)
 - [ ] Check in game the checklist dailies marked "not confirmed" in the Gilda Stars guide: Farmhouse quests; Tradesman's, Apothecary's and Armorer's Manor quests; Workstation cooking quests; the "50K proficiency" Gilda quests; the login reward path; the Ahnimar "watering the Darus" daily (not found in game on 2026-10-28, so it's off the checklist until confirmed)
 - [ ] Full pass for broken links, mobile layout and page speed
 - [ ] Move Supabase to a plan that doesn't pause, if traffic needs it
