@@ -16,6 +16,17 @@ Prestige is the guild currency. You earn it from guild missions and spend it in 
 | Gather Experia patches | 10 | 0 |
 | Kill a world boss | 10 | 40 |
 
+## Start your guild missions
+
+Do this at the start of your day, so each mission counts as you play.
+
+1. Join a guild if you aren't in one. Ask in faction chat, or look on the AAClassic Discord.
+2. Open **Community**, then **Guild**, and find the guild missions.
+3. Accept the daily missions: Colonizing Auroria, Defending Auroria, Gather Experia Patches and World Bosses.
+4. Work through them using the sections below. Each one pays out when its task is done.
+
+_The menu path in step 2 hasn't been confirmed in game yet. If it's different, let us know._
+
 ## Colonizing Auroria
 
 Do **one** of the 5 building quests in your faction's base in **Diamond Shores**. They also count for the bridge and wall Gilda Stars.
