@@ -63,7 +63,7 @@ export const CATEGORIES: ChecklistCategory[] = [
 const DAILY: TaskData[] = [
   // Daily routine
   { id: "login", category: "routine", label: "Log in and claim your login reward", note: "Daily Schedule (bottom right), Login Tracker tab", wiki: "user-interface", guide: "daily-routine#log-in-and-claim-your-login-reward" },
-  { id: "guild-start", category: "routine", label: "Start your guild missions", note: "Prestige and guild XP. Needs a guild", wiki: "prestige", guide: "guild-missions#start-your-guild-missions" },
+  { id: "guild-start", category: "routine", label: "Start your guild missions", note: "Press Shift+T and accept them. Prestige and guild XP. Needs a guild", wiki: "prestige", guide: "guild-missions#start-your-guild-missions" },
 
   // Rifts & PvE
   { id: "cr", category: "rifts", label: "Crimson Rift", note: "Recruiter at the rift. 3 waves (Crimson Omens): 1,000 Honor and 10 Leadership", gilda: 3, wiki: "world-events", guide: "daily-world-events#crimson-rift" },
