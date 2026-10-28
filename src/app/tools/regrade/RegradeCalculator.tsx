@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { GRADES, GRADE_COLORS, RATES, RISK_FROM, type Difficulty } from "@/data/regrade";
+import { GRADES, GRADE_COLORS, RATES, RESPLENDENT_BONUS, RISK_FROM, type Difficulty } from "@/data/regrade";
 
 const DIFFICULTIES: { id: Difficulty; label: string; hint: string }[] = [
   { id: "easy", label: "Easy", hint: "Dungeon drops" },
@@ -16,8 +16,19 @@ interface SimResult {
   breakChance: number;
 }
 
-/** Monte Carlo run from `from` to `to`. Fail above Celestial can break or drop one grade. */
-function simulate(rates: number[], from: number, to: number, breakPct: number, downPct: number, runs = 20000): SimResult {
+/**
+ * Monte Carlo run from `from` to `to`. Fail above Celestial can break or drop one grade.
+ * With Resplendent scrolls a success has a RESPLENDENT_BONUS% chance to go up two grades.
+ */
+function simulate(
+  rates: number[],
+  from: number,
+  to: number,
+  breakPct: number,
+  downPct: number,
+  resplendent: boolean,
+  runs = 20000,
+): SimResult {
   const scrolls: number[] = [];
   let broken = 0;
   for (let r = 0; r < runs; r++) {
@@ -26,7 +37,7 @@ function simulate(rates: number[], from: number, to: number, breakPct: number, d
     while (g < to && n < 100000) {
       n++;
       if (Math.random() * 100 < rates[g]) {
-        g++;
+        g += resplendent && Math.random() * 100 < RESPLENDENT_BONUS ? 2 : 1;
       } else if (g >= RISK_FROM) {
         const roll = Math.random() * 100;
         if (roll < breakPct) {
@@ -74,18 +85,21 @@ export default function RegradeCalculator() {
   const [breakPct, setBreakPct] = useState(0);
   const [downPct, setDownPct] = useState(0);
   const [seed, setSeed] = useState(0);
+  const [resplendentPicked, setResplendent] = useState(false);
   const [log, setLog] = useState<string[]>([]);
   const [current, setCurrent] = useState<number | null>(null);
 
   const rates = RATES[difficulty];
+  // The wiki has no Resplendent table for ships and pets.
+  const resplendent = resplendentPicked && difficulty !== "shipPet";
   const target = Math.max(to, from + 1);
   const steps = rates.slice(from, target).map((p, i) => ({ from: from + i, p }));
   const straight = steps.reduce((acc, s) => acc * (s.p / 100), 1) * 100;
   const sim = useMemo(
-    () => simulate(rates, from, target, breakPct, downPct),
+    () => simulate(rates, from, target, breakPct, downPct, resplendent),
     // seed lets the user re-run the simulation
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [rates, from, target, breakPct, downPct, seed],
+    [rates, from, target, breakPct, downPct, resplendent, seed],
   );
 
   function rollOnce() {
@@ -95,8 +109,9 @@ export default function RegradeCalculator() {
     let next = g;
     let msg: string;
     if (ok) {
-      next = g + 1;
-      msg = `Success: ${GRADES[g]} → ${GRADES[next]}`;
+      const jump = resplendent && g + 2 < GRADES.length && Math.random() * 100 < RESPLENDENT_BONUS;
+      next = g + (jump ? 2 : 1);
+      msg = `${jump ? "Great success" : "Success"}: ${GRADES[g]} → ${GRADES[next]}`;
     } else if (g >= RISK_FROM) {
       const roll = Math.random() * 100;
       if (roll < breakPct) {
@@ -141,6 +156,22 @@ export default function RegradeCalculator() {
             <GradeSelect value={target} onChange={setTo} min={from + 1} max={GRADES.length - 1} />
           </label>
         </div>
+        <label className={`flex items-start gap-3 text-sm ${difficulty === "shipPet" ? "opacity-40" : ""}`}>
+          <input
+            type="checkbox"
+            className="mt-1 h-4 w-4 accent-[var(--accent)]"
+            checked={resplendent}
+            disabled={difficulty === "shipPet"}
+            onChange={(e) => setResplendent(e.target.checked)}
+          />
+          <span>
+            Use Resplendent scrolls
+            <span className="block text-xs text-muted">
+              Same success chance, plus a {RESPLENDENT_BONUS}% chance on success to go up two grades.
+              {difficulty === "shipPet" && " Not available for ships and pets."}
+            </span>
+          </span>
+        </label>
         <label className="block text-sm text-muted">
           Cost per attempt (gold, scroll + charm)
           <input
@@ -172,7 +203,11 @@ export default function RegradeCalculator() {
       <div className="space-y-4 lg:col-span-2">
         <div className="grid gap-3 sm:grid-cols-3">
           <Stat label="Chance with no failures" value={`${straight < 0.01 ? straight.toExponential(2) : straight.toFixed(2)}%`} />
-          <Stat label="Average attempts" value={sim.avgScrolls.toFixed(1)} sub={`Median ${sim.medianScrolls}`} />
+          <Stat
+            label="Average attempts"
+            value={sim.avgScrolls.toFixed(1)}
+            sub={`Median ${sim.medianScrolls}${resplendent ? ", with Resplendent scrolls" : ""}`}
+          />
           <Stat
             label="Average cost"
             value={scrollCost ? `${Math.round(sim.avgScrolls * scrollCost).toLocaleString()}g` : "-"}
@@ -187,6 +222,7 @@ export default function RegradeCalculator() {
                 <th className="px-4 py-2">Step</th>
                 <th className="px-4 py-2">Success</th>
                 <th className="px-4 py-2">Avg. attempts</th>
+                {resplendent && <th className="px-4 py-2">Two grades</th>}
                 <th className="px-4 py-2">On fail</th>
               </tr>
             </thead>
@@ -199,6 +235,11 @@ export default function RegradeCalculator() {
                   </td>
                   <td className="px-4 py-2 font-mono">{s.p}%</td>
                   <td className="px-4 py-2 font-mono">{(100 / s.p).toFixed(1)}</td>
+                  {resplendent && (
+                    <td className="px-4 py-2 font-mono">
+                      {s.from + 2 < GRADES.length ? `${+((s.p * RESPLENDENT_BONUS) / 100).toFixed(2)}%` : "-"}
+                    </td>
+                  )}
                   <td className="px-4 py-2 text-muted">{s.from >= RISK_FROM ? "Can break or downgrade" : "Stays the same"}</td>
                 </tr>
               ))}
@@ -226,7 +267,7 @@ export default function RegradeCalculator() {
           </div>
           <ul className="mt-3 space-y-1 font-mono text-xs text-muted">
             {log.map((l, i) => (
-              <li key={i} className={l.startsWith("Success") ? "text-emerald-300" : l.includes("broke") ? "text-red-400" : ""}>
+              <li key={i} className={l.startsWith("Great") ? "text-accent" : l.startsWith("Success") ? "text-emerald-300" : l.includes("broke") ? "text-red-400" : ""}>
                 {l}
               </li>
             ))}
