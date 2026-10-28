@@ -43,26 +43,16 @@ function unavailableReason(task: ChecklistTask, now: number | null) {
     if (today !== task.resetDay) return `${WEEKDAY_NAMES[task.resetDay]} pickup`;
   }
   const at = nextStart(task, now);
-  if (at && at >= nextDailyReset(now)) return `Next on ${new Date(at).toLocaleDateString(undefined, { weekday: "long" })}`;
+  // Daily events always come round within a day; only rarer ones sit out.
+  if (at && at - now > 86_400_000) return `Next on ${new Date(at).toLocaleDateString(undefined, { weekday: "long" })}`;
   return null;
 }
 
-const GROUPS = [
-  { id: "anytime", name: "Anytime" },
-  { id: "timed", name: "Timed, next up first" },
-  { id: "unavailable", name: "Not today" },
+const STEPS = [
+  { id: "start", name: "Start your day", blurb: "Pick these up from your UI, then do them whenever you like." },
+  { id: "timed", name: "Timed events", blurb: "Next up first." },
+  { id: "whenever", name: "Whenever you can", blurb: "" },
 ] as const;
-
-/** The tasks of one "Your day" group, in the order to do them. */
-function groupTasks(group: (typeof GROUPS)[number]["id"], tasks: ChecklistTask[], now: number | null, isDone: (t: ChecklistTask) => boolean) {
-  const off = (t: ChecklistTask) => !isDone(t) && unavailableReason(t, now) !== null;
-  if (group === "unavailable") return tasks.filter(off);
-  const open = tasks.filter((t) => !off(t));
-  if (group === "anytime") return open.filter((t) => t.phase === "start" || t.phase === "anytime");
-  // Scheduled events by start time (running ones first), then the rifts.
-  const scheduled = open.filter((t) => t.phase === "scheduled").sort((a, b) => (nextStart(a, now) ?? Infinity) - (nextStart(b, now) ?? Infinity));
-  return [...scheduled, ...open.filter((t) => t.phase === "rifts")];
-}
 
 function toggleIn(list: string[], id: string) {
   return list.includes(id) ? list.filter((x) => x !== id) : [...list, id];
@@ -98,7 +88,7 @@ function Hint({ task, now }: { task: ChecklistTask; now: number | null }) {
   if (reason) return <span className="text-xs text-red-400/80">{reason}</span>;
   const at = nextStart(task, now);
   if (!at || !now) return null;
-  return <span className="text-xs text-muted">{at <= now ? "up now" : `in ${formatCountdown(at - now)}`}</span>;
+  return <span className="text-xs tabular-nums text-accent-2">{at <= now ? "Up now" : `in ${formatCountdown(at - now)}`}</span>;
 }
 
 interface RowProps {
@@ -157,7 +147,7 @@ function Row({ task, now, done, onToggle, details, editing, pinned, hidden, onPi
 }
 
 export default function Checklist() {
-  const now = useNow(30_000);
+  const now = useNow(1_000);
   const { isDone, toggle } = useProgress(now);
   const [settings, setSettings] = useSynced<Settings>("aac-checklist", DEFAULT_SETTINGS);
   const [editing, setEditing] = useState(false);
@@ -166,11 +156,17 @@ export default function Checklist() {
 
   const update = (patch: Partial<Settings>) => setSettings({ pinned, hidden, hiddenCategories, ...patch });
   const shown = (t: ChecklistTask) => editing || !hidden.includes(t.id);
-  const main = TASKS.filter((t) => pinned.includes(t.id) && shown(t));
-  const mainActive = main.filter((t) => !hidden.includes(t.id));
-  const mainCount = mainActive.filter(isDone).length;
+  const listed = (t: ChecklistTask) => pinned.includes(t.id) || (!!t.events && !hiddenCategories.includes(t.category));
+  const off = (t: ChecklistTask) => !isDone(t) && unavailableReason(t, now) !== null;
+  const steps: Record<(typeof STEPS)[number]["id"], ChecklistTask[]> = {
+    start: TASKS.filter((t) => pinned.includes(t.id) && shown(t) && t.phase === "start"),
+    // Every timed event, soonest (or already running) first.
+    timed: TASKS.filter((t) => t.events && listed(t) && shown(t) && !off(t)).sort((a, b) => (nextStart(a, now) ?? Infinity) - (nextStart(b, now) ?? Infinity)),
+    whenever: TASKS.filter((t) => pinned.includes(t.id) && shown(t) && !t.events && t.phase !== "start" && !off(t)),
+  };
+  const notToday = TASKS.filter((t) => listed(t) && shown(t) && off(t));
   const extras = CATEGORIES.filter((c) => editing || !hiddenCategories.includes(c.id))
-    .map((c) => ({ ...c, tasks: TASKS.filter((t) => t.category === c.id && !pinned.includes(t.id) && shown(t)) }))
+    .map((c) => ({ ...c, tasks: TASKS.filter((t) => t.category === c.id && !pinned.includes(t.id) && !t.events && shown(t)) }))
     .filter((c) => c.tasks.length);
 
   const visibleDaily = TASKS.filter((t) => t.resetDay === undefined && !hidden.includes(t.id) && (pinned.includes(t.id) || !hiddenCategories.includes(t.category)));
@@ -222,7 +218,7 @@ export default function Checklist() {
       {editing && (
         <div className="rounded-xl border border-line p-4 text-sm">
           <p className="mb-3 text-muted">
-            Pick the categories you want to see. <b className="text-text">★ Main</b> moves a task into Your day and <b className="text-text">Hide</b> takes it off
+            Pick the categories you want to see. <b className="text-text">★ Main</b> moves a task into steps 1 to 3 and <b className="text-text">Hide</b> takes it off
             your list. Saved to your account when you are signed in.
           </p>
           <div className="flex flex-wrap gap-2">
@@ -246,32 +242,26 @@ export default function Checklist() {
         </div>
       )}
 
-      <section>
-        <h2 className="mb-2 flex items-baseline justify-between text-lg font-semibold">
-          Your day
-          <span className="text-sm font-normal text-muted">
-            {mainCount}/{mainActive.length}
-          </span>
-        </h2>
-        {main.length ? (
-          GROUPS.map((g) => {
-            const tasks = groupTasks(g.id, main, now, isDone);
-            if (!tasks.length) return null;
-            return (
-              <div key={g.id} className="mt-4">
-                <h3 className={`px-2 text-xs font-medium uppercase tracking-wide ${g.id === "unavailable" ? "text-red-400" : "text-muted"}`}>{g.name}</h3>
-                <ul className="mt-1">{tasks.map(row)}</ul>
-              </div>
-            );
-          })
-        ) : (
-          <p className="text-sm text-muted">Nothing here yet. Press Customize and star the tasks you never want to miss.</p>
-        )}
-      </section>
+      {STEPS.map((step, i) => {
+        const tasks = steps[step.id];
+        if (!tasks.length) return null;
+        return (
+          <section key={step.id}>
+            <h2 className="text-lg font-semibold">
+              <span className="text-accent">{i + 1}.</span> {step.name}
+            </h2>
+            {step.blurb && <p className="px-0 text-xs text-muted">{step.blurb}</p>}
+            <ul className="mt-2">{tasks.map(row)}</ul>
+          </section>
+        );
+      })}
 
       {extras.length > 0 && (
         <section>
-          <h2 className="mb-2 text-lg font-semibold">Extras</h2>
+          <h2 className="text-lg font-semibold">
+            <span className="text-accent">{STEPS.length + 1}.</span> Extras
+          </h2>
+          <p className="mb-2 text-xs text-muted">Gilda Stars, PvP, bosses and more. Tap a group to open it.</p>
           {extras.map((c) => {
             const active = c.tasks.filter((t) => !hidden.includes(t.id));
             return (
@@ -288,6 +278,15 @@ export default function Checklist() {
             );
           })}
         </section>
+      )}
+      {notToday.length > 0 && (
+        <details open={editing} className="group">
+          <summary className="flex cursor-pointer list-none items-center gap-2 px-2 py-3 text-sm text-red-400 hover:text-red-300 [&::-webkit-details-marker]:hidden">
+            <span className="transition-transform group-open:rotate-90">▸</span>
+            Not available today ({notToday.length})
+          </summary>
+          <ul>{notToday.map(row)}</ul>
+        </details>
       )}
     </div>
   );
