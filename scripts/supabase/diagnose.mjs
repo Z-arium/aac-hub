@@ -33,7 +33,7 @@ console.log("Users:", JSON.stringify(users));
 
 const since = new Date(Date.now() - 6 * 3600_000).toISOString();
 const sql = "select timestamp, event_message from auth_logs order by timestamp desc limit 40";
-const logs = await call("GET", `/analytics/endpoints/logs.all?sql=${encodeURIComponent(sql)}&iso_timestamp_start=${since}`);
+const logs = await call("GET", `/analytics/endpoints/logs?sql=${encodeURIComponent(sql)}&iso_timestamp_start=${since}`);
 for (const row of logs?.result ?? []) {
   let msg = row.event_message;
   try {

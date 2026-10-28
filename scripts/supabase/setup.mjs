@@ -36,9 +36,20 @@ for (const file of (await readdir(dir)).filter((f) => f.endsWith(".sql")).sort()
 // Sign-in settings ------------------------------------------------------------
 
 const site = SITE_URL ?? "https://z-arium.github.io/aac-hub/";
+// Sign-in emails carry a code as well as a link, so people can finish signing
+// in on the tab they started from even if the link opens somewhere else.
+const email = (intro) => `<h2>AA Classic Hub</h2>
+<p>${intro} Enter this code on the sign-in page:</p>
+<p style="font-size:28px;font-weight:bold;letter-spacing:4px">{{ .Token }}</p>
+<p>Or <a href="{{ .ConfirmationURL }}">click here to sign in</a>.</p>
+<p style="color:#888">If you didn't ask for this, you can ignore this email.</p>`;
 const auth = {
   site_url: site,
   uri_allow_list: [`${site.replace(/\/$/, "")}/**`, "http://localhost:3000/**"].join(","),
+  mailer_subjects_magic_link: "Your AA Classic Hub sign-in code",
+  mailer_templates_magic_link_content: email("Here's your sign-in code."),
+  mailer_subjects_confirmation: "Your AA Classic Hub sign-in code",
+  mailer_templates_confirmation_content: email("Welcome! Here's the code to finish creating your account."),
 };
 if (DISCORD_CLIENT_ID && DISCORD_CLIENT_SECRET) {
   Object.assign(auth, {
