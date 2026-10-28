@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { CATEGORY_LABEL, CATEGORY_STYLE, useNow } from "@/components/UpcomingTimers";
 import { RIFTS, WEEKDAY_NAMES, WEEKLY_TOKEN_EVENTS, type Category } from "@/data/schedule";
+import { useSynced } from "@/lib/sync";
 import { formatCountdown, formatLocal, formatServerClock, formatSlot, nextDailyReset, upcoming } from "@/lib/time";
 
 const FILTERS: { id: Category | "all"; label: string }[] = [
@@ -21,28 +22,13 @@ interface AlertSettings {
   muted: string[];
 }
 
-function loadSettings(): AlertSettings {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (raw) return JSON.parse(raw);
-  } catch {}
-  return { enabled: false, minutesBefore: 10, muted: [] };
-}
+const DEFAULT_SETTINGS: AlertSettings = { enabled: false, minutesBefore: 10, muted: [] };
 
 export default function TimerBoard() {
   const now = useNow();
   const [filter, setFilter] = useState<Category | "all">("all");
-  const [settings, setSettings] = useState<AlertSettings>({ enabled: false, minutesBefore: 10, muted: [] });
+  const [settings, save] = useSynced<AlertSettings>(STORAGE_KEY, DEFAULT_SETTINGS);
   const fired = useRef(new Set<string>());
-
-  useEffect(() => setSettings(loadSettings()), []);
-
-  function save(next: AlertSettings) {
-    setSettings(next);
-    try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
-    } catch {}
-  }
 
   async function toggleAlerts() {
     if (!settings.enabled && "Notification" in window && Notification.permission !== "granted") {

@@ -1,8 +1,8 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { useNow } from "@/components/UpcomingTimers";
 import { dailyResetKey, nextDailyReset } from "@/lib/time";
+import { useSynced } from "@/lib/sync";
 import { WEEKDAY_NAMES, WEEKLY_TOKEN_EVENTS } from "@/data/schedule";
 
 interface Task {
@@ -41,22 +41,10 @@ function weeklyKey(now: number, resetDay: number) {
 }
 
 function useStoredSet(key: string | null) {
-  const [done, setDone] = useState<string[]>([]);
-  useEffect(() => {
-    if (!key) return;
-    try {
-      setDone(JSON.parse(localStorage.getItem(key) ?? "[]"));
-    } catch {
-      setDone([]);
-    }
-  }, [key]);
+  const [done, setDone] = useSynced<string[]>(key, []);
   function toggle(id: string) {
     if (!key) return;
-    const next = done.includes(id) ? done.filter((d) => d !== id) : [...done, id];
-    setDone(next);
-    try {
-      localStorage.setItem(key, JSON.stringify(next));
-    } catch {}
+    setDone(done.includes(id) ? done.filter((d) => d !== id) : [...done, id]);
   }
   return [done, toggle] as const;
 }

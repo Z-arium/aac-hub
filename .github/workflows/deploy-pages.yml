@@ -35,6 +35,10 @@ jobs:
         env:
           STATIC_EXPORT: "1"
           NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+          # The publishable key is meant to ship to browsers; row-level security protects the data.
+          NEXT_PUBLIC_SUPABASE_URL: https://dtbkmcesdiwueqhpsyzh.supabase.co
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: sb_publishable_HO9tqFsz7raCIrLLk9KwHw_2uVfaQHr
+          NEXT_PUBLIC_AUTH_DISCORD: ${{ secrets.DISCORD_CLIENT_ID != '' && '1' || '' }}
       # Without this, Pages runs Jekyll and drops the _next folder.
       - run: touch out/.nojekyll
       - uses: peaceiris/actions-gh-pages@v4
