@@ -97,7 +97,7 @@ Coin purses and crates drop from mobs. Prince's Crates drop in every Auroria zon
 
 ## Free gold from things you already do
 
-The wiki lists selling Gilda Stars, Honor Points, Prestige, Loyalty and Merit Badges as labor-free gold. On Classic most Honor and Prestige items are tradeable, so other players buy them. If you do your [dailies](/tools/checklist), sell what you don't need.
+The wiki lists selling Gilda Stars, Honor Points, Prestige, Loyalty and Merit Badges as labor-free gold. On Classic most Honor and Prestige items are tradeable, so other players buy them. If you do your [dailies](/tools/checklist), sell what you don't need. To earn more of them, see [How to earn lots of Vocation and Honor](/guides/vocation-and-honor).
 
 ## Which life skill to level now
 
