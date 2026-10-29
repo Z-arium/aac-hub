@@ -26,6 +26,7 @@ Released 2026-10-28.
 - [x] Crimson and Grimgast Rift countdowns on the in-game clock
 - [x] Videos page: hand-picked community picks and auto-refreshed ArcheAge Classic uploads
 - [x] **(must-have)** Beginner's money guide: ranked gold methods and the best life skill to level
+- [x] Guide to earning Vocation Badges and Honor Points, ranked by source
 - [x] Design pass: mobile menu, active nav, home intro, footer links, card styles
 - [x] Site-wide search (Ctrl+K or /) across pages, tools, guides, timers and wiki titles
 - [x] Broken links, mobile layout and page speed pass
