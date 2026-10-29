@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { DATABASE, TOOLS } from "@/data/tools";
+import { getSiteVersion } from "@/lib/roadmap";
 
 const COLUMNS = [
   {
@@ -9,7 +10,9 @@ const COLUMNS = [
       { href: "/timers", label: "Timers" },
       { href: "/wiki", label: "Wiki" },
       { href: "/videos", label: "Videos" },
+      { href: "/hub", label: "My hub" },
       { href: "/roadmap", label: "Roadmap" },
+      { href: "/privacy", label: "Privacy" },
     ],
   },
   { title: "Tools", links: TOOLS.filter((t) => t.href !== "/timers").map((t) => ({ href: t.href, label: t.name })) },
@@ -37,6 +40,11 @@ export default function SiteFooter() {
               timers page
             </a>
             . Event times use server time (US Eastern).
+          </p>
+          <p className="mt-2">
+            <Link href="/roadmap" className="rounded border border-line px-1.5 py-0.5 text-xs hover:text-text">
+              v{getSiteVersion()}
+            </Link>
           </p>
         </div>
         {COLUMNS.map((c) => (

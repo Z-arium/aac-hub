@@ -10,6 +10,7 @@ import {
   getWikiRedirect,
   withBasePath,
 } from "@/lib/wiki";
+import SaveButton from "@/components/SaveButton";
 import RedirectTo from "../RedirectTo";
 
 export function generateStaticParams() {
@@ -55,7 +56,10 @@ export default async function WikiArticle({ params }: { params: Promise<{ slug: 
             {page.category}
           </Link>
         </nav>
-        <h1 className="mt-3 text-3xl font-bold break-words">{page.title}</h1>
+        <div className="mt-3 flex flex-wrap items-start justify-between gap-3">
+          <h1 className="text-3xl font-bold break-words">{page.title}</h1>
+          <SaveButton href={`/wiki/${slug}`} title={page.title} kind="wiki" />
+        </div>
         {isSource && <p className="mt-2 text-sm text-muted">Source code ({page.model}) as stored on the wiki.</p>}
         <div className="prose-guide prose-wiki mt-6" dangerouslySetInnerHTML={{ __html: withBasePath(page.html) }} />
         {!page.html.trim() && <p className="mt-6 text-muted">This page is empty on the wiki.</p>}

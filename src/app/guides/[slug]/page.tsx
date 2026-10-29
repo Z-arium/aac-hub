@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import FeaturedVideo from "@/components/FeaturedVideo";
 import { getFeaturedVideo } from "@/data/videos";
 import GuideCard from "@/components/GuideCard";
+import SaveButton from "@/components/SaveButton";
 import { getGuide, getGuides, headingId, renderMarkdown } from "@/lib/guides";
 
 export function generateStaticParams() {
@@ -35,7 +36,10 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
         <p className="mt-6 text-sm font-medium text-accent">{guide.category}</p>
         <h1 className="mt-1 text-3xl font-bold tracking-tight md:text-4xl">{guide.title}</h1>
         <p className="mt-2 text-lg text-muted">{guide.summary}</p>
-        {guide.updated && <p className="mt-2 text-xs text-muted">Updated {guide.updated}</p>}
+        <div className="mt-3 flex flex-wrap items-center gap-3">
+          <SaveButton href={`/guides/${guide.slug}`} title={guide.title} kind="guide" />
+          {guide.updated && <p className="text-xs text-muted">Updated {guide.updated}</p>}
+        </div>
         {video && (
           <div className="mt-6">
             <FeaturedVideo video={video} />
