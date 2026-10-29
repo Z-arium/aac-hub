@@ -45,6 +45,7 @@ The site as it stood when the roadmap was written, plus the groundwork everythin
 - [ ] **(must-have)** PvP and siege basics
 - [ ] **(must-have)** Crafting and proficiency guide
 - [x] **(must-have)** Beginner's money guide by labor budget (ranked gold methods and best life skill to level)
+- [x] Guide to earning Vocation Badges and Honor Points, ranked by source
 - [ ] Live auction house prices for gold methods (gold per labor worked out from real prices)
 - [ ] Table of contents, "last verified for patch" tags, and links to related wiki pages and tools on every guide
 - [ ] Favourite and bookmark guides (with an account)
