@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:33:31.699Z",
+  "updated": "2026-10-30T22:39:02.789Z",
   "videos": [
     {
       "id": "8yYpW17aiqA",
@@ -7,6 +7,13 @@
       "channel": "lIIIllIIIllIIIIIlllllIIIlI",
       "channelUrl": "https://www.youtube.com/channel/UCUP4S-FPITCh8vmr-S9AU0Q",
       "published": "2026-10-29T17:05:43Z"
+    },
+    {
+      "id": "TkvjQZ1GZW4",
+      "title": "ArcheRage 100 Players Epic Raid",
+      "channel": "Artifex Gaming",
+      "channelUrl": "https://www.youtube.com/channel/UCAEdLGSoCW1uWNiMl3uTQmg",
+      "published": "2026-10-29T08:55:46Z"
     },
     {
       "id": "djTwVlt4PzQ",
@@ -188,7 +195,7 @@
       "title": "ArcheAge: Classic - Archery Timmy",
       "channel": "Ferelia ArcheAge",
       "channelUrl": "https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw",
-      "published": "2026-08-16T17:45:05+00:00"
+      "published": "2026-08-16T17:45:05Z"
     },
     {
       "id": "j8rtK1M7dDg",
@@ -210,6 +217,13 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-08-09T23:13:41+00:00"
+    },
+    {
+      "id": "e5a4ng4cJtY",
+      "title": "archeage classic - ashes.",
+      "channel": "nerd4tw",
+      "channelUrl": "https://www.youtube.com/channel/UCBC8L87Tms_dvuV7fJVrxHw",
+      "published": "2026-08-03T16:33:51Z"
     },
     {
       "id": "gF6FJZXlsb4",
@@ -322,20 +336,6 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-01-30T00:28:07+00:00"
-    },
-    {
-      "id": "N_tz-ME55Ik",
-      "title": "Archeage Classic PvP 2026 | McNasty",
-      "channel": "Mc Nasty",
-      "channelUrl": "https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ",
-      "published": "2026-01-25T00:32:12+00:00"
-    },
-    {
-      "id": "MiT18BZ0XPI",
-      "title": "ArcheAge Classic | Spellsinger PvP | 2026",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2026-01-10T14:21:47+00:00"
     }
   ]
 }
