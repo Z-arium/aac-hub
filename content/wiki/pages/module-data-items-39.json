@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-39",
+ "title": "Module:Data/Items/39",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61000,
+ "revid": 63436,
+ "updated": "2026-10-31T00:16:34Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/39",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [39246] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth067.png\", name = \"Ayanad Hatchetblade Cloak\" }, [39247] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth068.png\", name = \"Ayanad Flaming Hatchetblade Cloak\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[39246] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth067.png\", name = \"Ayanad Hatchetblade Cloak\" },\n\t[39247] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth068.png\", name = \"Ayanad Flaming Hatchetblade Cloak\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[39246] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth067.png\", name = \"Ayanad Hatchetblade Cloak\" },\n\t[39247] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth068.png\", name = \"Ayanad Flaming Hatchetblade Cloak\" },\n}"
+}

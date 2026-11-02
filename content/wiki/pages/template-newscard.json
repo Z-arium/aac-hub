@@ -1,0 +1,16 @@
+{
+ "slug": "template-newscard",
+ "title": "Template:NewsCard",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61038,
+ "revid": 63608,
+ "updated": "2026-11-02T16:02:08Z",
+ "source": "https://wiki.aa-classic.com/Template:NewsCard",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "One small news card. Called by Template:NewsFeed through Cargo (fields Page, Title, Date, Category, Image, Summary).",
+ "html": "<p>One small news card. Called by <a href=\"/wiki/template-newsfeed\">Template:NewsFeed</a> through Cargo (fields Page, Title, Date, Category, Image, Summary).\n</p>",
+ "wikitext": "<includeonly><div class=\"aa-news-card\"><span class=\"aa-news-pic\">{{#if:{{{Image|}}}|[[File:{{{Image}}}|link={{{Page}}}|alt=|500px]]|<span class=\"aa-news-noimg aa-news-noimg-{{lc:{{{Category|}}}}}\"></span>}}</span><div class=\"aa-news-body\"><div class=\"aa-news-meta\"><span class=\"aa-news-tag aa-news-tag-{{lc:{{{Category|}}}}}\">{{{Category|}}}</span><span class=\"aa-news-date\">{{#time:j M Y|{{{Date|}}}}}</span></div>[[{{{Page}}}|<span class=\"aa-news-title\">{{{Title}}}</span>]]<div class=\"aa-news-sum\">{{{Summary|}}}</div></div></div></includeonly><noinclude>One small news card. Called by [[Template:NewsFeed]] through Cargo (fields Page, Title, Date, Category, Image, Summary).</noinclude>"
+}

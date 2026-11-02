@@ -1,0 +1,18 @@
+{
+ "slug": "template-mainpage-skill",
+ "title": "Template:MainPage/Skill",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61034,
+ "revid": 63592,
+ "updated": "2026-11-02T05:11:20Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/Skill",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Skill.png"
+ ],
+ "text": "[[{{{1}}}]]",
+ "html": "<div><span><span><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></span></span>[[{{{1}}}]]</div>",
+ "wikitext": "<div class=\"aa-mp-tile\"><span class=\"aa-mp-ico aa-ic-{{{2}}}\">[[File:Skill.png|link={{{1}}}|alt=]]</span>[[{{{1}}}]]</div>"
+}

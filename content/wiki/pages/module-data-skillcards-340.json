@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skillcards-340",
+ "title": "Module:Data/SkillCards/340",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60945,
+ "revid": 63232,
+ "updated": "2026-10-29T17:13:20Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/340",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [34093] = { desc = \"Teleport to a random location #{buff_tooltip} away.\\nNo cooldown. Spend Abyssal Charges to cast repeatedly.\\nCan't be used while Snared.\", icon = \"icon_skill_hatred24.png\", line = \"Sorcery\", maxr = 4, name = \"Void Leap\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[34093] = { desc = \"Teleport to a random location #{buff_tooltip} away.\\nNo cooldown. Spend Abyssal Charges to cast repeatedly.\\nCan't be used while Snared.\", icon = \"icon_skill_hatred24.png\", line = \"Sorcery\", maxr = 4, name = \"Void Leap\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[34093] = { desc = \"Teleport to a random location #{buff_tooltip} away.\\nNo cooldown. Spend Abyssal Charges to cast repeatedly.\\nCan't be used while Snared.\", icon = \"icon_skill_hatred24.png\", line = \"Sorcery\", maxr = 4, name = \"Void Leap\" },\n}"
+}

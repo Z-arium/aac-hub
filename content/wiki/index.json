@@ -868,7 +868,7 @@
    "category": "Events & Festivals",
    "internal": false,
    "summary": "The Supplying the Settlers event is also known as \"Daru Chefs\" or \"Sushi\" event. Goals and Rewards The event consists of three activities: Collecting Pure Ice by breaking Diamond Shores icebergs, and bringing it to…",
-   "updated": "2025-02-11T09:52:06Z",
+   "updated": "2026-10-28T20:14:45Z",
    "source": "https://wiki.aa-classic.com/Event:_Supplying_the_Settlers",
    "words": 323
   },
@@ -1566,15 +1566,70 @@
    "words": 1530
   },
   {
+   "slug": "module-buff",
+   "title": "Module:Buff",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "local p = {} -- Buffs and effects (passives, buffs, debuffs) for Template:BuffLink: a small icon with the name, and the -- card that opens on hover. Data: Module:Data/Buffs/... (sync_wiki_data.py). local IconName =…",
+   "updated": "2026-10-31T00:54:42Z",
+   "source": "https://wiki.aa-classic.com/Module:Buff",
+   "words": 330
+  },
+  {
+   "slug": "module-bufflink",
+   "title": "Module:BuffLink",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "local p = {} -- Buffs and effects (passives, buffs, debuffs) for Template:BuffLink: a small icon with the name, and the -- card that opens on hover. Data: Module:Data/Buffs/... (sync_wiki_data.py). local IconName =…",
+   "updated": "2026-10-30T20:58:14Z",
+   "source": "https://wiki.aa-classic.com/Module:BuffLink",
+   "words": 217
+  },
+  {
    "slug": "module-consumable",
    "title": "Module:Consumable",
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "local p = {} -- In-game style card for items that are used up or opened: potions, food, talismans, tokens, crates and -- every other item that has no card of its own. The category label (Potion, Food ...) comes from the…",
-   "updated": "2026-10-26T23:28:58Z",
+   "updated": "2026-11-01T14:03:39Z",
    "source": "https://wiki.aa-classic.com/Module:Consumable",
-   "words": 969
+   "words": 1371
+  },
+  {
+   "slug": "module-data-buffs-90011",
+   "title": "Module:Data/Buffs/90011",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs. return { [9001178] = { desc = \"Restoring 12% mana per second.\", dur = 9000, icon = \"aac/radiant_meditate.png\",…",
+   "updated": "2026-10-30T21:37:12Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Buffs/90011",
+   "words": 46
+  },
+  {
+   "slug": "module-data-buffs-90013",
+   "title": "Module:Data/Buffs/90013",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs. return { [9001308] = { desc = \"Death has been prevented recently. Cannot be rescued for the duration.\", dur =…",
+   "updated": "2026-10-30T21:37:13Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Buffs/90013",
+   "words": 52
+  },
+  {
+   "slug": "module-data-cards-163",
+   "title": "Module:Data/Cards/163",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [16354] = { category = \"Archeum\", crafts = { { 2881, \"Disintegration: Moonlight Archeum Essence\" }, {…",
+   "updated": "2026-10-31T15:55:53Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/163",
+   "words": 424
   },
   {
    "slug": "module-data-cards-236",
@@ -1588,6 +1643,204 @@
    "words": 84
   },
   {
+   "slug": "module-data-cards-249",
+   "title": "Module:Data/Cards/249",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [24914] = { category = \"Alchemy\", desc = \"Used to craft lunastones, this essence shines softly with…",
+   "updated": "2026-10-30T22:46:16Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/249",
+   "words": 85
+  },
+  {
+   "slug": "module-data-cards-266",
+   "title": "Module:Data/Cards/266",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [26675] = { bind = \"soulbound_equip\", category = \"Cloak\", desc = \"Produced high in the mountains of…",
+   "updated": "2026-10-31T00:16:10Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/266",
+   "words": 79
+  },
+  {
+   "slug": "module-data-cards-273",
+   "title": "Module:Data/Cards/273",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [27366] = { category = \"Machining\", crafts = { { 5535, \"Mechanical Spring\" } }, desc = \"This…",
+   "updated": "2026-10-31T15:55:55Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/273",
+   "words": 61
+  },
+  {
+   "slug": "module-data-cards-281",
+   "title": "Module:Data/Cards/281",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [28189] = { bind = \"soulbound_pickup\", category = \"Material\", crafts = { { 9000342, \"Disintegration:…",
+   "updated": "2026-10-31T15:55:56Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/281",
+   "words": 240
+  },
+  {
+   "slug": "module-data-cards-289",
+   "title": "Module:Data/Cards/289",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [28969] = { category = \"Metal\", crafts = { { 9095, \"Blazing Sunridge Ingot\" } }, desc = \"This ancient…",
+   "updated": "2026-10-31T16:05:12Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/289",
+   "words": 239
+  },
+  {
+   "slug": "module-data-cards-297",
+   "title": "Module:Data/Cards/297",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [29730] = { bind = \"soulbound_pickup\", category = \"Token\", crafts = { { 8000283, \"Proven Warrior x15\"…",
+   "updated": "2026-11-01T14:06:43Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/297",
+   "words": 227
+  },
+  {
+   "slug": "module-data-cards-321",
+   "title": "Module:Data/Cards/321",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [32103] = { category = \"Material\", desc = \"Used in crafting explosives and to stop unwanted chemical…",
+   "updated": "2026-10-31T15:56:01Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/321",
+   "words": 97
+  },
+  {
+   "slug": "module-data-cards-33",
+   "title": "Module:Data/Cards/33",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [3332] = { category = \"Metal\", crafts = { { 81, \"Starshard Ingot\" }, { 7559, \"Starshard Ingot: Fast…",
+   "updated": "2026-10-31T15:55:50Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/33",
+   "words": 75
+  },
+  {
+   "slug": "module-data-cards-347",
+   "title": "Module:Data/Cards/347",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [34737] = { category = \"Material\", desc = \"This type of red gemstone was once used in alchemical…",
+   "updated": "2026-10-31T16:05:14Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/347",
+   "words": 153
+  },
+  {
+   "slug": "module-data-cards-351",
+   "title": "Module:Data/Cards/351",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [35138] = { bind = \"soulbound_equip\", category = \"Armament\", crafts = { { 7136, \"Large-Caliber…",
+   "updated": "2026-10-31T15:56:03Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/351",
+   "words": 51
+  },
+  {
+   "slug": "module-data-cards-358",
+   "title": "Module:Data/Cards/358",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [35888] = { category = \"Material\", desc = \"A pitch-black gemstone used in Anthalon's dark magic. Can…",
+   "updated": "2026-10-31T16:05:16Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/358",
+   "words": 59
+  },
+  {
+   "slug": "module-data-cards-359",
+   "title": "Module:Data/Cards/359",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [35940] = { category = \"Design\", crafts = { { 9000263, \"Large-Caliber Cannon Design\" } }, desc =…",
+   "updated": "2026-10-31T15:56:04Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/359",
+   "words": 61
+  },
+  {
+   "slug": "module-data-cards-386",
+   "title": "Module:Data/Cards/386",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [38682] = { bind = \"soulbound_pickup\", category = \"Cloak\", desc = \"Can be used in |ni;item…",
+   "updated": "2026-10-31T15:56:06Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/386",
+   "words": 120
+  },
+  {
+   "slug": "module-data-cards-388",
+   "title": "Module:Data/Cards/388",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [38839] = { category = \"Material\", desc = \"Used in crafting musical instruments. Can also be used to…",
+   "updated": "2026-10-31T16:05:18Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/388",
+   "words": 78
+  },
+  {
+   "slug": "module-data-cards-392",
+   "title": "Module:Data/Cards/392",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [39246] = { bind = \"soulbound_pickup\", category = \"Cloak\", crafts = { { 9109, \"Ayanad Hatchetblade…",
+   "updated": "2026-10-31T15:56:07Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/392",
+   "words": 130
+  },
+  {
+   "slug": "module-data-cards-407",
+   "title": "Module:Data/Cards/407",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [40736] = { category = \"Material\", desc = \"This fragment of finely-crafted plate armor was dropped by…",
+   "updated": "2026-10-31T16:05:20Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/407",
+   "words": 131
+  },
+  {
+   "slug": "module-data-cards-408",
+   "title": "Module:Data/Cards/408",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [40824] = { bind = \"soulbound_pickup\", category = \"Material\", desc = \"The energy from a |nc;Brimstone…",
+   "updated": "2026-11-01T14:06:48Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/408",
+   "words": 69
+  },
+  {
+   "slug": "module-data-cards-415",
+   "title": "Module:Data/Cards/415",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [41540] = { bind = \"soulbound_pickup\", category = \"Marine Mount\", crafts = { { 9000028, \"Aquestria\" }…",
+   "updated": "2026-11-01T14:06:49Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/415",
+   "words": 129
+  },
+  {
    "slug": "module-data-cards-425",
    "title": "Module:Data/Cards/425",
    "ns": 828,
@@ -1597,6 +1850,17 @@
    "updated": "2026-10-27T20:19:38Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Cards/425",
    "words": 131
+  },
+  {
+   "slug": "module-data-cards-431",
+   "title": "Module:Data/Cards/431",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [43123] = { bind = \"soulbound_pickup\", category = \"Cloak\", crafts = { { 9886, \"Erenor Hatchetblade…",
+   "updated": "2026-10-31T15:56:11Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/431",
+   "words": 117
   },
   {
    "slug": "module-data-cards-560",
@@ -1610,15 +1874,59 @@
    "words": 73
   },
   {
+   "slug": "module-data-cards-80012",
+   "title": "Module:Data/Cards/80012",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [8001247] = { bind = \"soulbound_pickup\", category = \"Other\", crafts = { { 9000327, \"Siegeram Taurus\"…",
+   "updated": "2026-11-01T14:06:51Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/80012",
+   "words": 68
+  },
+  {
+   "slug": "module-data-cards-80016",
+   "title": "Module:Data/Cards/80016",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [8001645] = { bind = \"soulbound_pickup\", category = \"Crate\", desc = \"A glorious crate bestowed only…",
+   "updated": "2026-11-01T14:06:52Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/80016",
+   "words": 80
+  },
+  {
+   "slug": "module-data-cards-83",
+   "title": "Module:Data/Cards/83",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [8318] = { category = \"Metal\", crafts = { { 49, \"Iron Ingot\" }, { 5347, \"Iron Ingot: Mass Production\"…",
+   "updated": "2026-10-31T15:55:51Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/83",
+   "words": 131
+  },
+  {
    "slug": "module-data-cards-90000",
    "title": "Module:Data/Cards/90000",
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [9000028] = { category = \"Drink\", desc = \"A strange mixture of ingredients made by thieves using the…",
-   "updated": "2026-10-27T08:18:46Z",
+   "updated": "2026-11-01T14:06:54Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Cards/90000",
-   "words": 82
+   "words": 162
+  },
+  {
+   "slug": "module-data-cards-90001",
+   "title": "Module:Data/Cards/90001",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [9000149] = { category = \"Machining\", crafts = { { 9000186, \"Armored Frame\" } }, desc = \"A highly…",
+   "updated": "2026-11-01T14:06:56Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/90001",
+   "words": 158
   },
   {
    "slug": "module-data-cards-90018",
@@ -1632,6 +1940,39 @@
    "words": 123
   },
   {
+   "slug": "module-data-cards-90020",
+   "title": "Module:Data/Cards/90020",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [9002090] = { category = \"Talisman\", desc = \"A stone etched with an inert runic symbol on its face.\",…",
+   "updated": "2026-10-31T15:56:17Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/90020",
+   "words": 160
+  },
+  {
+   "slug": "module-data-cards-90024",
+   "title": "Module:Data/Cards/90024",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [9002419] = { bind = \"soulbound_pickup\", category = \"Pet Gear\", crafts = { { 9000600, \"Bloomfang…",
+   "updated": "2026-11-01T14:06:57Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Cards/90024",
+   "words": 256
+  },
+  {
+   "slug": "module-data-gliders-290",
+   "title": "Module:Data/Gliders/290",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Gliders). Do not edit by hand, it is overwritten when the script runs. return { [29039] = { category = \"Glider\", desc = \"Could this be an ancient relic from the Nuons' war against…",
+   "updated": "2026-11-01T13:35:01Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Gliders/290",
+   "words": 134
+  },
+  {
    "slug": "module-data-gliders-425",
    "title": "Module:Data/Gliders/425",
    "ns": 828,
@@ -1641,6 +1982,215 @@
    "updated": "2026-10-27T20:29:51Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Gliders/425",
    "words": 127
+  },
+  {
+   "slug": "module-data-items-16",
+   "title": "Module:Data/Items/16",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [16354] = { grade = \"None\", icon = \"icon_item_0367.png\", name = \"Moonlight Archeum Crystal\" },…",
+   "updated": "2026-10-31T00:16:24Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/16",
+   "words": 67
+  },
+  {
+   "slug": "module-data-items-24",
+   "title": "Module:Data/Items/24",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [24914] = { grade = \"None\", icon = \"icon_item_0851.png\", name = \"Prime Lunarite\" }, [24916] = { grade…",
+   "updated": "2026-10-30T22:46:34Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/24",
+   "words": 51
+  },
+  {
+   "slug": "module-data-items-26",
+   "title": "Module:Data/Items/26",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [26675] = { grade = \"Arcane\", icon = \"costume_cp/cp_cloth029.png\", name = \"Axis Mundi Aegis\" },",
+   "updated": "2026-10-31T00:16:26Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/26",
+   "words": 37
+  },
+  {
+   "slug": "module-data-items-27",
+   "title": "Module:Data/Items/27",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [27366] = { grade = \"None\", icon = \"icon_item_0099.png\", name = \"Mechanical Spring\" },",
+   "updated": "2026-10-30T22:46:35Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/27",
+   "words": 36
+  },
+  {
+   "slug": "module-data-items-28",
+   "title": "Module:Data/Items/28",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [28189] = { grade = \"Grand\", icon = \"icon_item_1236.png\", name = \"Abyssal Shard\" }, [28969] = { grade…",
+   "updated": "2026-10-31T16:05:44Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/28",
+   "words": 110
+  },
+  {
+   "slug": "module-data-items-29",
+   "title": "Module:Data/Items/29",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [29730] = { grade = \"None\", icon = \"icon_item_1581.png\", name = \"Warrior's Medal\" },",
+   "updated": "2026-10-31T00:16:29Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/29",
+   "words": 36
+  },
+  {
+   "slug": "module-data-items-3",
+   "title": "Module:Data/Items/3",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [3332] = { grade = \"None\", icon = \"icon_item_0855.png\", name = \"Starshard Ingot\" },",
+   "updated": "2026-10-30T22:46:31Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/3",
+   "words": 36
+  },
+  {
+   "slug": "module-data-items-32",
+   "title": "Module:Data/Items/32",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [32103] = { grade = \"None\", icon = \"icon_item_1766.png\", name = \"Charcoal Stabilizer\" },",
+   "updated": "2026-10-30T22:46:38Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/32",
+   "words": 36
+  },
+  {
+   "slug": "module-data-items-34",
+   "title": "Module:Data/Items/34",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [34737] = { grade = \"Arcane\", icon = \"icon_item_1954.png\", name = \"Philosopher's Stone Fragment\" },…",
+   "updated": "2026-10-31T16:05:47Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/34",
+   "words": 66
+  },
+  {
+   "slug": "module-data-items-35",
+   "title": "Module:Data/Items/35",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [35138] = { grade = \"None\", icon = \"icon_item_2104.png\", name = \"Large-Caliber Cannon\" }, [35888] = {…",
+   "updated": "2026-10-31T16:05:48Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/35",
+   "words": 65
+  },
+  {
+   "slug": "module-data-items-38",
+   "title": "Module:Data/Items/38",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [38682] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth056.png\", name = \"Epherium Hatchetblade…",
+   "updated": "2026-10-31T16:05:50Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/38",
+   "words": 71
+  },
+  {
+   "slug": "module-data-items-39",
+   "title": "Module:Data/Items/39",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [39246] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth067.png\", name = \"Ayanad Hatchetblade…",
+   "updated": "2026-10-31T00:16:34Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/39",
+   "words": 53
+  },
+  {
+   "slug": "module-data-items-40",
+   "title": "Module:Data/Items/40",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [40736] = { grade = \"Unique\", icon = \"icon_item_3148.png\", name = \"Wrathsmite Armor Shard\" }, [40792]…",
+   "updated": "2026-10-31T16:05:51Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/40",
+   "words": 73
+  },
+  {
+   "slug": "module-data-items-41",
+   "title": "Module:Data/Items/41",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [41540] = { grade = \"Grand\", icon = \"icon_item_3562.png\", name = \"Aquestria\" },",
+   "updated": "2026-10-30T22:46:41Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/41",
+   "words": 35
+  },
+  {
+   "slug": "module-data-items-43",
+   "title": "Module:Data/Items/43",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [43123] = { grade = \"None\", icon = \"costume_cp\\\\nu_m_cp_cloth285.png\", name = \"Erenor Hatchetblade…",
+   "updated": "2026-10-31T00:16:36Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/43",
+   "words": 52
+  },
+  {
+   "slug": "module-data-items-8",
+   "title": "Module:Data/Items/8",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [8318] = { grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" }, [8329] = {…",
+   "updated": "2026-10-30T23:45:17Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/8",
+   "words": 51
+  },
+  {
+   "slug": "module-data-items-8001",
+   "title": "Module:Data/Items/8001",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [8001247] = { grade = \"Rare\", icon = \"icon_item_3714.png\", name = \"Siegeram Taurus Bundle\", over =…",
+   "updated": "2026-10-30T22:46:42Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/8001",
+   "words": 40
+  },
+  {
+   "slug": "module-data-items-9000",
+   "title": "Module:Data/Items/9000",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [9000033] = { grade = \"None\", icon = \"aac\\\\item_icon_0001.png\", name = \"Seaweed Reins\" }, [9000044] =…",
+   "updated": "2026-10-30T22:46:44Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/9000",
+   "words": 95
+  },
+  {
+   "slug": "module-data-items-9002",
+   "title": "Module:Data/Items/9002",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [9002090] = { grade = \"None\", icon = \"aac/aac_runestone_dormant.png\", name = \"Dormant Runestone\" },…",
+   "updated": "2026-10-30T23:45:22Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Items/9002",
+   "words": 110
   },
   {
    "slug": "module-data-mounts-155",
@@ -1748,9 +2298,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs. return { [30879] = { desc = \"It's said Dahuta, the Goddess of the Sea, created this species in a rare moment…",
-   "updated": "2026-10-26T20:28:22Z",
+   "updated": "2026-10-30T23:17:56Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Mounts/308",
-   "words": 189
+   "words": 192
   },
   {
    "slug": "module-data-mounts-353",
@@ -1803,9 +2353,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs. return { [41540] = { desc = \"Once thought to be a myth, Aquestria is a classic feature in fish tales…",
-   "updated": "2026-10-26T20:28:28Z",
+   "updated": "2026-10-30T23:17:59Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Mounts/415",
-   "words": 311
+   "words": 314
   },
   {
    "slug": "module-data-mounts-417",
@@ -1902,9 +2452,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Mounts). Do not edit by hand, it is overwritten when the script runs. return { [8001231] = { desc = \"Once thought to be a myth, Aquestria is a classic feature in fish tales…",
-   "updated": "2026-10-26T20:28:39Z",
+   "updated": "2026-10-30T23:18:03Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Mounts/80012",
-   "words": 304
+   "words": 307
   },
   {
    "slug": "module-data-mounts-81",
@@ -2023,9 +2573,31 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [7136] = { coin = 1, labor = 25, materials = { { amount = 25, grade = \"None\", icon =…",
-   "updated": "2026-10-26T20:28:50Z",
+   "updated": "2026-11-01T13:35:18Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Recipes/71",
    "words": 154
+  },
+  {
+   "slug": "module-data-recipes-88",
+   "title": "Module:Data/Recipes/88",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [8815] = { coin = 1, labor = 450, materials = { { amount = 1, grade = \"None\", icon =…",
+   "updated": "2026-11-01T13:35:20Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Recipes/88",
+   "words": 137
+  },
+  {
+   "slug": "module-data-recipes-90",
+   "title": "Module:Data/Recipes/90",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9077] = { coin = 2000000, labor = 1250, materials = { { amount = 1, grade = \"None\", icon =…",
+   "updated": "2026-11-01T13:35:21Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Recipes/90",
+   "words": 211
   },
   {
    "slug": "module-data-recipes-90000",
@@ -2034,7 +2606,7 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9000028] = { labor = 800, materials = { { amount = 20, grade = \"Heroic\", icon =…",
-   "updated": "2026-10-27T09:06:38Z",
+   "updated": "2026-10-30T21:37:56Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Recipes/90000",
    "words": 194
   },
@@ -2045,9 +2617,64 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9000327] = { labor = 800, materials = { { amount = 2, grade = \"None\", icon =…",
-   "updated": "2026-10-27T09:06:39Z",
+   "updated": "2026-11-01T13:35:26Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Recipes/90003",
    "words": 203
+  },
+  {
+   "slug": "module-data-recipes-90013",
+   "title": "Module:Data/Recipes/90013",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9001390] = { labor = 200, materials = { { amount = 1, grade = \"Heroic\", icon =…",
+   "updated": "2026-10-31T15:56:42Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Recipes/90013",
+   "words": 153
+  },
+  {
+   "slug": "module-data-recipes-91",
+   "title": "Module:Data/Recipes/91",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9110] = { coin = 1, labor = 450, materials = { { amount = 36, grade = \"Arcane\", icon =…",
+   "updated": "2026-11-01T13:35:23Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Recipes/91",
+   "words": 226
+  },
+  {
+   "slug": "module-data-recipes-98",
+   "title": "Module:Data/Recipes/98",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9886] = { coin = 1, labor = 450, materials = { { amount = 10, grade = \"None\", icon =…",
+   "updated": "2026-11-01T14:07:16Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Recipes/98",
+   "words": 180
+  },
+  {
+   "slug": "module-data-skillcards-101",
+   "title": "Module:Data/SkillCards/101",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [10151] = { buffs = { { bad = true, desc = \"Freezes legs and prevents movement.\", dur = 700,…",
+   "updated": "2026-10-30T09:20:46Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/101",
+   "words": 965
+  },
+  {
+   "slug": "module-data-skillcards-106",
+   "title": "Module:Data/SkillCards/106",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [10664] = { buffs = { { bad = true, desc = \"Trips for 2.5sec.\", dur = 2500, icon =…",
+   "updated": "2026-10-30T08:42:15Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/106",
+   "words": 1151
   },
   {
    "slug": "module-data-skillcards-107",
@@ -2056,9 +2683,64 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [10752] = { buffs = { { bad = true, desc = \"Engulfed in flames.\", dur = 3200, icon =…",
-   "updated": "2026-10-27T22:31:26Z",
+   "updated": "2026-10-30T08:35:46Z",
    "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/107",
-   "words": 243
+   "words": 536
+  },
+  {
+   "slug": "module-data-skillcards-113",
+   "title": "Module:Data/SkillCards/113",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [11314] = { buffs = { { desc = \"Leaves a freezing trail behind you.\", dur = 9000, icon =…",
+   "updated": "2026-10-29T15:50:55Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/113",
+   "words": 187
+  },
+  {
+   "slug": "module-data-skillcards-119",
+   "title": "Module:Data/SkillCards/119",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [11939] = { cast = 2000, cd = 39000, combos = { { am = { { ex = { \"Black Reindeer\", \"Brown…",
+   "updated": "2026-10-30T09:07:57Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/119",
+   "words": 490
+  },
+  {
+   "slug": "module-data-skillcards-127",
+   "title": "Module:Data/SkillCards/127",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [12796] = { buffs = { { desc = \"Increases Magic Attack |cFFFF9C27+93.0|r and Magic Crit Rate…",
+   "updated": "2026-10-29T17:13:15Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/127",
+   "words": 205
+  },
+  {
+   "slug": "module-data-skillcards-147",
+   "title": "Module:Data/SkillCards/147",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [14774] = { buffs = { { bad = true, desc = \"Engulfs a target in flames and deals…",
+   "updated": "2026-10-30T08:28:04Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/147",
+   "words": 239
+  },
+  {
+   "slug": "module-data-skillcards-181",
+   "title": "Module:Data/SkillCards/181",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [18131] = { chain = { { icon = \"icon_skill_fight02.png\", id = 18132 }, { icon =…",
+   "updated": "2026-10-29T04:19:42Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/181",
+   "words": 1408
   },
   {
    "slug": "module-data-skillcards-235",
@@ -2089,9 +2771,31 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [24894] = { chain = { { icon = \"icon_skill_magic01.png\", id = 10752 }, { icon =…",
-   "updated": "2026-10-27T22:31:29Z",
+   "updated": "2026-10-30T08:35:50Z",
    "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/248",
-   "words": 505
+   "words": 1091
+  },
+  {
+   "slug": "module-data-skillcards-340",
+   "title": "Module:Data/SkillCards/340",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [34093] = { desc = \"Teleport to a random location #{buff_tooltip} away.\\nNo cooldown. Spend…",
+   "updated": "2026-10-29T17:13:20Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/340",
+   "words": 59
+  },
+  {
+   "slug": "module-data-skillcards-342",
+   "title": "Module:Data/SkillCards/342",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [34281] = { buffs = { { desc = \"Increases max Abyssal Charge +2.\\nAdds 2 Abyssal Charges when a…",
+   "updated": "2026-10-29T15:51:03Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/342",
+   "words": 184
   },
   {
    "slug": "module-data-skillcards-364",
@@ -2099,10 +2803,10 @@
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
-   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [36404] = { buffs = { { bad = true, desc = \"Decreases Move Speed |cFFFF9C27-27%|r, Skill Damage…",
-   "updated": "2026-10-27T22:31:30Z",
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [36401] = { buffs = { { bad = true, desc = \"Decreases Move Speed |cFFFF9C27-27%|r, Skill Damage…",
+   "updated": "2026-10-30T08:42:20Z",
    "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/364",
-   "words": 564
+   "words": 4882
   },
   {
    "slug": "module-data-skillcards-365",
@@ -2116,6 +2820,39 @@
    "words": 120
   },
   {
+   "slug": "module-data-skillcards-90017",
+   "title": "Module:Data/SkillCards/90017",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [9001799] = { cast = 2000, cd = 39000, combos = { { am = { { ex = { \"Black Reindeer\", \"Brown…",
+   "updated": "2026-10-30T09:08:01Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/90017",
+   "words": 280
+  },
+  {
+   "slug": "module-data-skillcards-90018",
+   "title": "Module:Data/SkillCards/90018",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [9001836] = { buffs = { { desc = \"Frozen and unable to move.\", dur = 5000, icon =…",
+   "updated": "2026-10-30T09:08:02Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/90018",
+   "words": 129
+  },
+  {
+   "slug": "module-data-skillcards-90031",
+   "title": "Module:Data/SkillCards/90031",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [9003190] = { cd = 3000, desc = \"Grants Magic Attacks a high chance to fire lightning at the…",
+   "updated": "2026-10-30T20:32:23Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/90031",
+   "words": 67
+  },
+  {
    "slug": "module-data-skills-11",
    "title": "Module:Data/Skills/11",
    "ns": 828,
@@ -2127,15 +2864,26 @@
    "words": 215
   },
   {
+   "slug": "module-data-skills-13",
+   "title": "Module:Data/Skills/13",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [13440] = { cd = \"3s\", desc = \"Fires several arrows forward, dealing #{min_damage}-#{max_damage}…",
+   "updated": "2026-11-01T13:35:28Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Skills/13",
+   "words": 52
+  },
+  {
    "slug": "module-data-skills-15",
    "title": "Module:Data/Skills/15",
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
-   "summary": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [15267] = { cd = \"1m\", desc = \"Increases the donkey's Move Speed +|cFFFF9C2730%|r for 1m.\\nCan only…",
-   "updated": "2026-10-26T20:28:55Z",
+   "summary": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [15266] = { desc = \"Creates a great airshow if unfolded over the murky pond at the correct…",
+   "updated": "2026-11-01T13:35:30Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Skills/15",
-   "words": 102
+   "words": 141
   },
   {
    "slug": "module-data-skills-17",
@@ -2144,9 +2892,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [17092] = { cd = \"30s\", desc = \"Increases Pet Move Speed |cFFFF9C27+50%|r for 10s.\\nCan't be used…",
-   "updated": "2026-10-26T23:12:28Z",
+   "updated": "2026-11-01T13:35:31Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Skills/17",
-   "words": 524
+   "words": 549
   },
   {
    "slug": "module-data-skills-19",
@@ -2166,9 +2914,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [21172] = { cd = \"20s\", desc = \"Charges forward for 1s, breaking through enemy lines. Inflicts…",
-   "updated": "2026-10-26T20:28:59Z",
+   "updated": "2026-11-01T13:35:33Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Skills/21",
-   "words": 103
+   "words": 125
   },
   {
    "slug": "module-data-skills-22",
@@ -2187,10 +2935,10 @@
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
-   "summary": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [23165] = { cd = \"30s\", desc = \"Restores |cFFFF9C27+|r250 health every second, even during combat.…",
-   "updated": "2026-10-26T20:29:02Z",
+   "summary": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [23040] = { cd = \"30s\", desc = \"Use an explosive to power-launch a glider. |cFFFF9C27Available at…",
+   "updated": "2026-11-01T13:35:35Z",
    "source": "https://wiki.aa-classic.com/Module:Data/Skills/23",
-   "words": 91
+   "words": 161
   },
   {
    "slug": "module-data-skills-24",
@@ -2424,15 +3172,26 @@
    "words": 116
   },
   {
+   "slug": "module-data-sources",
+   "title": "Module:Data/Sources",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Module:Data/Sources -- Where an item comes from, typed in by editors: what the game data does not know (drops, vendors, events ...). -- It is shown under \"Other\" in the \"Obtained from\" part of the item card (hover…",
+   "updated": "2026-10-31T16:01:29Z",
+   "source": "https://wiki.aa-classic.com/Module:Data/Sources",
+   "words": 726
+  },
+  {
    "slug": "module-datastore",
    "title": "Module:DataStore",
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "local p = {} -- Reads the data that sync_wiki_data.py stored on the wiki (Module:Data/<Kind>/<number>) so the templates -- do not have to ask the APIs again and again. local IconName = require('Module:IconName') -- How…",
-   "updated": "2026-10-26T23:29:07Z",
+   "updated": "2026-10-31T00:53:25Z",
    "source": "https://wiki.aa-classic.com/Module:DataStore",
-   "words": 341
+   "words": 349
   },
   {
    "slug": "module-div",
@@ -2474,9 +3233,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "local p = {} -- Grade name -> number of the border image (File:Grade1.png ... File:Grade11.png) local GRADES = { Basic = 1, Grand = 2, Rare = 3, Arcane = 4, Heroic = 5, Unique = 6, Celestial = 7, Divine = 8, Epic = 9,…",
-   "updated": "2026-10-26T22:32:15Z",
+   "updated": "2026-10-29T23:15:45Z",
    "source": "https://wiki.aa-classic.com/Module:IconName",
-   "words": 476
+   "words": 479
   },
   {
    "slug": "module-mount",
@@ -2484,10 +3243,10 @@
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
-   "summary": "local p = {} local IconName = require('Module:IconName') local Store = require('Module:DataStore') -- data stored on the wiki by sync_wiki_data.py -- Skill icons straight from aa-classic.com (the exact game icon of each…",
-   "updated": "2026-10-26T23:03:02Z",
+   "summary": "local p = {} local IconName = require('Module:IconName') local Store = require('Module:DataStore') -- data stored on the wiki by sync_wiki_data.py -- Base Swim Speed (m/s) of the marine mounts, from the game (item ID ->…",
+   "updated": "2026-10-30T23:24:29Z",
    "source": "https://wiki.aa-classic.com/Module:Mount",
-   "words": 2892
+   "words": 3087
   },
   {
    "slug": "module-mount-skills",
@@ -2529,9 +3288,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "local p = {} -- Card for pets (Pets, Powerstone Pet, Battle Pet): the Consumable look, with the skills in the description -- as hoverable names (the same hover box as the mount and glider skills). Data:…",
-   "updated": "2026-10-26T23:15:38Z",
+   "updated": "2026-11-01T14:03:23Z",
    "source": "https://wiki.aa-classic.com/Module:Pet",
-   "words": 269
+   "words": 266
   },
   {
    "slug": "module-recipebox",
@@ -2539,10 +3298,10 @@
    "ns": 828,
    "category": "Modules (data & code)",
    "internal": true,
-   "summary": "local p = {} -- The recipe box built from the data stored on the wiki (sync_wiki_data.py), so the crafting API is not -- asked on every page view. Only the Recipe Cost (it follows the market) comes live:…",
-   "updated": "2026-10-26T22:32:34Z",
+   "summary": "local p = {} -- The recipe card (the look of the item / skill cards) built from the data stored on the wiki (sync_wiki_data.py), so the crafting API is not -- asked on every page view. Only the Recipe Cost (it follows…",
+   "updated": "2026-10-31T12:36:32Z",
    "source": "https://wiki.aa-classic.com/Module:RecipeBox",
-   "words": 535
+   "words": 970
   },
   {
    "slug": "module-skill",
@@ -2551,9 +3310,31 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "local p = {} -- In-game style card for a skill: icon, skill line, name, element and rank, mana, range, cast time, cooldown, -- effects granted (buff icons), the description, the damage formula, combos and the chain it…",
-   "updated": "2026-10-27T22:30:11Z",
+   "updated": "2026-10-31T00:54:09Z",
    "source": "https://wiki.aa-classic.com/Module:Skill",
-   "words": 1924
+   "words": 4044
+  },
+  {
+   "slug": "module-skilltree",
+   "title": "Module:Skilltree",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "local p = {} -- {{Skilltree|Sorcery}}: the skill tree window of the game. The combat skills in a 4 wide grid, the passives with -- their numbers, and (a click on the eye) the Abyssal skills and the Abyssal passive. A…",
+   "updated": "2026-10-30T19:28:09Z",
+   "source": "https://wiki.aa-classic.com/Module:Skilltree",
+   "words": 1091
+  },
+  {
+   "slug": "module-skilltree-data",
+   "title": "Module:Skilltree/data",
+   "ns": 828,
+   "category": "Modules (data & code)",
+   "internal": true,
+   "summary": "-- Module:Skilltree/data -- The skill trees: the combat skills (skill IDs, 4 to a row, in the order of the in-game window), the 3 Abyssal -- combat skills, the passives (tile number = the skill level of the tree they…",
+   "updated": "2026-10-30T19:28:18Z",
+   "source": "https://wiki.aa-classic.com/Module:Skilltree/data",
+   "words": 1080
   },
   {
    "slug": "module-test",
@@ -2573,9 +3354,9 @@
    "category": "Modules (data & code)",
    "internal": true,
    "summary": "local p = {} -- Picks the card template for an item ID. Used by Template:Tooltip. local Store = require('Module:DataStore') -- NEW CARD TYPE = one line here: the category of the item (category_name in the API) -> the…",
-   "updated": "2026-10-26T23:02:42Z",
+   "updated": "2026-10-31T15:50:44Z",
    "source": "https://wiki.aa-classic.com/Module:Tooltip",
-   "words": 226
+   "words": 624
   },
   {
    "slug": "morpheus-the-forsaken",
@@ -2631,6 +3412,886 @@
    "updated": "2024-08-29T04:15:41Z",
    "source": "https://wiki.aa-classic.com/New_Player_Tips_&_Common_Mistakes",
    "words": 181
+  },
+  {
+   "slug": "news",
+   "title": "News",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Updates Update30 October 2026 📜Patch Notes - October 30, 2026 The New Client beta is underway, with invites rolling out daily! This week brings plenty of crash fixes, performance improvements, and polish to the new…",
+   "updated": "2026-11-02T17:39:05Z",
+   "source": "https://wiki.aa-classic.com/News",
+   "words": 737
+  },
+  {
+   "slug": "news-patch-notes-august-14-2026",
+   "title": "News/📜 Patch Notes - August 14, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update14 August 2026·All news·Original post on aa-classic.com 📜 Patch Notes - August 14, 2026 Voice Chat Beta goes live and some other event changes are happening. 🐉 Mounts & Pets Fixed the camera distance when…",
+   "updated": "2026-11-02T16:56:36Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_August_14,_2026",
+   "words": 321
+  },
+  {
+   "slug": "news-patch-notes-august-20-2026",
+   "title": "News/📜 Patch Notes - August 20, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update20 August 2026·All news·Original post on aa-classic.com 📜 Patch Notes - August 20, 2026 🎙️ Voice Chat gets louder, clearer and easier to use! Plus Target Sign keybinds, an in-game ping display, performance…",
+   "updated": "2026-11-02T17:35:19Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_August_20,_2026",
+   "words": 405
+  },
+  {
+   "slug": "news-patch-notes-august-28-2026",
+   "title": "News/📜 Patch Notes - August 28, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update28 August 2026·All news·Original post on aa-classic.com 📜 Patch Notes - August 28, 2026 Small patch notes this week alongside the 1.3.6 Release Date announcement. 1.3.6 Release Update Patch 1.3.6 will now release…",
+   "updated": "2026-11-02T16:56:27Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_August_28,_2026",
+   "words": 304
+  },
+  {
+   "slug": "news-patch-notes-jul-18-2026",
+   "title": "News/📜 Patch Notes - Jul 18, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update18 July 2026·All news·Original post on aa-classic.com 📜 Patch Notes - Jul 18, 2026 ⚽ The World Cup Finals are here! Pick Spain or Argentina, bet your gold for a share of the prize pool, grab a free jersey & daily…",
+   "updated": "2026-11-02T16:30:54Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_Jul_18,_2026",
+   "words": 360
+  },
+  {
+   "slug": "news-patch-notes-jul-8-2026",
+   "title": "News/📜 Patch Notes - Jul 8, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update8 July 2026·All news·Original post on aa-classic.com 📜 Patch Notes - Jul 8, 2026 This week's update introduces the first craftable Thunderwing Titan weapon, significant improvements to Red Dragon equipment and…",
+   "updated": "2026-11-02T17:36:06Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_Jul_8,_2026",
+   "words": 668
+  },
+  {
+   "slug": "news-patch-notes-jun-18-2026",
+   "title": "News/📜 Patch Notes - Jun 18, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update18 June 2026·All news·Original post on aa-classic.com 📜 Patch Notes - Jun 18, 2026 🎉 The Shadowguard Festival has begun! Travel to Falcorth Plains through Worldgates in your capital before July 2. Comet’s Beacon…",
+   "updated": "2026-11-02T17:36:17Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_Jun_18,_2026",
+   "words": 246
+  },
+  {
+   "slug": "news-patch-notes-jun-28-2026",
+   "title": "News/📜 Patch Notes - Jun 28, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update28 June 2026·All news·Original post on aa-classic.com 📜 Patch Notes - Jun 28, 2026 The World Boss Cycle begins. ⚡ Tempest reworks Red Dragon, Kraken & Hanure with new interactive spawn mechanics, buffs world boss…",
+   "updated": "2026-11-02T16:31:01Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_Jun_28,_2026",
+   "words": 785
+  },
+  {
+   "slug": "news-patch-notes-jun-5-2026",
+   "title": "News/📜 Patch Notes - Jun 5, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update5 June 2026·All news·Original post on aa-classic.com 📜 Patch Notes - Jun 5, 2026 More space, better coordination, stranger Meadows. This patch adds a fully functional 5th shortcut bar, Comet's Beacon for…",
+   "updated": "2026-11-02T17:36:20Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_Jun_5,_2026",
+   "words": 302
+  },
+  {
+   "slug": "news-patch-notes-may-21-2026",
+   "title": "News/📜 Patch Notes - May 21, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update21 May 2026·All news·Original post on aa-classic.com 📜 Patch Notes - May 21, 2026 Delphinad Ghost Ships return to Exeloch with new regional spawn timers, Kapiros now offers daily rewards, and a new currency…",
+   "updated": "2026-11-02T16:31:11Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_May_21,_2026",
+   "words": 274
+  },
+  {
+   "slug": "news-patch-notes-may-28-2026",
+   "title": "News/📜 Patch Notes - May 28, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update28 May 2026·All news·Original post on aa-classic.com 📜 Patch Notes - May 28, 2026 Customize your game with the new Nametag Color system! Pick your own colors in the options menu, enjoy improved persistent Divine…",
+   "updated": "2026-11-02T16:31:07Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_May_28,_2026",
+   "words": 225
+  },
+  {
+   "slug": "news-patch-notes-september-25-2026",
+   "title": "News/📜 Patch Notes - September 25, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update25 September 2026·All news·Original post on aa-classic.com 📜 Patch Notes - September 25, 2026 Minor fixes in relation with 1.3.6 Taming Taming \"Flee\" threshold has been adjusted. Mounts will now reach as low as 1…",
+   "updated": "2026-11-02T16:28:12Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_September_25,_2026",
+   "words": 372
+  },
+  {
+   "slug": "news-patch-notes-october-10-2026",
+   "title": "News/📜Patch Notes - October 10, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update10 October 2026·All news·Original post on aa-classic.com 📜Patch Notes - October 10, 2026 Cumulative fixes from September 30th to October 10th. Features Primal Anthalon is enabled again, but this time its schedule…",
+   "updated": "2026-11-02T16:28:11Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9CPatch_Notes_-_October_10,_2026",
+   "words": 470
+  },
+  {
+   "slug": "news-patch-notes-october-19-2026",
+   "title": "News/📜Patch Notes - October 19, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update19 October 2026·All news·Original post on aa-classic.com 📜Patch Notes - October 19, 2026 Small patch, bringing the Hallowtide spirit back as a few Festivals begin anew! 🎃 Hallowtide Festivals The following…",
+   "updated": "2026-11-02T16:28:08Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9CPatch_Notes_-_October_19,_2026",
+   "words": 392
+  },
+  {
+   "slug": "news-patch-notes-october-30-2026",
+   "title": "News/📜Patch Notes - October 30, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update30 October 2026·All news·Original post on aa-classic.com 📜Patch Notes - October 30, 2026 The New Client beta is underway, with invites rolling out daily! This week brings plenty of crash fixes, performance…",
+   "updated": "2026-11-02T16:12:47Z",
+   "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9CPatch_Notes_-_October_30,_2026",
+   "words": 751
+  },
+  {
+   "slug": "news-1-3-6-preview-enlightened-ayanad-accessories",
+   "title": "News/1.3.6 Preview - Enlightened Ayanad Accessories",
+   "ns": 0,
+   "category": "Gear & Regrading",
+   "internal": false,
+   "summary": "Announcement9 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Enlightened Ayanad Accessories Second post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Ayanad…",
+   "updated": "2026-11-02T16:30:19Z",
+   "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Enlightened_Ayanad_Accessories",
+   "words": 2065
+  },
+  {
+   "slug": "news-1-3-6-preview-enlightened-ayanad-armor",
+   "title": "News/1.3.6 Preview - Enlightened Ayanad Armor",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement2 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview | Enlightened Ayanad Armor The second series on features of Discovery (1.3.6). Today's post presents the new Enlightened Ayanad…",
+   "updated": "2026-11-02T16:30:39Z",
+   "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Enlightened_Ayanad_Armor",
+   "words": 1692
+  },
+  {
+   "slug": "news-1-3-6-preview-enlightened-skills",
+   "title": "News/1.3.6 Preview - Enlightened Skills",
+   "ns": 0,
+   "category": "Classes & Skills",
+   "internal": false,
+   "summary": "Announcement30 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Enlightened Skills Sixth post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Skills. In Discovery,…",
+   "updated": "2026-11-02T16:29:35Z",
+   "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Enlightened_Skills",
+   "words": 1495
+  },
+  {
+   "slug": "news-1-3-6-preview-primal-anthalon",
+   "title": "News/1.3.6 Preview - Primal Anthalon",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement9 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Primal Anthalon Third post in our series of features on Discovery (1.3.6). Today's post presents Primal Anthalon. In the upcoming 1.3.6…",
+   "updated": "2026-11-02T16:30:23Z",
+   "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Primal_Anthalon",
+   "words": 358
+  },
+  {
+   "slug": "news-1-3-6-preview-scythes",
+   "title": "News/1.3.6 Preview - Scythes",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement16 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Scythes Fourth post in our series of features on Discovery (1.3.6). Today's post presents Scythes. In Discovery, we are adding a brand…",
+   "updated": "2026-11-02T16:30:07Z",
+   "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Scythes",
+   "words": 1026
+  },
+  {
+   "slug": "news-1-3-6-preview-taming",
+   "title": "News/1.3.6 Preview - Taming",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement24 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Taming Fifth post in our series of features on Discovery (1.3.6). Today's post presents Taming. In the months since the comet passed,…",
+   "updated": "2026-11-02T16:29:50Z",
+   "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Taming",
+   "words": 1228
+  },
+  {
+   "slug": "news-3rd-anniversary-patch-notes",
+   "title": "News/3rd Anniversary - Patch Notes",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update5 August 2026·All news·Original post on aa-classic.com 3rd Anniversary | Patch Notes ArcheAge Classic is celebrating its 3rd Anniversary! Lots of events are getting enabled and more are coming. 🎉 ArcheAge…",
+   "updated": "2026-11-02T17:35:44Z",
+   "source": "https://wiki.aa-classic.com/News/3rd_Anniversary_-_Patch_Notes",
+   "words": 391
+  },
+  {
+   "slug": "news-a-new-discovery-dawnsdrop-tools",
+   "title": "News/A New Discovery: Dawnsdrop Tools",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement27 November 2024·All news·Original post on aa-classic.com A New Discovery: Dawnsdrop Tools A New Discovery: Dawnsdrop Tools The Ollo Research Institute has reached a fascinating new discovery in their…",
+   "updated": "2026-11-02T17:37:54Z",
+   "source": "https://wiki.aa-classic.com/News/A_New_Discovery:_Dawnsdrop_Tools",
+   "words": 541
+  },
+  {
+   "slug": "news-aaclassic-one-year-anniversary",
+   "title": "News/AAClassic - One Year Anniversary",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement4 August 2024·All news·Original post on aa-classic.com AAClassic - One Year Anniversary AAClassic - One Year Anniversary Celebrating a year of adventures: A Message from The Darus Hello everyone, Today marks…",
+   "updated": "2026-11-02T16:32:11Z",
+   "source": "https://wiki.aa-classic.com/News/AAClassic_-_One_Year_Anniversary",
+   "words": 738
+  },
+  {
+   "slug": "news-archeage-classic-discovery-1-3-6-trailer",
+   "title": "News/ArcheAge Classic: Discovery (1.3.6) Trailer",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement26 July 2026·All news·Original post on aa-classic.com ArcheAge Classic: Discovery (1.3.6) Trailer The trailer for ArcheAge Classic's next major patch is out now! Watch it on our website, or on our YouTube…",
+   "updated": "2026-11-02T16:30:49Z",
+   "source": "https://wiki.aa-classic.com/News/ArcheAge_Classic:_Discovery_(1.3.6)_Trailer",
+   "words": 136
+  },
+  {
+   "slug": "news-archive",
+   "title": "News/Archive",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "All news posts of aa-classic.com, newest first. Back to News. Date Article Category 2026-10-31 The Road to 2.0: Part 2 — Opening the Beta Announcement 2026-10-30 📜Patch Notes - October 30, 2026 Update 2026-10-27…",
+   "updated": "2026-11-02T16:23:11Z",
+   "source": "https://wiki.aa-classic.com/News/Archive",
+   "words": 545
+  },
+  {
+   "slug": "news-december-newsletter",
+   "title": "News/December Newsletter",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement26 December 2024·All news·Original post on aa-classic.com December Newsletter December Newsletter Happy Holidays from the ArcheAge Classic team! :christmastree: Hello everyone! The ArcheAge Classic team…",
+   "updated": "2026-11-02T17:37:50Z",
+   "source": "https://wiki.aa-classic.com/News/December_Newsletter",
+   "words": 558
+  },
+  {
+   "slug": "news-developer-blog-the-road-to-2-0-beyond-part-1",
+   "title": "News/Developer Blog: The Road to 2.0 & Beyond - Part 1",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement25 October 2026·All news·Original post on aa-classic.com Developer Blog: The Road to 2.0 & Beyond | Part 1 What's been happening behind the scenes at ArcheAge Classic? In this first developer blog, we take a…",
+   "updated": "2026-11-02T16:28:06Z",
+   "source": "https://wiki.aa-classic.com/News/Developer_Blog:_The_Road_to_2.0_&_Beyond_-_Part_1",
+   "words": 1073
+  },
+  {
+   "slug": "news-discord-server-restored",
+   "title": "News/Discord Server Restored",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement27 January 2026·All news·Original post on aa-classic.com Discord Server Restored Hello everyone, our usual Discord server has been restored and is now available for all to enjoy again. You can find it here:…",
+   "updated": "2026-11-02T17:37:11Z",
+   "source": "https://wiki.aa-classic.com/News/Discord_Server_Restored",
+   "words": 64
+  },
+  {
+   "slug": "news-discord-unavailable",
+   "title": "News/Discord Unavailable",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement23 September 2026·All news·Original post on aa-classic.com Discord Unavailable Our Discord is unavailable at the time, find the invite link below. WARNING: Our usual Discord is currently unavailable. Please…",
+   "updated": "2026-11-02T17:34:58Z",
+   "source": "https://wiki.aa-classic.com/News/Discord_Unavailable",
+   "words": 36
+  },
+  {
+   "slug": "news-happy-new-year",
+   "title": "News/Happy New Year!",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement1 January 2026·All news·Original post on aa-classic.com Happy New Year! Wishing everyone a great start to the new year. Thank you for sticking with us (and yes, we know the next patch is taking longer than…",
+   "updated": "2026-11-02T17:37:14Z",
+   "source": "https://wiki.aa-classic.com/News/Happy_New_Year!",
+   "words": 140
+  },
+  {
+   "slug": "news-june-newsletter",
+   "title": "News/June Newsletter",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement22 June 2024·All news·Original post on aa-classic.com June Newsletter June Newsletter Hello everyone! A ton of things are happening soon and we wished to post a small newsletter as I'm sure everyone would…",
+   "updated": "2026-11-02T17:38:29Z",
+   "source": "https://wiki.aa-classic.com/News/June_Newsletter",
+   "words": 609
+  },
+  {
+   "slug": "news-launcher-update-2-2-0",
+   "title": "News/Launcher Update 2.2.0",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update27 October 2026·All news·Original post on aa-classic.com Launcher Update 2.2.0 New Launcher version: Required for the new client beta! Hello everyone, Launcher version 2.2.0 is now out! We are letting players…",
+   "updated": "2026-11-02T17:34:29Z",
+   "source": "https://wiki.aa-classic.com/News/Launcher_Update_2.2.0",
+   "words": 107
+  },
+  {
+   "slug": "news-marketplace-update-aug-21-2026",
+   "title": "News/Marketplace Update - Aug 21, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Marketplace21 August 2026·All news·Original post on aa-classic.com Marketplace Update | Aug 21, 2026 A few costumes are returning to the marketplace! Custom > Costumes (Item overview with 9 items. The pictures are in…",
+   "updated": "2026-11-02T17:35:16Z",
+   "source": "https://wiki.aa-classic.com/News/Marketplace_Update_-_Aug_21,_2026",
+   "words": 36
+  },
+  {
+   "slug": "news-marketplace-update-aug-5-2026",
+   "title": "News/Marketplace Update - Aug 5, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Marketplace5 August 2026·All news·Original post on aa-classic.com Marketplace Update | Aug 5, 2026 It's Anniversary Time! Custom > Costume (Item overview with 25 items. The pictures are in the original article.) Custom…",
+   "updated": "2026-11-02T17:35:48Z",
+   "source": "https://wiki.aa-classic.com/News/Marketplace_Update_-_Aug_5,_2026",
+   "words": 59
+  },
+  {
+   "slug": "news-marketplace-update-aug-7-2026",
+   "title": "News/Marketplace Update - Aug 7, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Marketplace7 August 2026·All news·Original post on aa-classic.com Marketplace Update | Aug 7, 2026 A new Glider image, Fishing Stand Decor and more costumes! Here's a bonus Marketplace Update for the anniversary! Travel…",
+   "updated": "2026-11-02T17:35:41Z",
+   "source": "https://wiki.aa-classic.com/News/Marketplace_Update_-_Aug_7,_2026",
+   "words": 62
+  },
+  {
+   "slug": "news-marketplace-update-july-26-2026",
+   "title": "News/Marketplace Update - July 26 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Marketplace26 July 2026·All news·Original post on aa-classic.com Marketplace Update - July 26 2026 New and returning costumes, alongside Rose Knight weapon customization crate. Custom > Costumes (Item overview with 14…",
+   "updated": "2026-11-02T17:35:59Z",
+   "source": "https://wiki.aa-classic.com/News/Marketplace_Update_-_July_26_2026",
+   "words": 61
+  },
+  {
+   "slug": "news-marketplace-update-july-8-2026",
+   "title": "News/Marketplace Update - July 8 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Marketplace7 July 2026·All news·Original post on aa-classic.com Marketplace Update - July 8 2026 New furniture! Camp Furniture has been added to the game! On top of this, new marketplace preview is available!…",
+   "updated": "2026-11-02T17:36:10Z",
+   "source": "https://wiki.aa-classic.com/News/Marketplace_Update_-_July_8_2026",
+   "words": 95
+  },
+  {
+   "slug": "news-marketplace-update-oct-12-2026",
+   "title": "News/Marketplace Update - Oct 12, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Marketplace12 October 2026·All news·Original post on aa-classic.com Marketplace Update | Oct 12, 2026 Halloween Spirit rolls around as the Marketplace update brings a ton of home decoration! Custom > Costumes Giant…",
+   "updated": "2026-11-02T17:34:39Z",
+   "source": "https://wiki.aa-classic.com/News/Marketplace_Update_-_Oct_12,_2026",
+   "words": 248
+  },
+  {
+   "slug": "news-new-support-system",
+   "title": "News/New Support System",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement2 June 2024·All news·Original post on aa-classic.com New Support System New Support System Greetings everyone! As part of our commitment to improve every aspect of ArcheAge Classic with the upcoming major…",
+   "updated": "2026-11-02T17:38:44Z",
+   "source": "https://wiki.aa-classic.com/News/New_Support_System",
+   "words": 139
+  },
+  {
+   "slug": "news-newsfeed-upgrade",
+   "title": "News/Newsfeed Upgrade",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement31 May 2024·All news·Original post on aa-classic.com Newsfeed Upgrade Newsfeed Upgrade Our newsfeed system has been upgraded to have a more up-to-date set of information. This upgrade results in the loss of…",
+   "updated": "2026-11-02T17:38:47Z",
+   "source": "https://wiki.aa-classic.com/News/Newsfeed_Upgrade",
+   "words": 92
+  },
+  {
+   "slug": "news-newsletter-may-2025",
+   "title": "News/Newsletter - May 2025",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement29 June 2025·All news·Original post on aa-classic.com Newsletter - May 2025 Newsletter – May 2025 Hello everyone! In today's newsletter, we’re excited to share some major developments for . We’ll start with…",
+   "updated": "2026-11-02T16:31:51Z",
+   "source": "https://wiki.aa-classic.com/News/Newsletter_-_May_2025",
+   "words": 500
+  },
+  {
+   "slug": "news-november-newsletter",
+   "title": "News/November Newsletter",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement13 November 2024·All news·Original post on aa-classic.com November Newsletter November Newsletter Hello everyone! We're excited to share what's coming up in ArcheAge Classic this month! Let's dive into the…",
+   "updated": "2026-11-02T17:37:57Z",
+   "source": "https://wiki.aa-classic.com/News/November_Newsletter",
+   "words": 449
+  },
+  {
+   "slug": "news-patch-1-2-10",
+   "title": "News/Patch 1.2.10",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update13 June 2024·All news·Original post on aa-classic.com Patch 1.2.10 Patch 1.2.10 - Hotsprings Pond has been added to Login Badges - Added 11 new gallant mounts from base vanity mounts and boars/pangolins. - Due to…",
+   "updated": "2026-11-02T17:38:33Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.10",
+   "words": 187
+  },
+  {
+   "slug": "news-patch-1-2-11",
+   "title": "News/Patch 1.2.11",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update26 June 2024·All news·Original post on aa-classic.com Patch 1.2.11 Patch 1.2.11 - The Divine Blessings event is extended by a week - Dying in Halcyona or Hasla will prevent you from teleporting while under the…",
+   "updated": "2026-11-02T17:38:26Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.11",
+   "words": 341
+  },
+  {
+   "slug": "news-patch-1-2-12",
+   "title": "News/Patch 1.2.12",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update3 July 2024·All news·Original post on aa-classic.com Patch 1.2.12 Patch 1.2.12 - Cloudstrike Panther has been increased to 11.5 m/s. - Crimson Lightning has been increased to 11.5 m/s. - The spawn rate of Flowers…",
+   "updated": "2026-11-02T17:38:22Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.12",
+   "words": 204
+  },
+  {
+   "slug": "news-patch-1-2-13",
+   "title": "News/Patch 1.2.13",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update10 July 2024·All news·Original post on aa-classic.com Patch 1.2.13 Patch 1.2.13 - The visual effects for the Crystal Wings glider has been disabled. This is in an attempt to pinpoint a crash-to-desktop issue that…",
+   "updated": "2026-11-02T17:38:19Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.13",
+   "words": 230
+  },
+  {
+   "slug": "news-patch-1-2-14",
+   "title": "News/Patch 1.2.14",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update19 July 2024·All news·Original post on aa-classic.com Patch 1.2.14 Patch 1.2.14 - Captain's Intuition should more reliably persist - A recipe has been added to get the Soulforged Armor kits for those who lost or…",
+   "updated": "2026-11-02T17:38:15Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.14",
+   "words": 290
+  },
+  {
+   "slug": "news-patch-1-2-15",
+   "title": "News/Patch 1.2.15",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update26 July 2024·All news·Original post on aa-classic.com Patch 1.2.15 Patch 1.2.15 - Bulwark and Authority proven warrior spellbooks are now unbound. - The Darus need your help! They are preparing for the Day of…",
+   "updated": "2026-11-02T17:38:12Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.15",
+   "words": 251
+  },
+  {
+   "slug": "news-patch-1-2-4",
+   "title": "News/Patch 1.2.4",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update8 May 2024·All news·Original post on aa-classic.com Patch 1.2.4 Patch 1.2.4 Hello everyone, today's patchnotes are below. We'd like to add that we'll be doing a small change in how we work to make it more…",
+   "updated": "2026-11-02T17:39:02Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.4",
+   "words": 424
+  },
+  {
+   "slug": "news-patch-1-2-5",
+   "title": "News/Patch 1.2.5",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update15 May 2024·All news·Original post on aa-classic.com Patch 1.2.5 Patch 1.2.5 Hey everyone here are the notes for the week. Pretty small all in all, as I said we're working on 1.3! - Accessory Resealing has been…",
+   "updated": "2026-11-02T17:38:58Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.5",
+   "words": 259
+  },
+  {
+   "slug": "news-patch-1-2-7",
+   "title": "News/Patch 1.2.7",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update22 May 2024·All news·Original post on aa-classic.com Patch 1.2.7 Patch 1.2.7 Hey everyone, here are the notes for the week. It's a tiny patch as basically all of our focus was put on 1.3. Hoping to share good news…",
+   "updated": "2026-11-02T17:38:55Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.7",
+   "words": 152
+  },
+  {
+   "slug": "news-patch-1-2-8",
+   "title": "News/Patch 1.2.8",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update29 May 2024·All news·Original post on aa-classic.com Patch 1.2.8 Patch 1.2.8 - Fixed combined consumables not cleansing for sparring arena. - Added non-chroma to chroma transformation for Fae Yata Costume. - \"New\"…",
+   "updated": "2026-11-02T17:38:51Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.8",
+   "words": 245
+  },
+  {
+   "slug": "news-patch-1-2-9",
+   "title": "News/Patch 1.2.9",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update5 June 2024·All news·Original post on aa-classic.com Patch 1.2.9 Patch 1.2.9 Good morning everyone! With today's maintenance we bring a small set of fixes. Next week's patch will include a new activity and a few…",
+   "updated": "2026-11-02T17:38:40Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.2.9",
+   "words": 201
+  },
+  {
+   "slug": "news-patch-1-3-is-coming-october-30th",
+   "title": "News/Patch 1.3 is Coming October 30th!",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement26 October 2024·All news·Original post on aa-classic.com Patch 1.3 is Coming October 30th! Patch 1.3 is Coming October 30th! The wait is over! ArcheAge Classic's unique twist on Erenor Eternal (Patch 3.5) is…",
+   "updated": "2026-11-02T17:38:01Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.3_is_Coming_October_30th!",
+   "words": 331
+  },
+  {
+   "slug": "news-patch-1-3-5-preview-starfall-landing",
+   "title": "News/Patch 1.3.5 Preview — Starfall: Landing",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement7 April 2025·All news·Original post on aa-classic.com Patch 1.3.5 Preview — Starfall: Landing The ArcheAge Classic team is excited to introduce the beginning of the update series. Launching , this is the…",
+   "updated": "2026-11-02T17:37:46Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.3.5_Preview_%E2%80%94_Starfall:_Landing",
+   "words": 469
+  },
+  {
+   "slug": "news-patch-1-3-5d",
+   "title": "News/Patch 1.3.5d",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update21 May 2025·All news·Original post on aa-classic.com Patch 1.3.5d Patch 1.3.5d - 🐱 🐶 The Pawesome Festival is enabled!, - You'll find Worldgates in all major cities to go and celebrate animals in Windscour! - A…",
+   "updated": "2026-11-02T17:37:43Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.3.5d",
+   "words": 211
+  },
+  {
+   "slug": "news-patch-1-3-5e",
+   "title": "News/Patch 1.3.5e",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update28 May 2025·All news·Original post on aa-classic.com Patch 1.3.5e Patch 1.3.5e - The stack size of Noble, Jester, Prince and Queen's Crates has been increase to 1000 - Kadum will now spawn faster after Mistmerrow…",
+   "updated": "2026-11-02T17:37:39Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.3.5e",
+   "words": 135
+  },
+  {
+   "slug": "news-patch-1-3-5g",
+   "title": "News/Patch 1.3.5g",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update13 June 2025·All news·Original post on aa-classic.com Patch 1.3.5g 📢 Patch 1.3.5g – Now Live A custom patch bringing themes, Ultra Mode, a new event arena and more to ArcheAge Classic. 🌌 New Features 🎨 UI…",
+   "updated": "2026-11-02T17:37:36Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.3.5g",
+   "words": 480
+  },
+  {
+   "slug": "news-patch-1-3-5h3-swirling-meadow-extension",
+   "title": "News/Patch 1.3.5h3 / Swirling Meadow Extension",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update10 July 2025·All news·Original post on aa-classic.com Patch 1.3.5h3 / Swirling Meadow Extension Patch 1.3.5h3 extends Swirling Meadow with new housing, changes to the zone's appearance and some bug fixes. - ☄️…",
+   "updated": "2026-11-02T17:37:28Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.3.5h3_/_Swirling_Meadow_Extension",
+   "words": 218
+  },
+  {
+   "slug": "news-patch-1-3-5j-highlights",
+   "title": "News/Patch 1.3.5j Highlights",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update23 July 2025·All news·Original post on aa-classic.com Patch 1.3.5j Highlights Patch 1.3.5j Highlights Progression & Utility - The is now rewarded from the instead of a quest (fixes delivery issues) - is now…",
+   "updated": "2026-11-02T17:37:25Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_1.3.5j_Highlights",
+   "words": 288
+  },
+  {
+   "slug": "news-patch-notes-apr-3-2026",
+   "title": "News/Patch Notes - Apr 3, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update3 April 2026·All news·Original post on aa-classic.com Patch Notes - Apr 3, 2026 Spring egg hunt: capital baskets and Delicate Gloves for Magical Rabbit Eggs, daily glove drops from Divine Clock, and bonus eggs…",
+   "updated": "2026-11-02T16:31:24Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_-_Apr_3,_2026",
+   "words": 189
+  },
+  {
+   "slug": "news-patch-notes-apr-9-2026",
+   "title": "News/Patch Notes - Apr 9, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update9 April 2026·All news·Original post on aa-classic.com Patch Notes - Apr 9, 2026 📜 Patch Notes - Apr 9, 2026 On spawn, Kraken will have a 5 minute buff: [Kraken's Mucus] [Kraken's Mucus] + Duration: 5 minutes +…",
+   "updated": "2026-11-02T16:31:19Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_-_Apr_9,_2026",
+   "words": 156
+  },
+  {
+   "slug": "news-patch-notes-feb-19-2026",
+   "title": "News/Patch Notes - Feb 19, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update19 February 2026·All news·Original post on aa-classic.com Patch Notes - Feb 19, 2026 Phoenix Ashes wrap-up: Divine Clock ends Saturday 6 AM server time; mentor/mentee quests + Musperosa chest tweaked through the…",
+   "updated": "2026-11-02T17:36:49Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_-_Feb_19,_2026",
+   "words": 348
+  },
+  {
+   "slug": "news-patch-notes-mar-26-2026",
+   "title": "News/Patch Notes - Mar 26, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update26 March 2026·All news·Original post on aa-classic.com Patch Notes - Mar 26, 2026 Divine Blessings Clock runs two weeks. Fishing quality-of-life: Marlins and Sunfish open combat without the old first-cast delay.…",
+   "updated": "2026-11-02T17:36:42Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_-_Mar_26,_2026",
+   "words": 71
+  },
+  {
+   "slug": "news-patch-notes-mar-5-2026",
+   "title": "News/Patch Notes - Mar 5, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update5 March 2026·All news·Original post on aa-classic.com Patch Notes - Mar 5, 2026 Siege prep changes: castles need 50 members in the top 50 rankings; trainee duration now 5 days; new Reinforced Ironclad (wrapped,…",
+   "updated": "2026-11-02T16:51:21Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_-_Mar_5,_2026",
+   "words": 242
+  },
+  {
+   "slug": "news-patch-notes-may-14-2026",
+   "title": "News/Patch Notes - May 14, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update14 May 2026·All news·Original post on aa-classic.com Patch Notes - May 14, 2026 Two-week Pawesome Festival (wiki-linked in full notes); new bulk x10 Combat Manual & Grimoire crafting; War Drum now survives rez. 📜…",
+   "updated": "2026-11-02T16:31:15Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_-_May_14,_2026",
+   "words": 73
+  },
+  {
+   "slug": "news-patch-notes-february-13-2026",
+   "title": "News/Patch Notes — February 13, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update13 February 2026·All news·Original post on aa-classic.com Patch Notes — February 13, 2026 Major Serpentis update: faster routes to Sirothe, four tiers of Sapphire relic weapons (new Warclub type, T1 drops with…",
+   "updated": "2026-11-02T17:36:53Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_%E2%80%94_February_13,_2026",
+   "words": 583
+  },
+  {
+   "slug": "news-patch-notes-february-3-2026",
+   "title": "News/Patch Notes — February 3, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update2 February 2026·All news·Original post on aa-classic.com Patch Notes — February 3, 2026 Emerald Weapon Changes - Tokens can now be found on the following monsters in Hasla & Karkasse. Monsters will drop 1-2 tokens…",
+   "updated": "2026-11-02T17:37:07Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_%E2%80%94_February_3,_2026",
+   "words": 209
+  },
+  {
+   "slug": "news-patch-notes-february-5-2026",
+   "title": "News/Patch Notes — February 5, 2026",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update5 February 2026·All news·Original post on aa-classic.com Patch Notes — February 5, 2026 Adventurer's Guide (see newsboard): Divine Clock returns with hourly Phoenix Ashes caps, plus a new mentor/mentee GHA pickup.…",
+   "updated": "2026-11-02T17:37:00Z",
+   "source": "https://wiki.aa-classic.com/News/Patch_Notes_%E2%80%94_February_5,_2026",
+   "words": 240
+  },
+  {
+   "slug": "news-phoenixs-ashes-event",
+   "title": "News/Phoenix’s Ashes Event",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement3 February 2026·All news·Original post on aa-classic.com Phoenix’s Ashes Event As a certain burns to ash (and this time doesn’t seem poised to rise again) we’re honoring its memory with a slate of changes…",
+   "updated": "2026-11-02T17:37:03Z",
+   "source": "https://wiki.aa-classic.com/News/Phoenix%E2%80%99s_Ashes_Event",
+   "words": 599
+  },
+  {
+   "slug": "news-preview-supplying-the-settlers",
+   "title": "News/Preview: Supplying the Settlers",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement6 June 2024·All news·Original post on aa-classic.com Preview: Supplying the Settlers Preview: Supplying the Settlers Greetings everyone! As part of our effort to bring great and fun content to our…",
+   "updated": "2026-11-02T16:32:34Z",
+   "source": "https://wiki.aa-classic.com/News/Preview:_Supplying_the_Settlers",
+   "words": 406
+  },
+  {
+   "slug": "news-public-test-server-for-1-3-and-release",
+   "title": "News/Public Test Server for 1.3 and Release",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement14 September 2024·All news·Original post on aa-classic.com Public Test Server for 1.3 and Release Public Test Server for 1.3 and Release Hello everyone, As mentioned in this week's maintenance post, we've…",
+   "updated": "2026-11-02T17:38:04Z",
+   "source": "https://wiki.aa-classic.com/News/Public_Test_Server_for_1.3_and_Release",
+   "words": 466
+  },
+  {
+   "slug": "news-roadmap-2-year-qna-answers",
+   "title": "News/Roadmap & 2 Year QnA answers",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement21 September 2025·All news·Original post on aa-classic.com Roadmap & 2 Year QnA answers Hello everyone, We're excited to unveil our comprehensive Starfall Saga Roadmap and share the complete answers from our…",
+   "updated": "2026-11-02T17:37:18Z",
+   "source": "https://wiki.aa-classic.com/News/Roadmap_&_2_Year_QnA_answers",
+   "words": 159
+  },
+  {
+   "slug": "news-starfall-discovery-patch-preview",
+   "title": "News/Starfall: Discovery - Patch Preview",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement4 September 2026·All news·Original post on aa-classic.com Starfall: Discovery | Patch Preview The newest installment in the Starfall Saga is landing soon in ArcheAge Classic. Starfall: Discovery will expand…",
+   "updated": "2026-11-02T16:29:27Z",
+   "source": "https://wiki.aa-classic.com/News/Starfall:_Discovery_-_Patch_Preview",
+   "words": 2049
+  },
+  {
+   "slug": "news-starfall-discovery-1-3-6-patch-notes",
+   "title": "News/Starfall: Discovery (1.3.6) - Patch Notes",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update23 September 2026·All news·Original post on aa-classic.com Starfall: Discovery (1.3.6) | Patch Notes Patch 1.3.6 is FINALLY out! Discover it all here. New Weapon Type: Scythes (Preview) Scythes have the following…",
+   "updated": "2026-11-02T16:29:03Z",
+   "source": "https://wiki.aa-classic.com/News/Starfall:_Discovery_(1.3.6)_-_Patch_Notes",
+   "words": 4977
+  },
+  {
+   "slug": "news-the-road-to-2-0-part-2-opening-the-beta",
+   "title": "News/The Road to 2.0: Part 2 — Opening the Beta",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement31 October 2026·All news·Original post on aa-classic.com The Road to 2.0: Part 2 — Opening the Beta The new client beta is now open to everyone! After a week of crash fixes, performance optimizations, and…",
+   "updated": "2026-11-02T16:12:46Z",
+   "source": "https://wiki.aa-classic.com/News/The_Road_to_2.0:_Part_2_%E2%80%94_Opening_the_Beta",
+   "words": 1223
+  },
+  {
+   "slug": "news-two-years-of-archeage-classic-thank-you",
+   "title": "News/Two Years of ArcheAge Classic — Thank You",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement27 July 2025·All news·Original post on aa-classic.com Two Years of ArcheAge Classic — Thank You Two years already. It’s been trade runs, treasure maps, sea battles, and sieges. It’s been broken alliances and…",
+   "updated": "2026-11-02T17:37:21Z",
+   "source": "https://wiki.aa-classic.com/News/Two_Years_of_ArcheAge_Classic_%E2%80%94_Thank_You",
+   "words": 206
+  },
+  {
+   "slug": "news-video-showcase-event",
+   "title": "News/Video Showcase Event",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Announcement9 February 2026·All news·Original post on aa-classic.com Video Showcase Event Looking for a real sandbox MMO again? Welcome home. We’re hosting a and inviting both veterans to show what makes ArcheAge…",
+   "updated": "2026-11-02T17:36:56Z",
+   "source": "https://wiki.aa-classic.com/News/Video_Showcase_Event",
+   "words": 193
+  },
+  {
+   "slug": "news-voice-chat-beta",
+   "title": "News/Voice Chat Beta",
+   "ns": 0,
+   "category": "General",
+   "internal": false,
+   "summary": "Update13 August 2026·All news·Original post on aa-classic.com Voice Chat Beta ArcheAge Classic will soon feature a Voice Chat System! Here are all the details regarding it. https://www.youtube.com/watch?v=Zk67_OMvOXs…",
+   "updated": "2026-11-02T16:56:41Z",
+   "source": "https://wiki.aa-classic.com/News/Voice_Chat_Beta",
+   "words": 365
   },
   {
    "slug": "no",
@@ -2848,9 +4509,9 @@
    "category": "Mounts & Pets",
    "internal": false,
    "summary": "The power-stone pet is an un-killable pet that offers the player valuable buffs. Acquiring a Bloomfang Soul Fragment Travel to Ahnimar Community Center to talk to Daru NPC called Kilun the Alchemy Merchant. Kilun will…",
-   "updated": "2025-07-30T12:56:21Z",
+   "updated": "2026-10-29T22:54:12Z",
    "source": "https://wiki.aa-classic.com/Powerstone_Pet",
-   "words": 449
+   "words": 530
   },
   {
    "slug": "prestige",
@@ -3254,10 +4915,10 @@
    "ns": 0,
    "category": "Mounts & Pets",
    "internal": false,
-   "summary": "Mounts that can be crafted by collecting certain items to make them or by completing questlines. Siegeram Taurus Recipe Siegeram Taurus Bundle × 1 Labor Cost × 800 Workbench Pet Accessory Workbench Proficiency Pet Gear…",
+   "summary": "Mounts that can be crafted by collecting certain items to make them or by completing questlines. Siegeram Taurus RecipeSiegeram Taurus BundleRareOtherRareSiegeram Taurus BundleUntradeableUnwrap to obtain an Siegeram…",
    "updated": "2026-10-25T14:55:52Z",
    "source": "https://wiki.aa-classic.com/Special_mounts",
-   "words": 1294
+   "words": 1752
   },
   {
    "slug": "staging-packs",
@@ -3620,7 +5281,29 @@
    "summary": "A Page dedicated to Wiki Editors Sheoix made alot of new Templates and Tables for us to use and this is a quick explanation of all new functions to it. How to add Mounts To add a mount you can simply use Insert >…",
    "updated": "2026-10-25T03:59:42Z",
    "source": "https://wiki.aa-classic.com/Template_example",
-   "words": 1377
+   "words": 1759
+  },
+  {
+   "slug": "template-bufflink",
+   "title": "Template:BuffLink",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Shows a buff, debuff or passive effect as a small icon (22px, so it fits in a line of text; with a black and a green or red border over its edge) with its name beside it. When the pointer rests on the icon or the name,…",
+   "updated": "2026-10-31T00:54:20Z",
+   "source": "https://wiki.aa-classic.com/Template:BuffLink",
+   "words": 327
+  },
+  {
+   "slug": "template-bufflink-styles-css",
+   "title": "Template:BuffLink/styles.css",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "/* {{BuffLink}}: icon + name, the buff card opens beside it on hover (tip=left: on the left side) */ .aa-bufftip { position: relative; display: inline-flex; align-items: center; gap: 4px; vertical-align: middle; }…",
+   "updated": "2026-10-31T00:54:32Z",
+   "source": "https://wiki.aa-classic.com/Template:BuffLink/styles.css",
+   "words": 442
   },
   {
    "slug": "template-coins",
@@ -3651,9 +5334,9 @@
    "category": "Templates",
    "internal": true,
    "summary": "Shows an in-game style tooltip for an item that is used or opened: potions, food, talismans, tokens, crates and so on. It is also the card for every item that has no card of its own. Normally you use Template:Tooltip,…",
-   "updated": "2026-10-26T23:16:09Z",
+   "updated": "2026-11-01T14:03:48Z",
    "source": "https://wiki.aa-classic.com/Template:Consumable",
-   "words": 300
+   "words": 323
   },
   {
    "slug": "template-consumable-styles-css",
@@ -3662,9 +5345,9 @@
    "category": "Templates",
    "internal": true,
    "summary": "/* Item card (potions, food, talismans, tokens, crates ...). Same look as the Mount and Glider cards. Position comes inline from Module:Consumable. */ .aa-item { display: flow-root; position: relative; box-sizing:…",
-   "updated": "2026-10-26T23:02:30Z",
+   "updated": "2026-11-01T14:03:57Z",
    "source": "https://wiki.aa-classic.com/Template:Consumable/styles.css",
-   "words": 292
+   "words": 692
   },
   {
    "slug": "template-contents",
@@ -3761,9 +5444,20 @@
    "category": "Templates",
    "internal": true,
    "summary": "File:(((1))).png {{{1}}}Shows an item with its icon (with the grade border), its name in the grade colour and an optional amount. Usage by item IDThe name, grade and icon all come from the game data, so the item ID is…",
-   "updated": "2026-10-26T22:33:02Z",
+   "updated": "2026-10-31T15:52:51Z",
    "source": "https://wiki.aa-classic.com/Template:Item",
-   "words": 378
+   "words": 809
+  },
+  {
+   "slug": "template-item-styles-css",
+   "title": "Template:Item/styles.css",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "/* Hover tooltip of {{Item}}: the item card opens beside the icon and name (tip=left: on the left side) */ .aa-itemtip { position: relative; } .aa-itemtip-card { display: none; position: absolute; top: -8px; left: 100%;…",
+   "updated": "2026-10-30T20:14:03Z",
+   "source": "https://wiki.aa-classic.com/Template:Item/styles.css",
+   "words": 126
   },
   {
    "slug": "template-itemwithtooltip",
@@ -3854,6 +5548,138 @@
    "words": 490
   },
   {
+   "slug": "template-mainpage-card",
+   "title": "Template:MainPage/Card",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "[[File:{{{image}}}|link={{{page}}}|alt=]][[{{{page}}}|{{{title}}}{{{sub}}}]]",
+   "updated": "2026-11-02T05:14:27Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Card",
+   "words": 1
+  },
+  {
+   "slug": "template-mainpage-gamenews",
+   "title": "Template:MainPage/GameNews",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Game NewsThe Road to 2.0: Part 2 — Opening the Beta · 31 Oct",
+   "updated": "2026-11-02T16:23:12Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/GameNews",
+   "words": 15
+  },
+  {
+   "slug": "template-mainpage-guides",
+   "title": "Template:MainPage/Guides",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Guides Browse by topic General Activity Tokens Emerald Weapons Festivals Regrade Rates Mounts Currencies Gliders Ships Cosmetic Costumes & Imaging Stat Migration Stat Costumes & Undergarments Combat Skill Trees Status…",
+   "updated": "2026-11-02T15:32:33Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Guides",
+   "words": 44
+  },
+  {
+   "slug": "template-mainpage-hero",
+   "title": "Template:MainPage/Hero",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "ArcheAge Classic Wiki Everything about the golden age of Erenor Search for an item, skill, mount, recipe ... Start Your JourneyPopular",
+   "updated": "2026-11-02T05:08:30Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Hero",
+   "words": 22
+  },
+  {
+   "slug": "template-mainpage-news",
+   "title": "Template:MainPage/News",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Latest wiki updatesAll recent changes 2 Nov Added the new Main Page with search, skill trees and proficiencies. 2 Nov Sorcery skill tree added to the wiki. 1 Nov Mount and glider tooltips",
+   "updated": "2026-11-02T16:18:58Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/News",
+   "words": 34
+  },
+  {
+   "slug": "template-mainpage-proficiencies",
+   "title": "Template:MainPage/Proficiencies",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Labor Proficiencies Harvesting Husbandry Farming Fishing Logging Gathering Mining Crafting Alchemy Cooking Handicrafts Machining Metalwork Printing Masonry Tailoring Leatherwork Weaponry Carpentry Special Construction…",
+   "updated": "2026-11-02T05:16:27Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Proficiencies",
+   "words": 28
+  },
+  {
+   "slug": "template-mainpage-proficiency",
+   "title": "Template:MainPage/Proficiency",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "[[{{{1}}}]]",
+   "updated": "2026-11-02T05:16:15Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Proficiency",
+   "words": 1
+  },
+  {
+   "slug": "template-mainpage-skill",
+   "title": "Template:MainPage/Skill",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "[[{{{1}}}]]",
+   "updated": "2026-11-02T05:11:20Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Skill",
+   "words": 1
+  },
+  {
+   "slug": "template-mainpage-skills",
+   "title": "Template:MainPage/Skills",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Combat Skill trees Battlerage Witchcraft Defense Auramancy Occultism Archery Sorcery Shadowplay Songcraft",
+   "updated": "2026-11-02T15:34:18Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Skills",
+   "words": 13
+  },
+  {
+   "slug": "template-mainpage-start",
+   "title": "Template:MainPage/Start",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Start here New to Classic? Getting StartedBeginner's Guide to Classic Earning GoldThe best ways to make gold GearingFrom first gear to endgame World EventsTimers, rewards and schedules World BossesSpawns, strategies and…",
+   "updated": "2026-11-02T05:09:18Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/Start",
+   "words": 32
+  },
+  {
+   "slug": "template-mainpage-styles-css",
+   "title": "Template:MainPage/styles.css",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "/* Template:MainPage/styles.css - the LAYOUT of the Main Page (sizes, grids, hero). The colours of the cards, tiles, lists and headings live in MediaWiki:Citizen.css, because they change with the light / dark theme and…",
+   "updated": "2026-11-02T16:19:20Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPage/styles.css",
+   "words": 1486
+  },
+  {
+   "slug": "template-mainpagenews",
+   "title": "Template:MainPageNews",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "2 Nov Added the new Main Page with search, skill trees and proficiencies. 2 Nov Sorcery skill tree added to the wiki. 1 Nov Mount and glider tooltips",
+   "updated": "2026-11-02T05:04:08Z",
+   "source": "https://wiki.aa-classic.com/Template:MainPageNews",
+   "words": 29
+  },
+  {
    "slug": "template-mount",
    "title": "Template:Mount",
    "ns": 10,
@@ -3871,9 +5697,9 @@
    "category": "Templates",
    "internal": true,
    "summary": "/* Mount tooltip card */ .aa-mount { display: flow-root; /* keeps the card clear of floated images so it takes its own space */ position: relative; box-sizing: border-box; width: 300px; max-width: 100%; padding: 10px…",
-   "updated": "2026-10-25T04:12:30Z",
+   "updated": "2026-11-01T14:04:17Z",
    "source": "https://wiki.aa-classic.com/Template:Mount/styles.css",
-   "words": 615
+   "words": 607
   },
   {
    "slug": "template-mountskillrow",
@@ -3898,13 +5724,68 @@
    "words": 1
   },
   {
+   "slug": "template-newsarticle",
+   "title": "Template:NewsArticle",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "This template sits at the top of every news article page (the script sync_news.py writes it). It shows the banner image, the category and date, the article title and the short summary. Parameters: title, slug, date,…",
+   "updated": "2026-11-02T16:37:38Z",
+   "source": "https://wiki.aa-classic.com/Template:NewsArticle",
+   "words": 40
+  },
+  {
+   "slug": "template-newscard",
+   "title": "Template:NewsCard",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "One small news card. Called by Template:NewsFeed through Cargo (fields Page, Title, Date, Category, Image,",
+   "updated": "2026-11-02T16:02:08Z",
+   "source": "https://wiki.aa-classic.com/Template:NewsCard",
+   "words": 16
+  },
+  {
+   "slug": "template-newsfeatured",
+   "title": "Template:NewsFeatured",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "The big card at the top of a column of",
+   "updated": "2026-11-02T17:05:04Z",
+   "source": "https://wiki.aa-classic.com/Template:NewsFeatured",
+   "words": 11
+  },
+  {
+   "slug": "template-newsfeed",
+   "title": "Template:NewsFeed",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "The two-column news overview: Updates (left, with the Marketplace posts) and Announcements (right), the newest post of each as a big card. Put {{NewsFeed}} on the page News. Optional: limit= = how many small cards per…",
+   "updated": "2026-11-02T16:02:40Z",
+   "source": "https://wiki.aa-classic.com/Template:NewsFeed",
+   "words": 39
+  },
+  {
+   "slug": "template-newsfeed-styles-css",
+   "title": "Template:NewsFeed/styles.css",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "/* Template:NewsFeed/styles.css - layout of the News page and of the header on the article pages. The colours (card background, title, text) live in MediaWiki:Citizen.css (the News block), they change with the…",
+   "updated": "2026-11-02T17:21:58Z",
+   "source": "https://wiki.aa-classic.com/Template:NewsFeed/styles.css",
+   "words": 673
+  },
+  {
    "slug": "template-pet",
    "title": "Template:Pet",
    "ns": 10,
    "category": "Templates",
    "internal": true,
    "summary": "Shows an in-game style tooltip for a pet (Pets, Powerstone Pets, Battle Pets). The skills in the description are hoverable and show their details, like the skills of mounts and gliders. Normally you use…",
-   "updated": "2026-10-26T23:16:00Z",
+   "updated": "2026-11-01T14:04:06Z",
    "source": "https://wiki.aa-classic.com/Template:Pet",
    "words": 222
   },
@@ -3947,8 +5828,8 @@
    "ns": 10,
    "category": "Templates",
    "internal": true,
-   "summary": "(NEW) Taming Larceny Fishing Commerce Dawnsdrop",
-   "updated": "2026-10-03T19:59:05Z",
+   "summary": "Taming NEW Larceny Fishing Commerce Dawnsdrop",
+   "updated": "2026-11-02T04:23:59Z",
    "source": "https://wiki.aa-classic.com/Template:ProfessionsPages",
    "words": 7
   },
@@ -3958,10 +5839,10 @@
    "ns": 10,
    "category": "Templates",
    "internal": true,
-   "summary": "Shows a craft recipe, fetched from the sermeatball crafting API. The recipe row shows how many items one craft makes. When the craft has a bonus rate above 100 (and below 1000, since 10000 is not a percentage), a…",
-   "updated": "2026-10-26T20:20:13Z",
+   "summary": "Shows a craft recipe as a card in the look of the item, skill and buff cards: the product (hover its icon or name for its tooltip card, a \"Chance for 2x\" tag when the recipe has one), proficiency, labor and workbench…",
+   "updated": "2026-10-31T00:55:07Z",
    "source": "https://wiki.aa-classic.com/Template:RecipeBox",
-   "words": 295
+   "words": 426
   },
   {
    "slug": "template-recipebox-styles-css",
@@ -3970,9 +5851,9 @@
    "category": "Templates",
    "internal": true,
    "summary": "/* RecipeBox layout. Where the box sits (float parameter) is set inline by Template:RecipeBox, this page only adds a minimum width and the phone layout. */ .aa-recipebox { display: flow-root; box-sizing: border-box;…",
-   "updated": "2026-10-25T04:24:34Z",
+   "updated": "2026-11-01T13:54:22Z",
    "source": "https://wiki.aa-classic.com/Template:RecipeBox/styles.css",
-   "words": 126
+   "words": 679
   },
   {
    "slug": "template-recipecoinline",
@@ -3992,7 +5873,7 @@
    "category": "Templates",
    "internal": true,
    "summary": "Row template for RecipeBox. One call per ingredient, filled in by External Data (#display_external_table). Parameters (named after the API fields): mid (the item ID, used to read the game's icon file name from…",
-   "updated": "2026-10-25T20:09:40Z",
+   "updated": "2026-10-31T00:54:56Z",
    "source": "https://wiki.aa-classic.com/Template:RecipeMaterialLine",
    "words": 87
   },
@@ -4003,9 +5884,9 @@
    "category": "Templates",
    "internal": true,
    "summary": "Shows an in-game style tooltip card for a skill: icon, skill line, name, element (top right), rank, mana, range, effect range, attack percent, cast time, cooldown, the effects it grants (buff icons), the description…",
-   "updated": "2026-10-27T20:55:13Z",
+   "updated": "2026-10-28T21:18:01Z",
    "source": "https://wiki.aa-classic.com/Template:Skill",
-   "words": 489
+   "words": 556
   },
   {
    "slug": "template-skill-styles-css",
@@ -4013,10 +5894,54 @@
    "ns": 10,
    "category": "Templates",
    "internal": true,
-   "summary": "/* Skill card. Position comes inline from Module:Skill. Same look as the Mount / Glider / item cards. */ /* A chain (Triple Slash) has one card per skill inside .aa-skill-set, only one is shown: the requested one…",
-   "updated": "2026-10-27T22:29:59Z",
+   "summary": "/* Skill card. Position comes inline from Module:Skill. Same look as the Mount / Glider / item cards. */ /* A skill can have versions (Basic, Quake, Lightning ... shown at the top right) and a chain (Triple Slash).…",
+   "updated": "2026-10-30T09:26:06Z",
    "source": "https://wiki.aa-classic.com/Template:Skill/styles.css",
-   "words": 1024
+   "words": 2159
+  },
+  {
+   "slug": "template-skilllink",
+   "title": "Template:SkillLink",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "Shows a skill as a small icon (22px, so it fits in a line of text; with a black and an orange border over its edge) with its name beside it. When the pointer rests on the icon or the name, the skill's tooltip card…",
+   "updated": "2026-10-31T12:26:57Z",
+   "source": "https://wiki.aa-classic.com/Template:SkillLink",
+   "words": 279
+  },
+  {
+   "slug": "template-skilllink-styles-css",
+   "title": "Template:SkillLink/styles.css",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "/* {{SkillLink}}: icon + name, the skill card opens beside it on hover (tip=left: on the left side) */ .aa-skilltip { position: relative; display: inline-flex; align-items: center; gap: 4px; vertical-align: middle; }…",
+   "updated": "2026-10-31T12:26:46Z",
+   "source": "https://wiki.aa-classic.com/Template:SkillLink/styles.css",
+   "words": 234
+  },
+  {
+   "slug": "template-skilltree",
+   "title": "Template:Skilltree",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "The skill tree window of the game for one tree: the combat skills, the passives and (a click on the eye) the Abyssal skills. Hover a skill to see its card, a passive to see its text. Everything is shown for a player of…",
+   "updated": "2026-10-29T16:10:20Z",
+   "source": "https://wiki.aa-classic.com/Template:Skilltree",
+   "words": 244
+  },
+  {
+   "slug": "template-skilltree-styles-css",
+   "title": "Template:Skilltree/styles.css",
+   "ns": 10,
+   "category": "Templates",
+   "internal": true,
+   "summary": "/* Template:Skilltree/styles.css - the skill tree window. Tiles are 60px. A skill tile is the output of Module:Skill (.aa-skill-set: the :target anchors, the icons of the tile .aa-tileicons and the cards .aa-varset).…",
+   "updated": "2026-10-30T19:20:14Z",
+   "source": "https://wiki.aa-classic.com/Template:Skilltree/styles.css",
+   "words": 1466
   },
   {
    "slug": "template-spoilersahead",
@@ -4036,9 +5961,9 @@
    "category": "Templates",
    "internal": true,
    "summary": "Shows the in-game style tooltip card of any item. The template finds out what kind of item it is from the item ID and uses the right card: Template:Mount for mounts, Template:Glider for gliders and Magithopters, and…",
-   "updated": "2026-10-26T22:04:06Z",
+   "updated": "2026-10-31T15:52:43Z",
    "source": "https://wiki.aa-classic.com/Template:Tooltip",
-   "words": 246
+   "words": 271
   },
   {
    "slug": "template-videoguide",
@@ -4129,15 +6054,59 @@
    "words": 5
   },
   {
+   "slug": "user-mogray-playground",
+   "title": "User:Mogray/Playground",
+   "ns": 2,
+   "category": "User pages",
+   "internal": true,
+   "summary": "Kindled Spirit PowerstonePet GearKindled Spirit PowerstoneUntradeableCan only be equipped on Powerstone Pets and is invisible once equipped.Buff: Increases owner's Attack Speed +35.Skill A: Specter SpectacularIncreases…",
+   "updated": "2026-11-01T03:05:53Z",
+   "source": "https://wiki.aa-classic.com/User:Mogray/Playground",
+   "words": 3789
+  },
+  {
+   "slug": "user-sheoix-citizen-css",
+   "title": "User:Sheoix/citizen.css",
+   "ns": 2,
+   "category": "User pages",
+   "internal": true,
+   "summary": "/* USER TEST VERSION - save this as User:Sheoix/citizen.css on wiki.aa-classic.com It only changes the wiki for you (while you are logged in), nobody else sees it. It is the same look as the local test wiki, but without…",
+   "updated": "2026-11-01T22:00:20Z",
+   "source": "https://wiki.aa-classic.com/User:Sheoix/citizen.css",
+   "words": 1003
+  },
+  {
+   "slug": "user-sheoix-common-css",
+   "title": "User:Sheoix/common.css",
+   "ns": 2,
+   "category": "User pages",
+   "internal": true,
+   "summary": "/* USER TEST VERSION - save this as User:Sheoix/citizen.css on wiki.aa-classic.com It only changes the wiki for you (while you are logged in), nobody else sees it. It is the same look as the local test wiki, but without…",
+   "updated": "2026-11-01T22:00:39Z",
+   "source": "https://wiki.aa-classic.com/User:Sheoix/common.css",
+   "words": 1003
+  },
+  {
+   "slug": "user-sheoix-mainpage",
+   "title": "User:Sheoix/MainPage",
+   "ns": 2,
+   "category": "User pages",
+   "internal": true,
+   "summary": "ArcheAge Classic Wiki Everything about the golden age of Erenor Search for an item, skill, mount, recipe ... Start Your JourneyPopular Pages Latest wiki updatesAll recent changes 2 Nov Added the new Main Page with…",
+   "updated": "2026-11-02T16:18:37Z",
+   "source": "https://wiki.aa-classic.com/User:Sheoix/MainPage",
+   "words": 188
+  },
+  {
    "slug": "user-sheoix-sandbox",
    "title": "User:Sheoix/Sandbox",
    "ns": 2,
    "category": "User pages",
    "internal": true,
-   "summary": "Battlerage Triple Slash (Rank 1) Quake Mana 12 Range: 0-4 m Effect Range: 3 m Melee Attack +260% Instant Effect Granted A constant pattern of 3 distinct strikes, each dealing (0 + 260% Melee Attack) Physical Damage and…",
-   "updated": "2026-10-27T21:18:40Z",
+   "summary": "Lucid Gale Lunagem: HarmonyLunagemRareLucid Gale Lunagem: HarmonyUse:Imbues *socketed* equipment with the magic of a lunagem. Only one lunagem can be used per socket, but gear with multiple sockets may have multiple…",
+   "updated": "2026-11-01T13:32:10Z",
    "source": "https://wiki.aa-classic.com/User:Sheoix/Sandbox",
-   "words": 1166
+   "words": 5024
   },
   {
    "slug": "user-silverbranch",

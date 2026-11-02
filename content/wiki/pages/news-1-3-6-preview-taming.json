@@ -1,0 +1,289 @@
+{
+ "slug": "news-1-3-6-preview-taming",
+ "title": "News/1.3.6 Preview - Taming",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61091,
+ "revid": 63673,
+ "updated": "2026-11-02T16:29:50Z",
+ "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Taming",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Taming",
+   "text": "Taming"
+  },
+  {
+   "level": 2,
+   "id": "Taming_the_Creature",
+   "text": "Taming the Creature"
+  },
+  {
+   "level": 3,
+   "id": "The_Tamer's_Equipment",
+   "text": "The Tamer's Equipment"
+  },
+  {
+   "level": 2,
+   "id": "Your_New_Companion",
+   "text": "Your New Companion"
+  },
+  {
+   "level": 2,
+   "id": "Returning_It_to_the_Wild",
+   "text": "Returning It to the Wild"
+  },
+  {
+   "level": 2,
+   "id": "Whistles_of_the_Wild",
+   "text": "Whistles of the Wild"
+  },
+  {
+   "level": 2,
+   "id": "Mount_Armor",
+   "text": "Mount Armor"
+  },
+  {
+   "level": 2,
+   "id": "Set_Effects",
+   "text": "Set Effects"
+  },
+  {
+   "level": 3,
+   "id": "Set_Effect_Example_-_Survey",
+   "text": "Set Effect Example - Survey"
+  },
+  {
+   "level": 3,
+   "id": "Potential",
+   "text": "Potential"
+  },
+  {
+   "level": 2,
+   "id": "Taming_Consumables",
+   "text": "Taming Consumables"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "The Tamer's Equipment",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Greenhorn's Backpack",
+     "Greenhorn's Backpack Taming Proficiency: None. ------ A rucksack of all the tools an aspiring tamer would need to wrestle in their first beast."
+    ],
+    [
+     "Wrangler's Backpack",
+     "Wrangler's Backpack Taming Proficiency: 80,000. ------ For someone experienced with taming beasts. Now that they aren't a greenhorn, their toolkit has been tailored for efficiency."
+    ],
+    [
+     "Herdmaster's Backpack",
+     "Herdmaster's Backpack Taming Proficiency: 200,000. ------ Merely for decoration, a Herdmaster could wrangle a beast into submission without any of these tools. However, there's a sense of status that comes from the way this pack sits on their back."
+    ]
+   ]
+  },
+  {
+   "heading": "Your New Companion",
+   "caption": "",
+   "headers": [
+    "Skill #",
+    "Species (Boar)",
+    "Personality (Hasty)"
+   ],
+   "rows": [
+    [
+     "Skill 1",
+     "Run!",
+     "—"
+    ],
+    [
+     "Skill 2",
+     "Protective Instincts",
+     "—"
+    ],
+    [
+     "Skill 3",
+     "Penetrating Horn",
+     "Leader of the Pack"
+    ],
+    [
+     "Skill 4",
+     "Detect Smell",
+     "Guardian's Eyes"
+    ],
+    [
+     "Skill 5",
+     "Blazing Skin",
+     "Elegant Leap"
+    ]
+   ]
+  },
+  {
+   "heading": "Mount Armor",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Shaffron",
+     "+325 Armor +325 Magic Resistance +20 Continuous Health Regen +20 Continuous Mana Regen"
+    ],
+    [
+     "Regal Shaffron",
+     "+500 Armor +500 Magic Resistance +28 Continuous Health Regen +28 Continuous Mana Regen"
+    ],
+    [
+     "Ornate Shaffron",
+     "+600 Armor +600 Magic Resistance +32 Continuous Health Regen +32 Continuous Mana Regen"
+    ]
+   ]
+  },
+  {
+   "heading": "Mount Armor",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Saddle",
+     "+1250 Health +800 Mana +2.5% Move Speed"
+    ],
+    [
+     "Regal Saddle",
+     "+1500 Health +1000 Mana +3.5% Move Speed"
+    ],
+    [
+     "Ornate Saddle",
+     "+1750 Health +1200 Mana +4.5% Move Speed"
+    ]
+   ]
+  },
+  {
+   "heading": "Mount Armor",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Cannonguards",
+     "+7.0% Move Speed +7.0% Evasion"
+    ],
+    [
+     "Regal Cannonguards",
+     "+10.0% Move Speed +9.0% Evasion"
+    ],
+    [
+     "Ornate Cannonguards",
+     "+11.5% Move Speed +11.0% Evasion"
+    ]
+   ]
+  },
+  {
+   "heading": "Set Effects",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Swift",
+     "Mount skill cooldown -10%."
+    ],
+    [
+     "Regal Swift",
+     "Mount skill cooldown -14%."
+    ],
+    [
+     "Ornate Swift",
+     "Mount skill cooldown -16%."
+    ]
+   ]
+  },
+  {
+   "heading": "Set Effects",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Stout",
+     "Incoming damage -6%."
+    ],
+    [
+     "Regal Stout",
+     "Incoming damage -6.8%."
+    ],
+    [
+     "Ornate Stout",
+     "Incoming damage -7.4%."
+    ]
+   ]
+  },
+  {
+   "heading": "Set Effects",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Survey",
+     "+16.0 move speed while carrying a pack."
+    ],
+    [
+     "Regal Survey",
+     "+20.0 move speed while carrying a pack."
+    ],
+    [
+     "Ornate Survey",
+     "+22.0 move speed while carrying a pack."
+    ]
+   ]
+  },
+  {
+   "heading": "Set Effects",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Support",
+     "Ally mana regeneration aura."
+    ],
+    [
+     "Regal Support",
+     "Ally mana regeneration aura."
+    ],
+    [
+     "Ornate Support",
+     "Ally mana regeneration aura."
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "News blog-taming-taming thumbnail.png",
+  "News blog-taming-7ydxbpp-75fd5d.png",
+  "News blog-taming-wildcaller-flute-72ccc6.png"
+ ],
+ "text": "Announcement24 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Taming Fifth post in our series of features on Discovery (1.3.6). Today's post presents Taming. In the months since the comet passed, herders and hunters have been telling the same story. Beasts that once kept to the deep brush have started coming into the open. Boars on the green pastures of Solzreed. Grubs along the cold ridgelines of the Karkasse high country. Ants and stranger things dragging themselves out of heat-cracked desert washes after dusk. Nobody agrees on why. Some say that the land is restless while others say that the beasts can feel a fight coming and are choosing sides. What is certain is that adventurers have begun following them, looking for a companion that will stand alongside in battle against the dark forces. Taming Taming is the first custom profession that is being added to ArcheAge Classic, as part of 1.3.6 - Discovery. This profession will fall under the \"Special\" category, and revolve all around taming wild beasts out in the world, either using these as your own personal mounts, or exchanging them for materials used in various ways throughout the folio of crafting recipes. ▶ Watch the video Taming the Creature Tameable beasts appear as wild stragglers around Erenor. They are marked Tameable Beast. You'll find wild tameable beasts all around regions that have a climate typical for their species to live in, such as Ants in Windscour Savannah, and Jabberwocks in Hellswamp. Alongside wild, wandering tameable beasts, you can instigate one to come out of their slumber by slaughtering its own kind in one of these regions. ▶ Watch the video The Tamer's Equipment Tamer's Equipment Backpack Name Effect Greenhorn's Backpack Greenhorn's Backpack Taming Proficiency: None. ------ A rucksack of all the tools an aspiring tamer would need to wrestle in their first beast. Wrangler's Backpack Wrangler's Backpack Taming Proficiency: 80,000. ------ For someone experienced with taming beasts. Now that they aren't a greenhorn, their toolkit has been tailored for efficiency. Herdmaster's Backpack Herdmaster's Backpack Taming Proficiency: 200,000. ------ Merely for decoration, a Herdmaster could wrangle a beast into submission without any of these tools. However, there's a sense of status that comes from the way this pack sits on their back. The Tamer's backpack grants unique skills that match the beast's mood. When the beast is Scared, Soothe it to gain its trust. Should you Dance when the beast is angry or scared, they will lose trust and eventually flee. Using the wrong action at the wrong time may cause the beast to grow wary of you, making it more difficult to gain its trust. As you gain access to the more advanced sets of tools available in the higher quality of backpacks, you'll notice taming beasts becomes marginally easier. Your New Companion A tame is made up of a grade, personality, and species. Grade determines the mount's base movement speed, personality decides its 3rd, 4th, and 5th skills, and species decides its 1st and 2nd. The first two skills will stay the same across personalities, but remain unique to each mount species. The remaining three slots are randomized between either the default skill available to the species at that level, or the skill added by its personality at that level. In total, there are four personalities: Hasty, Ferocious, Resolute, and Spunky. As an example, here are the possibilities for a Hasty-personality Boar. Reminder, all grades have the same skill pool. Skill # Species (Boar) Personality (Hasty) Skill 1 Run! — Skill 2 Protective Instincts — Skill 3 Penetrating Horn Leader of the Pack Skill 4 Detect Smell Guardian's Eyes Skill 5 Blazing Skin Elegant Leap ▶ Watch the video Returning It to the Wild Stablehands now sell a Wildcaller Flute. Using one on a mount returns it to the wild and yields Whistles of the Wild. Whistles of the Wild Whistles of the Wild are used to craft taming equipment, mount armor, and various other crafts. Mount Armor Mount armor is worn in three pieces: the shaffron, the saddle, and the cannonguards. Each piece is made in three tiers, beginning with the base nameless tier, then Regal, and then Ornate. There are four variants: Swift for a mount whose arts should return more quickly, Stout for one that should stand against harm, Survey for the pack so the beast can still walk while carrying, and Support for the company around it, restoring their mana. The steel is the same from one variant to the next. What changes is the path, and with it the set. Taming Armor Shaffron Name Effect Shaffron +325 Armor +325 Magic Resistance +20 Continuous Health Regen +20 Continuous Mana Regen Regal Shaffron +500 Armor +500 Magic Resistance +28 Continuous Health Regen +28 Continuous Mana Regen Ornate Shaffron +600 Armor +600 Magic Resistance +32 Continuous Health Regen +32 Continuous Mana Regen Saddle Name Effect Saddle +1250 Health +800 Mana +2.5% Move Speed Regal Saddle +1500 Health +1000 Mana +3.5% Move Speed Ornate Saddle +1750 Health +1200 Mana +4.5% Move Speed Cannonguards Name Effect Cannonguards +7.0% Move Speed +7.0% Evasion Regal Cannonguards +10.0% Move Speed +9.0% Evasion Ornate Cannonguards +11.5% Move Speed +11.0% Evasion Set Effects Three matching pieces of the same path and tier activate set effects, increasing in potency with each tier. Set Effects Swift Name Effect Swift Mount skill cooldown -10%. Regal Swift Mount skill cooldown -14%. Ornate Swift Mount skill cooldown -16%. Stout Name Effect Stout Incoming damage -6%. Regal Stout Incoming damage -6.8%. Ornate Stout Incoming damage -7.4%. Survey Name Effect Survey +16.0 move speed while carrying a pack. Regal Survey +20.0 move speed while carrying a pack. Ornate Survey +22.0 move speed while carrying a pack. Support Name Effect Support Ally mana regeneration aura. Regal Support Ally mana regeneration aura. Ornate Support Ally mana regeneration aura. Set Effect Example - Survey With a 3 piece set of Survey, any mount you'd like can become a viable donkey replacement. Though, they won't have the same carrot-based diet. ▶ Watch the video Potential Taming armor can be regraded like other gear, granting gem slots with higher grade. A full Ornate set filled with Celerity gems will be the fastest mount in Erenor. Mix this with each species of beast being a little different than any other currently available mount, Taming quickly becomes the best way to find the perfect companion for yourself. Such as a cute Crab that is most comfortable in the water. Maybe that does the trick for you. ▶ Watch the video Taming Consumables Whistles of the Wind are not only used for taming equipment and mount armor, but in various other consumables that will become available to players. These consumables have recipes that mingle with existing economies and material ecosystems, while offering exclusive effects that you can't find anywhere else, such as: Snacks giving your mounts a boost in speed for a short amount of time Food that can be fed to your mount, to restore its Health and Mana over a short period Emergency potions that can give your companion a burst of Mana Meals that increase your Combat Pet's capabilities Actually viable mount resurrection options while on the go These are just the beginning, and as time goes on, Taming will only become more intertwined with existing systems. Additional costs and exact recipes will not be revealed at this time.",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/90/9017f16be737a9461c964200bce0c0c3778d6e29.png\" width=\"1200\" height=\"400\" loading=\"lazy\"></span></span></div><div><div><span>Announcement</span><span>24 August 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/136-preview-taming\">Original post on aa-classic.com</a></div><div>1.3.6 Preview - Taming</div><div>Fifth post in our series of features on Discovery (1.3.6). Today's post presents Taming.</div></div></div>\n<p>In the months since the comet passed, herders and hunters have been telling the same story. Beasts that once kept to the deep brush have started coming into the open. Boars on the green pastures of Solzreed. Grubs along the cold ridgelines of the Karkasse high country. Ants and stranger things dragging themselves out of heat-cracked desert washes after dusk.\n</p><p>Nobody agrees on why. Some say that the land is restless while others say that the beasts can feel a fight coming and are choosing sides. What is certain is that adventurers have begun following them, looking for a companion that will stand alongside in battle against the dark forces.\n</p>\n\n<h2 id=\"Taming\">Taming</h2>\n<p>Taming is the first custom profession that is being added to ArcheAge Classic, as part of 1.3.6 - Discovery. This profession will fall under the \"Special\" category, and revolve all around taming wild beasts out in the world, either using these as your own personal mounts, or exchanging them for materials used in various ways throughout the folio of crafting recipes.\n</p><p><a rel=\"noopener\" href=\"https://patch.aa-classic.com/img/blog/taming/taming-blog-post_1-a052d5.mp4\">▶ Watch the video</a>\n</p>\n<h2 id=\"Taming_the_Creature\">Taming the Creature</h2>\n<p>Tameable beasts appear as wild stragglers around Erenor. They are marked <b>Tameable Beast</b>. You'll find wild tameable beasts all around regions that have a climate typical for their species to live in, such as Ants in Windscour Savannah, and Jabberwocks in Hellswamp. Alongside wild, wandering tameable beasts, you can instigate one to come out of their slumber by slaughtering its own kind in one of these regions.\n</p><p><a rel=\"noopener\" href=\"https://patch.aa-classic.com/img/blog/taming/taming-combat-spawn-abb185.mp4\">▶ Watch the video</a>\n</p>\n<h3 id=\"The_Tamer's_Equipment\"><span></span>The Tamer's Equipment</h3>\n<p><b>Tamer's Equipment</b>\n<i>Backpack</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Greenhorn's Backpack</td>\n<td>Greenhorn's Backpack <br> Taming Proficiency: None. <br> ------ <br> A rucksack of all the tools an aspiring tamer would need to wrestle in their first beast.\n</td></tr>\n<tr>\n<td>Wrangler's Backpack</td>\n<td>Wrangler's Backpack <br> Taming Proficiency: 80,000. <br> ------ <br> For someone experienced with taming beasts. Now that they aren't a greenhorn, their toolkit has been tailored for efficiency.\n</td></tr>\n<tr>\n<td>Herdmaster's Backpack</td>\n<td>Herdmaster's Backpack <br> Taming Proficiency: 200,000. <br> ------ <br> Merely for decoration, a Herdmaster could wrangle a beast into submission without any of these tools. However, there's a sense of status that comes from the way this pack sits on their back.\n</td></tr></tbody></table>\n<p>The Tamer's backpack grants unique skills that match the beast's mood. When the beast is Scared, Soothe it to gain its trust. Should you Dance when the beast is angry or scared, they will lose trust and eventually flee. Using the wrong action at the wrong time may cause the beast to grow wary of you, making it more difficult to gain its trust. As you gain access to the more  advanced sets of tools available in the higher quality of backpacks, you'll notice taming beasts becomes marginally easier.\n</p>\n<figure><img alt=\"Taming T3 Backpack\" src=\"/wiki-files/b4/b402965294d57eed28a09c0159eb87097cc7638f.png\" width=\"700\" height=\"763\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2 id=\"Your_New_Companion\">Your New Companion</h2>\n<p>A tame is made up of a grade, personality, and species. Grade determines the mount's base movement speed, personality decides its 3rd, 4th, and 5th skills, and species decides its 1st and 2nd.\n</p><p>The first two skills will stay the same across personalities, but remain unique to each mount species. The remaining three slots are randomized between either the default skill available to the species at that level, or the skill added by its personality at that level.\n</p><p>In total, there are four personalities: <b>Hasty, Ferocious, Resolute, and Spunky</b>.\n</p><p>As an example, here are the possibilities for a <b>Hasty-personality Boar</b>. Reminder, all grades have the same skill pool.\n</p>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Skill #</th>\n<th>Species (Boar)</th>\n<th>Personality (Hasty)\n</th></tr>\n<tr>\n<td>Skill 1</td>\n<td>Run!</td>\n<td>—\n</td></tr>\n<tr>\n<td>Skill 2</td>\n<td>Protective Instincts</td>\n<td>—\n</td></tr>\n<tr>\n<td>Skill 3</td>\n<td>Penetrating Horn</td>\n<td>Leader of the Pack\n</td></tr>\n<tr>\n<td>Skill 4</td>\n<td>Detect Smell</td>\n<td>Guardian's Eyes\n</td></tr>\n<tr>\n<td>Skill 5</td>\n<td>Blazing Skin</td>\n<td>Elegant Leap\n</td></tr></tbody></table>\n<p><a rel=\"noopener\" href=\"https://patch.aa-classic.com/img/blog/taming/group-photo-166a9f.mp4\">▶ Watch the video</a>\n</p>\n<h2 id=\"Returning_It_to_the_Wild\">Returning It to the Wild</h2>\n<p>Stablehands now sell a <b>Wildcaller Flute</b>. Using one on a mount returns it to the wild and yields <b>Whistles of the Wild</b>.\n</p>\n<figure><img alt=\"wildcaller flute\" src=\"/wiki-files/ab/abde2401c7a1e241b5341d4d2ada97d5f384af20.png\" width=\"700\" height=\"569\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2 id=\"Whistles_of_the_Wild\">Whistles of the Wild</h2>\n<p>Whistles of the Wild are used to craft taming equipment, mount armor, and various other crafts.\n</p>\n<h2 id=\"Mount_Armor\">Mount Armor</h2>\n<p>Mount armor is worn in three pieces: the shaffron, the saddle, and the cannonguards. Each piece is made in three tiers, beginning with the base nameless tier, then <b>Regal</b>, and then <b>Ornate</b>. There are four variants: <b>Swift</b> for a mount whose arts should return more quickly, <b>Stout</b> for one that should stand against harm, <b>Survey</b> for the pack so the beast can still walk while carrying, and <b>Support</b> for the company around it, restoring their mana. The steel is the same from one variant to the next. What changes is the path, and with it the set.\n</p><p><b>Taming Armor</b>\n<i>Shaffron</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Shaffron</td>\n<td>+325 Armor<br>+325 Magic Resistance<br>+20 Continuous Health Regen<br>+20 Continuous Mana Regen\n</td></tr>\n<tr>\n<td>Regal Shaffron</td>\n<td>+500 Armor<br>+500 Magic Resistance<br>+28 Continuous Health Regen<br>+28 Continuous Mana Regen\n</td></tr>\n<tr>\n<td>Ornate Shaffron</td>\n<td>+600 Armor<br>+600 Magic Resistance<br>+32 Continuous Health Regen<br>+32 Continuous Mana Regen\n</td></tr></tbody></table>\n<p><i>Saddle</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Saddle</td>\n<td>+1250 Health<br>+800 Mana<br>+2.5% Move Speed\n</td></tr>\n<tr>\n<td>Regal Saddle</td>\n<td>+1500 Health<br>+1000 Mana<br>+3.5% Move Speed\n</td></tr>\n<tr>\n<td>Ornate Saddle</td>\n<td>+1750 Health<br>+1200 Mana<br>+4.5% Move Speed\n</td></tr></tbody></table>\n<p><i>Cannonguards</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Cannonguards</td>\n<td>+7.0% Move Speed<br>+7.0% Evasion\n</td></tr>\n<tr>\n<td>Regal Cannonguards</td>\n<td>+10.0% Move Speed<br>+9.0% Evasion\n</td></tr>\n<tr>\n<td>Ornate Cannonguards</td>\n<td>+11.5% Move Speed<br>+11.0% Evasion\n</td></tr></tbody></table>\n<h2 id=\"Set_Effects\">Set Effects</h2>\n<p>Three matching pieces of the same path and tier activate set effects, increasing in potency with each tier.\n</p><p><b>Set Effects</b>\n<i>Swift</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Swift</td>\n<td>Mount skill cooldown -10%.\n</td></tr>\n<tr>\n<td>Regal Swift</td>\n<td>Mount skill cooldown -14%.\n</td></tr>\n<tr>\n<td>Ornate Swift</td>\n<td>Mount skill cooldown -16%.\n</td></tr></tbody></table>\n<p><i>Stout</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Stout</td>\n<td>Incoming damage -6%.\n</td></tr>\n<tr>\n<td>Regal Stout</td>\n<td>Incoming damage -6.8%.\n</td></tr>\n<tr>\n<td>Ornate Stout</td>\n<td>Incoming damage -7.4%.\n</td></tr></tbody></table>\n<p><i>Survey</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Survey</td>\n<td>+16.0 move speed while carrying a pack.\n</td></tr>\n<tr>\n<td>Regal Survey</td>\n<td>+20.0 move speed while carrying a pack.\n</td></tr>\n<tr>\n<td>Ornate Survey</td>\n<td>+22.0 move speed while carrying a pack.\n</td></tr></tbody></table>\n<p><i>Support</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Support</td>\n<td>Ally mana regeneration aura.\n</td></tr>\n<tr>\n<td>Regal Support</td>\n<td>Ally mana regeneration aura.\n</td></tr>\n<tr>\n<td>Ornate Support</td>\n<td>Ally mana regeneration aura.\n</td></tr></tbody></table>\n<h3 id=\"Set_Effect_Example_-_Survey\">Set Effect Example - Survey</h3>\n<p>With a 3 piece set of Survey, any mount you'd like can become a viable donkey replacement. Though, they won't have the same carrot-based diet.\n</p><p><a rel=\"noopener\" href=\"https://patch.aa-classic.com/img/blog/taming/carrying-log-7c1dc2.mp4\">▶ Watch the video</a>\n</p>\n<h3 id=\"Potential\">Potential</h3>\n<p>Taming armor can be regraded like other gear, granting gem slots with higher grade. A full Ornate set filled with Celerity gems will be the fastest mount in Erenor. Mix this with each species of beast being a little different than any other currently available mount, Taming quickly becomes the best way to find the perfect companion for yourself. Such as a cute Crab that is most comfortable in the water. Maybe that does the trick for you.\n</p><p><a rel=\"noopener\" href=\"https://patch.aa-classic.com/img/crab-swimmin-fast-a3b739.mp4\">▶ Watch the video</a>\n</p>\n<h2 id=\"Taming_Consumables\">Taming Consumables</h2>\n<p>Whistles of the Wind are not only used for taming equipment and mount armor, but in various other consumables that will become available to players. These consumables have recipes that mingle with existing economies and material ecosystems, while offering exclusive effects that you can't find anywhere else, such as:\n</p>\n<ul><li>Snacks giving your mounts a boost in speed for a short amount of time</li>\n<li>Food that can be fed to your mount, to restore its Health and Mana over a short period</li>\n<li>Emergency potions that can give your companion a burst of Mana</li>\n<li>Meals that increase your Combat Pet's capabilities</li>\n<li>Actually viable mount resurrection options while on the go</li></ul>\n<p>These are just the beginning, and as time goes on, Taming will only become more intertwined with existing systems.\n</p>\n<blockquote>\n<p>Additional costs and exact recipes will not be revealed at this time.\n</p>\n</blockquote>",
+ "wikitext": "{{NewsArticle\n|title=1.3.6 Preview - Taming\n|slug=136-preview-taming\n|date=2026-08-24 19:00\n|category=Announcement\n|image=News blog-taming-taming thumbnail.png\n|summary=Fifth post in our series of features on Discovery (1.3.6). Today's post presents Taming.\n|source=https://aa-classic.com/news/136-preview-taming\n}}\n\nIn the months since the comet passed, herders and hunters have been telling the same story. Beasts that once kept to the deep brush have started coming into the open. Boars on the green pastures of Solzreed. Grubs along the cold ridgelines of the Karkasse high country. Ants and stranger things dragging themselves out of heat-cracked desert washes after dusk.\n\nNobody agrees on why. Some say that the land is restless while others say that the beasts can feel a fight coming and are choosing sides. What is certain is that adventurers have begun following them, looking for a companion that will stand alongside in battle against the dark forces.\n\n== Taming ==\n\nTaming is the first custom profession that is being added to ArcheAge Classic, as part of 1.3.6 - Discovery. This profession will fall under the \"Special\" category, and revolve all around taming wild beasts out in the world, either using these as your own personal mounts, or exchanging them for materials used in various ways throughout the folio of crafting recipes.\n\n[https://patch.aa-classic.com/img/blog/taming/taming-blog-post_1-a052d5.mp4 ▶ Watch the video]\n\n== Taming the Creature ==\n\nTameable beasts appear as wild stragglers around Erenor. They are marked '''Tameable Beast'''. You'll find wild tameable beasts all around regions that have a climate typical for their species to live in, such as Ants in Windscour Savannah, and Jabberwocks in Hellswamp. Alongside wild, wandering tameable beasts, you can instigate one to come out of their slumber by slaughtering its own kind in one of these regions.\n\n[https://patch.aa-classic.com/img/blog/taming/taming-combat-spawn-abb185.mp4 ▶ Watch the video]\n\n=== The Tamer's Equipment ===\n\n'''Tamer's Equipment'''\n''Backpack''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Greenhorn's Backpack || Greenhorn's Backpack <br> Taming Proficiency: None. <br> ------ <br> A rucksack of all the tools an aspiring tamer would need to wrestle in their first beast.\n|-\n| Wrangler's Backpack || Wrangler's Backpack <br> Taming Proficiency: 80,000. <br> ------ <br> For someone experienced with taming beasts. Now that they aren't a greenhorn, their toolkit has been tailored for efficiency.\n|-\n| Herdmaster's Backpack || Herdmaster's Backpack <br> Taming Proficiency: 200,000. <br> ------ <br> Merely for decoration, a Herdmaster could wrangle a beast into submission without any of these tools. However, there's a sense of status that comes from the way this pack sits on their back.\n|}\n\nThe Tamer's backpack grants unique skills that match the beast's mood. When the beast is Scared, Soothe it to gain its trust. Should you Dance when the beast is angry or scared, they will lose trust and eventually flee. Using the wrong action at the wrong time may cause the beast to grow wary of you, making it more difficult to gain its trust. As you gain access to the more  advanced sets of tools available in the higher quality of backpacks, you'll notice taming beasts becomes marginally easier.\n\n[[File:News blog-taming-7ydxbpp-75fd5d.png|center|700px|alt=Taming T3 Backpack]]\n\n== Your New Companion ==\n\nA tame is made up of a grade, personality, and species. Grade determines the mount's base movement speed, personality decides its 3rd, 4th, and 5th skills, and species decides its 1st and 2nd.\n\nThe first two skills will stay the same across personalities, but remain unique to each mount species. The remaining three slots are randomized between either the default skill available to the species at that level, or the skill added by its personality at that level.\n\nIn total, there are four personalities: '''Hasty, Ferocious, Resolute, and Spunky'''.\n\nAs an example, here are the possibilities for a '''Hasty-personality Boar'''. Reminder, all grades have the same skill pool.\n\n{| class=\"wikitable\"\n|-\n! Skill # !! Species (Boar) !! Personality (Hasty)\n|-\n| Skill 1 || Run! || —\n|-\n| Skill 2 || Protective Instincts || —\n|-\n| Skill 3 || Penetrating Horn || Leader of the Pack\n|-\n| Skill 4 || Detect Smell || Guardian's Eyes\n|-\n| Skill 5 || Blazing Skin || Elegant Leap\n|}\n\n[https://patch.aa-classic.com/img/blog/taming/group-photo-166a9f.mp4 ▶ Watch the video]\n\n== Returning It to the Wild ==\nStablehands now sell a '''Wildcaller Flute'''. Using one on a mount returns it to the wild and yields '''Whistles of the Wild'''.\n[[File:News blog-taming-wildcaller-flute-72ccc6.png|center|700px|alt=wildcaller flute]]\n\n== Whistles of the Wild ==\nWhistles of the Wild are used to craft taming equipment, mount armor, and various other crafts.\n\n== Mount Armor ==\n\nMount armor is worn in three pieces: the shaffron, the saddle, and the cannonguards. Each piece is made in three tiers, beginning with the base nameless tier, then '''Regal''', and then '''Ornate'''. There are four variants: '''Swift''' for a mount whose arts should return more quickly, '''Stout''' for one that should stand against harm, '''Survey''' for the pack so the beast can still walk while carrying, and '''Support''' for the company around it, restoring their mana. The steel is the same from one variant to the next. What changes is the path, and with it the set.\n\n'''Taming Armor'''\n''Shaffron''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Shaffron || +325 Armor<br>+325 Magic Resistance<br>+20 Continuous Health Regen<br>+20 Continuous Mana Regen\n|-\n| Regal Shaffron || +500 Armor<br>+500 Magic Resistance<br>+28 Continuous Health Regen<br>+28 Continuous Mana Regen\n|-\n| Ornate Shaffron || +600 Armor<br>+600 Magic Resistance<br>+32 Continuous Health Regen<br>+32 Continuous Mana Regen\n|}\n''Saddle''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Saddle || +1250 Health<br>+800 Mana<br>+2.5% Move Speed\n|-\n| Regal Saddle || +1500 Health<br>+1000 Mana<br>+3.5% Move Speed\n|-\n| Ornate Saddle || +1750 Health<br>+1200 Mana<br>+4.5% Move Speed\n|}\n''Cannonguards''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Cannonguards || +7.0% Move Speed<br>+7.0% Evasion\n|-\n| Regal Cannonguards || +10.0% Move Speed<br>+9.0% Evasion\n|-\n| Ornate Cannonguards || +11.5% Move Speed<br>+11.0% Evasion\n|}\n\n== Set Effects ==\n\nThree matching pieces of the same path and tier activate set effects, increasing in potency with each tier.\n\n'''Set Effects'''\n''Swift''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Swift || Mount skill cooldown -10%.\n|-\n| Regal Swift || Mount skill cooldown -14%.\n|-\n| Ornate Swift || Mount skill cooldown -16%.\n|}\n''Stout''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Stout || Incoming damage -6%.\n|-\n| Regal Stout || Incoming damage -6.8%.\n|-\n| Ornate Stout || Incoming damage -7.4%.\n|}\n''Survey''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Survey || +16.0 move speed while carrying a pack.\n|-\n| Regal Survey || +20.0 move speed while carrying a pack.\n|-\n| Ornate Survey || +22.0 move speed while carrying a pack.\n|}\n''Support''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Support || Ally mana regeneration aura.\n|-\n| Regal Support || Ally mana regeneration aura.\n|-\n| Ornate Support || Ally mana regeneration aura.\n|}\n\n=== Set Effect Example - Survey ===\nWith a 3 piece set of Survey, any mount you'd like can become a viable donkey replacement. Though, they won't have the same carrot-based diet.\n\n[https://patch.aa-classic.com/img/blog/taming/carrying-log-7c1dc2.mp4 ▶ Watch the video]\n\n=== Potential ===\n\nTaming armor can be regraded like other gear, granting gem slots with higher grade. A full Ornate set filled with Celerity gems will be the fastest mount in Erenor. Mix this with each species of beast being a little different than any other currently available mount, Taming quickly becomes the best way to find the perfect companion for yourself. Such as a cute Crab that is most comfortable in the water. Maybe that does the trick for you.\n\n[https://patch.aa-classic.com/img/crab-swimmin-fast-a3b739.mp4 ▶ Watch the video]\n\n== Taming Consumables ==\nWhistles of the Wind are not only used for taming equipment and mount armor, but in various other consumables that will become available to players. These consumables have recipes that mingle with existing economies and material ecosystems, while offering exclusive effects that you can't find anywhere else, such as:\n* Snacks giving your mounts a boost in speed for a short amount of time\n* Food that can be fed to your mount, to restore its Health and Mana over a short period\n* Emergency potions that can give your companion a burst of Mana\n* Meals that increase your Combat Pet's capabilities\n* Actually viable mount resurrection options while on the go\n\nThese are just the beginning, and as time goes on, Taming will only become more intertwined with existing systems.\n\n<blockquote>\nAdditional costs and exact recipes will not be revealed at this time.\n</blockquote>"
+}

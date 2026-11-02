@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-431",
+ "title": "Module:Data/Cards/431",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60995,
+ "revid": 63482,
+ "updated": "2026-10-31T15:56:11Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/431",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [43123] = { bind = \"soulbound_pickup\", category = \"Cloak\", crafts = { { 9886, \"Erenor Hatchetblade Cloak\" } }, desc = \"Can be used in |ni;item synthesis|r to create a grander cloak. |ni;Synthesis materials|r can be obtained on Auroria.\", grade = \"None\", icon = \"costume_cp\\\\nu_m_cp_cloth285.png\", name = \"Erenor Hatchetblade Cloak\", req = 56 }, [43133] = { category = \"Design\", crafts = { { 9872, \"Ipnysh Moonlight Blessing\" } }, desc = \"Used to craft |nc;cloth armor|r, |nc;leather armor|r, |nc;plate armor|r, and |nc;cloaks|r.\", grade = \"Heroic\", icon = \"icon_item_3865.png\", name = \"Ipnysh Moonlight Blessing\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[43123] = { bind = \"soulbound_pickup\", category = \"Cloak\", crafts = { { 9886, \"Erenor Hatchetblade Cloak\" } }, desc = \"Can be used in |ni;item synthesis|r to create a grander cloak. |ni;Synthesis materials|r can be obtained on Auroria.\", grade = \"None\", icon = \"costume_cp\\\\nu_m_cp_cloth285.png\", name = \"Erenor Hatchetblade Cloak\", req = 56 },\n\t[43133] = { category = \"Design\", crafts = { { 9872, \"Ipnysh Moonlight Blessing\" } }, desc = \"Used to craft |nc;cloth armor|r, |nc;leather armor|r, |nc;plate armor|r, and |nc;cloaks|r.\", grade = \"Heroic\", icon = \"icon_item_3865.png\", name = \"Ipnysh Moonlight Blessing\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[43123] = { bind = \"soulbound_pickup\", category = \"Cloak\", crafts = { { 9886, \"Erenor Hatchetblade Cloak\" } }, desc = \"Can be used in |ni;item synthesis|r to create a grander cloak. |ni;Synthesis materials|r can be obtained on Auroria.\", grade = \"None\", icon = \"costume_cp\\\\nu_m_cp_cloth285.png\", name = \"Erenor Hatchetblade Cloak\", req = 56 },\n\t[43133] = { category = \"Design\", crafts = { { 9872, \"Ipnysh Moonlight Blessing\" } }, desc = \"Used to craft |nc;cloth armor|r, |nc;leather armor|r, |nc;plate armor|r, and |nc;cloaks|r.\", grade = \"Heroic\", icon = \"icon_item_3865.png\", name = \"Ipnysh Moonlight Blessing\" },\n}"
+}

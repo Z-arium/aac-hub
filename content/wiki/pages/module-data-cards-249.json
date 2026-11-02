@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-249",
+ "title": "Module:Data/Cards/249",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60966,
+ "revid": 63372,
+ "updated": "2026-10-30T22:46:16Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/249",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [24914] = { category = \"Alchemy\", desc = \"Used to craft lunastones, this essence shines softly with the arcane glow of the moon.\", grade = \"None\", icon = \"icon_item_0851.png\", name = \"Prime Lunarite\" }, [24916] = { category = \"Material\", desc = \"This crafting material radiates the chill of rocky cavern.\", grade = \"None\", icon = \"icon_item_0852.png\", name = \"Eternal Winter Chill\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[24914] = { category = \"Alchemy\", desc = \"Used to craft lunastones, this essence shines softly with the arcane glow of the moon.\", grade = \"None\", icon = \"icon_item_0851.png\", name = \"Prime Lunarite\" },\n\t[24916] = { category = \"Material\", desc = \"This crafting material radiates the chill of rocky cavern.\", grade = \"None\", icon = \"icon_item_0852.png\", name = \"Eternal Winter Chill\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[24914] = { category = \"Alchemy\", desc = \"Used to craft lunastones, this essence shines softly with the arcane glow of the moon.\", grade = \"None\", icon = \"icon_item_0851.png\", name = \"Prime Lunarite\" },\n\t[24916] = { category = \"Material\", desc = \"This crafting material radiates the chill of rocky cavern.\", grade = \"None\", icon = \"icon_item_0852.png\", name = \"Eternal Winter Chill\" },\n}"
+}
