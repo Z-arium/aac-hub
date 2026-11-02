@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-9000",
+ "title": "Module:Data/Items/9000",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60985,
+ "revid": 63392,
+ "updated": "2026-10-30T22:46:44Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/9000",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [9000033] = { grade = \"None\", icon = \"aac\\\\item_icon_0001.png\", name = \"Seaweed Reins\" }, [9000044] = { grade = \"None\", icon = \"aac\\\\item_icon_0006.png\", name = \"Inferno Engine\" }, [9000149] = { grade = \"None\", icon = \"aac/item_icon_armoredframe.png\", name = \"Armored Frame\" }, [9000161] = { grade = \"None\", icon = \"quest/icon_item_quest018.png\", name = \"Anima Infused Taurus Horn\" }, [9000164] = { grade = \"None\", icon = \"quest/icon_item_quest093.png\", name = \"Anima Extraction Contraption\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9000033] = { grade = \"None\", icon = \"aac\\\\item_icon_0001.png\", name = \"Seaweed Reins\" },\n\t[9000044] = { grade = \"None\", icon = \"aac\\\\item_icon_0006.png\", name = \"Inferno Engine\" },\n\t[9000149] = { grade = \"None\", icon = \"aac/item_icon_armoredframe.png\", name = \"Armored Frame\" },\n\t[9000161] = { grade = \"None\", icon = \"quest/icon_item_quest018.png\", name = \"Anima Infused Taurus Horn\" },\n\t[9000164] = { grade = \"None\", icon = \"quest/icon_item_quest093.png\", name = \"Anima Extraction Contraption\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9000033] = { grade = \"None\", icon = \"aac\\\\item_icon_0001.png\", name = \"Seaweed Reins\" },\n\t[9000044] = { grade = \"None\", icon = \"aac\\\\item_icon_0006.png\", name = \"Inferno Engine\" },\n\t[9000149] = { grade = \"None\", icon = \"aac/item_icon_armoredframe.png\", name = \"Armored Frame\" },\n\t[9000161] = { grade = \"None\", icon = \"quest/icon_item_quest018.png\", name = \"Anima Infused Taurus Horn\" },\n\t[9000164] = { grade = \"None\", icon = \"quest/icon_item_quest093.png\", name = \"Anima Extraction Contraption\" },\n}"
+}

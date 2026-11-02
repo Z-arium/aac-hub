@@ -1,0 +1,18 @@
+{
+ "slug": "template-mainpage-gamenews",
+ "title": "Template:MainPage/GameNews",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61048,
+ "revid": 63630,
+ "updated": "2026-11-02T16:23:12Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/GameNews",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "News aac discovery thumbnail big-f03e7c.png"
+ ],
+ "text": "Game NewsThe Road to 2.0: Part 2 — Opening the Beta · 31 Oct 2026",
+ "html": "<div><span><span><a href=\"/wiki/news\"><img alt src=\"/wiki-files/c1/c1620a8c84de387f5f0fb0bb5d8e2e29b4a0f137.png\" width=\"1600\" height=\"533\" loading=\"lazy\"></a></span></span><a href=\"/wiki/news\"><span>Game News</span><span>The Road to 2.0: Part 2 — Opening the Beta · 31 Oct 2026</span></a></div>",
+ "wikitext": "<div class=\"aa-mp-card\"><span class=\"aa-mp-pic\">[[File:News aac discovery thumbnail big-f03e7c.png|link=News|alt=]]</span>[[News|<span class=\"aa-mp-cardtitle\">Game News</span><span class=\"aa-mp-cardsub\">The Road to 2.0: Part 2 — Opening the Beta · 31 Oct 2026</span>]]</div><!-- written by sync_news.py -->"
+}

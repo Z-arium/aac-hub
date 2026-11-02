@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-recipes-90013",
+ "title": "Module:Data/Recipes/90013",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60989,
+ "revid": 63492,
+ "updated": "2026-10-31T15:56:42Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Recipes/90013",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9001390] = { labor = 200, materials = { { amount = 1, grade = \"Heroic\", icon = \"icon_item_3889.png\", id = 9002458, name = \"Ayanad Starlight Blessing\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"aac/aac_runestone_dormant.png\", id = 9002090, name = \"Dormant Runestone\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0371.png\", id = 16358, name = \"Starlight Archeum Essence\", required = \"Any\" }, { amount = 50, grade = \"None\", icon = \"icon_item_1752.png\", id = 8329, name = \"Blue Salt Hammer\", required = \"Any\" } }, product = { amount = 1, grade = \"Celestial\", icon = \"aac/aac_runestone_active.png\", id = 9002091, name = \"Enlightened Runestone\" }, prof = \"Handicrafts\", rate = 100, req = 50000, station = \"Disciple's Workbench\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9001390] = { labor = 200, materials = { { amount = 1, grade = \"Heroic\", icon = \"icon_item_3889.png\", id = 9002458, name = \"Ayanad Starlight Blessing\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"aac/aac_runestone_dormant.png\", id = 9002090, name = \"Dormant Runestone\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0371.png\", id = 16358, name = \"Starlight Archeum Essence\", required = \"Any\" }, { amount = 50, grade = \"None\", icon = \"icon_item_1752.png\", id = 8329, name = \"Blue Salt Hammer\", required = \"Any\" } }, product = { amount = 1, grade = \"Celestial\", icon = \"aac/aac_runestone_active.png\", id = 9002091, name = \"Enlightened Runestone\" }, prof = \"Handicrafts\", rate = 100, req = 50000, station = \"Disciple's Workbench\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9001390] = { labor = 200, materials = { { amount = 1, grade = \"Heroic\", icon = \"icon_item_3889.png\", id = 9002458, name = \"Ayanad Starlight Blessing\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"aac/aac_runestone_dormant.png\", id = 9002090, name = \"Dormant Runestone\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0371.png\", id = 16358, name = \"Starlight Archeum Essence\", required = \"Any\" }, { amount = 50, grade = \"None\", icon = \"icon_item_1752.png\", id = 8329, name = \"Blue Salt Hammer\", required = \"Any\" } }, product = { amount = 1, grade = \"Celestial\", icon = \"aac/aac_runestone_active.png\", id = 9002091, name = \"Enlightened Runestone\" }, prof = \"Handicrafts\", rate = 100, req = 50000, station = \"Disciple's Workbench\" },\n}"
+}

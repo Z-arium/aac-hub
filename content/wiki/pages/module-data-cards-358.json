@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-358",
+ "title": "Module:Data/Cards/358",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61006,
+ "revid": 63497,
+ "updated": "2026-10-31T16:05:16Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/358",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [35888] = { category = \"Material\", desc = \"A pitch-black gemstone used in Anthalon's dark magic. Can be obtained in the |cFFf5CB65Golden Ruins|r.\\nUsed in equipment crafting.\", grade = \"Arcane\", icon = \"quest/icon_item_quest014.png\", name = \"Forbidden Spellgem\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[35888] = { category = \"Material\", desc = \"A pitch-black gemstone used in Anthalon's dark magic. Can be obtained in the |cFFf5CB65Golden Ruins|r.\\nUsed in equipment crafting.\", grade = \"Arcane\", icon = \"quest/icon_item_quest014.png\", name = \"Forbidden Spellgem\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[35888] = { category = \"Material\", desc = \"A pitch-black gemstone used in Anthalon's dark magic. Can be obtained in the |cFFf5CB65Golden Ruins|r.\\nUsed in equipment crafting.\", grade = \"Arcane\", icon = \"quest/icon_item_quest014.png\", name = \"Forbidden Spellgem\" },\n}"
+}

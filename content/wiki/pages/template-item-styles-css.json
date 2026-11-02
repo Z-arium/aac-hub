@@ -1,0 +1,16 @@
+{
+ "slug": "template-item-styles-css",
+ "title": "Template:Item/styles.css",
+ "ns": 10,
+ "model": "sanitized-css",
+ "pageid": 60953,
+ "revid": 63322,
+ "updated": "2026-10-30T20:14:03Z",
+ "source": "https://wiki.aa-classic.com/Template:Item/styles.css",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "/* Hover tooltip of {{Item}}: the item card opens beside the icon and name (tip=left: on the left side) */ .aa-itemtip { position: relative; } .aa-itemtip-card { display: none; position: absolute; top: -8px; left: 100%; z-index: 200; padding-left: 6px; /* no gap, so the card stays open while the pointer moves onto it */ width: 300px; max-width: 90vw; white-space: normal; font-weight: normal; font-style: normal; text-align: left; cursor: default; } .aa-itemtip-left .aa-itemtip-card { left: auto; right: 100%; padding-left: 0; padding-right: 6px; } .aa-itemtip:hover .aa-itemtip-card { display: block; } .aa-itemtip-card .aa-item { margin: 0; } /* Phones: no room beside the item, the card opens below it */ @media (max-width: 600px) { .aa-itemtip-card, .aa-itemtip-left .aa-itemtip-card { top: 100%; left: 0; right: auto; padding: 4px 0 0; } }",
+ "html": "<pre><code>/* Hover tooltip of {{Item}}: the item card opens beside the icon and name (tip=left: on the left side) */\n.aa-itemtip {\n  position: relative;\n}\n.aa-itemtip-card {\n  display: none;\n  position: absolute;\n  top: -8px;\n  left: 100%;\n  z-index: 200;\n  padding-left: 6px;   /* no gap, so the card stays open while the pointer moves onto it */\n  width: 300px;\n  max-width: 90vw;\n  white-space: normal;\n  font-weight: normal;\n  font-style: normal;\n  text-align: left;\n  cursor: default;\n}\n.aa-itemtip-left .aa-itemtip-card {\n  left: auto;\n  right: 100%;\n  padding-left: 0;\n  padding-right: 6px;\n}\n.aa-itemtip:hover .aa-itemtip-card {\n  display: block;\n}\n.aa-itemtip-card .aa-item {\n  margin: 0;\n}\n/* Phones: no room beside the item, the card opens below it */\n@media (max-width: 600px) {\n  .aa-itemtip-card,\n  .aa-itemtip-left .aa-itemtip-card {\n    top: 100%;\n    left: 0;\n    right: auto;\n    padding: 4px 0 0;\n  }\n}</code></pre>",
+ "wikitext": "/* Hover tooltip of {{Item}}: the item card opens beside the icon and name (tip=left: on the left side) */\n.aa-itemtip {\n  position: relative;\n}\n.aa-itemtip-card {\n  display: none;\n  position: absolute;\n  top: -8px;\n  left: 100%;\n  z-index: 200;\n  padding-left: 6px;   /* no gap, so the card stays open while the pointer moves onto it */\n  width: 300px;\n  max-width: 90vw;\n  white-space: normal;\n  font-weight: normal;\n  font-style: normal;\n  text-align: left;\n  cursor: default;\n}\n.aa-itemtip-left .aa-itemtip-card {\n  left: auto;\n  right: 100%;\n  padding-left: 0;\n  padding-right: 6px;\n}\n.aa-itemtip:hover .aa-itemtip-card {\n  display: block;\n}\n.aa-itemtip-card .aa-item {\n  margin: 0;\n}\n/* Phones: no room beside the item, the card opens below it */\n@media (max-width: 600px) {\n  .aa-itemtip-card,\n  .aa-itemtip-left .aa-itemtip-card {\n    top: 100%;\n    left: 0;\n    right: auto;\n    padding: 4px 0 0;\n  }\n}"
+}

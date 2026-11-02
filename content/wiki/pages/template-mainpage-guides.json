@@ -1,0 +1,16 @@
+{
+ "slug": "template-mainpage-guides",
+ "title": "Template:MainPage/Guides",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61032,
+ "revid": 63604,
+ "updated": "2026-11-02T15:32:33Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/Guides",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Guides Browse by topic General Activity Tokens Emerald Weapons Festivals Regrade Rates Mounts Currencies Gliders Ships Cosmetic Costumes & Imaging Stat Migration Stat Costumes & Undergarments Combat Skill Trees Status Effects Abyssal Skills Buffs / Potions Proficiencies Taming NEW Larceny Fishing Commerce Dawnsdrop Tools",
+ "html": "<div>Guides</div>\n<div>Browse by topic</div>\n<div>\n<div><div>General</div>\n<ul><li><a href=\"/wiki/activity-tokens\">Activity Tokens</a></li>\n<li><a href=\"/wiki/emerald-weapons\">Emerald Weapons</a></li>\n<li><a href=\"/wiki/festivals\">Festivals</a></li>\n<li><a href=\"/wiki/regrade-rates\">Regrade Rates</a></li>\n<li><a href=\"/wiki/mounts\">Mounts</a></li>\n<li><a href=\"/wiki/currencies\">Currencies</a></li>\n<li><a href=\"/wiki/gliders\">Gliders</a></li>\n<li><a href=\"/wiki/ships\">Ships</a></li>\n<li><a href=\"/wiki/cosmetic-costumes-imaging\">Cosmetic Costumes &amp; Imaging</a></li>\n<li><a href=\"/wiki/stat-migration\">Stat Migration</a></li>\n<li><a href=\"/wiki/stat-costumes-undergarments\">Stat Costumes &amp; Undergarments</a></li></ul>\n</div>\n<div><div>Combat</div>\n<ul><li><a href=\"/wiki/skill-trees\">Skill Trees</a></li>\n<li><a href=\"/wiki/status-effects\">Status Effects</a></li>\n<li><a href=\"/wiki/abyssal-skills\">Abyssal Skills</a></li>\n<li><a href=\"/wiki/buffs-potions\">Buffs / Potions</a></li></ul>\n</div>\n<div><div>Proficiencies</div>\n<ul><li><a href=\"/wiki/taming\">Taming</a> <span>NEW</span></li>\n<li><a href=\"/wiki/larceny\">Larceny</a></li>\n<li><a href=\"/wiki/fishing\">Fishing</a></li>\n<li><a href=\"/wiki/commerce\">Commerce</a></li>\n<li><a href=\"/wiki/dawnsdrop-tools\">Dawnsdrop Tools</a></li></ul>\n</div>\n</div>",
+ "wikitext": "<div class=\"aa-mp-eyebrow\">Guides</div>\n<div class=\"aa-mp-h\">Browse by topic</div>\n<div class=\"aa-mp-cols\">\n<div class=\"aa-mp-list\"><div class=\"aa-mp-listtitle\">General</div>\n{{PopularPages}}\n</div>\n<div class=\"aa-mp-list\"><div class=\"aa-mp-listtitle\">Combat</div>\n{{CombatPages}}\n</div>\n<div class=\"aa-mp-list\"><div class=\"aa-mp-listtitle\">Proficiencies</div>\n{{ProfessionsPages}}\n</div>\n</div>"
+}

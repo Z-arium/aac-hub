@@ -1,0 +1,304 @@
+{
+ "slug": "news-starfall-discovery-patch-preview",
+ "title": "News/Starfall: Discovery - Patch Preview",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61084,
+ "revid": 63666,
+ "updated": "2026-11-02T16:29:27Z",
+ "source": "https://wiki.aa-classic.com/News/Starfall:_Discovery_-_Patch_Preview",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Discovery_(1.3.6)_—_Global_Patch_Preview",
+   "text": "Discovery (1.3.6) — Global Patch Preview"
+  },
+  {
+   "level": 2,
+   "id": "New_Proficiency:_Taming",
+   "text": "New Proficiency: Taming"
+  },
+  {
+   "level": 3,
+   "id": "How_taming_works",
+   "text": "How taming works"
+  },
+  {
+   "level": 3,
+   "id": "Whistles,_armor,_and_consumables",
+   "text": "Whistles, armor, and consumables"
+  },
+  {
+   "level": 2,
+   "id": "New_Weapon_Type:_Scythes",
+   "text": "New Weapon Type: Scythes"
+  },
+  {
+   "level": 3,
+   "id": "Availability_on_release",
+   "text": "Availability on release"
+  },
+  {
+   "level": 3,
+   "id": "Stat_distributions",
+   "text": "Stat distributions"
+  },
+  {
+   "level": 3,
+   "id": "The_three_procs",
+   "text": "The three procs"
+  },
+  {
+   "level": 3,
+   "id": "Hybrid_Gems",
+   "text": "Hybrid Gems"
+  },
+  {
+   "level": 2,
+   "id": "New_World_Boss:_Primal_Anthalon",
+   "text": "New World Boss: Primal Anthalon"
+  },
+  {
+   "level": 3,
+   "id": "Primal_Kyrios_set",
+   "text": "Primal Kyrios set"
+  },
+  {
+   "level": 3,
+   "id": "Primal_Hallow",
+   "text": "Primal Hallow"
+  },
+  {
+   "level": 2,
+   "id": "New_Gear:_Enlightened_Ayanad_Accessories",
+   "text": "New Gear: Enlightened Ayanad Accessories"
+  },
+  {
+   "level": 3,
+   "id": "Three_enchant_types",
+   "text": "Three enchant types"
+  },
+  {
+   "level": 3,
+   "id": "Rings_and_earrings",
+   "text": "Rings and earrings"
+  },
+  {
+   "level": 3,
+   "id": "Necklaces",
+   "text": "Necklaces"
+  },
+  {
+   "level": 3,
+   "id": "Fusion_with_world-boss,_dungeon,_and_library_accessories",
+   "text": "Fusion with world-boss, dungeon, and library accessories"
+  },
+  {
+   "level": 3,
+   "id": "Enlightened_Ayanad_Armor_is_not_in_1.3.6",
+   "text": "Enlightened Ayanad Armor is not in 1.3.6"
+  },
+  {
+   "level": 2,
+   "id": "Enlightened_Skills",
+   "text": "Enlightened Skills"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Whistles, armor, and consumables",
+   "caption": "",
+   "headers": [
+    "Path",
+    "Role"
+   ],
+   "rows": [
+    [
+     "Swift",
+     "Shorter mount cooldowns"
+    ],
+    [
+     "Stout",
+     "Mount damage reduction"
+    ],
+    [
+     "Survey",
+     "Increased movement speed while overencumbered"
+    ],
+    [
+     "Support",
+     "Increased mana regeneration aura"
+    ]
+   ]
+  },
+  {
+   "heading": "The three procs",
+   "caption": "",
+   "headers": [
+    "Spell"
+   ],
+   "rows": [
+    [
+     "Boastful Roar"
+    ],
+    [
+     "Comet’s Boon"
+    ],
+    [
+     "Crushing Grasp"
+    ],
+    [
+     "Abyssal Wave"
+    ],
+    [
+     "Vicious Implosion"
+    ],
+    [
+     "Mana Force"
+    ],
+    [
+     "Hell Spears"
+    ],
+    [
+     "Absorb Lifeforce"
+    ],
+    [
+     "Summon Crows"
+    ],
+    [
+     "Crippling Mire"
+    ],
+    [
+     "Summon Wraith"
+    ],
+    [
+     "Cursed Thorns"
+    ],
+    [
+     "Critical Discord"
+    ],
+    [
+     "Dissonance"
+    ],
+    [
+     "Earthen Grip"
+    ],
+    [
+     "Enervate"
+    ],
+    [
+     "Focal Concussion"
+    ],
+    [
+     "Fiend’s Knell"
+    ],
+    [
+     "Flamebolt"
+    ],
+    [
+     "Freezing Arrow"
+    ],
+    [
+     "Arc Lightning"
+    ],
+    [
+     "Freezing Earth"
+    ],
+    [
+     "Searing Rain"
+    ],
+    [
+     "Chain Lightning"
+    ],
+    [
+     "Flame Barrier"
+    ],
+    [
+     "Serpent Strike"
+    ],
+    [
+     "Meteor Strike"
+    ],
+    [
+     "Gods’ Whip"
+    ]
+   ]
+  },
+  {
+   "heading": "The three procs",
+   "caption": "",
+   "headers": [
+    "Skill"
+   ],
+   "rows": [
+    [
+     "Mend"
+    ],
+    [
+     "Holy Bolt"
+    ],
+    [
+     "Revive"
+    ],
+    [
+     "Skewer"
+    ],
+    [
+     "Renewal"
+    ],
+    [
+     "Rhythmic Renewal"
+    ],
+    [
+     "Antithesis"
+    ],
+    [
+     "Whirlwind’s Blessing"
+    ],
+    [
+     "Critical Discord"
+    ],
+    [
+     "Hummingbird Ditty"
+    ],
+    [
+     "Health Lift"
+    ]
+   ]
+  },
+  {
+   "heading": "Primal Kyrios set",
+   "caption": "",
+   "headers": [
+    "Absorb Mind (player set)",
+    "Value"
+   ],
+   "rows": [
+    [
+     "Mind Grasp Range",
+     "15 meters"
+    ],
+    [
+     "Teleport Range",
+     "20 meters"
+    ],
+    [
+     "Number of Targets",
+     "10"
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "News aac discovery thumbnail big-f03e7c.png",
+  "News blog-taming-taming thumbnail.png",
+  "News blog-scythes-banner.png",
+  "News prim anth.png",
+  "News aya accs.png",
+  "News image-2e91c0.png",
+  "News skills thumbnail-ca55eb.png"
+ ],
+ "text": "Announcement4 September 2026·All news·Original post on aa-classic.com Starfall: Discovery | Patch Preview The newest installment in the Starfall Saga is landing soon in ArcheAge Classic. Starfall: Discovery will expand the story around the comet that has been looming over Erenor Discovery (1.3.6) — Global Patch Preview The comet has already changed Erenor. Discovery is the patch that starts answering what it left behind: restless beasts, a new hybrid weapon, Anthalon chasing fragments across Auroria, and Ayanad accessories that can finally be unsealed. This post is the rolled-up preview of the Discovery series. Full numbers and tooltips remain in the individual articles. 1.3.6 Preview — Enlightened Ayanad Accessories 1.3.6 Preview — Primal Anthalon 1.3.6 Preview — Scythes 1.3.6 Preview — Taming 1.3.6 Preview — Enlightened Skills Patch Notes — August 28, 2026 (release date) Patch 1.3.6 releases on September 11th. New Proficiency: Taming Taming is ArcheAge Classic's first custom profession. In the months since the comet passed, herders and hunters have been telling the same story. Beasts that once kept to the deep brush have started coming into the open. Boars on the pastures of Solzreed. Grubs along the cold ridgelines of Karkasse. Ants and stranger things dragging themselves out of heat-cracked desert washes after dusk. Tameable creatures can appear as wild stragglers around Erenor, either through farming mobs marked with the Beast of the Wild buff, or found separated from their pack as a Wild beast. How taming works Equipping a Greenhorn’s Backpack will grant skills that enable you to temper a tameable beast's mood. Soothe it when it is scared. Using the wrong action at the wrong time and the beast will grow wary, lose trust, and can flee. Higher-quality backpacks make the process easier. Tamed beasts are a random grade, species, and personality. Grade — base movement speed Species — appearance and default skill set Personality — skills 3, 4, and 5, rolled against the species’ default Completing a successful tame will net you a Mysterious Beast box, which can be listed on the Auction House, where the buyer will have to gamble on personalities. There are four personalities: Hasty, Ferocious, Resolute, and Spunky. Stablehands now sell a Wildcaller Flute. Using one on a mount returns it to the wild and yields Whistles of the Wild. Whistles, armor, and consumables Whistles of the Wild craft taming equipment, mount armor, and a new consumable line that mixes into existing economies: Speed snacks for a short mount boost Food that restores mount Health and Mana Emergency potions for a burst of companion Mana Meals that increase Combat Pet capability On-the-go mount resurrection Mount armor is worn in three pieces — shaffron, saddle, and cannonguards — across three tiers: base, Regal, and Ornate. Four paths exist: Path Role Swift Shorter mount cooldowns Stout Mount damage reduction Survey Increased movement speed while overencumbered Support Increased mana regeneration aura Taming armor can be regraded like other gear and gains gem slots at higher grade. A full Ornate set filled with Celerity gems is intended to be the fastest mount. Mix and match species and personalities to fit your playstyle. Exact recipes and additional costs will be revealed when the patch is live. New Weapon Type: Scythes Discovery adds a brand-new weapon type: Scythes. This is a two-handed weapon that puts Melee Attack, Magic Attack, and Healing Power on a single item. Hybrid archetypes have always been boxed in. Healing and magic together was effectively impossible. Two-handed melee with real magic attack did not exist. Healing melee was locked to shortspears. Scythes are built to open those combinations. They do not match a dedicated two-hander on raw power. Officially, scythes are about 11% weaker than their non-hybrid counterparts. That tax is the cost of flexibility, plus three weapon procs. Availability on release The initial release is limited to crafted and Hasla Emerald versions. Craft from Illustrious through Ayanad on 1.3.6 launch A Hasla Emerald Scythe exists for new, returning, or curious players and uses an Infused Emerald like any other emerald weapon There is no conversion of existing weapons into scythes Recipes use materials in line with other two-handed weapons (staves, greatclubs, greatswords). Exact recipes go live with the patch Obsidian, dungeon, and world-boss scythes are not in 1.3.6. Those paths — including the possibility of 1H variant — are planned after Discovery. Whether they land before or after 2.0 depends on that development cycle. They are a near-term priority, not a launch feature. Stat distributions Crafted scythes are available in: Autumn (Str, Int, Spi) Meteor (Str, Spi) Sunset (Str, Int) Meadow (Int, Spi) Wave (Int) Flame (Str) Life (Spi) Example — Epic Ayanad Autumn Scythe, no temper: DPS: 670 Magic Attack: 670 Healing Power: 670 Strength +53 / Intelligence +44 / Spirit +35 Gear Score: 1010 The three procs Melee and magic procs fire when you deal that damage type. The healing proc fires when you heal an ally. Important note: All procs are on cooldown for 8 seconds after equipping a scythe. Lifesteal — on melee damageHeal yourself for (50 + 180% Healing Power). Influenced by healing critical rate, critical bonus, and percentage increases. Chance on hit: 20% Cooldown: 30 seconds Timewarp — on magic damageFully resets the cooldown of certain skills. Can proc from any magic damage, including damage-over-time. Cooldown reduction does not affect this proc's cooldown. Chance on hit: 5% Cooldown: 180 seconds Here is a full list of all spells that are affected by Timewarp: Spell Boastful Roar Comet’s Boon Crushing Grasp Abyssal Wave Vicious Implosion Mana Force Hell Spears Absorb Lifeforce Summon Crows Crippling Mire Summon Wraith Cursed Thorns Critical Discord Dissonance Earthen Grip Enervate Focal Concussion Fiend’s Knell Flamebolt Freezing Arrow Arc Lightning Freezing Earth Searing Rain Chain Lightning Flame Barrier Serpent Strike Meteor Strike Gods’ Whip (All Ancestral and Enlightened variants of the spells listed above are also affected by Timewarp.) Nui’s Celerity — on healRemoves the cast time from certain skills. Can proc from heal over-time skills. Chance on heal: 8% Cooldown: 50 seconds Duration: 8 seconds Here is a full list of all spells that are affected by Nui’s Celerity: Skill Mend Holy Bolt Revive Skewer Renewal Rhythmic Renewal Antithesis Whirlwind’s Blessing Critical Discord Hummingbird Ditty Health Lift (All Ancestral and Enlightened variants of the spells listed above are also affected by Nui’s Celerity.) | Hybrid Gems In addition to touching up scythe procs, we have also added brand new hybrid gems for 2H weapons. Gale Lunagem: Harmony Lucid (T3): Melee, Magic Critical Damage & Healing Critical Bonus +3.5%. Vivid (T2): Melee, Magic Critical Damage & Healing Critical Bonus +2.1%. Clear (T1): Melee, Magic Critical Damage & Healing Critical Bonus +1.4%. Obtaining: Added to sealed lunagems obtained from Mistsong Summit’s Mistsong Reticules, or those from crafting up lower tier sealed lunagems acquired from Mistsong Summit. Lucid version added to the loyalty shop for 100 loyalty. Extra Notes: Function like normal critical damage/healing critical bonus gems. Same socketing rates and socketing gold cost. Not restricted to only scythes. After launch, scythe performance will be observed and adjusted as necessary so hybrid archetypes stay viable. New World Boss: Primal Anthalon Primal Anthalon, Leader of the Crimson Army, arrives in Discovery as a new world-boss challenge. As the comet passed over Sungold Fields, Anthalon watched its trail and felt the power inside it. Knowing it would descend on Exeloch, he followed, determined to claim the fragments before they fell into mortal hands. He means to harness that power and turn it on Auroria. That is the Discovery beat. The comet is not only scenery. Anthalon is the first named power to find a use for it. Further comet lore — including follow-up work with Iseren of the Ayanad Council — is intended to continue after launch. Primal Kyrios set Primal Anthalon has a chance to drop one random piece of the Primal Kyrios cloth set, which has an equivalent ilvl to Ayanad armor. The set carries Anthalon's signature spell, Absorb Mind. Upon dealing any damage, the user has a 5% chance to trigger Absorb Mind. Similar to Anthalon’s Necromantic Flame, Absorb Mind grants the user a new ability that allows them teleport to any target within 20 meters, after which, the user has a 5 second window to activate Mind Grasp which will pick the closest 10 enemy units in a 15 meter range and lift them up into the air. Victims of Mind Grasp are helpless but are immune to any damage for the duration of the lift. This means, although you are unable to hurt enemies lifted by Mind Grasp, you have ample time to prepare for their inevitable descent. Absorb Mind (player set) Value Mind Grasp Range 15 meters Teleport Range 20 meters Number of Targets 10 Differences from Anthalon's original spell: There is no way to break free from Absorb Mind. Enemy players affected by Absorb Mind are immune to all damage while levitated. The original mana burn is not included. The trip on landing is not included. The caster is immune to all CC while channeling Mind Grasp. Pure Destruction set effects: 4 pieces: +700 Toughness. Low chance to trigger Anthalon's Necromantic Flame when receiving damage 7 pieces: −4.5% received damage. Low chance to trigger Absorb Mind when dealing damage Primal Hallow A Primal Hallow is a guaranteed drop from Primal Anthalon. Use it to upgrade a piece of existing Anthalon armor into the Primal equivalent. Grade is retained. Additional craft costs will be revealed when the patch is live. New Gear: Enlightened Ayanad Accessories Scholars of the Ayanad Library recovered research into Runestones — work Alexander pursued, then destroyed when Kyrios wanted it. A Runestone resonates with the magic already sealed in an item and draws that power to the surface. Apply a Runestone to an Ayanad accessory and it becomes the matching Enlightened version. Grade is kept. Existing equip effects stay. The process does not replace the accessory; it awakens it. By default, Enlightened accessories have no assigned stats until you frost them. Three enchant types Perfect Lunasigil — stats on an Enlightened ring, earring, or necklace (example: Perfect Stone Lunasigil, +20 Stamina / +20 Spirit). Applying another Lunasigil replaces the current one Charm — applied to your costume. Grants the Enlightenment 2-set you unlocked Mark — Radiant or Hollow Lunamark on an Enlightened necklace. Rewrites one skill Rings and earrings A matching ring + earring pair of the same Ayanad type activates that Enlightenment (Meadow, Earth, Wave, Flame, Life, Lightning, Gale, and so on). Enchant the corresponding Charm on your costume to receive the effect. Two rings or two earrings of the same type do not activate the set. Necklaces Necklaces have no 2-set. They still take Perfect Lunasigils for stats, and they take one Radiant or Hollow Mark for a skill rewrite. Applying a Mark over another Mark replaces it Applying a Mark over a Perfect Lunasigil replaces the Lunasigil Marks can be frosted onto Enlightened world-boss and dungeon necklaces as well Discovery ships 10 Radiant and 10 Hollow Marks. Radiant leans support and defensive. Hollow leans offensive. Fusion with world-boss, dungeon, and library accessories An Enlightened Ayanad necklace or earring can be fused with existing world-boss, dungeon, and library accessories using an enchantment scroll (Dread, Salvation, Tempest, Colossus, plus Berserker, Oracle, Arcanist, and Shadow lines). Both input accessories are consumed The Enlightened Ayanad piece's grade is kept Combo effects scale from Divine upward Celestial and below keep their default effects with no improvement Library sets need ring + earring + necklace for their 3-piece bonus Exact scroll material costs will be published when the patch is live. Enlightened Ayanad Armor is not in 1.3.6 After player feedback, Enlightened Ayanad Armor will not ship in Discovery. Some unique effects originally planned for Lunasigil armor were moved onto the accessory update instead. Existing Ayanad armor is still planned to receive retroactive set-bonus adjustments in 1.3.6. Those values remain subject to feedback. The original values can be found on Enlightened Accessories Preview. The image below shows the changes that have been made based on recent feedback. Enlightened Skills Enlightened Skills are the Radiant and Hollow rewrites frosted onto Enlightened necklaces — including fused boss and dungeon necks. Only one Mark can be active at a time. Full tooltips live in the Enlightened Skills preview. See you on September 11th.",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/c1/c1620a8c84de387f5f0fb0bb5d8e2e29b4a0f137.png\" width=\"1200\" height=\"400\" loading=\"lazy\"></span></span></div><div><div><span>Announcement</span><span>4 September 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/starfall-discovery-patch-preview\">Original post on aa-classic.com</a></div><div>Starfall: Discovery | Patch Preview</div><div>The newest installment in the Starfall Saga is landing soon in ArcheAge Classic. Starfall: Discovery will expand the story around the comet that has been looming over Erenor</div></div></div>\n\n<h2 id=\"Discovery_(1.3.6)_—_Global_Patch_Preview\"><span></span>Discovery (1.3.6) — Global Patch Preview</h2>\n<p>The comet has already changed Erenor. <b>Discovery</b> is the patch that starts answering what it left behind: restless beasts, a new hybrid weapon, Anthalon chasing fragments across Auroria, and Ayanad accessories that can finally be unsealed.\n</p><p>This post is the rolled-up preview of the Discovery series. Full numbers and tooltips remain in the individual articles.\n</p>\n<ul><li><a href=\"/wiki/news-1-3-6-preview-enlightened-ayanad-accessories\">1.3.6 Preview — Enlightened Ayanad Accessories</a></li>\n<li><a href=\"/wiki/news-1-3-6-preview-primal-anthalon\">1.3.6 Preview — Primal Anthalon</a></li>\n<li><a href=\"/wiki/news-1-3-6-preview-scythes\">1.3.6 Preview — Scythes</a></li>\n<li><a href=\"/wiki/news-1-3-6-preview-taming\">1.3.6 Preview — Taming</a></li>\n<li><a href=\"/wiki/news-1-3-6-preview-enlightened-skills\">1.3.6 Preview — Enlightened Skills</a></li>\n<li><a href=\"/wiki/news-patch-notes-august-28-2026\">Patch Notes — August 28, 2026</a> (release date)</li></ul>\n<p><b>Patch 1.3.6 releases on September 11th.</b>\n</p>\n<hr>\n<h2 id=\"New_Proficiency:_Taming\">New Proficiency: Taming</h2>\n<figure><img alt=\"taming thumbnail\" src=\"/wiki-files/90/9017f16be737a9461c964200bce0c0c3778d6e29.png\" width=\"700\" height=\"233\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Taming is ArcheAge Classic's first custom profession.\n</p><p>In the months since the comet passed, herders and hunters have been telling the same story. Beasts that once kept to the deep brush have started coming into the open. Boars on the pastures of Solzreed. Grubs along the cold ridgelines of Karkasse. Ants and stranger things dragging themselves out of heat-cracked desert washes after dusk.\n</p><p>Tameable creatures can appear as wild stragglers around Erenor, either through farming mobs marked with the <b>Beast of the Wild</b> buff, or found separated from their pack as a <b>Wild</b> beast.\n</p>\n<h3 id=\"How_taming_works\">How taming works</h3>\n<p>Equipping a <b>Greenhorn’s Backpack</b> will grant skills that enable you to temper a tameable beast's mood. Soothe it when it is scared. Using the wrong action at the wrong time and the beast will grow wary, lose trust, and can flee. Higher-quality backpacks make the process easier.\n</p><p>Tamed beasts are a random grade, species, and personality.\n</p>\n<ul><li><b>Grade</b> — base movement speed</li>\n<li><b>Species</b> — appearance and default skill set</li>\n<li><b>Personality</b> — skills 3, 4, and 5, rolled against the species’ default</li></ul>\n<p>Completing a successful tame will net you a <b>Mysterious Beast</b> box, which can be listed on the Auction House, where the buyer will have to gamble on personalities.\n</p><p>There are four personalities: <b>Hasty</b>, <b>Ferocious</b>, <b>Resolute</b>, and <b>Spunky</b>.\n</p><p>Stablehands now sell a <b>Wildcaller Flute</b>. Using one on a mount returns it to the wild and yields <b>Whistles of the Wild</b>.\n</p>\n<h3 id=\"Whistles,_armor,_and_consumables\"><span></span>Whistles, armor, and consumables</h3>\n<p>Whistles of the Wild craft taming equipment, mount armor, and a new consumable line that mixes into existing economies:\n</p>\n<ul><li>Speed snacks for a short mount boost</li>\n<li>Food that restores mount Health and Mana</li>\n<li>Emergency potions for a burst of companion Mana</li>\n<li>Meals that increase Combat Pet capability</li>\n<li>On-the-go mount resurrection</li></ul>\n<p>Mount armor is worn in three pieces — <b>shaffron</b>, <b>saddle</b>, and <b>cannonguards</b> — across three tiers: base, <b>Regal</b>, and <b>Ornate</b>. Four paths exist:\n</p>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Path</th>\n<th>Role\n</th></tr>\n<tr>\n<td><b>Swift</b></td>\n<td>Shorter mount cooldowns\n</td></tr>\n<tr>\n<td><b>Stout</b></td>\n<td>Mount damage reduction\n</td></tr>\n<tr>\n<td><b>Survey</b></td>\n<td>Increased movement speed while overencumbered\n</td></tr>\n<tr>\n<td><b>Support</b></td>\n<td>Increased mana regeneration aura\n</td></tr></tbody></table>\n<p>Taming armor can be regraded like other gear and gains gem slots at higher grade. A full Ornate set filled with Celerity gems is intended to be the fastest mount. Mix and match species and personalities to fit your playstyle.\n</p><p>Exact recipes and additional costs will be revealed when the patch is live.\n</p>\n<hr>\n<h2 id=\"New_Weapon_Type:_Scythes\">New Weapon Type: Scythes</h2>\n<figure><img alt=\"banner\" src=\"/wiki-files/6e/6ed35e2b61b50a3de5a1e5b6879740a78c1d44a7.png\" width=\"700\" height=\"234\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Discovery adds a brand-new weapon type: <b>Scythes</b>.\n</p><p>This is a <b>two-handed</b> weapon that puts <b>Melee Attack</b>, <b>Magic Attack</b>, and <b>Healing Power</b> on a single item. Hybrid archetypes have always been boxed in. Healing and magic together was effectively impossible. Two-handed melee with real magic attack did not exist. Healing melee was locked to shortspears. Scythes are built to open those combinations.\n</p><p>They do not match a dedicated two-hander on raw power. Officially, scythes are <b>about 11% weaker</b> than their non-hybrid counterparts. That tax is the cost of flexibility, plus three weapon procs.\n</p>\n<h3 id=\"Availability_on_release\">Availability on release</h3>\n<p>The initial release is limited to <b>crafted</b> and <b>Hasla Emerald</b> versions.\n</p>\n<ul><li>Craft from <b>Illustrious through Ayanad</b> on 1.3.6 launch</li>\n<li>A <b>Hasla Emerald Scythe</b> exists for new, returning, or curious players and uses an Infused Emerald like any other emerald weapon</li>\n<li>There is <b>no conversion</b> of existing weapons into scythes</li>\n<li>Recipes use materials in line with other two-handed weapons (staves, greatclubs, greatswords). Exact recipes go live with the patch</li></ul>\n<p><b>Obsidian, dungeon, and world-boss scythes are not in 1.3.6.</b> Those paths — including the possibility of 1H variant — are planned after Discovery. Whether they land before or after 2.0 depends on that development cycle. They are a near-term priority, not a launch feature.\n</p>\n<h3 id=\"Stat_distributions\">Stat distributions</h3>\n<p>Crafted scythes are available in:\n</p>\n<ul><li>Autumn (Str, Int, Spi)</li>\n<li>Meteor (Str, Spi)</li>\n<li>Sunset (Str, Int)</li>\n<li>Meadow (Int, Spi)</li>\n<li>Wave (Int)</li>\n<li>Flame (Str)</li>\n<li>Life (Spi)</li></ul>\n<p>Example — <b>Epic Ayanad Autumn Scythe</b>, no temper:\n</p>\n<ul><li>DPS: 670</li>\n<li>Magic Attack: 670</li>\n<li>Healing Power: 670</li>\n<li>Strength +53 / Intelligence +44 / Spirit +35</li>\n<li>Gear Score: 1010</li></ul>\n<h3 id=\"The_three_procs\">The three procs</h3>\n<p>Melee and magic procs fire when you deal that damage type. The healing proc fires when you heal an ally.\n</p><p><b>Important note: All procs are on cooldown for 8 seconds after equipping a scythe.</b>\n</p><p><b>Lifesteal — on melee damage</b>\nHeal yourself for <code>(50 + 180% Healing Power)</code>. Influenced by healing critical rate, critical bonus, and percentage increases.\n</p>\n<ul><li>Chance on hit: 20%</li>\n<li>Cooldown: 30 seconds</li></ul>\n<p><b>Timewarp — on magic damage</b>\nFully resets the cooldown of <b>certain</b> skills. Can proc from any magic damage, including damage-over-time. Cooldown reduction does <b>not</b> affect this proc's cooldown.\n</p>\n<ul><li>Chance on hit: 5%</li>\n<li>Cooldown: 180 seconds</li></ul>\n<p>Here is a full list of all spells that are affected by Timewarp:\n</p>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Spell\n</th></tr>\n<tr>\n<td>Boastful Roar\n</td></tr>\n<tr>\n<td>Comet’s Boon\n</td></tr>\n<tr>\n<td>Crushing Grasp\n</td></tr>\n<tr>\n<td>Abyssal Wave\n</td></tr>\n<tr>\n<td>Vicious Implosion\n</td></tr>\n<tr>\n<td>Mana Force\n</td></tr>\n<tr>\n<td>Hell Spears\n</td></tr>\n<tr>\n<td>Absorb Lifeforce\n</td></tr>\n<tr>\n<td>Summon Crows\n</td></tr>\n<tr>\n<td>Crippling Mire\n</td></tr>\n<tr>\n<td>Summon Wraith\n</td></tr>\n<tr>\n<td>Cursed Thorns\n</td></tr>\n<tr>\n<td>Critical Discord\n</td></tr>\n<tr>\n<td>Dissonance\n</td></tr>\n<tr>\n<td>Earthen Grip\n</td></tr>\n<tr>\n<td>Enervate\n</td></tr>\n<tr>\n<td>Focal Concussion\n</td></tr>\n<tr>\n<td>Fiend’s Knell\n</td></tr>\n<tr>\n<td>Flamebolt\n</td></tr>\n<tr>\n<td>Freezing Arrow\n</td></tr>\n<tr>\n<td>Arc Lightning\n</td></tr>\n<tr>\n<td>Freezing Earth\n</td></tr>\n<tr>\n<td>Searing Rain\n</td></tr>\n<tr>\n<td>Chain Lightning\n</td></tr>\n<tr>\n<td>Flame Barrier\n</td></tr>\n<tr>\n<td>Serpent Strike\n</td></tr>\n<tr>\n<td>Meteor Strike\n</td></tr>\n<tr>\n<td>Gods’ Whip\n</td></tr></tbody></table>\n<p>(All Ancestral and Enlightened variants of the spells listed above are also affected by Timewarp.)\n</p><p><b>Nui’s Celerity — on heal</b>\nRemoves the cast time from <b>certain</b> skills. Can proc from heal over-time skills.\n</p>\n<ul><li>Chance on heal: 8%</li>\n<li>Cooldown: 50 seconds</li>\n<li>Duration: 8 seconds</li></ul>\n<p>Here is a full list of all spells that are affected by Nui’s Celerity:\n</p>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Skill\n</th></tr>\n<tr>\n<td>Mend\n</td></tr>\n<tr>\n<td>Holy Bolt\n</td></tr>\n<tr>\n<td>Revive\n</td></tr>\n<tr>\n<td>Skewer\n</td></tr>\n<tr>\n<td>Renewal\n</td></tr>\n<tr>\n<td>Rhythmic Renewal\n</td></tr>\n<tr>\n<td>Antithesis\n</td></tr>\n<tr>\n<td>Whirlwind’s Blessing\n</td></tr>\n<tr>\n<td>Critical Discord\n</td></tr>\n<tr>\n<td>Hummingbird Ditty\n</td></tr>\n<tr>\n<td>Health Lift\n</td></tr></tbody></table>\n<p>(All Ancestral and Enlightened variants of the spells listed above are also affected by Nui’s Celerity.) |\n</p>\n<h3 id=\"Hybrid_Gems\">Hybrid Gems</h3>\n<p>In addition to touching up scythe procs, we have also added brand new hybrid gems for 2H weapons.\n</p><p>Gale Lunagem: Harmony\n</p><p>Lucid (T3): Melee, Magic Critical Damage &amp; Healing Critical Bonus +3.5%.\n</p><p>Vivid (T2): Melee, Magic Critical Damage &amp; Healing Critical Bonus +2.1%.\n</p><p>Clear (T1): Melee, Magic Critical Damage &amp; Healing Critical Bonus +1.4%.\n</p><p>Obtaining:\n</p>\n<ul><li>Added to sealed lunagems obtained from Mistsong Summit’s Mistsong Reticules, or those from crafting up lower tier sealed lunagems acquired from Mistsong Summit.</li>\n<li>Lucid version added to the loyalty shop for 100 loyalty.</li></ul>\n<p>Extra Notes:\n</p>\n<ul><li>Function like normal critical damage/healing critical bonus gems.</li>\n<li>Same socketing rates and socketing gold cost.</li>\n<li>Not restricted to only scythes.</li></ul>\n<p>After launch, scythe performance will be observed and adjusted as necessary so hybrid archetypes stay viable.\n</p>\n<hr>\n<h2 id=\"New_World_Boss:_Primal_Anthalon\">New World Boss: Primal Anthalon</h2>\n<figure><img alt=\"prim anth\" src=\"/wiki-files/9a/9a890f3a6a10645b069bac1f05c0a97afb104f1b.png\" width=\"700\" height=\"246\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><b>Primal Anthalon, Leader of the Crimson Army</b>, arrives in Discovery as a new world-boss challenge.\n</p><p>As the comet passed over <b>Sungold Fields</b>, Anthalon watched its trail and felt the power inside it. Knowing it would descend on <b>Exeloch</b>, he followed, determined to claim the fragments before they fell into mortal hands. He means to harness that power and turn it on Auroria.\n</p><p>That is the Discovery beat. The comet is not only scenery. Anthalon is the first named power to find a use for it.\n</p><p>Further comet lore — including follow-up work with <b>Iseren</b> of the Ayanad Council — is intended to continue after launch.\n</p>\n<h3 id=\"Primal_Kyrios_set\">Primal Kyrios set</h3>\n<p>Primal Anthalon has a chance to drop one random piece of the <b>Primal Kyrios</b> cloth set, which has an equivalent ilvl to Ayanad armor.\n</p><p>The set carries Anthalon's signature spell, <b>Absorb Mind</b>. Upon dealing any damage, the user has a 5% chance to trigger <b>Absorb Mind</b>.\n</p><p>Similar to Anthalon’s Necromantic Flame, Absorb Mind grants the user a new ability that allows them teleport to any target within 20 meters, after which, the user has a 5 second window to activate <b>Mind Grasp</b> which will pick the closest 10 enemy units in a 15 meter range and lift them up into the air.\n</p><p>Victims of Mind Grasp are helpless but are immune to any damage for the duration of the lift. This means, although you are unable to hurt enemies lifted by Mind Grasp, you have ample time to prepare for their inevitable descent.\n</p>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Absorb Mind (player set)</th>\n<th>Value\n</th></tr>\n<tr>\n<td>Mind Grasp Range</td>\n<td>15 meters\n</td></tr>\n<tr>\n<td>Teleport Range</td>\n<td>20 meters\n</td></tr>\n<tr>\n<td>Number of Targets</td>\n<td>10\n</td></tr></tbody></table>\n<p>Differences from Anthalon's original spell:\n</p>\n<ul><li>There is no way to break free from Absorb Mind.</li>\n<li>Enemy players affected by Absorb Mind are <b>immune to all damage</b> while levitated.</li>\n<li>The original <b>mana burn</b> is not included.</li>\n<li>The <b>trip</b> on landing is not included.</li>\n<li>The caster is <b>immune to all CC</b> while channeling Mind Grasp.</li></ul>\n<p><b>Pure Destruction</b> set effects:\n</p>\n<ul><li><b>4 pieces:</b> +700 Toughness. Low chance to trigger Anthalon's Necromantic Flame when receiving damage</li>\n<li><b>7 pieces:</b> −4.5% received damage. Low chance to trigger Absorb Mind when dealing damage</li></ul>\n<h3 id=\"Primal_Hallow\">Primal Hallow</h3>\n<p>A <b>Primal Hallow</b> is a <b>guaranteed</b> drop from Primal Anthalon. Use it to upgrade a piece of existing Anthalon armor into the Primal equivalent. <b>Grade is retained.</b> Additional craft costs will be revealed when the patch is live.\n</p>\n<hr>\n<h2 id=\"New_Gear:_Enlightened_Ayanad_Accessories\">New Gear: Enlightened Ayanad Accessories</h2>\n<figure><img alt=\"aya accs\" src=\"/wiki-files/76/763d2cfeb19201a918bce27dff84ce387ddb7080.png\" width=\"700\" height=\"231\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Scholars of the Ayanad Library recovered research into <b>Runestones</b> — work Alexander pursued, then destroyed when Kyrios wanted it. A Runestone resonates with the magic already sealed in an item and draws that power to the surface.\n</p><p>Apply a Runestone to an Ayanad accessory and it becomes the matching <b>Enlightened</b> version. <b>Grade is kept.</b> Existing equip effects stay. The process does not replace the accessory; it awakens it.\n</p><p>By default, Enlightened accessories have <b>no assigned stats</b> until you frost them.\n</p>\n<h3 id=\"Three_enchant_types\">Three enchant types</h3>\n<ul><li><b>Perfect Lunasigil</b> — stats on an Enlightened ring, earring, or necklace (example: Perfect Stone Lunasigil, +20 Stamina / +20 Spirit). Applying another Lunasigil replaces the current one</li>\n<li><b>Charm</b> — applied to your <b>costume</b>. Grants the Enlightenment 2-set you unlocked</li>\n<li><b>Mark</b> — Radiant or Hollow Lunamark on an Enlightened <b>necklace</b>. Rewrites one skill</li></ul>\n<h3 id=\"Rings_and_earrings\">Rings and earrings</h3>\n<p>A matching <b>ring + earring</b> pair of the same Ayanad type activates that Enlightenment (Meadow, Earth, Wave, Flame, Life, Lightning, Gale, and so on). Enchant the corresponding Charm on your costume to receive the effect.\n</p><p>Two rings or two earrings of the same type do <b>not</b> activate the set.\n</p>\n<h3 id=\"Necklaces\">Necklaces</h3>\n<p>Necklaces have no 2-set. They still take Perfect Lunasigils for stats, and they take <b>one</b> Radiant or Hollow Mark for a skill rewrite.\n</p>\n<ul><li>Applying a Mark over another Mark replaces it</li>\n<li>Applying a Mark over a Perfect Lunasigil replaces the Lunasigil</li>\n<li>Marks can be frosted onto Enlightened world-boss and dungeon necklaces as well</li></ul>\n<p>Discovery ships <b>10 Radiant</b> and <b>10 Hollow</b> Marks. Radiant leans support and defensive. Hollow leans offensive.\n</p>\n<h3 id=\"Fusion_with_world-boss,_dungeon,_and_library_accessories\"><span></span>Fusion with world-boss, dungeon, and library accessories</h3>\n<p>An Enlightened Ayanad necklace or earring can be fused with existing world-boss, dungeon, and library accessories using an enchantment scroll (Dread, Salvation, Tempest, Colossus, plus Berserker, Oracle, Arcanist, and Shadow lines).\n</p>\n<ul><li>Both input accessories are consumed</li>\n<li>The Enlightened Ayanad piece's <b>grade is kept</b></li>\n<li>Combo effects <b>scale from Divine upward</b></li>\n<li>Celestial and below keep their default effects with no improvement</li>\n<li>Library sets need ring + earring + necklace for their 3-piece bonus</li></ul>\n<p>Exact scroll material costs will be published when the patch is live.\n</p>\n<h3 id=\"Enlightened_Ayanad_Armor_is_not_in_1.3.6\">Enlightened Ayanad Armor is not in 1.3.6</h3>\n<p>After player feedback, <b>Enlightened Ayanad Armor will not ship in Discovery.</b> Some unique effects originally planned for Lunasigil armor were moved onto the accessory update instead.\n</p><p>Existing Ayanad armor is still planned to receive <b>retroactive set-bonus adjustments</b> in 1.3.6. Those values remain subject to feedback.\n</p><p>The original values can be found on <a href=\"/wiki/news-1-3-6-preview-enlightened-ayanad-accessories\">Enlightened Accessories Preview</a>.\n</p><p>The image below shows the changes that have been made based on recent feedback.\n</p>\n<figure><img alt=\"image\" src=\"/wiki-files/e4/e4b549da3873194891c6d250b18d1b8feac77af0.png\" width=\"700\" height=\"284\" loading=\"lazy\"><figcaption></figcaption></figure>\n<hr>\n<h2 id=\"Enlightened_Skills\">Enlightened Skills</h2>\n<figure><img alt=\"skills thumbnail\" src=\"/wiki-files/d5/d5b9978b407e3d418eb13e8bda591ae631eb6374.png\" width=\"700\" height=\"233\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>Enlightened Skills are the Radiant and Hollow rewrites frosted onto Enlightened necklaces — including fused boss and dungeon necks. <b>Only one Mark can be active at a time.</b>\n</p><p>Full tooltips live in the <a href=\"/wiki/news-1-3-6-preview-enlightened-skills\">Enlightened Skills preview</a>.\n</p>\n<hr>\n<p>See you on September 11th.\n</p>",
+ "wikitext": "{{NewsArticle\n|title=Starfall: Discovery {{!}} Patch Preview\n|slug=starfall-discovery-patch-preview\n|date=2026-09-04 22:10\n|category=Announcement\n|image=News aac discovery thumbnail big-f03e7c.png\n|summary=The newest installment in the Starfall Saga is landing soon in ArcheAge Classic. Starfall: Discovery will expand the story around the comet that has been looming over Erenor\n|source=https://aa-classic.com/news/starfall-discovery-patch-preview\n}}\n\n== Discovery (1.3.6) — Global Patch Preview ==\n\nThe comet has already changed Erenor. '''Discovery''' is the patch that starts answering what it left behind: restless beasts, a new hybrid weapon, Anthalon chasing fragments across Auroria, and Ayanad accessories that can finally be unsealed.\n\nThis post is the rolled-up preview of the Discovery series. Full numbers and tooltips remain in the individual articles.\n\n* [[News/1.3.6 Preview - Enlightened Ayanad Accessories|1.3.6 Preview — Enlightened Ayanad Accessories]]\n* [[News/1.3.6 Preview - Primal Anthalon|1.3.6 Preview — Primal Anthalon]]\n* [[News/1.3.6 Preview - Scythes|1.3.6 Preview — Scythes]]\n* [[News/1.3.6 Preview - Taming|1.3.6 Preview — Taming]]\n* [[News/1.3.6 Preview - Enlightened Skills|1.3.6 Preview — Enlightened Skills]]\n* [[News/📜 Patch Notes - August 28, 2026|Patch Notes — August 28, 2026]] (release date)\n\n'''Patch 1.3.6 releases on September 11th.'''\n\n----\n\n== New Proficiency: Taming ==\n[[File:News blog-taming-taming thumbnail.png|center|700px|alt=taming thumbnail]]\nTaming is ArcheAge Classic's first custom profession.\n\nIn the months since the comet passed, herders and hunters have been telling the same story. Beasts that once kept to the deep brush have started coming into the open. Boars on the pastures of Solzreed. Grubs along the cold ridgelines of Karkasse. Ants and stranger things dragging themselves out of heat-cracked desert washes after dusk.\n\nTameable creatures can appear as wild stragglers around Erenor, either through farming mobs marked with the '''Beast of the Wild''' buff, or found separated from their pack as a '''Wild''' beast.\n\n=== How taming works ===\n\nEquipping a '''Greenhorn’s Backpack''' will grant skills that enable you to temper a tameable beast's mood. Soothe it when it is scared. Using the wrong action at the wrong time and the beast will grow wary, lose trust, and can flee. Higher-quality backpacks make the process easier.\n\nTamed beasts are a random grade, species, and personality.\n* '''Grade''' — base movement speed\n* '''Species''' — appearance and default skill set\n* '''Personality''' — skills 3, 4, and 5, rolled against the species’ default\n\nCompleting a successful tame will net you a '''Mysterious Beast''' box, which can be listed on the Auction House, where the buyer will have to gamble on personalities.\n\nThere are four personalities: '''Hasty''', '''Ferocious''', '''Resolute''', and '''Spunky'''.\n\nStablehands now sell a '''Wildcaller Flute'''. Using one on a mount returns it to the wild and yields '''Whistles of the Wild'''.\n\n=== Whistles, armor, and consumables ===\n\nWhistles of the Wild craft taming equipment, mount armor, and a new consumable line that mixes into existing economies:\n\n* Speed snacks for a short mount boost\n* Food that restores mount Health and Mana\n* Emergency potions for a burst of companion Mana\n* Meals that increase Combat Pet capability\n* On-the-go mount resurrection\n\nMount armor is worn in three pieces — '''shaffron''', '''saddle''', and '''cannonguards''' — across three tiers: base, '''Regal''', and '''Ornate'''. Four paths exist:\n\n{| class=\"wikitable\"\n|-\n! Path !! Role\n|-\n| '''Swift''' || Shorter mount cooldowns\n|-\n| '''Stout''' || Mount damage reduction\n|-\n| '''Survey''' || Increased movement speed while overencumbered\n|-\n| '''Support''' || Increased mana regeneration aura\n|}\n\nTaming armor can be regraded like other gear and gains gem slots at higher grade. A full Ornate set filled with Celerity gems is intended to be the fastest mount. Mix and match species and personalities to fit your playstyle.\n\nExact recipes and additional costs will be revealed when the patch is live.\n\n----\n\n== New Weapon Type: Scythes ==\n[[File:News blog-scythes-banner.png|center|700px|alt=banner]]\nDiscovery adds a brand-new weapon type: '''Scythes'''.\n\nThis is a '''two-handed''' weapon that puts '''Melee Attack''', '''Magic Attack''', and '''Healing Power''' on a single item. Hybrid archetypes have always been boxed in. Healing and magic together was effectively impossible. Two-handed melee with real magic attack did not exist. Healing melee was locked to shortspears. Scythes are built to open those combinations.\n\nThey do not match a dedicated two-hander on raw power. Officially, scythes are '''about 11% weaker''' than their non-hybrid counterparts. That tax is the cost of flexibility, plus three weapon procs.\n\n=== Availability on release ===\n\nThe initial release is limited to '''crafted''' and '''Hasla Emerald''' versions.\n\n* Craft from '''Illustrious through Ayanad''' on 1.3.6 launch\n* A '''Hasla Emerald Scythe''' exists for new, returning, or curious players and uses an Infused Emerald like any other emerald weapon\n* There is '''no conversion''' of existing weapons into scythes\n* Recipes use materials in line with other two-handed weapons (staves, greatclubs, greatswords). Exact recipes go live with the patch\n\n'''Obsidian, dungeon, and world-boss scythes are not in 1.3.6.''' Those paths — including the possibility of 1H variant — are planned after Discovery. Whether they land before or after 2.0 depends on that development cycle. They are a near-term priority, not a launch feature.\n\n=== Stat distributions ===\n\nCrafted scythes are available in:\n\n* Autumn (Str, Int, Spi)\n* Meteor (Str, Spi)\n* Sunset (Str, Int)\n* Meadow (Int, Spi)\n* Wave (Int)\n* Flame (Str)\n* Life (Spi)\n\nExample — '''Epic Ayanad Autumn Scythe''', no temper:\n\n* DPS: 670\n* Magic Attack: 670\n* Healing Power: 670\n* Strength +53 / Intelligence +44 / Spirit +35\n* Gear Score: 1010\n\n=== The three procs ===\n\nMelee and magic procs fire when you deal that damage type. The healing proc fires when you heal an ally.\n\n'''Important note: All procs are on cooldown for 8 seconds after equipping a scythe.'''\n\n'''Lifesteal — on melee damage'''\nHeal yourself for <code>(50 + 180% Healing Power)</code>. Influenced by healing critical rate, critical bonus, and percentage increases.\n\n* Chance on hit: 20%\n* Cooldown: 30 seconds\n\n'''Timewarp — on magic damage'''\nFully resets the cooldown of '''certain''' skills. Can proc from any magic damage, including damage-over-time. Cooldown reduction does '''not''' affect this proc's cooldown.\n\n* Chance on hit: 5%\n* Cooldown: 180 seconds\n\nHere is a full list of all spells that are affected by Timewarp:\n\n{| class=\"wikitable\"\n|-\n! Spell\n|-\n| Boastful Roar\n|-\n| Comet’s Boon\n|-\n| Crushing Grasp\n|-\n| Abyssal Wave\n|-\n| Vicious Implosion\n|-\n| Mana Force\n|-\n| Hell Spears\n|-\n| Absorb Lifeforce\n|-\n| Summon Crows\n|-\n| Crippling Mire\n|-\n| Summon Wraith\n|-\n| Cursed Thorns\n|-\n| Critical Discord\n|-\n| Dissonance\n|-\n| Earthen Grip\n|-\n| Enervate\n|-\n| Focal Concussion\n|-\n| Fiend’s Knell\n|-\n| Flamebolt\n|-\n| Freezing Arrow\n|-\n| Arc Lightning\n|-\n| Freezing Earth\n|-\n| Searing Rain\n|-\n| Chain Lightning\n|-\n| Flame Barrier\n|-\n| Serpent Strike\n|-\n| Meteor Strike\n|-\n| Gods’ Whip\n|}\n\n(All Ancestral and Enlightened variants of the spells listed above are also affected by Timewarp.)\n\n'''Nui’s Celerity — on heal'''\nRemoves the cast time from '''certain''' skills. Can proc from heal over-time skills.\n\n* Chance on heal: 8%\n* Cooldown: 50 seconds\n* Duration: 8 seconds\n\nHere is a full list of all spells that are affected by Nui’s Celerity:\n\n{| class=\"wikitable\"\n|-\n! Skill\n|-\n| Mend\n|-\n| Holy Bolt\n|-\n| Revive\n|-\n| Skewer\n|-\n| Renewal\n|-\n| Rhythmic Renewal\n|-\n| Antithesis\n|-\n| Whirlwind’s Blessing\n|-\n| Critical Discord\n|-\n| Hummingbird Ditty\n|-\n| Health Lift\n|}\n\n(All Ancestral and Enlightened variants of the spells listed above are also affected by Nui’s Celerity.) |\n\n=== Hybrid Gems ===\n\nIn addition to touching up scythe procs, we have also added brand new hybrid gems for 2H weapons.\n\nGale Lunagem: Harmony\n\nLucid (T3): Melee, Magic Critical Damage & Healing Critical Bonus +3.5%.\n\nVivid (T2): Melee, Magic Critical Damage & Healing Critical Bonus +2.1%.\n\nClear (T1): Melee, Magic Critical Damage & Healing Critical Bonus +1.4%.\n\nObtaining:\n* Added to sealed lunagems obtained from Mistsong Summit’s Mistsong Reticules, or those from crafting up lower tier sealed lunagems acquired from Mistsong Summit.\n* Lucid version added to the loyalty shop for 100 loyalty.\n\nExtra Notes:\n* Function like normal critical damage/healing critical bonus gems.\n* Same socketing rates and socketing gold cost.\n* Not restricted to only scythes.\n\nAfter launch, scythe performance will be observed and adjusted as necessary so hybrid archetypes stay viable.\n\n----\n\n== New World Boss: Primal Anthalon ==\n[[File:News prim anth.png|center|700px|alt=prim anth]]\n'''Primal Anthalon, Leader of the Crimson Army''', arrives in Discovery as a new world-boss challenge.\n\nAs the comet passed over '''Sungold Fields''', Anthalon watched its trail and felt the power inside it. Knowing it would descend on '''Exeloch''', he followed, determined to claim the fragments before they fell into mortal hands. He means to harness that power and turn it on Auroria.\n\nThat is the Discovery beat. The comet is not only scenery. Anthalon is the first named power to find a use for it.\n\nFurther comet lore — including follow-up work with '''Iseren''' of the Ayanad Council — is intended to continue after launch.\n\n=== Primal Kyrios set ===\n\nPrimal Anthalon has a chance to drop one random piece of the '''Primal Kyrios''' cloth set, which has an equivalent ilvl to Ayanad armor.\n\nThe set carries Anthalon's signature spell, '''Absorb Mind'''. Upon dealing any damage, the user has a 5% chance to trigger '''Absorb Mind'''.\n\nSimilar to Anthalon’s Necromantic Flame, Absorb Mind grants the user a new ability that allows them teleport to any target within 20 meters, after which, the user has a 5 second window to activate '''Mind Grasp''' which will pick the closest 10 enemy units in a 15 meter range and lift them up into the air.\n\nVictims of Mind Grasp are helpless but are immune to any damage for the duration of the lift. This means, although you are unable to hurt enemies lifted by Mind Grasp, you have ample time to prepare for their inevitable descent.\n\n{| class=\"wikitable\"\n|-\n! Absorb Mind (player set) !! Value\n|-\n| Mind Grasp Range || 15 meters\n|-\n| Teleport Range || 20 meters\n|-\n| Number of Targets || 10\n|}\n\nDifferences from Anthalon's original spell:\n\n* There is no way to break free from Absorb Mind.\n* Enemy players affected by Absorb Mind are '''immune to all damage''' while levitated.\n* The original '''mana burn''' is not included.\n* The '''trip''' on landing is not included.\n* The caster is '''immune to all CC''' while channeling Mind Grasp.\n\n'''Pure Destruction''' set effects:\n\n* '''4 pieces:''' +700 Toughness. Low chance to trigger Anthalon's Necromantic Flame when receiving damage\n* '''7 pieces:''' −4.5% received damage. Low chance to trigger Absorb Mind when dealing damage\n\n=== Primal Hallow ===\n\nA '''Primal Hallow''' is a '''guaranteed''' drop from Primal Anthalon. Use it to upgrade a piece of existing Anthalon armor into the Primal equivalent. '''Grade is retained.''' Additional craft costs will be revealed when the patch is live.\n\n----\n\n== New Gear: Enlightened Ayanad Accessories ==\n[[File:News aya accs.png|center|700px|alt=aya accs]]\nScholars of the Ayanad Library recovered research into '''Runestones''' — work Alexander pursued, then destroyed when Kyrios wanted it. A Runestone resonates with the magic already sealed in an item and draws that power to the surface.\n\nApply a Runestone to an Ayanad accessory and it becomes the matching '''Enlightened''' version. '''Grade is kept.''' Existing equip effects stay. The process does not replace the accessory; it awakens it.\n\nBy default, Enlightened accessories have '''no assigned stats''' until you frost them.\n\n=== Three enchant types ===\n\n* '''Perfect Lunasigil''' — stats on an Enlightened ring, earring, or necklace (example: Perfect Stone Lunasigil, +20 Stamina / +20 Spirit). Applying another Lunasigil replaces the current one\n* '''Charm''' — applied to your '''costume'''. Grants the Enlightenment 2-set you unlocked\n* '''Mark''' — Radiant or Hollow Lunamark on an Enlightened '''necklace'''. Rewrites one skill\n\n=== Rings and earrings ===\n\nA matching '''ring + earring''' pair of the same Ayanad type activates that Enlightenment (Meadow, Earth, Wave, Flame, Life, Lightning, Gale, and so on). Enchant the corresponding Charm on your costume to receive the effect.\n\nTwo rings or two earrings of the same type do '''not''' activate the set.\n\n=== Necklaces ===\n\nNecklaces have no 2-set. They still take Perfect Lunasigils for stats, and they take '''one''' Radiant or Hollow Mark for a skill rewrite.\n\n* Applying a Mark over another Mark replaces it\n* Applying a Mark over a Perfect Lunasigil replaces the Lunasigil\n* Marks can be frosted onto Enlightened world-boss and dungeon necklaces as well\n\nDiscovery ships '''10 Radiant''' and '''10 Hollow''' Marks. Radiant leans support and defensive. Hollow leans offensive.\n\n=== Fusion with world-boss, dungeon, and library accessories ===\n\nAn Enlightened Ayanad necklace or earring can be fused with existing world-boss, dungeon, and library accessories using an enchantment scroll (Dread, Salvation, Tempest, Colossus, plus Berserker, Oracle, Arcanist, and Shadow lines).\n\n* Both input accessories are consumed\n* The Enlightened Ayanad piece's '''grade is kept'''\n* Combo effects '''scale from Divine upward'''\n* Celestial and below keep their default effects with no improvement\n* Library sets need ring + earring + necklace for their 3-piece bonus\n\nExact scroll material costs will be published when the patch is live.\n\n=== Enlightened Ayanad Armor is not in 1.3.6 ===\n\nAfter player feedback, '''Enlightened Ayanad Armor will not ship in Discovery.''' Some unique effects originally planned for Lunasigil armor were moved onto the accessory update instead.\n\nExisting Ayanad armor is still planned to receive '''retroactive set-bonus adjustments''' in 1.3.6. Those values remain subject to feedback.\n\nThe original values can be found on [[News/1.3.6 Preview - Enlightened Ayanad Accessories|Enlightened Accessories Preview]].\n\nThe image below shows the changes that have been made based on recent feedback.\n\n[[File:News image-2e91c0.png|center|700px|alt=image]]\n\n----\n\n== Enlightened Skills ==\n[[File:News skills thumbnail-ca55eb.png|center|700px|alt=skills thumbnail]]\nEnlightened Skills are the Radiant and Hollow rewrites frosted onto Enlightened necklaces — including fused boss and dungeon necks. '''Only one Mark can be active at a time.'''\n\nFull tooltips live in the [[News/1.3.6 Preview - Enlightened Skills|Enlightened Skills preview]].\n\n----\n\nSee you on September 11th."
+}

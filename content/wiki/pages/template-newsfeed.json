@@ -1,0 +1,16 @@
+{
+ "slug": "template-newsfeed",
+ "title": "Template:NewsFeed",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61040,
+ "revid": 63610,
+ "updated": "2026-11-02T16:02:40Z",
+ "source": "https://wiki.aa-classic.com/Template:NewsFeed",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "The two-column news overview: Updates (left, with the Marketplace posts) and Announcements (right), the newest post of each as a big card. Put {{NewsFeed}} on the page News. Optional: limit= = how many small cards per column (default 11).",
+ "html": "<p>The two-column news overview: Updates (left, with the Marketplace posts) and Announcements (right), the newest post of each as a big card. Put <code>{{NewsFeed}}</code> on the page <a href=\"/wiki/news\">News</a>. Optional: <code>limit=</code> = how many small cards per column (default 11).\n</p>",
+ "wikitext": "<includeonly><templatestyles src=\"Template:NewsFeed/styles.css\" />\n<div class=\"aa-news\">\n<div class=\"aa-news-col\">\n<div class=\"aa-news-coltitle\">Updates</div>\n{{#cargo_query:tables=News|fields=_pageName=Page,Title,Date,Category,Image,Summary|where=Category IN ('Update','Marketplace')|order by=Date DESC|limit=1|format=template|template=NewsFeatured|named args=yes|default=''No updates yet.''}}\n<div class=\"aa-news-grid\">\n{{#cargo_query:tables=News|fields=_pageName=Page,Title,Date,Category,Image,Summary|where=Category IN ('Update','Marketplace')|order by=Date DESC|limit={{{limit|11}}}|offset=1|format=template|template=NewsCard|named args=yes|default=}}\n</div>\n</div>\n<div class=\"aa-news-col\">\n<div class=\"aa-news-coltitle\">Announcements</div>\n{{#cargo_query:tables=News|fields=_pageName=Page,Title,Date,Category,Image,Summary|where=Category='Announcement'|order by=Date DESC|limit=1|format=template|template=NewsFeatured|named args=yes|default=''No announcements yet.''}}\n<div class=\"aa-news-grid\">\n{{#cargo_query:tables=News|fields=_pageName=Page,Title,Date,Category,Image,Summary|where=Category='Announcement'|order by=Date DESC|limit={{{limit|11}}}|offset=1|format=template|template=NewsCard|named args=yes|default=}}\n</div>\n</div>\n</div>\n<div class=\"aa-news-archive\">[[News/Archive|All older news →]]</div></includeonly><noinclude>The two-column news overview: Updates (left, with the Marketplace posts) and Announcements (right), the newest post of each as a big card. Put <code><nowiki>{{NewsFeed}}</nowiki></code> on the page [[News]]. Optional: <code>limit=</code> = how many small cards per column (default 11).</noinclude>"
+}

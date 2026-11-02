@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skillcards-90031",
+ "title": "Module:Data/SkillCards/90031",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60957,
+ "revid": 63328,
+ "updated": "2026-10-30T20:32:23Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/90031",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [9003190] = { cd = 3000, desc = \"Grants Magic Attacks a high chance to fire lightning at the target every |nc;3 seconds|r, dealing #{avg_damage} Magic Damage and reducing Magic Defense.\", icon = \"icon_skill_magic19.png\", line = \"Basic\", maxr = 35, name = \"Colossus Necklace\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9003190] = { cd = 3000, desc = \"Grants Magic Attacks a high chance to fire lightning at the target every |nc;3 seconds|r, dealing #{avg_damage} Magic Damage and reducing Magic Defense.\", icon = \"icon_skill_magic19.png\", line = \"Basic\", maxr = 35, name = \"Colossus Necklace\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9003190] = { cd = 3000, desc = \"Grants Magic Attacks a high chance to fire lightning at the target every |nc;3 seconds|r, dealing #{avg_damage} Magic Damage and reducing Magic Defense.\", icon = \"icon_skill_magic19.png\", line = \"Basic\", maxr = 35, name = \"Colossus Necklace\" },\n}"
+}

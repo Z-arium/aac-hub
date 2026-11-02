@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-83",
+ "title": "Module:Data/Cards/83",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60965,
+ "revid": 63470,
+ "updated": "2026-10-31T15:55:51Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/83",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [8318] = { category = \"Metal\", crafts = { { 49, \"Iron Ingot\" }, { 5347, \"Iron Ingot: Mass Production\" }, { 7552, \"Iron Ingot: Fast Processing\" }, { 7570, \"Iron Ingot: Fast Batch Processing\" }, { 7582, \"Iron Ingot: Ultrafast Batch Processing\" } }, desc = \"Processed from |cFFf5CB65Iron Ore|r. It's chiefly used in making weapons and plate armor.\\n\\nVocation: Metalwork\\nWorkbench: Smelter\", grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" }, [8329] = { category = \"Contraption\", desc = \"A blessed hammer.\\nUsed for various crafting purposes and builders' rites.\\nCan be purchased from a |cff97d5f9General Merchant|r.\", grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8318] = { category = \"Metal\", crafts = { { 49, \"Iron Ingot\" }, { 5347, \"Iron Ingot: Mass Production\" }, { 7552, \"Iron Ingot: Fast Processing\" }, { 7570, \"Iron Ingot: Fast Batch Processing\" }, { 7582, \"Iron Ingot: Ultrafast Batch Processing\" } }, desc = \"Processed from |cFFf5CB65Iron Ore|r. It's chiefly used in making weapons and plate armor.\\n\\nVocation: Metalwork\\nWorkbench: Smelter\", grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" },\n\t[8329] = { category = \"Contraption\", desc = \"A blessed hammer.\\nUsed for various crafting purposes and builders' rites.\\nCan be purchased from a |cff97d5f9General Merchant|r.\", grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8318] = { category = \"Metal\", crafts = { { 49, \"Iron Ingot\" }, { 5347, \"Iron Ingot: Mass Production\" }, { 7552, \"Iron Ingot: Fast Processing\" }, { 7570, \"Iron Ingot: Fast Batch Processing\" }, { 7582, \"Iron Ingot: Ultrafast Batch Processing\" } }, desc = \"Processed from |cFFf5CB65Iron Ore|r. It's chiefly used in making weapons and plate armor.\\n\\nVocation: Metalwork\\nWorkbench: Smelter\", grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" },\n\t[8329] = { category = \"Contraption\", desc = \"A blessed hammer.\\nUsed for various crafting purposes and builders' rites.\\nCan be purchased from a |cff97d5f9General Merchant|r.\", grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" },\n}"
+}

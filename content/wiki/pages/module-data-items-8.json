@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-8",
+ "title": "Module:Data/Items/8",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60977,
+ "revid": 63414,
+ "updated": "2026-10-30T23:45:17Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/8",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [8318] = { grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" }, [8329] = { grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8318] = { grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" },\n\t[8329] = { grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8318] = { grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" },\n\t[8329] = { grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" },\n}"
+}

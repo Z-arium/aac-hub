@@ -1,0 +1,418 @@
+{
+ "slug": "news-archive",
+ "title": "News/Archive",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61043,
+ "revid": 63629,
+ "updated": "2026-11-02T16:23:11Z",
+ "source": "https://wiki.aa-classic.com/News/Archive",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "",
+   "headers": [
+    "Date",
+    "Article",
+    "Category"
+   ],
+   "rows": [
+    [
+     "2026-10-31",
+     "The Road to 2.0: Part 2 — Opening the Beta",
+     "Announcement"
+    ],
+    [
+     "2026-10-30",
+     "📜Patch Notes - October 30, 2026",
+     "Update"
+    ],
+    [
+     "2026-10-27",
+     "Launcher Update 2.2.0",
+     "Update"
+    ],
+    [
+     "2026-10-25",
+     "Developer Blog: The Road to 2.0 & Beyond | Part 1",
+     "Announcement"
+    ],
+    [
+     "2026-10-19",
+     "📜Patch Notes - October 19, 2026",
+     "Update"
+    ],
+    [
+     "2026-10-12",
+     "Marketplace Update | Oct 12, 2026",
+     "Marketplace"
+    ],
+    [
+     "2026-10-10",
+     "📜Patch Notes - October 10, 2026",
+     "Update"
+    ],
+    [
+     "2026-09-25",
+     "📜 Patch Notes - September 25, 2026",
+     "Update"
+    ],
+    [
+     "2026-09-23",
+     "Starfall: Discovery (1.3.6) | Patch Notes",
+     "Update"
+    ],
+    [
+     "2026-09-23",
+     "Discord Unavailable",
+     "Announcement"
+    ],
+    [
+     "2026-09-04",
+     "Starfall: Discovery | Patch Preview",
+     "Announcement"
+    ],
+    [
+     "2026-08-30",
+     "1.3.6 Preview - Enlightened Skills",
+     "Announcement"
+    ],
+    [
+     "2026-08-28",
+     "📜 Patch Notes - August 28, 2026",
+     "Update"
+    ],
+    [
+     "2026-08-24",
+     "1.3.6 Preview - Taming",
+     "Announcement"
+    ],
+    [
+     "2026-08-21",
+     "Marketplace Update | Aug 21, 2026",
+     "Marketplace"
+    ],
+    [
+     "2026-08-20",
+     "📜 Patch Notes - August 20, 2026",
+     "Update"
+    ],
+    [
+     "2026-08-16",
+     "1.3.6 Preview - Scythes",
+     "Announcement"
+    ],
+    [
+     "2026-08-14",
+     "📜 Patch Notes - August 14, 2026",
+     "Update"
+    ],
+    [
+     "2026-08-13",
+     "Voice Chat Beta",
+     "Update"
+    ],
+    [
+     "2026-08-09",
+     "1.3.6 Preview - Enlightened Ayanad Accessories",
+     "Announcement"
+    ],
+    [
+     "2026-08-09",
+     "1.3.6 Preview - Primal Anthalon",
+     "Announcement"
+    ],
+    [
+     "2026-08-07",
+     "Marketplace Update | Aug 7, 2026",
+     "Marketplace"
+    ],
+    [
+     "2026-08-05",
+     "3rd Anniversary | Patch Notes",
+     "Update"
+    ],
+    [
+     "2026-08-05",
+     "Marketplace Update | Aug 5, 2026",
+     "Marketplace"
+    ],
+    [
+     "2026-08-02",
+     "1.3.6 Preview | Enlightened Ayanad Armor",
+     "Announcement"
+    ],
+    [
+     "2026-07-26",
+     "ArcheAge Classic: Discovery (1.3.6) Trailer",
+     "Announcement"
+    ],
+    [
+     "2026-07-26",
+     "Marketplace Update - July 26 2026",
+     "Marketplace"
+    ],
+    [
+     "2026-07-18",
+     "📜 Patch Notes - Jul 18, 2026",
+     "Update"
+    ],
+    [
+     "2026-07-08",
+     "📜 Patch Notes - Jul 8, 2026",
+     "Update"
+    ],
+    [
+     "2026-07-07",
+     "Marketplace Update - July 8 2026",
+     "Marketplace"
+    ],
+    [
+     "2026-06-28",
+     "📜 Patch Notes - Jun 28, 2026",
+     "Update"
+    ],
+    [
+     "2026-06-18",
+     "📜 Patch Notes - Jun 18, 2026",
+     "Update"
+    ],
+    [
+     "2026-06-05",
+     "📜 Patch Notes - Jun 5, 2026",
+     "Update"
+    ],
+    [
+     "2026-05-28",
+     "📜 Patch Notes - May 28, 2026",
+     "Update"
+    ],
+    [
+     "2026-05-21",
+     "📜 Patch Notes - May 21, 2026",
+     "Update"
+    ],
+    [
+     "2026-05-14",
+     "Patch Notes - May 14, 2026",
+     "Update"
+    ],
+    [
+     "2026-04-09",
+     "Patch Notes - Apr 9, 2026",
+     "Update"
+    ],
+    [
+     "2026-04-03",
+     "Patch Notes - Apr 3, 2026",
+     "Update"
+    ],
+    [
+     "2026-03-26",
+     "Patch Notes - Mar 26, 2026",
+     "Update"
+    ],
+    [
+     "2026-03-05",
+     "Patch Notes - Mar 5, 2026",
+     "Update"
+    ],
+    [
+     "2026-02-19",
+     "Patch Notes - Feb 19, 2026",
+     "Update"
+    ],
+    [
+     "2026-02-13",
+     "Patch Notes — February 13, 2026",
+     "Update"
+    ],
+    [
+     "2026-02-09",
+     "Video Showcase Event",
+     "Announcement"
+    ],
+    [
+     "2026-02-05",
+     "Patch Notes — February 5, 2026",
+     "Update"
+    ],
+    [
+     "2026-02-03",
+     "Phoenix’s Ashes Event",
+     "Announcement"
+    ],
+    [
+     "2026-02-02",
+     "Patch Notes — February 3, 2026",
+     "Update"
+    ],
+    [
+     "2026-01-27",
+     "Discord Server Restored",
+     "Announcement"
+    ],
+    [
+     "2026-01-01",
+     "Happy New Year!",
+     "Announcement"
+    ],
+    [
+     "2025-09-21",
+     "Roadmap & 2 Year QnA answers",
+     "Announcement"
+    ],
+    [
+     "2025-07-27",
+     "Two Years of ArcheAge Classic — Thank You",
+     "Announcement"
+    ],
+    [
+     "2025-07-23",
+     "Patch 1.3.5j Highlights",
+     "Update"
+    ],
+    [
+     "2025-07-10",
+     "Patch 1.3.5h3 / Swirling Meadow Extension",
+     "Update"
+    ],
+    [
+     "2025-06-29",
+     "Newsletter - May 2025",
+     "Announcement"
+    ],
+    [
+     "2025-06-13",
+     "Patch 1.3.5g",
+     "Update"
+    ],
+    [
+     "2025-05-28",
+     "Patch 1.3.5e",
+     "Update"
+    ],
+    [
+     "2025-05-21",
+     "Patch 1.3.5d",
+     "Update"
+    ],
+    [
+     "2025-04-07",
+     "Patch 1.3.5 Preview — Starfall: Landing",
+     "Announcement"
+    ],
+    [
+     "2024-12-26",
+     "December Newsletter",
+     "Announcement"
+    ],
+    [
+     "2024-11-27",
+     "A New Discovery: Dawnsdrop Tools",
+     "Announcement"
+    ],
+    [
+     "2024-11-13",
+     "November Newsletter",
+     "Announcement"
+    ],
+    [
+     "2024-10-26",
+     "Patch 1.3 is Coming October 30th!",
+     "Announcement"
+    ],
+    [
+     "2024-09-14",
+     "Public Test Server for 1.3 and Release",
+     "Announcement"
+    ],
+    [
+     "2024-08-04",
+     "AAClassic - One Year Anniversary",
+     "Announcement"
+    ],
+    [
+     "2024-07-26",
+     "Patch 1.2.15",
+     "Update"
+    ],
+    [
+     "2024-07-19",
+     "Patch 1.2.14",
+     "Update"
+    ],
+    [
+     "2024-07-10",
+     "Patch 1.2.13",
+     "Update"
+    ],
+    [
+     "2024-07-03",
+     "Patch 1.2.12",
+     "Update"
+    ],
+    [
+     "2024-06-26",
+     "Patch 1.2.11",
+     "Update"
+    ],
+    [
+     "2024-06-22",
+     "June Newsletter",
+     "Announcement"
+    ],
+    [
+     "2024-06-13",
+     "Patch 1.2.10",
+     "Update"
+    ],
+    [
+     "2024-06-06",
+     "Preview: Supplying the Settlers",
+     "Announcement"
+    ],
+    [
+     "2024-06-05",
+     "Patch 1.2.9",
+     "Update"
+    ],
+    [
+     "2024-06-02",
+     "New Support System",
+     "Announcement"
+    ],
+    [
+     "2024-05-31",
+     "Newsfeed Upgrade",
+     "Announcement"
+    ],
+    [
+     "2024-05-29",
+     "Patch 1.2.8",
+     "Update"
+    ],
+    [
+     "2024-05-22",
+     "Patch 1.2.7",
+     "Update"
+    ],
+    [
+     "2024-05-15",
+     "Patch 1.2.5",
+     "Update"
+    ],
+    [
+     "2024-05-08",
+     "Patch 1.2.4",
+     "Update"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "All news posts of aa-classic.com, newest first. Back to News. Date Article Category 2026-10-31 The Road to 2.0: Part 2 — Opening the Beta Announcement 2026-10-30 📜Patch Notes - October 30, 2026 Update 2026-10-27 Launcher Update 2.2.0 Update 2026-10-25 Developer Blog: The Road to 2.0 & Beyond | Part 1 Announcement 2026-10-19 📜Patch Notes - October 19, 2026 Update 2026-10-12 Marketplace Update | Oct 12, 2026 Marketplace 2026-10-10 📜Patch Notes - October 10, 2026 Update 2026-09-25 📜 Patch Notes - September 25, 2026 Update 2026-09-23 Starfall: Discovery (1.3.6) | Patch Notes Update 2026-09-23 Discord Unavailable Announcement 2026-09-04 Starfall: Discovery | Patch Preview Announcement 2026-08-30 1.3.6 Preview - Enlightened Skills Announcement 2026-08-28 📜 Patch Notes - August 28, 2026 Update 2026-08-24 1.3.6 Preview - Taming Announcement 2026-08-21 Marketplace Update | Aug 21, 2026 Marketplace 2026-08-20 📜 Patch Notes - August 20, 2026 Update 2026-08-16 1.3.6 Preview - Scythes Announcement 2026-08-14 📜 Patch Notes - August 14, 2026 Update 2026-08-13 Voice Chat Beta Update 2026-08-09 1.3.6 Preview - Enlightened Ayanad Accessories Announcement 2026-08-09 1.3.6 Preview - Primal Anthalon Announcement 2026-08-07 Marketplace Update | Aug 7, 2026 Marketplace 2026-08-05 3rd Anniversary | Patch Notes Update 2026-08-05 Marketplace Update | Aug 5, 2026 Marketplace 2026-08-02 1.3.6 Preview | Enlightened Ayanad Armor Announcement 2026-07-26 ArcheAge Classic: Discovery (1.3.6) Trailer Announcement 2026-07-26 Marketplace Update - July 26 2026 Marketplace 2026-07-18 📜 Patch Notes - Jul 18, 2026 Update 2026-07-08 📜 Patch Notes - Jul 8, 2026 Update 2026-07-07 Marketplace Update - July 8 2026 Marketplace 2026-06-28 📜 Patch Notes - Jun 28, 2026 Update 2026-06-18 📜 Patch Notes - Jun 18, 2026 Update 2026-06-05 📜 Patch Notes - Jun 5, 2026 Update 2026-05-28 📜 Patch Notes - May 28, 2026 Update 2026-05-21 📜 Patch Notes - May 21, 2026 Update 2026-05-14 Patch Notes - May 14, 2026 Update 2026-04-09 Patch Notes - Apr 9, 2026 Update 2026-04-03 Patch Notes - Apr 3, 2026 Update 2026-03-26 Patch Notes - Mar 26, 2026 Update 2026-03-05 Patch Notes - Mar 5, 2026 Update 2026-02-19 Patch Notes - Feb 19, 2026 Update 2026-02-13 Patch Notes — February 13, 2026 Update 2026-02-09 Video Showcase Event Announcement 2026-02-05 Patch Notes — February 5, 2026 Update 2026-02-03 Phoenix’s Ashes Event Announcement 2026-02-02 Patch Notes — February 3, 2026 Update 2026-01-27 Discord Server Restored Announcement 2026-01-01 Happy New Year! Announcement 2025-09-21 Roadmap & 2 Year QnA answers Announcement 2025-07-27 Two Years of ArcheAge Classic — Thank You Announcement 2025-07-23 Patch 1.3.5j Highlights Update 2025-07-10 Patch 1.3.5h3 / Swirling Meadow Extension Update 2025-06-29 Newsletter - May 2025 Announcement 2025-06-13 Patch 1.3.5g Update 2025-05-28 Patch 1.3.5e Update 2025-05-21 Patch 1.3.5d Update 2025-04-07 Patch 1.3.5 Preview — Starfall: Landing Announcement 2024-12-26 December Newsletter Announcement 2024-11-27 A New Discovery: Dawnsdrop Tools Announcement 2024-11-13 November Newsletter Announcement 2024-10-26 Patch 1.3 is Coming October 30th! Announcement 2024-09-14 Public Test Server for 1.3 and Release Announcement 2024-08-04 AAClassic - One Year Anniversary Announcement 2024-07-26 Patch 1.2.15 Update 2024-07-19 Patch 1.2.14 Update 2024-07-10 Patch 1.2.13 Update 2024-07-03 Patch 1.2.12 Update 2024-06-26 Patch 1.2.11 Update 2024-06-22 June Newsletter Announcement 2024-06-13 Patch 1.2.10 Update 2024-06-06 Preview: Supplying the Settlers Announcement 2024-06-05 Patch 1.2.9 Update 2024-06-02 New Support System Announcement 2024-05-31 Newsfeed Upgrade Announcement 2024-05-29 Patch 1.2.8 Update 2024-05-22 Patch 1.2.7 Update 2024-05-15 Patch 1.2.5 Update 2024-05-08 Patch 1.2.4 Update",
+ "html": "<p>All news posts of aa-classic.com, newest first. Back to <a href=\"/wiki/news\">News</a>.\n</p>\n<table class=\"wikitable sortable\">\n<tbody><tr>\n<th>Date</th>\n<th>Article</th>\n<th>Category\n</th></tr>\n<tr>\n<td>2026-10-31</td>\n<td><a href=\"/wiki/news-the-road-to-2-0-part-2-opening-the-beta\">The Road to 2.0: Part 2 — Opening the Beta</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-10-30</td>\n<td><a href=\"/wiki/news-patch-notes-october-30-2026\">📜Patch Notes - October 30, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-10-27</td>\n<td><a href=\"/wiki/news-launcher-update-2-2-0\">Launcher Update 2.2.0</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-10-25</td>\n<td><a href=\"/wiki/news-developer-blog-the-road-to-2-0-beyond-part-1\">Developer Blog: The Road to 2.0 &amp; Beyond &#124; Part 1</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-10-19</td>\n<td><a href=\"/wiki/news-patch-notes-october-19-2026\">📜Patch Notes - October 19, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-10-12</td>\n<td><a href=\"/wiki/news-marketplace-update-oct-12-2026\">Marketplace Update &#124; Oct 12, 2026</a></td>\n<td>Marketplace\n</td></tr>\n<tr>\n<td>2026-10-10</td>\n<td><a href=\"/wiki/news-patch-notes-october-10-2026\">📜Patch Notes - October 10, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-09-25</td>\n<td><a href=\"/wiki/news-patch-notes-september-25-2026\">📜 Patch Notes - September 25, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-09-23</td>\n<td><a href=\"/wiki/news-starfall-discovery-1-3-6-patch-notes\">Starfall: Discovery (1.3.6) &#124; Patch Notes</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-09-23</td>\n<td><a href=\"/wiki/news-discord-unavailable\">Discord Unavailable</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-09-04</td>\n<td><a href=\"/wiki/news-starfall-discovery-patch-preview\">Starfall: Discovery &#124; Patch Preview</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-08-30</td>\n<td><a href=\"/wiki/news-1-3-6-preview-enlightened-skills\">1.3.6 Preview - Enlightened Skills</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-08-28</td>\n<td><a href=\"/wiki/news-patch-notes-august-28-2026\">📜 Patch Notes - August 28, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-08-24</td>\n<td><a href=\"/wiki/news-1-3-6-preview-taming\">1.3.6 Preview - Taming</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-08-21</td>\n<td><a href=\"/wiki/news-marketplace-update-aug-21-2026\">Marketplace Update &#124; Aug 21, 2026</a></td>\n<td>Marketplace\n</td></tr>\n<tr>\n<td>2026-08-20</td>\n<td><a href=\"/wiki/news-patch-notes-august-20-2026\">📜 Patch Notes - August 20, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-08-16</td>\n<td><a href=\"/wiki/news-1-3-6-preview-scythes\">1.3.6 Preview - Scythes</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-08-14</td>\n<td><a href=\"/wiki/news-patch-notes-august-14-2026\">📜 Patch Notes - August 14, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-08-13</td>\n<td><a href=\"/wiki/news-voice-chat-beta\">Voice Chat Beta</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-08-09</td>\n<td><a href=\"/wiki/news-1-3-6-preview-enlightened-ayanad-accessories\">1.3.6 Preview - Enlightened Ayanad Accessories</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-08-09</td>\n<td><a href=\"/wiki/news-1-3-6-preview-primal-anthalon\">1.3.6 Preview - Primal Anthalon</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-08-07</td>\n<td><a href=\"/wiki/news-marketplace-update-aug-7-2026\">Marketplace Update &#124; Aug 7, 2026</a></td>\n<td>Marketplace\n</td></tr>\n<tr>\n<td>2026-08-05</td>\n<td><a href=\"/wiki/news-3rd-anniversary-patch-notes\">3rd Anniversary &#124; Patch Notes</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-08-05</td>\n<td><a href=\"/wiki/news-marketplace-update-aug-5-2026\">Marketplace Update &#124; Aug 5, 2026</a></td>\n<td>Marketplace\n</td></tr>\n<tr>\n<td>2026-08-02</td>\n<td><a href=\"/wiki/news-1-3-6-preview-enlightened-ayanad-armor\">1.3.6 Preview &#124; Enlightened Ayanad Armor</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-07-26</td>\n<td><a href=\"/wiki/news-archeage-classic-discovery-1-3-6-trailer\">ArcheAge Classic: Discovery (1.3.6) Trailer</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-07-26</td>\n<td><a href=\"/wiki/news-marketplace-update-july-26-2026\">Marketplace Update - July 26 2026</a></td>\n<td>Marketplace\n</td></tr>\n<tr>\n<td>2026-07-18</td>\n<td><a href=\"/wiki/news-patch-notes-jul-18-2026\">📜 Patch Notes - Jul 18, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-07-08</td>\n<td><a href=\"/wiki/news-patch-notes-jul-8-2026\">📜 Patch Notes - Jul 8, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-07-07</td>\n<td><a href=\"/wiki/news-marketplace-update-july-8-2026\">Marketplace Update - July 8 2026</a></td>\n<td>Marketplace\n</td></tr>\n<tr>\n<td>2026-06-28</td>\n<td><a href=\"/wiki/news-patch-notes-jun-28-2026\">📜 Patch Notes - Jun 28, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-06-18</td>\n<td><a href=\"/wiki/news-patch-notes-jun-18-2026\">📜 Patch Notes - Jun 18, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-06-05</td>\n<td><a href=\"/wiki/news-patch-notes-jun-5-2026\">📜 Patch Notes - Jun 5, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-05-28</td>\n<td><a href=\"/wiki/news-patch-notes-may-28-2026\">📜  Patch Notes - May 28, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-05-21</td>\n<td><a href=\"/wiki/news-patch-notes-may-21-2026\">📜  Patch Notes - May 21, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-05-14</td>\n<td><a href=\"/wiki/news-patch-notes-may-14-2026\">Patch Notes - May 14, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-04-09</td>\n<td><a href=\"/wiki/news-patch-notes-apr-9-2026\">Patch Notes - Apr 9, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-04-03</td>\n<td><a href=\"/wiki/news-patch-notes-apr-3-2026\">Patch Notes - Apr 3, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-03-26</td>\n<td><a href=\"/wiki/news-patch-notes-mar-26-2026\">Patch Notes - Mar 26, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-03-05</td>\n<td><a href=\"/wiki/news-patch-notes-mar-5-2026\">Patch Notes - Mar 5, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-02-19</td>\n<td><a href=\"/wiki/news-patch-notes-feb-19-2026\">Patch Notes - Feb 19, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-02-13</td>\n<td><a href=\"/wiki/news-patch-notes-february-13-2026\">Patch Notes — February 13, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-02-09</td>\n<td><a href=\"/wiki/news-video-showcase-event\">Video Showcase Event</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-02-05</td>\n<td><a href=\"/wiki/news-patch-notes-february-5-2026\">Patch Notes — February 5, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-02-03</td>\n<td><a href=\"/wiki/news-phoenixs-ashes-event\">Phoenix’s Ashes Event</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-02-02</td>\n<td><a href=\"/wiki/news-patch-notes-february-3-2026\">Patch Notes — February 3, 2026</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2026-01-27</td>\n<td><a href=\"/wiki/news-discord-server-restored\">Discord Server Restored</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2026-01-01</td>\n<td><a href=\"/wiki/news-happy-new-year\">Happy New Year!</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2025-09-21</td>\n<td><a href=\"/wiki/news-roadmap-2-year-qna-answers\">Roadmap &amp; 2 Year QnA answers</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2025-07-27</td>\n<td><a href=\"/wiki/news-two-years-of-archeage-classic-thank-you\">Two Years of ArcheAge Classic — Thank You</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2025-07-23</td>\n<td><a href=\"/wiki/news-patch-1-3-5j-highlights\">Patch 1.3.5j Highlights</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2025-07-10</td>\n<td><a href=\"/wiki/news-patch-1-3-5h3-swirling-meadow-extension\">Patch 1.3.5h3 / Swirling Meadow Extension</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2025-06-29</td>\n<td><a href=\"/wiki/news-newsletter-may-2025\">Newsletter - May 2025</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2025-06-13</td>\n<td><a href=\"/wiki/news-patch-1-3-5g\">Patch 1.3.5g</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2025-05-28</td>\n<td><a href=\"/wiki/news-patch-1-3-5e\">Patch 1.3.5e</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2025-05-21</td>\n<td><a href=\"/wiki/news-patch-1-3-5d\">Patch 1.3.5d</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2025-04-07</td>\n<td><a href=\"/wiki/news-patch-1-3-5-preview-starfall-landing\">Patch 1.3.5 Preview — Starfall: Landing</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-12-26</td>\n<td><a href=\"/wiki/news-december-newsletter\">December Newsletter</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-11-27</td>\n<td><a href=\"/wiki/news-a-new-discovery-dawnsdrop-tools\">A New Discovery: Dawnsdrop Tools</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-11-13</td>\n<td><a href=\"/wiki/news-november-newsletter\">November Newsletter</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-10-26</td>\n<td><a href=\"/wiki/news-patch-1-3-is-coming-october-30th\">Patch 1.3 is Coming October 30th!</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-09-14</td>\n<td><a href=\"/wiki/news-public-test-server-for-1-3-and-release\">Public Test Server for 1.3 and Release</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-08-04</td>\n<td><a href=\"/wiki/news-aaclassic-one-year-anniversary\">AAClassic - One Year Anniversary</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-07-26</td>\n<td><a href=\"/wiki/news-patch-1-2-15\">Patch 1.2.15</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-07-19</td>\n<td><a href=\"/wiki/news-patch-1-2-14\">Patch 1.2.14</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-07-10</td>\n<td><a href=\"/wiki/news-patch-1-2-13\">Patch 1.2.13</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-07-03</td>\n<td><a href=\"/wiki/news-patch-1-2-12\">Patch 1.2.12</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-06-26</td>\n<td><a href=\"/wiki/news-patch-1-2-11\">Patch 1.2.11</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-06-22</td>\n<td><a href=\"/wiki/news-june-newsletter\">June Newsletter</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-06-13</td>\n<td><a href=\"/wiki/news-patch-1-2-10\">Patch 1.2.10</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-06-06</td>\n<td><a href=\"/wiki/news-preview-supplying-the-settlers\">Preview: Supplying the Settlers</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-06-05</td>\n<td><a href=\"/wiki/news-patch-1-2-9\">Patch 1.2.9</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-06-02</td>\n<td><a href=\"/wiki/news-new-support-system\">New Support System</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-05-31</td>\n<td><a href=\"/wiki/news-newsfeed-upgrade\">Newsfeed Upgrade</a></td>\n<td>Announcement\n</td></tr>\n<tr>\n<td>2024-05-29</td>\n<td><a href=\"/wiki/news-patch-1-2-8\">Patch 1.2.8</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-05-22</td>\n<td><a href=\"/wiki/news-patch-1-2-7\">Patch 1.2.7</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-05-15</td>\n<td><a href=\"/wiki/news-patch-1-2-5\">Patch 1.2.5</a></td>\n<td>Update\n</td></tr>\n<tr>\n<td>2024-05-08</td>\n<td><a href=\"/wiki/news-patch-1-2-4\">Patch 1.2.4</a></td>\n<td>Update\n</td></tr></tbody></table>",
+ "wikitext": "All news posts of aa-classic.com, newest first. Back to [[News]].\n<!-- This page is written by sync_news.py. -->\n\n{| class=\"wikitable sortable\"\n! Date !! Article !! Category\n|-\n| 2026-10-31 || [[News/The Road to 2.0: Part 2 — Opening the Beta|The Road to 2.0: Part 2 — Opening the Beta]] || Announcement\n|-\n| 2026-10-30 || [[News/📜Patch Notes - October 30, 2026|📜Patch Notes - October 30, 2026]] || Update\n|-\n| 2026-10-27 || [[News/Launcher Update 2.2.0|Launcher Update 2.2.0]] || Update\n|-\n| 2026-10-25 || [[News/Developer Blog: The Road to 2.0 & Beyond - Part 1|Developer Blog: The Road to 2.0 & Beyond &#124; Part 1]] || Announcement\n|-\n| 2026-10-19 || [[News/📜Patch Notes - October 19, 2026|📜Patch Notes - October 19, 2026]] || Update\n|-\n| 2026-10-12 || [[News/Marketplace Update - Oct 12, 2026|Marketplace Update &#124; Oct 12, 2026]] || Marketplace\n|-\n| 2026-10-10 || [[News/📜Patch Notes - October 10, 2026|📜Patch Notes - October 10, 2026]] || Update\n|-\n| 2026-09-25 || [[News/📜 Patch Notes - September 25, 2026|📜 Patch Notes - September 25, 2026]] || Update\n|-\n| 2026-09-23 || [[News/Starfall: Discovery (1.3.6) - Patch Notes|Starfall: Discovery (1.3.6) &#124; Patch Notes]] || Update\n|-\n| 2026-09-23 || [[News/Discord Unavailable|Discord Unavailable]] || Announcement\n|-\n| 2026-09-04 || [[News/Starfall: Discovery - Patch Preview|Starfall: Discovery &#124; Patch Preview]] || Announcement\n|-\n| 2026-08-30 || [[News/1.3.6 Preview - Enlightened Skills|1.3.6 Preview - Enlightened Skills]] || Announcement\n|-\n| 2026-08-28 || [[News/📜 Patch Notes - August 28, 2026|📜 Patch Notes - August 28, 2026]] || Update\n|-\n| 2026-08-24 || [[News/1.3.6 Preview - Taming|1.3.6 Preview - Taming]] || Announcement\n|-\n| 2026-08-21 || [[News/Marketplace Update - Aug 21, 2026|Marketplace Update &#124; Aug 21, 2026]] || Marketplace\n|-\n| 2026-08-20 || [[News/📜 Patch Notes - August 20, 2026|📜 Patch Notes - August 20, 2026]] || Update\n|-\n| 2026-08-16 || [[News/1.3.6 Preview - Scythes|1.3.6 Preview - Scythes]] || Announcement\n|-\n| 2026-08-14 || [[News/📜 Patch Notes - August 14, 2026|📜 Patch Notes - August 14, 2026]] || Update\n|-\n| 2026-08-13 || [[News/Voice Chat Beta|Voice Chat Beta]] || Update\n|-\n| 2026-08-09 || [[News/1.3.6 Preview - Enlightened Ayanad Accessories|1.3.6 Preview - Enlightened Ayanad Accessories]] || Announcement\n|-\n| 2026-08-09 || [[News/1.3.6 Preview - Primal Anthalon|1.3.6 Preview - Primal Anthalon]] || Announcement\n|-\n| 2026-08-07 || [[News/Marketplace Update - Aug 7, 2026|Marketplace Update &#124; Aug 7, 2026]] || Marketplace\n|-\n| 2026-08-05 || [[News/3rd Anniversary - Patch Notes|3rd Anniversary &#124; Patch Notes]] || Update\n|-\n| 2026-08-05 || [[News/Marketplace Update - Aug 5, 2026|Marketplace Update &#124; Aug 5, 2026]] || Marketplace\n|-\n| 2026-08-02 || [[News/1.3.6 Preview - Enlightened Ayanad Armor|1.3.6 Preview &#124; Enlightened Ayanad Armor]] || Announcement\n|-\n| 2026-07-26 || [[News/ArcheAge Classic: Discovery (1.3.6) Trailer|ArcheAge Classic: Discovery (1.3.6) Trailer]] || Announcement\n|-\n| 2026-07-26 || [[News/Marketplace Update - July 26 2026|Marketplace Update - July 26 2026]] || Marketplace\n|-\n| 2026-07-18 || [[News/📜 Patch Notes - Jul 18, 2026|📜 Patch Notes - Jul 18, 2026]] || Update\n|-\n| 2026-07-08 || [[News/📜 Patch Notes - Jul 8, 2026|📜 Patch Notes - Jul 8, 2026]] || Update\n|-\n| 2026-07-07 || [[News/Marketplace Update - July 8 2026|Marketplace Update - July 8 2026]] || Marketplace\n|-\n| 2026-06-28 || [[News/📜 Patch Notes - Jun 28, 2026|📜 Patch Notes - Jun 28, 2026]] || Update\n|-\n| 2026-06-18 || [[News/📜 Patch Notes - Jun 18, 2026|📜 Patch Notes - Jun 18, 2026]] || Update\n|-\n| 2026-06-05 || [[News/📜 Patch Notes - Jun 5, 2026|📜 Patch Notes - Jun 5, 2026]] || Update\n|-\n| 2026-05-28 || [[News/📜 Patch Notes - May 28, 2026|📜  Patch Notes - May 28, 2026]] || Update\n|-\n| 2026-05-21 || [[News/📜 Patch Notes - May 21, 2026|📜  Patch Notes - May 21, 2026]] || Update\n|-\n| 2026-05-14 || [[News/Patch Notes - May 14, 2026|Patch Notes - May 14, 2026]] || Update\n|-\n| 2026-04-09 || [[News/Patch Notes - Apr 9, 2026|Patch Notes - Apr 9, 2026]] || Update\n|-\n| 2026-04-03 || [[News/Patch Notes - Apr 3, 2026|Patch Notes - Apr 3, 2026]] || Update\n|-\n| 2026-03-26 || [[News/Patch Notes - Mar 26, 2026|Patch Notes - Mar 26, 2026]] || Update\n|-\n| 2026-03-05 || [[News/Patch Notes - Mar 5, 2026|Patch Notes - Mar 5, 2026]] || Update\n|-\n| 2026-02-19 || [[News/Patch Notes - Feb 19, 2026|Patch Notes - Feb 19, 2026]] || Update\n|-\n| 2026-02-13 || [[News/Patch Notes — February 13, 2026|Patch Notes — February 13, 2026]] || Update\n|-\n| 2026-02-09 || [[News/Video Showcase Event|Video Showcase Event]] || Announcement\n|-\n| 2026-02-05 || [[News/Patch Notes — February 5, 2026|Patch Notes — February 5, 2026]] || Update\n|-\n| 2026-02-03 || [[News/Phoenix’s Ashes Event|Phoenix’s Ashes Event]] || Announcement\n|-\n| 2026-02-02 || [[News/Patch Notes — February 3, 2026|Patch Notes — February 3, 2026]] || Update\n|-\n| 2026-01-27 || [[News/Discord Server Restored|Discord Server Restored]] || Announcement\n|-\n| 2026-01-01 || [[News/Happy New Year!|Happy New Year!]] || Announcement\n|-\n| 2025-09-21 || [[News/Roadmap & 2 Year QnA answers|Roadmap & 2 Year QnA answers]] || Announcement\n|-\n| 2025-07-27 || [[News/Two Years of ArcheAge Classic — Thank You|Two Years of ArcheAge Classic — Thank You]] || Announcement\n|-\n| 2025-07-23 || [[News/Patch 1.3.5j Highlights|Patch 1.3.5j Highlights]] || Update\n|-\n| 2025-07-10 || [[News/Patch 1.3.5h3 / Swirling Meadow Extension|Patch 1.3.5h3 / Swirling Meadow Extension]] || Update\n|-\n| 2025-06-29 || [[News/Newsletter - May 2025|Newsletter - May 2025]] || Announcement\n|-\n| 2025-06-13 || [[News/Patch 1.3.5g|Patch 1.3.5g]] || Update\n|-\n| 2025-05-28 || [[News/Patch 1.3.5e|Patch 1.3.5e]] || Update\n|-\n| 2025-05-21 || [[News/Patch 1.3.5d|Patch 1.3.5d]] || Update\n|-\n| 2025-04-07 || [[News/Patch 1.3.5 Preview — Starfall: Landing|Patch 1.3.5 Preview — Starfall: Landing]] || Announcement\n|-\n| 2024-12-26 || [[News/December Newsletter|December Newsletter]] || Announcement\n|-\n| 2024-11-27 || [[News/A New Discovery: Dawnsdrop Tools|A New Discovery: Dawnsdrop Tools]] || Announcement\n|-\n| 2024-11-13 || [[News/November Newsletter|November Newsletter]] || Announcement\n|-\n| 2024-10-26 || [[News/Patch 1.3 is Coming October 30th!|Patch 1.3 is Coming October 30th!]] || Announcement\n|-\n| 2024-09-14 || [[News/Public Test Server for 1.3 and Release|Public Test Server for 1.3 and Release]] || Announcement\n|-\n| 2024-08-04 || [[News/AAClassic - One Year Anniversary|AAClassic - One Year Anniversary]] || Announcement\n|-\n| 2024-07-26 || [[News/Patch 1.2.15|Patch 1.2.15]] || Update\n|-\n| 2024-07-19 || [[News/Patch 1.2.14|Patch 1.2.14]] || Update\n|-\n| 2024-07-10 || [[News/Patch 1.2.13|Patch 1.2.13]] || Update\n|-\n| 2024-07-03 || [[News/Patch 1.2.12|Patch 1.2.12]] || Update\n|-\n| 2024-06-26 || [[News/Patch 1.2.11|Patch 1.2.11]] || Update\n|-\n| 2024-06-22 || [[News/June Newsletter|June Newsletter]] || Announcement\n|-\n| 2024-06-13 || [[News/Patch 1.2.10|Patch 1.2.10]] || Update\n|-\n| 2024-06-06 || [[News/Preview: Supplying the Settlers|Preview: Supplying the Settlers]] || Announcement\n|-\n| 2024-06-05 || [[News/Patch 1.2.9|Patch 1.2.9]] || Update\n|-\n| 2024-06-02 || [[News/New Support System|New Support System]] || Announcement\n|-\n| 2024-05-31 || [[News/Newsfeed Upgrade|Newsfeed Upgrade]] || Announcement\n|-\n| 2024-05-29 || [[News/Patch 1.2.8|Patch 1.2.8]] || Update\n|-\n| 2024-05-22 || [[News/Patch 1.2.7|Patch 1.2.7]] || Update\n|-\n| 2024-05-15 || [[News/Patch 1.2.5|Patch 1.2.5]] || Update\n|-\n| 2024-05-08 || [[News/Patch 1.2.4|Patch 1.2.4]] || Update\n|}"
+}
