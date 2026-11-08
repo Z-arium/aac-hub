@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-07T22:17:28.818Z",
+  "updated": "2026-11-08T06:41:35.618Z",
   "videos": [
+    {
+      "id": "waZG9PKirYs",
+      "title": "Archeage Classic PvP - Darkrunner V.1",
+      "channel": "Mc Nasty",
+      "channelUrl": "https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ",
+      "published": "2026-11-07T23:53:06Z"
+    },
     {
       "id": "aYKWomtuFTg",
       "title": "REGRADE OUT OF TIMMYAGE - ArcheAge: Classic",
@@ -79,13 +86,6 @@
       "published": "2026-10-05T02:47:06Z"
     },
     {
-      "id": "RavFjCp0GRU",
-      "title": "AA Classic 20 - too tanky",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-10-03T07:19:01+00:00"
-    },
-    {
       "id": "6C4-sKPYuA8",
       "title": "sloth glider type shiiii",
       "channel": "Ferelia ArcheAge",
@@ -128,20 +128,6 @@
       "published": "2026-09-22T07:55:37Z"
     },
     {
-      "id": "cR9eXqcV3R8",
-      "title": "ArcheAge Classic",
-      "channel": "TheCattamer",
-      "channelUrl": "https://www.youtube.com/channel/UCvRUx03cb7wXvGP78S94Muw",
-      "published": "2026-09-22T01:30:32Z"
-    },
-    {
-      "id": "ov6SFH5qE0o",
-      "title": "ArcheAge: Classic - Archery Timmy Vol. II - PvP Primeval",
-      "channel": "Ferelia ArcheAge",
-      "channelUrl": "https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw",
-      "published": "2026-09-21T12:30:07Z"
-    },
-    {
       "id": "n2F5Kp8i5yM",
       "title": "AAClassic - Nice shot",
       "channel": "Immortal Gladiator",
@@ -149,25 +135,11 @@
       "published": "2026-09-21T00:10:24Z"
     },
     {
-      "id": "hP3_m3k06tI",
-      "title": "AA Classic 18 - Always call more...",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-09-05T07:01:33+00:00"
-    },
-    {
       "id": "TFvGtzkU7HQ",
       "title": "Archeage Classic | Healer or not..",
       "channel": "Mintolka",
       "channelUrl": "https://www.youtube.com/channel/UCdI6agYr54ph74uRqSCPjzw",
       "published": "2026-09-01T20:55:13Z"
-    },
-    {
-      "id": "HL97bsuticI",
-      "title": "AA Classic 17 - NATO (30 WARRIORS) vs Axis Powers (300 uneducated) (no pvp studied)",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-08-22T07:15:05+00:00"
     },
     {
       "id": "DzRH_e1skPw",
@@ -189,153 +161,6 @@
       "channel": "IcyZinHD",
       "channelUrl": "https://www.youtube.com/channel/UCQozDAKwpsRPA-1682CwkEA",
       "published": "2026-08-14T18:45:25Z"
-    },
-    {
-      "id": "o7EHmYiqmSo",
-      "title": "AA Classic 15 - 150 LOSERS vs 60 of NC's STRONGEST warriors (no way BV loses AGAIN)",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-08-09T23:13:41+00:00"
-    },
-    {
-      "id": "Agq9rrMaIxI",
-      "title": "AA Classic 14 - ayanad changed SOON (trust) (its coming)",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-08-02T07:11:43+00:00"
-    },
-    {
-      "id": "Jb1AahgBHB4",
-      "title": "Archeage Classic - When karma gives you back the packs you lost the other day!",
-      "channel": "Immortal Gladiator",
-      "channelUrl": "https://www.youtube.com/channel/UChtDbhhSo3CmkT-Lhs-XBFw",
-      "published": "2026-07-20T10:56:10+00:00"
-    },
-    {
-      "id": "UXFdl0s0YdU",
-      "title": "AA Classic 13 - the decision (JUST MEMES NC TATTED ON MY BALLSACK)",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-05-25T06:01:07+00:00"
-    },
-    {
-      "id": "7HTWSWkUx5k",
-      "title": "AA Classic 12 - are we back?",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-05-02T08:11:15+00:00"
-    },
-    {
-      "id": "6_m5tEW2UgM",
-      "title": "AA Classic 11 - ayanad changes soon",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-04-23T18:00:53+00:00"
-    },
-    {
-      "id": "DZn9XNq0MwI",
-      "title": "AA Classic 10 - always a holy war man...",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-03-12T03:51:36+00:00"
-    },
-    {
-      "id": "SQTahdLBNA4",
-      "title": "AA Classic 9 - polar holy war",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-02-24T06:38:17+00:00"
-    },
-    {
-      "id": "zgR0TIRD3l8",
-      "title": "AA Classic 8 - please give me credits",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-02-14T08:59:29+00:00"
-    },
-    {
-      "id": "YscUWaGndIc",
-      "title": "AA Classic 7 - PLATE BRICK",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-01-30T00:28:07+00:00"
-    },
-    {
-      "id": "MiT18BZ0XPI",
-      "title": "ArcheAge Classic | Spellsinger PvP | 2026",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2026-01-10T14:21:47+00:00"
-    },
-    {
-      "id": "-6k-_DY4PJ8",
-      "title": "ArcheAge Classic | Mage PvP Video | 2025",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2025-08-31T04:20:12+00:00"
-    },
-    {
-      "id": "mbq1rWCRJcU",
-      "title": "ArcheAge Classic | Spellsinger | PvP Montage",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2025-06-02T09:11:33+00:00"
-    },
-    {
-      "id": "BA7FcGaW69I",
-      "title": "ArcheAge Classic | Spellsinger PvP",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2025-05-04T05:17:19+00:00"
-    },
-    {
-      "id": "9q-FC0aBRhc",
-      "title": "ArcheAge | Spellsinger PvP | SEA Server",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2020-09-24T08:11:35+00:00"
-    },
-    {
-      "id": "9kG9XoRKoaU",
-      "title": "ArcheAge | 2.5 Spellsinger | PvP Montage",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2016-02-06T10:47:28+00:00"
-    },
-    {
-      "id": "vFc5RqKVQaM",
-      "title": "Archeage | First and Last Darkrunner Video",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2016-01-26T12:17:17+00:00"
-    },
-    {
-      "id": "fbW9YMJ3f0E",
-      "title": "ArcheAge | Spellsinger's Focus | PvP Montage",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2015-11-16T09:29:04+00:00"
-    },
-    {
-      "id": "EKVWCYGbSbQ",
-      "title": "ArcheAge | Short PvP montage |  2.0 Spellsinger",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2015-11-02T23:45:10+00:00"
-    },
-    {
-      "id": "lfaYrGb3I-k",
-      "title": "ArcheAge | 2.0 Spellsinger Guide",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2015-10-08T09:59:40+00:00"
-    },
-    {
-      "id": "2huIJVC6Y90",
-      "title": "ArcheAge | Spellsinger | PvP Movie | 2.0",
-      "channel": "TrapLord",
-      "channelUrl": "https://www.youtube.com/channel/UC3d1MV9oj4HTnwF8tDvPozQ",
-      "published": "2015-09-17T15:29:22+00:00"
     }
   ]
 }
