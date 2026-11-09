@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-recipes-68",
+ "title": "Module:Data/Recipes/68",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61201,
+ "revid": 64534,
+ "updated": "2026-11-06T08:58:04Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Recipes/68",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [6888] = { coin = 1, labor = 35, materials = { { amount = 1, grade = \"None\", icon = \"icon_item_0356.png\", id = 8256, name = \"Fabric\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_0352.png\", id = 16327, name = \"Leather\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0233.png\", id = 27278, name = \"Paper\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_1781.png\", id = 32038, name = \"Earthmana Leaf\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_1909.png\", id = 34242, name = \"Tyrenos's Index\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[6888] = { coin = 1, labor = 35, materials = { { amount = 1, grade = \"None\", icon = \"icon_item_0356.png\", id = 8256, name = \"Fabric\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_0352.png\", id = 16327, name = \"Leather\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0233.png\", id = 27278, name = \"Paper\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_1781.png\", id = 32038, name = \"Earthmana Leaf\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_1909.png\", id = 34242, name = \"Tyrenos's Index\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[6888] = { coin = 1, labor = 35, materials = { { amount = 1, grade = \"None\", icon = \"icon_item_0356.png\", id = 8256, name = \"Fabric\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_0352.png\", id = 16327, name = \"Leather\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0233.png\", id = 27278, name = \"Paper\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"icon_item_1781.png\", id = 32038, name = \"Earthmana Leaf\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_1909.png\", id = 34242, name = \"Tyrenos's Index\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" },\n}"
+}

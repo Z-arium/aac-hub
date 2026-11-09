@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-16",
+ "title": "Module:Data/Items/16",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60988,
+ "revid": 64483,
+ "updated": "2026-11-06T03:00:39Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/16",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [16327] = { grade = \"None\", icon = \"icon_item_0352.png\", name = \"Leather\" }, [16328] = { grade = \"None\", icon = \"icon_item_0353.png\", name = \"Fine Leather\" }, [16347] = { grade = \"None\", icon = \"icon_item_0360.png\", name = \"Sunlight Archeum Dust\" }, [16348] = { grade = \"None\", icon = \"icon_item_0361.png\", name = \"Moonlight Archeum Dust\" }, [16349] = { grade = \"None\", icon = \"icon_item_0362.png\", name = \"Starlight Archeum Dust\" }, [16354] = { grade = \"None\", icon = \"icon_item_0367.png\", name = \"Moonlight Archeum Crystal\" }, [16357] = { grade = \"None\", icon = \"icon_item_0370.png\", name = \"Moonlight Archeum Essence\" }, [16358] = { grade = \"None\", icon = \"icon_item_0371.png\", name = \"Starlight Archeum Essence\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[16327] = { grade = \"None\", icon = \"icon_item_0352.png\", name = \"Leather\" },\n\t[16328] = { grade = \"None\", icon = \"icon_item_0353.png\", name = \"Fine Leather\" },\n\t[16347] = { grade = \"None\", icon = \"icon_item_0360.png\", name = \"Sunlight Archeum Dust\" },\n\t[16348] = { grade = \"None\", icon = \"icon_item_0361.png\", name = \"Moonlight Archeum Dust\" },\n\t[16349] = { grade = \"None\", icon = \"icon_item_0362.png\", name = \"Starlight Archeum Dust\" },\n\t[16354] = { grade = \"None\", icon = \"icon_item_0367.png\", name = \"Moonlight Archeum Crystal\" },\n\t[16357] = { grade = \"None\", icon = \"icon_item_0370.png\", name = \"Moonlight Archeum Essence\" },\n\t[16358] = { grade = \"None\", icon = \"icon_item_0371.png\", name = \"Starlight Archeum Essence\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[16327] = { grade = \"None\", icon = \"icon_item_0352.png\", name = \"Leather\" },\n\t[16328] = { grade = \"None\", icon = \"icon_item_0353.png\", name = \"Fine Leather\" },\n\t[16347] = { grade = \"None\", icon = \"icon_item_0360.png\", name = \"Sunlight Archeum Dust\" },\n\t[16348] = { grade = \"None\", icon = \"icon_item_0361.png\", name = \"Moonlight Archeum Dust\" },\n\t[16349] = { grade = \"None\", icon = \"icon_item_0362.png\", name = \"Starlight Archeum Dust\" },\n\t[16354] = { grade = \"None\", icon = \"icon_item_0367.png\", name = \"Moonlight Archeum Crystal\" },\n\t[16357] = { grade = \"None\", icon = \"icon_item_0370.png\", name = \"Moonlight Archeum Essence\" },\n\t[16358] = { grade = \"None\", icon = \"icon_item_0371.png\", name = \"Starlight Archeum Essence\" },\n}"
+}

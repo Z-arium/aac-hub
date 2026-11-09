@@ -1,0 +1,22 @@
+{
+ "slug": "template-mainpage-start",
+ "title": "Template:MainPage/Start",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61029,
+ "revid": 63587,
+ "updated": "2026-11-02T05:09:18Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/Start",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "370px-Gliders.webp.png",
+  "FreighterRun.jpg",
+  "Gearworkbench.png",
+  "Abyssalisland.png",
+  "Red dragon.webp"
+ ],
+ "text": "Start here New to Classic? Getting StartedBeginner's Guide to Classic Earning GoldThe best ways to make gold GearingFrom first gear to endgame World EventsTimers, rewards and schedules World BossesSpawns, strategies and loot",
+ "html": "<div>Start here</div>\n<div>New to Classic?</div>\n<div>\n<div><span><span><a href=\"/wiki/getting-started\"><img alt src=\"/wiki-files/d5/d5a7e8468edddd27b894fe940529b855a99cb235.png\" width=\"370\" height=\"200\" loading=\"lazy\"></a></span></span><a href=\"/wiki/getting-started\"><span>Getting Started</span><span>Beginner's Guide to Classic</span></a></div>\n<div><span><span><a href=\"/wiki/earning-gold\"><img alt src=\"/wiki-files/de/de7ef3f66f141ef96dd1d574a64b5295153953e5.jpg\" width=\"1914\" height=\"1051\" loading=\"lazy\"></a></span></span><a href=\"/wiki/earning-gold\"><span>Earning Gold</span><span>The best ways to make gold</span></a></div>\n<div><span><span><a href=\"/wiki/gearing\"><img alt src=\"/wiki-files/3b/3b86d3fd834b1f73dec540f28ed148576657b8cc.png\" width=\"984\" height=\"671\" loading=\"lazy\"></a></span></span><a href=\"/wiki/gearing\"><span>Gearing</span><span>From first gear to endgame</span></a></div>\n<div><span><span><a href=\"/wiki/world-events\"><img alt src=\"/wiki-files/3b/3b435e9d5dfc922002559f3ce04f35b2b5a66ddf.png\" width=\"1084\" height=\"728\" loading=\"lazy\"></a></span></span><a href=\"/wiki/world-events\"><span>World Events</span><span>Timers, rewards and schedules</span></a></div>\n<div><span><span><a href=\"/wiki/world-bosses\"><img alt src=\"/wiki-files/6c/6cd4d2265bea0588e0dfbf5d4760f98aa974dfa8.webp\" width=\"640\" height=\"398\" loading=\"lazy\"></a></span></span><a href=\"/wiki/world-bosses\"><span>World Bosses</span><span>Spawns, strategies and loot</span></a></div>\n</div>",
+ "wikitext": "<div class=\"aa-mp-eyebrow\">Start here</div>\n<div class=\"aa-mp-h\">New to Classic?</div>\n<div class=\"aa-mp-cards\">\n{{MainPage/Card|page=Getting Started|image=370px-Gliders.webp.png|title=Getting Started|sub=Beginner's Guide to Classic|trim=1}}\n{{MainPage/Card|page=Earning Gold|image=FreighterRun.jpg|title=Earning Gold|sub=The best ways to make gold}}\n{{MainPage/Card|page=Gearing|image=Gearworkbench.png|title=Gearing|sub=From first gear to endgame}}\n{{MainPage/Card|page=World Events|image=Abyssalisland.png|title=World Events|sub=Timers, rewards and schedules}}\n{{MainPage/Card|page=World Bosses|image=Red dragon.webp|title=World Bosses|sub=Spawns, strategies and loot}}\n</div>"
+}

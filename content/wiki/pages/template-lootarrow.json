@@ -1,0 +1,16 @@
+{
+ "slug": "template-lootarrow",
+ "title": "Template:LootArrow",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61305,
+ "revid": 64396,
+ "updated": "2026-11-05T20:52:51Z",
+ "source": "https://wiki.aa-classic.com/Template:LootArrow",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "A line of text across the whole width of a Template:Tl, for example the step between the materials and the result of a recipe. {{LootArrow|Combine for the staff}}",
+ "html": "<p>A line of text across the whole width of a <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>, for example the step between the materials and the result of a recipe.\n</p>\n<pre>{{LootArrow|Combine for the staff}}</pre>",
+ "wikitext": "<includeonly><div class=\"aa-loot-arrow\">{{{1|}}}</div></includeonly><noinclude>\nA line of text across the whole width of a {{tl|LootGroup}}, for example the step between the materials and the result of a recipe.\n\n<pre>{{LootArrow|Combine for the staff}}</pre>\n[[Category:Layout templates]]\n</noinclude>"
+}

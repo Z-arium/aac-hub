@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skillcards-145",
+ "title": "Module:Data/SkillCards/145",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61253,
+ "revid": 64096,
+ "updated": "2026-11-03T21:21:20Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/145",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [14529] = { cd = 120000, desc = \"Imprisons all enemies within a boundary for |cFFFF9C2712 seconds|r. Enemies can break out if they use enough force.\", elem = \"Basic\", icon = \"icon_skill_love10.png\", line = \"Defense\", name = \"Imprison\", vars = { { elem = \"Basic\", id = 14529 }, { elem = \"Wave\", id = 36460 }, { elem = \"Mist\", id = 36461 } } }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[14529] = { cd = 120000, desc = \"Imprisons all enemies within a boundary for |cFFFF9C2712 seconds|r. Enemies can break out if they use enough force.\", elem = \"Basic\", icon = \"icon_skill_love10.png\", line = \"Defense\", name = \"Imprison\", vars = { { elem = \"Basic\", id = 14529 }, { elem = \"Wave\", id = 36460 }, { elem = \"Mist\", id = 36461 } } },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[14529] = { cd = 120000, desc = \"Imprisons all enemies within a boundary for |cFFFF9C2712 seconds|r. Enemies can break out if they use enough force.\", elem = \"Basic\", icon = \"icon_skill_love10.png\", line = \"Defense\", name = \"Imprison\", vars = { { elem = \"Basic\", id = 14529 }, { elem = \"Wave\", id = 36460 }, { elem = \"Mist\", id = 36461 } } },\n}"
+}

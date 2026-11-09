@@ -1,0 +1,57 @@
+{
+ "slug": "template-passivelink",
+ "title": "Template:PassiveLink",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61278,
+ "revid": 64284,
+ "updated": "2026-11-04T19:17:06Z",
+ "source": "https://wiki.aa-classic.com/Template:PassiveLink",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Skill tree",
+     "1",
+     "The tree, for example Sorcery",
+     "String",
+     "required"
+    ],
+    [
+     "Passive",
+     "2",
+     "The name of the passive or its number in the tree",
+     "String",
+     "required"
+    ],
+    [
+     "Icon size",
+     "size",
+     "Icon size in pixels. Default 22.",
+     "Number",
+     "optional"
+    ],
+    [
+     "Tooltip",
+     "tip",
+     "left opens the box to the left, no turns it offSuggested valuesleft no",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Shows a passive skill of a skill tree as a small icon (22px, so it fits in a line of text) with its name beside it. When the pointer rests on the icon or the name, the passive's box from the tree (Template:Skilltree) opens beside it: the same text and the same skill points it needs. Skills have their own template: Template:SkillLink; buffs: Template:BuffLink. Usage {{PassiveLink|Sorcery|Mana Flurry}} {{PassiveLink|Sorcery|7}} {{PassiveLink|Sorcery|Mana Flurry|tip=left}} The first value is the tree (as in Template:Tl), the second the name of the passive or its number in the tree (2, 4, 6 ...). The Abyssal passive is found by its name. The icon, name and text come from Module:Skilltree/data, so nothing needs to be synced. Fix a text there and every box follows. tip=left opens the box to the left, tip=no turns it off, size=32 makes the icon larger. Needs Module:Skilltree, Module:Skilltree/data, Template:Skilltree/styles.css and Template:SkillLink/styles.css. No description. Template parameters Parameter Description Type Status Skill tree 1 The tree, for example Sorcery String required Passive 2 The name of the passive or its number in the tree String required Icon size size Icon size in pixels. Default 22. Number optional Tooltip tip left opens the box to the left, no turns it off Suggested values left no String optional",
+ "html": "<p>Shows a passive skill of a skill tree as a small icon (22px, so it fits in a line of text) with its name beside it. When the pointer rests on the icon or the name, the passive's box from the tree (<a href=\"/wiki/template-skilltree\">Template:Skilltree</a>) opens beside it: the same text and the same skill points it needs. Skills have their own template: <a href=\"/wiki/template-skilllink\">Template:SkillLink</a>; buffs: <a href=\"/wiki/template-bufflink\">Template:BuffLink</a>.\n</p><p><b>Usage</b>\n</p>\n<pre>{{PassiveLink|Sorcery|Mana Flurry}}\n{{PassiveLink|Sorcery|7}}\n{{PassiveLink|Sorcery|Mana Flurry|tip=left}}</pre>\n<ul><li>The first value is the tree (as in <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>), the second the name of the passive or its number in the tree (2, 4, 6 ...). The Abyssal passive is found by its name.</li>\n<li>The icon, name and text come from <code>Module:Skilltree/data</code>, so nothing needs to be synced. Fix a text there and every box follows.</li>\n<li><code>tip=left</code> opens the box to the left, <code>tip=no</code> turns it off, <code>size=32</code> makes the icon larger.</li>\n<li>Needs <code>Module:Skilltree</code>, <code>Module:Skilltree/data</code>, <code>Template:Skilltree/styles.css</code> and <code>Template:SkillLink/styles.css</code>.</li></ul>\n<section><header><p>No description.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:PassiveLink\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Skill tree</th><td><code>1</code></td><td><p>The tree, for example Sorcery</p><dl></dl></td><td>String</td><td>required</td></tr><tr><th>Passive</th><td><code>2</code></td><td><p>The name of the passive or its number in the tree</p><dl></dl></td><td>String</td><td>required</td></tr><tr><th>Icon size</th><td><code>size</code></td><td><p>Icon size in pixels. Default 22.</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Tooltip</th><td><code>tip</code></td><td><p>left opens the box to the left, no turns it off</p><dl><dt>Suggested values</dt><dd><code>left</code> <code>no</code></dd></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly>{{#invoke:Skilltree|passive}}</includeonly><noinclude>\nShows a passive skill of a skill tree as a small icon (22px, so it fits in a line of text) with its name beside it. When the pointer rests on the icon or the name, the passive's box from the tree ([[Template:Skilltree]]) opens beside it: the same text and the same skill points it needs. Skills have their own template: [[Template:SkillLink]]; buffs: [[Template:BuffLink]].\n\n'''Usage'''\n<pre>{{PassiveLink|Sorcery|Mana Flurry}}\n{{PassiveLink|Sorcery|7}}\n{{PassiveLink|Sorcery|Mana Flurry|tip=left}}</pre>\n\n* The first value is the tree (as in {{tl|Skilltree}}), the second the name of the passive or its number in the tree (2, 4, 6 ...). The Abyssal passive is found by its name.\n* The icon, name and text come from <code>Module:Skilltree/data</code>, so nothing needs to be synced. Fix a text there and every box follows.\n* <code>tip=left</code> opens the box to the left, <code>tip=no</code> turns it off, <code>size=32</code> makes the icon larger.\n* Needs <code>Module:Skilltree</code>, <code>Module:Skilltree/data</code>, <code>Template:Skilltree/styles.css</code> and <code>Template:SkillLink/styles.css</code>.\n<templatedata>\n{\n\t\"params\": {\n\t\t\"1\": { \"label\": \"Skill tree\", \"description\": \"The tree, for example Sorcery\", \"type\": \"string\", \"required\": true },\n\t\t\"2\": { \"label\": \"Passive\", \"description\": \"The name of the passive or its number in the tree\", \"type\": \"string\", \"required\": true },\n\t\t\"size\": { \"label\": \"Icon size\", \"type\": \"number\", \"description\": \"Icon size in pixels. Default 22.\" },\n\t\t\"tip\": { \"label\": \"Tooltip\", \"type\": \"string\", \"description\": \"left opens the box to the left, no turns it off\", \"suggestedvalues\": [\"left\", \"no\"] }\n\t},\n\t\"paramOrder\": [\"1\", \"2\", \"size\", \"tip\"]\n}\n</templatedata>\n</noinclude>"
+}

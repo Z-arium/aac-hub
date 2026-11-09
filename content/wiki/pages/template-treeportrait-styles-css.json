@@ -1,0 +1,16 @@
+{
+ "slug": "template-treeportrait-styles-css",
+ "title": "Template:TreePortrait/styles.css",
+ "ns": 10,
+ "model": "sanitized-css",
+ "pageid": 61288,
+ "revid": 64337,
+ "updated": "2026-11-05T16:00:57Z",
+ "source": "https://wiki.aa-classic.com/Template:TreePortrait/styles.css",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "/* Template:TreePortrait/styles.css - a portrait with a caption at the top left of a page. The JPG has square corners, so the corners are rounded here. Headings start below the picture (clear: left). */ .aa-tp { float: left; margin: 4px 22px 14px 0; text-align: center; } .aa-tp img { display: block; height: auto; border-radius: 8px; box-shadow: 0 0 0 1px #5a5040, 0 4px 12px rgba(0, 0, 0, 0.6); } .aa-tp-cap { margin-top: 6px; color: var(--color-subtle, #54595d); font-size: 0.78em; letter-spacing: 0.06em; text-transform: uppercase; } .mw-heading { clear: left; }",
+ "html": "<pre><code>/* Template:TreePortrait/styles.css - a portrait with a caption at the top left of a page. The JPG has square corners, so the\n   corners are rounded here. Headings start below the picture (clear: left). */\n.aa-tp {\n\tfloat: left;\n\tmargin: 4px 22px 14px 0;\n\ttext-align: center;\n}\n.aa-tp img {\n\tdisplay: block;\n\theight: auto;\n\tborder-radius: 8px;\n\tbox-shadow: 0 0 0 1px #5a5040, 0 4px 12px rgba(0, 0, 0, 0.6);\n}\n.aa-tp-cap {\n\tmargin-top: 6px;\n\tcolor: var(--color-subtle, #54595d);\n\tfont-size: 0.78em;\n\tletter-spacing: 0.06em;\n\ttext-transform: uppercase;\n}\n.mw-heading {\n\tclear: left;\n}</code></pre>",
+ "wikitext": "/* Template:TreePortrait/styles.css - a portrait with a caption at the top left of a page. The JPG has square corners, so the\n   corners are rounded here. Headings start below the picture (clear: left). */\n.aa-tp {\n\tfloat: left;\n\tmargin: 4px 22px 14px 0;\n\ttext-align: center;\n}\n.aa-tp img {\n\tdisplay: block;\n\theight: auto;\n\tborder-radius: 8px;\n\tbox-shadow: 0 0 0 1px #5a5040, 0 4px 12px rgba(0, 0, 0, 0.6);\n}\n.aa-tp-cap {\n\tmargin-top: 6px;\n\tcolor: var(--color-subtle, #54595d);\n\tfont-size: 0.78em;\n\tletter-spacing: 0.06em;\n\ttext-transform: uppercase;\n}\n.mw-heading {\n\tclear: left;\n}"
+}

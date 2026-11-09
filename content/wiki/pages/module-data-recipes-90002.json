@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-recipes-90002",
+ "title": "Module:Data/Recipes/90002",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61202,
+ "revid": 63931,
+ "updated": "2026-11-03T16:22:18Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Recipes/90002",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [9000263] = { labor = 250, materials = { { amount = 25, grade = \"Grand\", icon = \"aac\\\\item_icon_schematic_scrap.png\", id = 9000163, name = \"Schematic Scrap\", over = \"top_magic.png\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35940, name = \"Large-Caliber Cannon Design\" }, prof = \"Printing\", rate = 100, req = 50000, station = \"Regal Printing Press\" }, [9000277] = { labor = 250, materials = { { amount = 25, grade = \"Grand\", icon = \"aac\\\\item_icon_schematic_scrap.png\", id = 9000163, name = \"Schematic Scrap\", over = \"top_magic.png\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35958, name = \"Seabreeze Trade Pack Storage Design\" }, prof = \"Printing\", rate = 100, req = 50000, station = \"Regal Printing Press\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9000263] = { labor = 250, materials = { { amount = 25, grade = \"Grand\", icon = \"aac\\\\item_icon_schematic_scrap.png\", id = 9000163, name = \"Schematic Scrap\", over = \"top_magic.png\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35940, name = \"Large-Caliber Cannon Design\" }, prof = \"Printing\", rate = 100, req = 50000, station = \"Regal Printing Press\" },\n\t[9000277] = { labor = 250, materials = { { amount = 25, grade = \"Grand\", icon = \"aac\\\\item_icon_schematic_scrap.png\", id = 9000163, name = \"Schematic Scrap\", over = \"top_magic.png\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35958, name = \"Seabreeze Trade Pack Storage Design\" }, prof = \"Printing\", rate = 100, req = 50000, station = \"Regal Printing Press\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9000263] = { labor = 250, materials = { { amount = 25, grade = \"Grand\", icon = \"aac\\\\item_icon_schematic_scrap.png\", id = 9000163, name = \"Schematic Scrap\", over = \"top_magic.png\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35940, name = \"Large-Caliber Cannon Design\" }, prof = \"Printing\", rate = 100, req = 50000, station = \"Regal Printing Press\" },\n\t[9000277] = { labor = 250, materials = { { amount = 25, grade = \"Grand\", icon = \"aac\\\\item_icon_schematic_scrap.png\", id = 9000163, name = \"Schematic Scrap\", over = \"top_magic.png\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_0002.png\", id = 35958, name = \"Seabreeze Trade Pack Storage Design\" }, prof = \"Printing\", rate = 100, req = 50000, station = \"Regal Printing Press\" },\n}"
+}

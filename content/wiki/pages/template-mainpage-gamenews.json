@@ -1,0 +1,18 @@
+{
+ "slug": "template-mainpage-gamenews",
+ "title": "Template:MainPage/GameNews",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61048,
+ "revid": 64644,
+ "updated": "2026-11-09T12:04:22Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/GameNews",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "News banners-banner update.png"
+ ],
+ "text": "Game NewsMarketplace Update - November 6, 2026 · 6 Nov 2026",
+ "html": "<div><span><span><a href=\"/wiki/news\"><img alt src=\"/wiki-files/ef/eff7cb84c3b65aa7432e270d1687d749fba74564.png\" width=\"512\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/news\"><span>Game News</span><span>Marketplace Update - November 6, 2026 · 6 Nov 2026</span></a></div>",
+ "wikitext": "<div class=\"aa-mp-card\"><span class=\"aa-mp-pic\">[[File:News banners-banner update.png|link=News|alt=]]</span>[[News|<span class=\"aa-mp-cardtitle\">Game News</span><span class=\"aa-mp-cardsub\">Marketplace Update - November 6, 2026 · 6 Nov 2026</span>]]</div><!-- written by sync_news.py -->"
+}

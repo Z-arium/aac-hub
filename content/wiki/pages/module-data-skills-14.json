@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skills-14",
+ "title": "Module:Data/Skills/14",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61347,
+ "revid": 64634,
+ "updated": "2026-11-06T23:32:32Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Skills/14",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs. return { [14236] = { cd = \"12s\", desc = \"Fires flames from a glider at enemies on the ground to deal #{min_damage}-#{max_damage} Magic Damage.\", icon = \"icon_skill_glider03.png\", mana = 0, name = \"Air Raid\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[14236] = { cd = \"12s\", desc = \"Fires flames from a glider at enemies on the ground to deal #{min_damage}-#{max_damage} Magic Damage.\", icon = \"icon_skill_glider03.png\", mana = 0, name = \"Air Raid\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Skills). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[14236] = { cd = \"12s\", desc = \"Fires flames from a glider at enemies on the ground to deal #{min_damage}-#{max_damage} Magic Damage.\", icon = \"icon_skill_glider03.png\", mana = 0, name = \"Air Raid\" },\n}"
+}

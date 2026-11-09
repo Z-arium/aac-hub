@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-156",
+ "title": "Module:Data/Cards/156",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61205,
+ "revid": 63937,
+ "updated": "2026-11-03T16:33:03Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/156",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [15621] = { category = \"Material\", desc = \"Can be acquired from hunting monsters.\\nMostly used for crafting.\", grade = \"None\", icon = \"icon_item_0296.png\", name = \"Glowing Prism\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[15621] = { category = \"Material\", desc = \"Can be acquired from hunting monsters.\\nMostly used for crafting.\", grade = \"None\", icon = \"icon_item_0296.png\", name = \"Glowing Prism\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[15621] = { category = \"Material\", desc = \"Can be acquired from hunting monsters.\\nMostly used for crafting.\", grade = \"None\", icon = \"icon_item_0296.png\", name = \"Glowing Prism\" },\n}"
+}

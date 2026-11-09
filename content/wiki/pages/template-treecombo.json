@@ -1,0 +1,85 @@
+{
+ "slug": "template-treecombo",
+ "title": "Template:TreeCombo",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61281,
+ "revid": 64342,
+ "updated": "2026-11-05T16:25:55Z",
+ "source": "https://wiki.aa-classic.com/Template:TreeCombo",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Tree",
+     "tree",
+     "Name of the skill tree, for example Songcraft.",
+     "String",
+     "required"
+    ],
+    [
+     "What it adds",
+     "role",
+     "A few words, for example Extra damage.",
+     "String",
+     "optional"
+    ],
+    [
+     "Label 1",
+     "1",
+     "Label of the first row.",
+     "String",
+     "optional"
+    ],
+    [
+     "List 1",
+     "2",
+     "Skill ids, passive Name or buff id, separated by commas.",
+     "String",
+     "optional"
+    ],
+    [
+     "Label 2",
+     "3",
+     "no description",
+     "String",
+     "optional"
+    ],
+    [
+     "List 2",
+     "4",
+     "no description",
+     "String",
+     "optional"
+    ],
+    [
+     "Label 3",
+     "5",
+     "no description",
+     "String",
+     "optional"
+    ],
+    [
+     "List 3",
+     "6",
+     "no description",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "A card for one skill tree that pairs well with the tree of the page. It shows the icon of the tree (the same icons as the Main Page), what the tree adds, and the skills that do it. Everything is made in one step from Module:Skilltree/data, so a page with many cards stays small. Put the cards inside a <div class=\"aa-tc-grid\"> with two <div class=\"aa-tc-col\"> columns. Usage {{TreeCombo|tree=Songcraft|role=Extra damage and utility |Damage|passive Zeal, buff 771 |Perform songs|10723, 10724, 11396}} After tree and role come pairs of a label and a list, separated by commas. A thing in the list is a skill id, for example 10723 a passive of that tree, for example passive Zeal a buff, for example buff 771 things joined with + stay together, for example buff 127 + 10710 A card for a skill tree that pairs well with the tree of the page, with the icon of the tree. Template parameters Parameter Description Type Status Tree tree Name of the skill tree, for example Songcraft. String required What it adds role A few words, for example Extra damage. String optional Label 1 1 Label of the first row. String optional List 1 2 Skill ids, passive Name or buff id, separated by commas. String optional Label 2 3 no description String optional List 2 4 no description String optional Label 3 5 no description String optional List 3 6 no description String optional",
+ "html": "<p>A card for one skill tree that pairs well with the tree of the page. It shows the icon of the tree (the same icons as the Main Page), what the tree adds, and the skills that do it. Everything is made in one step from <a href=\"/wiki/module-skilltree-data\">Module:Skilltree/data</a>, so a page with many cards stays small. Put the cards inside a <code>&lt;div class=\"aa-tc-grid\"&gt;</code> with two <code>&lt;div class=\"aa-tc-col\"&gt;</code> columns.\n</p><p><b>Usage</b>\n</p>\n<pre>{{TreeCombo|tree=Songcraft|role=Extra damage and utility\n|Damage|passive Zeal, buff 771\n|Perform songs|10723, 10724, 11396}}</pre>\n<p>After <code>tree</code> and <code>role</code> come pairs of a label and a list, separated by commas. A thing in the list is\n</p>\n<ul><li>a skill id, for example <code>10723</code></li>\n<li>a passive of that tree, for example <code>passive Zeal</code></li>\n<li>a buff, for example <code>buff 771</code></li>\n<li>things joined with <code>+</code> stay together, for example <code>buff 127 + 10710</code></li></ul>\n<section><header><p>A card for a skill tree that pairs well with the tree of the page, with the icon of the tree.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:TreeCombo\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Tree</th><td><code>tree</code></td><td><p>Name of the skill tree, for example Songcraft.</p><dl></dl></td><td>String</td><td>required</td></tr><tr><th>What it adds</th><td><code>role</code></td><td><p>A few words, for example Extra damage.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Label 1</th><td><code>1</code></td><td><p>Label of the first row.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>List 1</th><td><code>2</code></td><td><p>Skill ids, passive Name or buff id, separated by commas.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Label 2</th><td><code>3</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>List 2</th><td><code>4</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Label 3</th><td><code>5</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>List 3</th><td><code>6</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly>{{#invoke:Skilltree|combo}}</includeonly><noinclude>\nA card for one skill tree that pairs well with the tree of the page. It shows the icon of the tree (the same icons as the Main Page), what the tree adds, and the skills that do it. Everything is made in one step from [[Module:Skilltree/data]], so a page with many cards stays small. Put the cards inside a <code>&lt;div class=\"aa-tc-grid\"&gt;</code> with two <code>&lt;div class=\"aa-tc-col\"&gt;</code> columns.\n\n'''Usage'''\n<pre>{{TreeCombo|tree=Songcraft|role=Extra damage and utility\n|Damage|passive Zeal, buff 771\n|Perform songs|10723, 10724, 11396}}</pre>\nAfter <code>tree</code> and <code>role</code> come pairs of a label and a list, separated by commas. A thing in the list is\n* a skill id, for example <code>10723</code>\n* a passive of that tree, for example <code>passive Zeal</code>\n* a buff, for example <code>buff 771</code>\n* things joined with <code>+</code> stay together, for example <code>buff 127 + 10710</code>\n\n<templatedata>\n{\n\t\"description\": \"A card for a skill tree that pairs well with the tree of the page, with the icon of the tree.\",\n\t\"params\": {\n\t\t\"tree\": { \"label\": \"Tree\", \"description\": \"Name of the skill tree, for example Songcraft.\", \"type\": \"string\", \"required\": true },\n\t\t\"role\": { \"label\": \"What it adds\", \"description\": \"A few words, for example Extra damage.\", \"type\": \"string\" },\n\t\t\"1\": { \"label\": \"Label 1\", \"description\": \"Label of the first row.\", \"type\": \"string\" },\n\t\t\"2\": { \"label\": \"List 1\", \"description\": \"Skill ids, passive Name or buff id, separated by commas.\", \"type\": \"string\" },\n\t\t\"3\": { \"label\": \"Label 2\", \"type\": \"string\" },\n\t\t\"4\": { \"label\": \"List 2\", \"type\": \"string\" },\n\t\t\"5\": { \"label\": \"Label 3\", \"type\": \"string\" },\n\t\t\"6\": { \"label\": \"List 3\", \"type\": \"string\" }\n\t}\n}\n</templatedata>\n\n[[Category:Navigation templates]]\n</noinclude>"
+}

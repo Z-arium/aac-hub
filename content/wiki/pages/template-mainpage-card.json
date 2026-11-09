@@ -1,0 +1,16 @@
+{
+ "slug": "template-mainpage-card",
+ "title": "Template:MainPage/Card",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61033,
+ "revid": 63596,
+ "updated": "2026-11-02T05:14:27Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/Card",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "[[File:{{{image}}}|link={{{page}}}|alt=]][[{{{page}}}|{{{title}}}{{{sub}}}]]",
+ "html": "<div><span>[[File:{{{image}}}|link={{{page}}}|alt=]]</span>[[{{{page}}}|<span>{{{title}}}</span><span>{{{sub}}}</span>]]</div>",
+ "wikitext": "<div class=\"aa-mp-card\"><span class=\"aa-mp-pic {{#if:{{{trim|}}}|aa-mp-pic-trim}}\">[[File:{{{image}}}|link={{{page}}}|alt=]]</span>[[{{{page}}}|<span class=\"aa-mp-cardtitle\">{{{title}}}</span><span class=\"aa-mp-cardsub\">{{{sub}}}</span>]]</div>"
+}

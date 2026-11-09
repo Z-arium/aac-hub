@@ -1,0 +1,16 @@
+{
+ "slug": "template-treecombo-row",
+ "title": "Template:TreeCombo/row",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61282,
+ "revid": 64308,
+ "updated": "2026-11-04T20:49:11Z",
+ "source": "https://wiki.aa-classic.com/Template:TreeCombo/row",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "One labelled row inside a TreeCombo card. The first value is the small label above the row, the second holds the links. {{TreeCombo/row|Utility|{{SkillLink|12049|tree=Shadowplay}} {{SkillLink|10082|tree=Shadowplay}}}} Every link becomes one item. Wrap a group that has to stay together (for example a buff, a plus sign and a skill) in <span>...</span>.",
+ "html": "<p>One labelled row inside a <code>TreeCombo</code> card. The first value is the small label above the row, the second holds the links.\n</p>\n<pre>{{TreeCombo/row|Utility|{{SkillLink|12049|tree=Shadowplay}} {{SkillLink|10082|tree=Shadowplay}}}}</pre>\n<p>Every link becomes one item. Wrap a group that has to stay together (for example a buff, a plus sign and a skill) in <code>&lt;span&gt;...&lt;/span&gt;</code>.\n</p>",
+ "wikitext": "<includeonly><div class=\"aa-tc-row\"><span class=\"aa-tc-lbl\">{{{1|}}}</span><div class=\"aa-tc-items\">{{{2|}}}</div></div></includeonly><noinclude>\nOne labelled row inside a <code>TreeCombo</code> card. The first value is the small label above the row, the second holds the links.\n\n<pre>{{TreeCombo/row|Utility|{{SkillLink|12049|tree=Shadowplay}} {{SkillLink|10082|tree=Shadowplay}}}}</pre>\nEvery link becomes one item. Wrap a group that has to stay together (for example a buff, a plus sign and a skill) in <code>&lt;span&gt;...&lt;/span&gt;</code>.\n[[Category:Navigation templates]]\n</noinclude>"
+}

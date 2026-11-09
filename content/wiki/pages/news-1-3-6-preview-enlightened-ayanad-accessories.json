@@ -1,0 +1,401 @@
+{
+ "slug": "news-1-3-6-preview-enlightened-ayanad-accessories",
+ "title": "News/1.3.6 Preview - Enlightened Ayanad Accessories",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61101,
+ "revid": 63683,
+ "updated": "2026-11-02T16:30:19Z",
+ "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Enlightened_Ayanad_Accessories",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Enlightened_Accessories",
+   "text": "Enlightened Accessories"
+  },
+  {
+   "level": 2,
+   "id": "Enlightened_Rings_&_Earrings",
+   "text": "Enlightened Rings & Earrings"
+  },
+  {
+   "level": 2,
+   "id": "Set_Bonuses",
+   "text": "Set Bonuses"
+  },
+  {
+   "level": 2,
+   "id": "Enlightened_Necklaces",
+   "text": "Enlightened Necklaces"
+  },
+  {
+   "level": 2,
+   "id": "World_Boss_and_Dungeon_Necklaces",
+   "text": "World Boss and Dungeon Necklaces"
+  },
+  {
+   "level": 2,
+   "id": "Enlightened_Ayanad_Armors",
+   "text": "Enlightened Ayanad Armors"
+  },
+  {
+   "level": 2,
+   "id": "Ayanad_Changes",
+   "text": "Ayanad Changes"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Enlightened Accessories",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Perfect Stone Lunasigil",
+     "+20 Stamina +20 Spirit"
+    ],
+    [
+     "Perfect Mist Lunasigil",
+     "+20 Agility +20 Spirit"
+    ],
+    [
+     "Perfect Squall Lunasigil",
+     "+20 Agility +20 Stamina"
+    ],
+    [
+     "Perfect Meteor Lunasigil",
+     "+20 Strength +20 Spirit"
+    ],
+    [
+     "Perfect Desert Lunasigil",
+     "+20 Strength +20 Stamina"
+    ],
+    [
+     "Perfect Sunset Lunasigil",
+     "+20 Strength +20 Intelligence"
+    ],
+    [
+     "Perfect Tidal Lunasigil",
+     "+20 Agility +20 Intelligence"
+    ],
+    [
+     "Perfect Lake Lunasigil",
+     "+20 Stamina +20 Intelligence"
+    ],
+    [
+     "Perfect Flame Lunasigil",
+     "+35 Strength"
+    ],
+    [
+     "Perfect Earth Lunasigil",
+     "+35 Stamina"
+    ],
+    [
+     "Perfect Meadow Lunasigil",
+     "+20 Intelligence +20 Spirit"
+    ],
+    [
+     "Perfect Lightning Lunasigil",
+     "+20 Strength +20 Agility"
+    ],
+    [
+     "Perfect Wave Lunasigil",
+     "+35 Intelligence"
+    ],
+    [
+     "Perfect Life Lunasigil",
+     "+35 Spirit"
+    ],
+    [
+     "Perfect Gale Lunasigil",
+     "+35 Agility"
+    ]
+   ]
+  },
+  {
+   "heading": "Set Bonuses",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Flame Charm",
+     "Restore 100 HP when blocking, parrying or evading an attack."
+    ],
+    [
+     "Gale Charm",
+     "Critical hits increase movement speed by 3%. Stacks up to 10 times. Decreases movement speed by -15%."
+    ],
+    [
+     "Earth Charm",
+     "+2 Max Abyssal Charges"
+    ],
+    [
+     "Meadow Charm",
+     "Abyssal charges no longer decay."
+    ],
+    [
+     "Wave Charm",
+     "+10 Post-Cast Mana Regen"
+    ],
+    [
+     "Life Charm",
+     "Increases the rank of the following skills by +1: - The full list is still being decided. Increases mana consumption of all skills by 30%."
+    ],
+    [
+     "Lightning Charm",
+     "Increases gliding speed by 50%. Increases gliding recovery by +1 seconds."
+    ]
+   ]
+  },
+  {
+   "heading": "World Boss and Dungeon Necklaces",
+   "caption": "",
+   "headers": [
+    "Rank",
+    "Damage",
+    "Range",
+    "Targets",
+    "Other"
+   ],
+   "rows": [
+    [
+     "Divine",
+     "+25",
+     "7 meters",
+     "3 targets",
+     "-50% less damage per Target"
+    ],
+    [
+     "Epic",
+     "+40",
+     "10 meters",
+     "3 targets",
+     "-50% less damage per Target"
+    ],
+    [
+     "Legendary",
+     "+65",
+     "13 meters",
+     "4 targets",
+     "-50% less damage per Target"
+    ],
+    [
+     "Mythic",
+     "+80",
+     "16 meters",
+     "5 targets",
+     "-35% less damage per target"
+    ]
+   ]
+  },
+  {
+   "heading": "World Boss and Dungeon Necklaces",
+   "caption": "",
+   "headers": [
+    "Rank",
+    "Healing Effectiveness"
+   ],
+   "rows": [
+    [
+     "Divine",
+     "2.5%"
+    ],
+    [
+     "Epic",
+     "3.2%"
+    ],
+    [
+     "Legendary",
+     "3.8%"
+    ],
+    [
+     "Mythic",
+     "4.5%"
+    ]
+   ]
+  },
+  {
+   "heading": "World Boss and Dungeon Necklaces",
+   "caption": "",
+   "headers": [
+    "Rank",
+    "ATK Power Increase",
+    "Chance"
+   ],
+   "rows": [
+    [
+     "Divine",
+     "120%",
+     "15%"
+    ],
+    [
+     "Epic",
+     "150%",
+     "15%"
+    ],
+    [
+     "Legendary",
+     "175%",
+     "25%"
+    ],
+    [
+     "Mythic",
+     "200%",
+     "35%"
+    ]
+   ]
+  },
+  {
+   "heading": "World Boss and Dungeon Necklaces",
+   "caption": "",
+   "headers": [
+    "Rank",
+    "Damage",
+    "Magic Armor Penetration per Stack"
+   ],
+   "rows": [
+    [
+     "Divine",
+     "+25",
+     "180"
+    ],
+    [
+     "Epic",
+     "+75",
+     "200"
+    ],
+    [
+     "Legendary",
+     "+90",
+     "250"
+    ],
+    [
+     "Mythic",
+     "+110",
+     "275"
+    ]
+   ]
+  },
+  {
+   "heading": "World Boss and Dungeon Necklaces",
+   "caption": "",
+   "headers": [
+    "Grade",
+    "Ranged ATK"
+   ],
+   "rows": [
+    [
+     "Divine",
+     "12"
+    ],
+    [
+     "Epic",
+     "21"
+    ],
+    [
+     "Legendary",
+     "24"
+    ],
+    [
+     "Mythic",
+     "27"
+    ]
+   ]
+  },
+  {
+   "heading": "World Boss and Dungeon Necklaces",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Enlightened Berserker Necklace",
+     "Forged by infusing the essence of a Berserker Necklace. The bloodlust emanates furiously."
+    ],
+    [
+     "Enlightened Berserker Ring",
+     "Forged by infusing the essence of a Berserker Ring. The bloodlust emanates furiously."
+    ],
+    [
+     "Enlightened Berserker Earrings",
+     "Forged by infusing the essence of Berserker Earrings. The bloodlust emanates furiously."
+    ],
+    [
+     "Enlightened Oracle Necklace",
+     "Forged by infusing the essence of a Soothsayer Necklace. The metal remains calm as you touch it."
+    ],
+    [
+     "Enlightened Oracle Ring",
+     "Forged by infusing the essence of a Soothsayer Ring. The metal remains calm as you touch it."
+    ],
+    [
+     "Enlightened Oracle Earrings",
+     "Forged by infusing the essence of Soothsayer Earrings. The metal remains calm as you touch it."
+    ],
+    [
+     "Enlightened Shadow Necklace",
+     "Forged by infusing the essence of a Assassin Necklace. The pendant is translucent."
+    ],
+    [
+     "Enlightened Shadow Ring",
+     "Forged by infusing the essence of a Assassin Ring. The pendant is translucent."
+    ],
+    [
+     "Enlightened Shadow Earrings",
+     "Forged by infusing the essence of Assassin Earrings. The pendant is translucent."
+    ],
+    [
+     "Enlightened Arcanist Necklace",
+     "Forged by infusing the essence of a Sorcerer Necklace. It vibrates wildly with arcane magic."
+    ],
+    [
+     "Enlightened Arcanist Ring",
+     "Forged by infusing the essence of a Sorcerer Ring. It vibrates wildly with arcane magic."
+    ],
+    [
+     "Enlightened Arcanist Earrings",
+     "Forged by infusing the essence of Sorcerer Earrings. It vibrates wildly with arcane magic."
+    ],
+    [
+     "Enlightened Salvation Earring",
+     "A earring that shines brilliantly and offers a soothing vibration."
+    ],
+    [
+     "Enlightened Tempest Necklace",
+     "A necklace that attracts nearby storms, acting as a conductor for a lightning strike."
+    ],
+    [
+     "Enlightened Oath Earring",
+     "Granted to a Knight of the Crimson Watch."
+    ],
+    [
+     "Enlightened Oath Ring",
+     "Granted to a Knight of the Crimson Watch."
+    ],
+    [
+     "Enlightened Dread Necklace",
+     "The necklace is filled with turmoil and a whisper that seeks to invade your mind with chaos."
+    ],
+    [
+     "Enlightened Colossus Necklace",
+     "A necklace crafted from the Thunderwing Titan's essence."
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "News aya accs.png",
+  "News ayanad armor changes.png"
+ ],
+ "text": "Announcement9 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Enlightened Ayanad Accessories Second post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Ayanad accessories and more. In the upcoming 1.3.6 patch, Ayanad accessories can be upgraded to Enlightened Ayanad Accessories through the power of Runestones. Runestone Talisman A stone etched with a powerful runic symbol. The energy of the rune pulls you towards the Ayanad Library. The scriptures in the Ayanad Library had once mentioned how Rowan Alexander had spent years of research into runestones that could be embedded into accessories to transcend its abilities. A power that could even rival the gods, Alexander destroyed the entirety of his research once Kyrios sought the power for himself. Spend 10 labor to unlock the secrets of Ayanad. Runestones were discovered by the scholars of the Ayanad Library and were once researched and used by Alexander in pursuit of great power capable of unlocking the hidden potential of items. Runestones resonate with the magic sealed within an item, drawing its dormant power to the surface. When applied to an Ayanad accessory, the Runestone breaks through the limitations placed upon its enchantments, allowing the accessory to manifest abilities previously beyond its reach. The process does not replace the accessory's existing enchantments. Instead, it awakens and amplifies the power already contained within them, resulting in an Enlightened Ayanad Accessory. Enlightened Accessories Applying a Runestone to any Ayanad accessory will grant the corresponding Enlightened version. The grade of the Ayanad accessory is retained. Throughout the post, there will be three types of enchantments: Lunasigil: Applied to any Enlightened ring or earring. Grants stats. Charm: Applied to costume, grants the benefits of the Enlightenment 2-set that you pick. Mark: Applied to any Enlightened Necklace, modifies a skill. By default, Enlightened Ayanad Accessories will not have any stats assigned to the item. The equip effect is retained when upgrading from Ayanad to Enlightened. Enlightened Ayanad Wave Earring Earring An accessory that has had its potential fully unleashed. Decreases received damage -2.75%. Enlightened Ayanad Wave Ring Ring An accessory that has had its potential fully unleashed. Decreases Cast Time -2.75%. Enlightened Ayanad Wave Necklace Necklace An accessory that has had its potential fully unleashed. Increases Magic Defense Penetration +937 To assign stats to Enlightened Ayanad accessories, you will need to use a Perfect Lunasigil on the Enlightened accessory. Perfect Lunasigils are stats only and is not related to the 2-set Enlightenment section. Applying a Perfect Lunasigil on top of an existing enchantment will replace the existing enchantment. Perfect Lunasigils Options Name Effect Perfect Stone Lunasigil +20 Stamina +20 Spirit Perfect Mist Lunasigil +20 Agility +20 Spirit Perfect Squall Lunasigil +20 Agility +20 Stamina Perfect Meteor Lunasigil +20 Strength +20 Spirit Perfect Desert Lunasigil +20 Strength +20 Stamina Perfect Sunset Lunasigil +20 Strength +20 Intelligence Perfect Tidal Lunasigil +20 Agility +20 Intelligence Perfect Lake Lunasigil +20 Stamina +20 Intelligence Perfect Flame Lunasigil +35 Strength Perfect Earth Lunasigil +35 Stamina Perfect Meadow Lunasigil +20 Intelligence +20 Spirit Perfect Lightning Lunasigil +20 Strength +20 Agility Perfect Wave Lunasigil +35 Intelligence Perfect Life Lunasigil +35 Spirit Perfect Gale Lunasigil +35 Agility Enlightened Rings & Earrings Set Bonuses Ring and Earrings will now have 2-set bonuses which enables a specific Enlightenment. With the Enlightenment set bonus active, the player will enchant their costume with its corresponding Charm to receive the effect. Costume Charms Options Name Effect Flame Charm Restore 100 HP when blocking, parrying or evading an attack. Gale Charm Critical hits increase movement speed by 3%. Stacks up to 10 times. Decreases movement speed by -15%. Earth Charm +2 Max Abyssal Charges Meadow Charm Abyssal charges no longer decay. Wave Charm +10 Post-Cast Mana Regen Life Charm Increases the rank of the following skills by +1: - The full list is still being decided. Increases mana consumption of all skills by 30%. Lightning Charm Increases gliding speed by 50%. Increases gliding recovery by +1 seconds. Two examples: A meadow ring and a meadow earring will enable Meadow Enlightenment. With a Meadow Charm enchanted on your costume, then you will receive the meadow effects as listed. A flame ring and flame earring will enable Flame Enlightenment. With a Flame Charm enchanted on your costume, then you will receive the flame effects as listed. These effects may be subject to change based on feedback. Enlightened Ayanad Meadow Ring Ring An accessory that has had its potential fully unleashed. Increases max mana +653. Enlightened Ayanad Earth Earring Earring An accessory that has had its potential fully unleashed. Increases Magic Defense +299. Enlightened Ayanad Wave Earring Earring An accessory that has had its potential fully unleashed. Decreases received damage -2.75%. Enlightened Ayanad Flame Earring Earring An accessory that has had its potential fully unleashed. Increases Evasion +2.75%. Enlightened Ayanad Life Ring Ring An accessory that has had its potential fully unleashed. Increases Skill Damage +2.75%. Enlightened Ayanad Lightning Ring Ring An accessory that has had its potential fully unleashed. Increases max health +899. Enlightened Ayanad Gale Ring Ring An accessory that has had its potential fully unleashed. Ignores 468 of target's Defense. Equipping two rings or two earrings of the same Ayanad type will NOT activate the set bonus. Enlightened Necklaces Enlightened Ayanad Meadow Necklace Necklace An accessory that has had its potential fully unleashed. Increases Critical Heal Rate +2.75%. Enlightened Ayanad Life Necklace Necklace An accessory that has had its potential fully unleashed. Increases max mana +1130. Enlightened Ayanad Wave Necklace Necklace An accessory that has had its potential fully unleashed. Increases Magic Defense Penetration +937. Enlightened Ayanad Earth Necklace Necklace An accessory that has had its potential fully unleashed. Increases Magic Defense +510. Necklaces do not have set bonuses like rings and earrings do, but still utilize Perfect Lunasigils to grant them the desired stats. In addition to Perfect Lunasigils, necklaces can be frosted with either a Radiant or a Hollow Mark, which will modify certain skills into their Radiant or Hollow variants. At Discovery, there will be a total of 10 Radiant Marks and 10 Hollow Marks to choose from. More information and previews on these Radiant and Hollow skills will be shown in a future blog post. Applying a Skill Mark on top of another will replace the existing one. Applying a Skill Mark on top of a Perfect Lunasigil will replace the Perfect Lunasigil. Radiant and Hollow Marks can be frosted onto Enlightened World Boss and Dungeon Necklaces. World Boss and Dungeon Necklaces Enlightened Ayanad necklaces can now be fused with existing World Boss and Dungeon accessories to create a corresponding Enlightened version. To fuse the Enlightened Ayanad necklace of choice with Storm Caller's Hoop, an enchantment scroll is required. Dread Enchantment Scroll Talisman A scroll imbued with the ink of the Kraken. Forges the properties of the Storm Caller's Hoop onto an Enlightened Necklace. The grade of the Enlightened Necklace is transferred onto the combination. Requirements: - Dread Enchantment Scroll - Storm Caller's Hoop - Enlightened Necklace Handicrafts: Spend 10 labor imbuing an Enlightened accessory. Enlightened Dread Necklace Necklace Enlightened variants of World Boss and Dungeon accessories will have their effects scaled based on the final grade. Grade scaling begins at Divine. Celestial and below will retain their default effects. Rank Damage Range Targets Other Divine +25 7 meters 3 targets -50% less damage per Target Epic +40 10 meters 3 targets -50% less damage per Target Legendary +65 13 meters 4 targets -50% less damage per Target Mythic +80 16 meters 5 targets -35% less damage per target Salvation Enchantment Scroll Talisman A scroll imbued with the memory of Carmila. Forges the properties of the Carmila's Memory onto an Enlightened Earring. The grade of the Enlightened Earringis transferred onto the combination. Requirements: - Salvation Enchantment Scroll - Carmila's Memory - Enlightened Earring Handicrafts: Spend 10 labor imbuing an Enlightened accessory. Enlightened Salvation Earring Earring A earring that shines brilliantly and offers a soothing vibration. Increases the effectiveness of healing skills +2%. Rank Healing Effectiveness Divine 2.5% Epic 3.2% Legendary 3.8% Mythic 4.5% Tempest Enchantment Scroll Talisman A scroll imbued with the ancient power of Musperosa. Forges the properties of the Handle with Care onto an Enlightened Necklace. The grade of the Enlightened Necklace is transferred onto the combination. Requirements: - Tempest Enchantment Scroll - Handle with Care - Enlightened Necklace Handicrafts: Spend 10 labor imbuing an Enlightened accessory. Enlightened Tempest Necklace Necklace A necklace that attracts nearby storms, acting as a conductor for a lightning strike. Rank ATK Power Increase Chance Divine 120% 15% Epic 150% 15% Legendary 175% 25% Mythic 200% 35% Colossus Enchantment Scroll Talisman A scroll imbued from the essence of the Thunderwing Titan. Forges the properties of the Titan's Chain onto an Enlightened Necklace. The grade of the Enlightened Necklace is transferred onto the combination. Requirements: - Colossus Enchantment Scroll - Titan's Chain - Enlightened Necklace Handicrafts: Spend 10 labor imbuing an Enlightened accessory. Enlightened Colossus Necklace Necklace The Thunderwing Titan has never forgotten its beloved former master, who was betrayed by an ancient Ipnysh hero. This necklace is imbued with a fragment of the creature's power, and still crackles with its ancient fury. Rank Damage Magic Armor Penetration per Stack Divine +25 180 Epic +75 200 Legendary +90 250 Mythic +110 275 In addition to World Boss and Dungeon accessories, we have also included the Library accessories: Berserker Accessories Oracle Accessories Arcanist Accessories Shadow Accessories These accessories feature unique 3-set effects that require a ring, a necklace, and an earring to activate. The equip effects scale with grade. Enlightened Shadow Earrings Earring Increases Ranged Attack +7.0. Grade Ranged ATK Divine 12 Epic 21 Legendary 24 Mythic 27 You must have a ring, an earring, and a necklace to activate the Shadow accessory 3-set. Enlightened Fused Accessories Options Name Effect Enlightened Berserker Necklace Forged by infusing the essence of a Berserker Necklace. The bloodlust emanates furiously. Enlightened Berserker Ring Forged by infusing the essence of a Berserker Ring. The bloodlust emanates furiously. Enlightened Berserker Earrings Forged by infusing the essence of Berserker Earrings. The bloodlust emanates furiously. Enlightened Oracle Necklace Forged by infusing the essence of a Soothsayer Necklace. The metal remains calm as you touch it. Enlightened Oracle Ring Forged by infusing the essence of a Soothsayer Ring. The metal remains calm as you touch it. Enlightened Oracle Earrings Forged by infusing the essence of Soothsayer Earrings. The metal remains calm as you touch it. Enlightened Shadow Necklace Forged by infusing the essence of a Assassin Necklace. The pendant is translucent. Enlightened Shadow Ring Forged by infusing the essence of a Assassin Ring. The pendant is translucent. Enlightened Shadow Earrings Forged by infusing the essence of Assassin Earrings. The pendant is translucent. Enlightened Arcanist Necklace Forged by infusing the essence of a Sorcerer Necklace. It vibrates wildly with arcane magic. Enlightened Arcanist Ring Forged by infusing the essence of a Sorcerer Ring. It vibrates wildly with arcane magic. Enlightened Arcanist Earrings Forged by infusing the essence of Sorcerer Earrings. It vibrates wildly with arcane magic. Enlightened Salvation Earring A earring that shines brilliantly and offers a soothing vibration. Enlightened Tempest Necklace A necklace that attracts nearby storms, acting as a conductor for a lightning strike. Enlightened Oath Earring Granted to a Knight of the Crimson Watch. Enlightened Oath Ring Granted to a Knight of the Crimson Watch. Enlightened Dread Necklace The necklace is filled with turmoil and a whisper that seeks to invade your mind with chaos. Enlightened Colossus Necklace A necklace crafted from the Thunderwing Titan's essence. The exact material cost for the enchantment scroll will not be revealed until the patch is live. Upon fusing, both necklaces will be consumed and the corresponding necklace will be given. The grade of the Enlightened Ayanad necklace will be retained. Accessories that are Celestial-grade or lower will retain their base effects without any improvement. Enlightened Ayanad Armors Through community feedback, Enlightened Ayanad Armors will no longer be included in the 1.3.6 update. We have made design changes to incorporate some of the unique effects originally planned for Lunasigil Armors into the accessory update instead. Ayanad Changes The following changes are currently being planned for existing Ayanad armors. These changes are retroactive so you do not need to do anything to see the set bonuses reflected in 1.3.6. These suggestions can be subject to additional feedback. Error creating thumbnail: File with dimensions greater than 12.5 MP",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/76/763d2cfeb19201a918bce27dff84ce387ddb7080.png\" width=\"1200\" height=\"397\" loading=\"lazy\"></span></span></div><div><div><span>Announcement</span><span>9 August 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/136-preview-enlightened-ayanad-accessories\">Original post on aa-classic.com</a></div><div>1.3.6 Preview - Enlightened Ayanad Accessories</div><div>Second post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Ayanad accessories and more.</div></div></div>\n<p>In the upcoming 1.3.6 patch, Ayanad accessories can be upgraded to Enlightened Ayanad Accessories through the power of Runestones.\n</p>\n<div><b>Runestone</b><br>Talisman<br>A stone etched with a powerful runic symbol. The energy of the rune pulls you towards the Ayanad Library.<br>The scriptures in the Ayanad Library had once mentioned how Rowan Alexander had spent years of research into runestones that could be embedded into accessories to transcend its abilities.<br>A power that could even rival the gods, Alexander destroyed the entirety of his research once Kyrios sought the power for himself.<br>Spend 10 labor to unlock the secrets of Ayanad.</div>\n<p>Runestones were discovered by the scholars of the Ayanad Library and were once researched and used by Alexander in pursuit of great power capable of unlocking the hidden potential of items.\n</p><p>Runestones resonate with the magic sealed within an item, drawing its dormant power to the surface. When applied to an Ayanad accessory, the Runestone breaks through the limitations placed upon its enchantments, allowing the accessory to manifest abilities previously beyond its reach.\n</p><p>The process does not replace the accessory's existing enchantments. Instead, it awakens and amplifies the power already contained within them, resulting in an Enlightened Ayanad Accessory.\n</p>\n\n<h2 id=\"Enlightened_Accessories\">Enlightened Accessories</h2>\n<p>Applying a Runestone to any Ayanad accessory will grant the corresponding Enlightened version. The grade of the Ayanad accessory is retained.\n</p><p>Throughout the post, there will be three types of enchantments:\n</p>\n<ul><li>Lunasigil: Applied to any Enlightened ring or earring. Grants stats.</li>\n<li>Charm: Applied to costume, grants the benefits of the Enlightenment 2-set that you pick.</li>\n<li>Mark: Applied to any Enlightened Necklace, modifies a skill.</li></ul>\n<p>By default, Enlightened Ayanad Accessories will not have any stats assigned to the item. The equip effect is retained when upgrading from Ayanad to Enlightened.\n</p>\n<div><b>Enlightened Ayanad Wave Earring</b><br>Earring<br>An accessory that has had its potential fully unleashed.<br>Decreases received damage -2.75%.</div>\n<div><b>Enlightened Ayanad Wave Ring</b><br>Ring<br>An accessory that has had its potential fully unleashed.<br>Decreases Cast Time -2.75%.</div>\n<div><b>Enlightened Ayanad Wave Necklace</b><br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense Penetration +937</div>\n<p>To assign stats to Enlightened Ayanad accessories, you will need to use a Perfect Lunasigil on the Enlightened accessory.\n</p>\n<blockquote>\n<p>Perfect Lunasigils are stats only and is not related to the 2-set Enlightenment section.\n</p>\n</blockquote>\n<blockquote>\n<p>Applying a Perfect Lunasigil on top of an existing enchantment will replace the existing enchantment.\n</p>\n</blockquote>\n<p><b>Perfect Lunasigils</b>\n<i>Options</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Perfect Stone Lunasigil</td>\n<td>+20 Stamina<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Mist Lunasigil</td>\n<td>+20 Agility<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Squall Lunasigil</td>\n<td>+20 Agility<br>+20 Stamina\n</td></tr>\n<tr>\n<td>Perfect Meteor Lunasigil</td>\n<td>+20 Strength<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Desert Lunasigil</td>\n<td>+20 Strength<br>+20 Stamina\n</td></tr>\n<tr>\n<td>Perfect Sunset Lunasigil</td>\n<td>+20 Strength<br>+20 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Tidal Lunasigil</td>\n<td>+20 Agility<br>+20 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Lake Lunasigil</td>\n<td>+20 Stamina<br>+20 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Flame Lunasigil</td>\n<td>+35 Strength\n</td></tr>\n<tr>\n<td>Perfect Earth Lunasigil</td>\n<td>+35 Stamina\n</td></tr>\n<tr>\n<td>Perfect Meadow Lunasigil</td>\n<td>+20 Intelligence<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Lightning Lunasigil</td>\n<td>+20 Strength<br>+20 Agility\n</td></tr>\n<tr>\n<td>Perfect Wave Lunasigil</td>\n<td>+35 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Life Lunasigil</td>\n<td>+35 Spirit\n</td></tr>\n<tr>\n<td>Perfect Gale Lunasigil</td>\n<td>+35 Agility\n</td></tr></tbody></table>\n<h2 id=\"Enlightened_Rings_&amp;_Earrings\"><span></span>Enlightened Rings &amp; Earrings</h2>\n<h2 id=\"Set_Bonuses\">Set Bonuses</h2>\n<p>Ring and Earrings will now have 2-set bonuses which enables a specific Enlightenment.\n</p><p>With the Enlightenment set bonus active, the player will enchant their costume with its corresponding Charm to receive the effect.\n</p><p><b>Costume Charms</b>\n<i>Options</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Flame Charm</td>\n<td>Restore 100 HP when blocking, parrying or evading an attack.\n</td></tr>\n<tr>\n<td>Gale Charm</td>\n<td>Critical hits increase movement speed by 3%. Stacks up to 10 times.<br>Decreases movement speed by -15%.\n</td></tr>\n<tr>\n<td>Earth Charm</td>\n<td>+2 Max Abyssal Charges\n</td></tr>\n<tr>\n<td>Meadow Charm</td>\n<td>Abyssal charges no longer decay.\n</td></tr>\n<tr>\n<td>Wave Charm</td>\n<td>+10 Post-Cast Mana Regen\n</td></tr>\n<tr>\n<td>Life Charm</td>\n<td>Increases the rank of the following skills by +1:<br>- The full list is still being decided.<br>Increases mana consumption of all skills by 30%.\n</td></tr>\n<tr>\n<td>Lightning Charm</td>\n<td>Increases gliding speed by 50%.<br>Increases gliding recovery by +1 seconds.\n</td></tr></tbody></table>\n<p>Two examples:\n</p>\n<blockquote>\n<p>A meadow ring and a meadow earring will enable Meadow Enlightenment. With a Meadow Charm enchanted on your costume, then you will receive the meadow effects as listed.\n</p>\n</blockquote>\n<blockquote>\n<p>A flame ring and flame earring will enable Flame Enlightenment. With a Flame Charm enchanted on your costume, then you will receive the flame effects as listed.\n</p>\n</blockquote>\n<blockquote>\n<p>These effects may be subject to change based on feedback.\n</p>\n</blockquote>\n<div><b>Enlightened Ayanad Meadow Ring</b><br>Ring<br>An accessory that has had its potential fully unleashed.<br>Increases max mana +653.</div>\n<div><b>Enlightened Ayanad Earth Earring</b><br>Earring<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense +299.</div>\n<div><b>Enlightened Ayanad Wave Earring</b><br>Earring<br>An accessory that has had its potential fully unleashed.<br>Decreases received damage -2.75%.</div>\n<div><b>Enlightened Ayanad Flame Earring</b><br>Earring<br>An accessory that has had its potential fully unleashed.<br>Increases Evasion +2.75%.</div>\n<div><b>Enlightened Ayanad Life Ring</b><br>Ring<br>An accessory that has had its potential fully unleashed.<br>Increases Skill Damage +2.75%.</div>\n<div><b>Enlightened Ayanad Lightning Ring</b><br>Ring<br>An accessory that has had its potential fully unleashed.<br>Increases max health +899.</div>\n<div><b>Enlightened Ayanad Gale Ring</b><br>Ring<br>An accessory that has had its potential fully unleashed.<br>Ignores 468 of target's Defense.</div>\n<blockquote>\n<p>Equipping two rings or two earrings of the same Ayanad type will NOT activate the set bonus.\n</p>\n</blockquote>\n<h2 id=\"Enlightened_Necklaces\">Enlightened Necklaces</h2>\n<div><b>Enlightened Ayanad Meadow Necklace</b><br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Critical Heal Rate +2.75%.</div>\n<div><b>Enlightened Ayanad Life Necklace</b><br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases max mana +1130.</div>\n<div><b>Enlightened Ayanad Wave Necklace</b><br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense Penetration +937.</div>\n<div><b>Enlightened Ayanad Earth Necklace</b><br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense +510.</div>\n<p>Necklaces do not have set bonuses like rings and earrings do, but still utilize Perfect Lunasigils to grant them the desired stats.\n</p><p>In addition to Perfect Lunasigils, necklaces can be frosted with either a Radiant or a Hollow Mark, which will modify certain skills into their Radiant or Hollow variants.\n</p><p>At Discovery, there will be a total of 10 <span style=\"color:#D4AF37\">Radiant Marks</span> and 10 <span style=\"color:#5A3A6E\">Hollow Marks</span> to choose from.\n</p><p>More information and previews on these Radiant and Hollow skills will be shown in a future blog post.\n</p>\n<blockquote>\n<p>Applying a Skill Mark on top of another will replace the existing one.\n</p>\n</blockquote>\n<blockquote>\n<p>Applying a Skill Mark on top of a Perfect Lunasigil will replace the Perfect Lunasigil.\n</p>\n</blockquote>\n<blockquote>\n<p>Radiant and Hollow Marks can be frosted onto Enlightened World Boss and Dungeon Necklaces.\n</p>\n</blockquote>\n<h2 id=\"World_Boss_and_Dungeon_Necklaces\">World Boss and Dungeon Necklaces</h2>\n<p>Enlightened Ayanad necklaces can now be fused with existing World Boss and Dungeon accessories to create a corresponding Enlightened version.\n</p><p>To fuse the Enlightened Ayanad necklace of choice with Storm Caller's Hoop, an enchantment scroll is required.\n</p>\n<div><b>Dread Enchantment Scroll</b><br>Talisman<br>A scroll imbued with the ink of the Kraken. Forges the properties of the Storm Caller's Hoop onto an Enlightened Necklace.<br>The grade of the Enlightened Necklace is transferred onto the combination.<br>Requirements:<br>- Dread Enchantment Scroll<br>- Storm Caller's Hoop<br>- Enlightened Necklace<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n<div><b>Enlightened Dread Necklace</b><br>Necklace</div>\n<p>Enlightened variants of World Boss and Dungeon accessories will have their effects scaled based on the final grade.\n</p>\n<blockquote>\n<p>Grade scaling begins at Divine. Celestial and below will retain their default effects.\n</p>\n</blockquote>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Rank</th>\n<th>Damage</th>\n<th>Range</th>\n<th>Targets</th>\n<th>Other\n</th></tr>\n<tr>\n<td>Divine</td>\n<td>+25</td>\n<td>7 meters</td>\n<td>3 targets</td>\n<td>-50% less damage per Target\n</td></tr>\n<tr>\n<td>Epic</td>\n<td>+40</td>\n<td>10 meters</td>\n<td>3 targets</td>\n<td>-50% less damage per Target\n</td></tr>\n<tr>\n<td>Legendary</td>\n<td>+65</td>\n<td>13 meters</td>\n<td>4 targets</td>\n<td>-50% less damage per Target\n</td></tr>\n<tr>\n<td>Mythic</td>\n<td>+80</td>\n<td>16 meters</td>\n<td>5 targets</td>\n<td>-35% less damage per target\n</td></tr></tbody></table>\n<div><b>Salvation Enchantment Scroll</b><br>Talisman<br>A scroll imbued with the memory of Carmila. Forges the properties of the Carmila's Memory onto an Enlightened Earring.<br>The grade of the Enlightened Earringis transferred onto the combination.<br>Requirements:<br>- Salvation Enchantment Scroll<br>- Carmila's Memory<br>- Enlightened Earring<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n<div><b>Enlightened Salvation Earring</b><br>Earring<br>A earring that shines brilliantly and offers a soothing vibration.<br>Increases the effectiveness of healing skills +2%.</div>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Rank</th>\n<th>Healing Effectiveness\n</th></tr>\n<tr>\n<td>Divine</td>\n<td>2.5%\n</td></tr>\n<tr>\n<td>Epic</td>\n<td>3.2%\n</td></tr>\n<tr>\n<td>Legendary</td>\n<td>3.8%\n</td></tr>\n<tr>\n<td>Mythic</td>\n<td>4.5%\n</td></tr></tbody></table>\n<div><b>Tempest Enchantment Scroll</b><br>Talisman<br>A scroll imbued with the ancient power of Musperosa. Forges the properties of the Handle with Care onto an Enlightened Necklace.<br>The grade of the Enlightened Necklace is transferred onto the combination.<br>Requirements:<br>- Tempest Enchantment Scroll<br>- Handle with Care<br>- Enlightened Necklace<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n<div><b>Enlightened Tempest Necklace</b><br>Necklace<br>A necklace that attracts nearby storms, acting as a conductor for a lightning strike.</div>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Rank</th>\n<th>ATK Power Increase</th>\n<th>Chance\n</th></tr>\n<tr>\n<td>Divine</td>\n<td>120%</td>\n<td>15%\n</td></tr>\n<tr>\n<td>Epic</td>\n<td>150%</td>\n<td>15%\n</td></tr>\n<tr>\n<td>Legendary</td>\n<td>175%</td>\n<td>25%\n</td></tr>\n<tr>\n<td>Mythic</td>\n<td>200%</td>\n<td>35%\n</td></tr></tbody></table>\n<div><b>Colossus Enchantment Scroll</b><br>Talisman<br>A scroll imbued from the essence of the Thunderwing Titan. Forges the properties of the Titan's Chain onto an Enlightened Necklace.<br>The grade of the Enlightened Necklace is transferred onto the combination.<br>Requirements:<br>- Colossus Enchantment Scroll<br>- Titan's Chain<br>- Enlightened Necklace<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n<div><b>Enlightened Colossus Necklace</b><br>Necklace<br>The Thunderwing Titan has never forgotten its beloved former master, who was betrayed by an ancient Ipnysh hero. This necklace is imbued with a fragment of the creature's power, and still crackles with its ancient fury.</div>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Rank</th>\n<th>Damage</th>\n<th>Magic Armor Penetration per Stack\n</th></tr>\n<tr>\n<td>Divine</td>\n<td>+25</td>\n<td>180\n</td></tr>\n<tr>\n<td>Epic</td>\n<td>+75</td>\n<td>200\n</td></tr>\n<tr>\n<td>Legendary</td>\n<td>+90</td>\n<td>250\n</td></tr>\n<tr>\n<td>Mythic</td>\n<td>+110</td>\n<td>275\n</td></tr></tbody></table>\n<p>In addition to World Boss and Dungeon accessories, we have also included the Library accessories:\n</p>\n<ul><li>Berserker Accessories</li>\n<li>Oracle Accessories</li>\n<li>Arcanist Accessories</li>\n<li>Shadow Accessories</li></ul>\n<p>These accessories feature unique 3-set effects that require a ring, a necklace, and an earring to activate. The equip effects scale with grade.\n</p>\n<div><b>Enlightened Shadow Earrings</b><br>Earring<br>Increases Ranged Attack +7.0.</div>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Grade</th>\n<th>Ranged ATK\n</th></tr>\n<tr>\n<td>Divine</td>\n<td>12\n</td></tr>\n<tr>\n<td>Epic</td>\n<td>21\n</td></tr>\n<tr>\n<td>Legendary</td>\n<td>24\n</td></tr>\n<tr>\n<td>Mythic</td>\n<td>27\n</td></tr></tbody></table>\n<blockquote>\n<p>You must have a ring, an earring, and a necklace to activate the Shadow accessory 3-set.\n</p>\n</blockquote>\n<p><b>Enlightened Fused Accessories</b>\n<i>Options</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Enlightened Berserker Necklace</td>\n<td>Forged by infusing the essence of a Berserker Necklace. The bloodlust emanates furiously.\n</td></tr>\n<tr>\n<td>Enlightened Berserker Ring</td>\n<td>Forged by infusing the essence of a Berserker Ring. The bloodlust emanates furiously.\n</td></tr>\n<tr>\n<td>Enlightened Berserker Earrings</td>\n<td>Forged by infusing the essence of Berserker Earrings. The bloodlust emanates furiously.\n</td></tr>\n<tr>\n<td>Enlightened Oracle Necklace</td>\n<td>Forged by infusing the essence of a Soothsayer Necklace. The metal remains calm as you touch it.\n</td></tr>\n<tr>\n<td>Enlightened Oracle Ring</td>\n<td>Forged by infusing the essence of a Soothsayer Ring. The metal remains calm as you touch it.\n</td></tr>\n<tr>\n<td>Enlightened Oracle Earrings</td>\n<td>Forged by infusing the essence of Soothsayer Earrings. The metal remains calm as you touch it.\n</td></tr>\n<tr>\n<td>Enlightened Shadow Necklace</td>\n<td>Forged by infusing the essence of a Assassin Necklace. The pendant is translucent.\n</td></tr>\n<tr>\n<td>Enlightened Shadow Ring</td>\n<td>Forged by infusing the essence of a Assassin Ring. The pendant is translucent.\n</td></tr>\n<tr>\n<td>Enlightened Shadow Earrings</td>\n<td>Forged by infusing the essence of Assassin Earrings. The pendant is translucent.\n</td></tr>\n<tr>\n<td>Enlightened Arcanist Necklace</td>\n<td>Forged by infusing the essence of a Sorcerer Necklace. It vibrates wildly with arcane magic.\n</td></tr>\n<tr>\n<td>Enlightened Arcanist Ring</td>\n<td>Forged by infusing the essence of a Sorcerer Ring. It vibrates wildly with arcane magic.\n</td></tr>\n<tr>\n<td>Enlightened Arcanist Earrings</td>\n<td>Forged by infusing the essence of Sorcerer Earrings. It vibrates wildly with arcane magic.\n</td></tr>\n<tr>\n<td>Enlightened Salvation Earring</td>\n<td>A earring that shines brilliantly and offers a soothing vibration.\n</td></tr>\n<tr>\n<td>Enlightened Tempest Necklace</td>\n<td>A necklace that attracts nearby storms, acting as a conductor for a lightning strike.\n</td></tr>\n<tr>\n<td>Enlightened Oath Earring</td>\n<td>Granted to a Knight of the Crimson Watch.\n</td></tr>\n<tr>\n<td>Enlightened Oath Ring</td>\n<td>Granted to a Knight of the Crimson Watch.\n</td></tr>\n<tr>\n<td>Enlightened Dread Necklace</td>\n<td>The necklace is filled with turmoil and a whisper that seeks to invade your mind with chaos.\n</td></tr>\n<tr>\n<td>Enlightened Colossus Necklace</td>\n<td>A necklace crafted from the Thunderwing Titan's essence.\n</td></tr></tbody></table>\n<blockquote>\n<p>The exact material cost for the enchantment scroll will not be revealed until the patch is live.\n</p>\n</blockquote>\n<blockquote>\n<p>Upon fusing, both necklaces will be consumed and the corresponding necklace will be given. The grade of the Enlightened Ayanad necklace will be retained.\n</p>\n</blockquote>\n<blockquote>\n<p>Accessories that are Celestial-grade or lower will retain their base effects without any improvement.\n</p>\n</blockquote>\n<h2 id=\"Enlightened_Ayanad_Armors\">Enlightened Ayanad Armors</h2>\n<p>Through community feedback, Enlightened Ayanad Armors will no longer be included in the 1.3.6 update.\n</p><p>We have made design changes to incorporate some of the unique effects originally planned for Lunasigil Armors into the accessory update instead.\n</p>\n<h2 id=\"Ayanad_Changes\">Ayanad Changes</h2>\n<p>The following changes are currently being planned for existing Ayanad armors.\n</p>\n<blockquote>\n<p>These changes are retroactive so you do not need to do anything to see the set bonuses reflected in 1.3.6.\n</p>\n</blockquote>\n<blockquote>\n<p>These suggestions can be subject to additional feedback.\n</p>\n</blockquote>\n<figure><a href=\"/wiki/files?f=News%20ayanad%20armor%20changes.png\"><span>Error creating thumbnail: File with dimensions greater than 12.5 MP</span></a><figcaption></figcaption></figure>",
+ "wikitext": "{{NewsArticle\n|title=1.3.6 Preview - Enlightened Ayanad Accessories\n|slug=136-preview-enlightened-ayanad-accessories\n|date=2026-08-09 17:00\n|category=Announcement\n|image=News aya accs.png\n|summary=Second post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Ayanad accessories and more.\n|source=https://aa-classic.com/news/136-preview-enlightened-ayanad-accessories\n}}\n\nIn the upcoming 1.3.6 patch, Ayanad accessories can be upgraded to Enlightened Ayanad Accessories through the power of Runestones.\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Runestone'''<br>Talisman<br>A stone etched with a powerful runic symbol. The energy of the rune pulls you towards the Ayanad Library.<br>The scriptures in the Ayanad Library had once mentioned how Rowan Alexander had spent years of research into runestones that could be embedded into accessories to transcend its abilities.<br>A power that could even rival the gods, Alexander destroyed the entirety of his research once Kyrios sought the power for himself.<br>Spend 10 labor to unlock the secrets of Ayanad.</div>\n\nRunestones were discovered by the scholars of the Ayanad Library and were once researched and used by Alexander in pursuit of great power capable of unlocking the hidden potential of items.\n\nRunestones resonate with the magic sealed within an item, drawing its dormant power to the surface. When applied to an Ayanad accessory, the Runestone breaks through the limitations placed upon its enchantments, allowing the accessory to manifest abilities previously beyond its reach.\n\nThe process does not replace the accessory's existing enchantments. Instead, it awakens and amplifies the power already contained within them, resulting in an Enlightened Ayanad Accessory.\n\n== Enlightened Accessories ==\n\nApplying a Runestone to any Ayanad accessory will grant the corresponding Enlightened version. The grade of the Ayanad accessory is retained.\n\nThroughout the post, there will be three types of enchantments:\n* Lunasigil: Applied to any Enlightened ring or earring. Grants stats.\n* Charm: Applied to costume, grants the benefits of the Enlightenment 2-set that you pick.\n* Mark: Applied to any Enlightened Necklace, modifies a skill.\n\nBy default, Enlightened Ayanad Accessories will not have any stats assigned to the item. The equip effect is retained when upgrading from Ayanad to Enlightened.\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Wave Earring'''<br>Earring<br>An accessory that has had its potential fully unleashed.<br>Decreases received damage -2.75%.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Wave Ring'''<br>Ring<br>An accessory that has had its potential fully unleashed.<br>Decreases Cast Time -2.75%.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Wave Necklace'''<br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense Penetration +937</div>\n\nTo assign stats to Enlightened Ayanad accessories, you will need to use a Perfect Lunasigil on the Enlightened accessory.\n\n<blockquote>\nPerfect Lunasigils are stats only and is not related to the 2-set Enlightenment section.\n</blockquote>\n\n<blockquote>\nApplying a Perfect Lunasigil on top of an existing enchantment will replace the existing enchantment.\n</blockquote>\n\n'''Perfect Lunasigils'''\n''Options''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Perfect Stone Lunasigil || +20 Stamina<br>+20 Spirit\n|-\n| Perfect Mist Lunasigil || +20 Agility<br>+20 Spirit\n|-\n| Perfect Squall Lunasigil || +20 Agility<br>+20 Stamina\n|-\n| Perfect Meteor Lunasigil || +20 Strength<br>+20 Spirit\n|-\n| Perfect Desert Lunasigil || +20 Strength<br>+20 Stamina\n|-\n| Perfect Sunset Lunasigil || +20 Strength<br>+20 Intelligence\n|-\n| Perfect Tidal Lunasigil || +20 Agility<br>+20 Intelligence\n|-\n| Perfect Lake Lunasigil || +20 Stamina<br>+20 Intelligence\n|-\n| Perfect Flame Lunasigil || +35 Strength\n|-\n| Perfect Earth Lunasigil || +35 Stamina\n|-\n| Perfect Meadow Lunasigil || +20 Intelligence<br>+20 Spirit\n|-\n| Perfect Lightning Lunasigil || +20 Strength<br>+20 Agility\n|-\n| Perfect Wave Lunasigil || +35 Intelligence\n|-\n| Perfect Life Lunasigil || +35 Spirit\n|-\n| Perfect Gale Lunasigil || +35 Agility\n|}\n\n== Enlightened Rings & Earrings ==\n\n== Set Bonuses ==\n\nRing and Earrings will now have 2-set bonuses which enables a specific Enlightenment.\n\nWith the Enlightenment set bonus active, the player will enchant their costume with its corresponding Charm to receive the effect.\n\n'''Costume Charms'''\n''Options''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Flame Charm || Restore 100 HP when blocking, parrying or evading an attack.\n|-\n| Gale Charm || Critical hits increase movement speed by 3%. Stacks up to 10 times.<br>Decreases movement speed by -15%.\n|-\n| Earth Charm || +2 Max Abyssal Charges\n|-\n| Meadow Charm || Abyssal charges no longer decay.\n|-\n| Wave Charm || +10 Post-Cast Mana Regen\n|-\n| Life Charm || Increases the rank of the following skills by +1:<br>- The full list is still being decided.<br>Increases mana consumption of all skills by 30%.\n|-\n| Lightning Charm || Increases gliding speed by 50%.<br>Increases gliding recovery by +1 seconds.\n|}\n\nTwo examples:\n<blockquote>\nA meadow ring and a meadow earring will enable Meadow Enlightenment. With a Meadow Charm enchanted on your costume, then you will receive the meadow effects as listed.\n</blockquote>\n\n<blockquote>\nA flame ring and flame earring will enable Flame Enlightenment. With a Flame Charm enchanted on your costume, then you will receive the flame effects as listed.\n</blockquote>\n\n<blockquote>\nThese effects may be subject to change based on feedback.\n</blockquote>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Meadow Ring'''<br>Ring<br>An accessory that has had its potential fully unleashed.<br>Increases max mana +653.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Earth Earring'''<br>Earring<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense +299.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Wave Earring'''<br>Earring<br>An accessory that has had its potential fully unleashed.<br>Decreases received damage -2.75%.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Flame Earring'''<br>Earring<br>An accessory that has had its potential fully unleashed.<br>Increases Evasion +2.75%.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Life Ring'''<br>Ring<br>An accessory that has had its potential fully unleashed.<br>Increases Skill Damage +2.75%.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Lightning Ring'''<br>Ring<br>An accessory that has had its potential fully unleashed.<br>Increases max health +899.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Gale Ring'''<br>Ring<br>An accessory that has had its potential fully unleashed.<br>Ignores 468 of target's Defense.</div>\n\n<blockquote>\nEquipping two rings or two earrings of the same Ayanad type will NOT activate the set bonus.\n</blockquote>\n\n== Enlightened Necklaces ==\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Meadow Necklace'''<br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Critical Heal Rate +2.75%.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Life Necklace'''<br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases max mana +1130.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Wave Necklace'''<br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense Penetration +937.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Earth Necklace'''<br>Necklace<br>An accessory that has had its potential fully unleashed.<br>Increases Magic Defense +510.</div>\n\nNecklaces do not have set bonuses like rings and earrings do, but still utilize Perfect Lunasigils to grant them the desired stats.\n\nIn addition to Perfect Lunasigils, necklaces can be frosted with either a Radiant or a Hollow Mark, which will modify certain skills into their Radiant or Hollow variants.\n\nAt Discovery, there will be a total of 10 <span style=\"color:#D4AF37\">Radiant Marks</span> and 10 <span style=\"color:#5A3A6E\">Hollow Marks</span> to choose from.\n\nMore information and previews on these Radiant and Hollow skills will be shown in a future blog post.\n\n<blockquote>\nApplying a Skill Mark on top of another will replace the existing one.\n</blockquote>\n\n<blockquote>\nApplying a Skill Mark on top of a Perfect Lunasigil will replace the Perfect Lunasigil.\n</blockquote>\n\n<blockquote>\nRadiant and Hollow Marks can be frosted onto Enlightened World Boss and Dungeon Necklaces.\n</blockquote>\n\n== World Boss and Dungeon Necklaces ==\n\nEnlightened Ayanad necklaces can now be fused with existing World Boss and Dungeon accessories to create a corresponding Enlightened version.\n\nTo fuse the Enlightened Ayanad necklace of choice with Storm Caller's Hoop, an enchantment scroll is required.\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Dread Enchantment Scroll'''<br>Talisman<br>A scroll imbued with the ink of the Kraken. Forges the properties of the Storm Caller's Hoop onto an Enlightened Necklace.<br>The grade of the Enlightened Necklace is transferred onto the combination.<br>Requirements:<br>- Dread Enchantment Scroll<br>- Storm Caller's Hoop<br>- Enlightened Necklace<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Dread Necklace'''<br>Necklace</div>\n\nEnlightened variants of World Boss and Dungeon accessories will have their effects scaled based on the final grade.\n\n<blockquote>\nGrade scaling begins at Divine. Celestial and below will retain their default effects.\n</blockquote>\n\n{| class=\"wikitable\"\n|-\n! Rank !! Damage !! Range !! Targets !! Other\n|-\n| Divine || +25 || 7 meters || 3 targets || -50% less damage per Target\n|-\n| Epic || +40 || 10 meters || 3 targets || -50% less damage per Target\n|-\n| Legendary || +65 || 13 meters || 4 targets || -50% less damage per Target\n|-\n| Mythic || +80 || 16 meters || 5 targets || -35% less damage per target\n|}\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Salvation Enchantment Scroll'''<br>Talisman<br>A scroll imbued with the memory of Carmila. Forges the properties of the Carmila's Memory onto an Enlightened Earring.<br>The grade of the Enlightened Earringis transferred onto the combination.<br>Requirements:<br>- Salvation Enchantment Scroll<br>- Carmila's Memory<br>- Enlightened Earring<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Salvation Earring'''<br>Earring<br>A earring that shines brilliantly and offers a soothing vibration.<br>Increases the effectiveness of healing skills +2%.</div>\n\n{| class=\"wikitable\"\n|-\n! Rank !! Healing Effectiveness\n|-\n| Divine || 2.5%\n|-\n| Epic || 3.2%\n|-\n| Legendary || 3.8%\n|-\n| Mythic || 4.5%\n|}\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Tempest Enchantment Scroll'''<br>Talisman<br>A scroll imbued with the ancient power of Musperosa. Forges the properties of the Handle with Care onto an Enlightened Necklace.<br>The grade of the Enlightened Necklace is transferred onto the combination.<br>Requirements:<br>- Tempest Enchantment Scroll<br>- Handle with Care<br>- Enlightened Necklace<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Tempest Necklace'''<br>Necklace<br>A necklace that attracts nearby storms, acting as a conductor for a lightning strike.</div>\n\n{| class=\"wikitable\"\n|-\n! Rank !! ATK Power Increase !! Chance\n|-\n| Divine || 120% || 15%\n|-\n| Epic || 150% || 15%\n|-\n| Legendary || 175% || 25%\n|-\n| Mythic || 200% || 35%\n|}\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Colossus Enchantment Scroll'''<br>Talisman<br>A scroll imbued from the essence of the Thunderwing Titan. Forges the properties of the Titan's Chain onto an Enlightened Necklace.<br>The grade of the Enlightened Necklace is transferred onto the combination.<br>Requirements:<br>- Colossus Enchantment Scroll<br>- Titan's Chain<br>- Enlightened Necklace<br>Handicrafts: Spend 10 labor imbuing an Enlightened accessory.</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Colossus Necklace'''<br>Necklace<br>The Thunderwing Titan has never forgotten its beloved former master, who was betrayed by an ancient Ipnysh hero. This necklace is imbued with a fragment of the creature's power, and still crackles with its ancient fury.</div>\n\n{| class=\"wikitable\"\n|-\n! Rank !! Damage !! Magic Armor Penetration per Stack\n|-\n| Divine || +25 || 180\n|-\n| Epic || +75 || 200\n|-\n| Legendary || +90 || 250\n|-\n| Mythic || +110 || 275\n|}\n\nIn addition to World Boss and Dungeon accessories, we have also included the Library accessories:\n* Berserker Accessories\n* Oracle Accessories\n* Arcanist Accessories\n* Shadow Accessories\n\nThese accessories feature unique 3-set effects that require a ring, a necklace, and an earring to activate. The equip effects scale with grade.\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Shadow Earrings'''<br>Earring<br>Increases Ranged Attack +7.0.</div>\n\n{| class=\"wikitable\"\n|-\n! Grade !! Ranged ATK\n|-\n| Divine || 12\n|-\n| Epic || 21\n|-\n| Legendary || 24\n|-\n| Mythic || 27\n|}\n\n<blockquote>\nYou must have a ring, an earring, and a necklace to activate the Shadow accessory 3-set.\n</blockquote>\n\n'''Enlightened Fused Accessories'''\n''Options''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Enlightened Berserker Necklace || Forged by infusing the essence of a Berserker Necklace. The bloodlust emanates furiously.\n|-\n| Enlightened Berserker Ring || Forged by infusing the essence of a Berserker Ring. The bloodlust emanates furiously.\n|-\n| Enlightened Berserker Earrings || Forged by infusing the essence of Berserker Earrings. The bloodlust emanates furiously.\n|-\n| Enlightened Oracle Necklace || Forged by infusing the essence of a Soothsayer Necklace. The metal remains calm as you touch it.\n|-\n| Enlightened Oracle Ring || Forged by infusing the essence of a Soothsayer Ring. The metal remains calm as you touch it.\n|-\n| Enlightened Oracle Earrings || Forged by infusing the essence of Soothsayer Earrings. The metal remains calm as you touch it.\n|-\n| Enlightened Shadow Necklace || Forged by infusing the essence of a Assassin Necklace. The pendant is translucent.\n|-\n| Enlightened Shadow Ring || Forged by infusing the essence of a Assassin Ring. The pendant is translucent.\n|-\n| Enlightened Shadow Earrings || Forged by infusing the essence of Assassin Earrings. The pendant is translucent.\n|-\n| Enlightened Arcanist Necklace || Forged by infusing the essence of a Sorcerer Necklace. It vibrates wildly with arcane magic.\n|-\n| Enlightened Arcanist Ring || Forged by infusing the essence of a Sorcerer Ring. It vibrates wildly with arcane magic.\n|-\n| Enlightened Arcanist Earrings  || Forged by infusing the essence of Sorcerer Earrings. It vibrates wildly with arcane magic.\n|-\n| Enlightened Salvation Earring || A earring that shines brilliantly and offers a soothing vibration.\n|-\n| Enlightened Tempest Necklace || A necklace that attracts nearby storms, acting as a conductor for a lightning strike.\n|-\n| Enlightened Oath Earring || Granted to a Knight of the Crimson Watch.\n|-\n| Enlightened Oath Ring || Granted to a Knight of the Crimson Watch.\n|-\n| Enlightened Dread Necklace || The necklace is filled with turmoil and a whisper that seeks to invade your mind with chaos.\n|-\n| Enlightened Colossus Necklace || A necklace crafted from the Thunderwing Titan's essence.\n|}\n\n<blockquote>\nThe exact material cost for the enchantment scroll will not be revealed until the patch is live.\n</blockquote>\n\n<blockquote>\nUpon fusing, both necklaces will be consumed and the corresponding necklace will be given. The grade of the Enlightened Ayanad necklace will be retained.\n</blockquote>\n\n<blockquote>\nAccessories that are Celestial-grade or lower will retain their base effects without any improvement.\n</blockquote>\n\n== Enlightened Ayanad Armors ==\n\nThrough community feedback, Enlightened Ayanad Armors will no longer be included in the 1.3.6 update.\n\nWe have made design changes to incorporate some of the unique effects originally planned for Lunasigil Armors into the accessory update instead.\n\n== Ayanad Changes ==\n\nThe following changes are currently being planned for existing Ayanad armors.\n<blockquote>\nThese changes are retroactive so you do not need to do anything to see the set bonuses reflected in 1.3.6.\n</blockquote>\n\n<blockquote>\nThese suggestions can be subject to additional feedback.\n</blockquote>\n\n[[File:News ayanad armor changes.png|center|700px|alt=Ayanad Changes]]"
+}

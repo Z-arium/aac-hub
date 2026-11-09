@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-288",
+ "title": "Module:Data/Cards/288",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61323,
+ "revid": 64510,
+ "updated": "2026-11-06T06:45:36Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/288",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [28891] = { bind = \"soulbound_equip\", category = \"Sword\", crafts = { { 9823, \"Berserk Red Dragon Tail-Reaper\" } }, desc = \"Rumors say this sword is so sharp, it can severe a dragon's tail with one slash.\", eq = { be = \"Enables use of the Red Dragon's Breath skill.\", gr = true, ilvl = 62, maxg = \"Mythic\", sm = 100, w = { 370.5187, 0, 0 }, wp = true, wt = { 1, 0, 2, 0, 0 } }, grade = \"None\", icon = \"icon_item_1409.png\", name = \"Berserk Red Dragon Tail-Reaper\", req = 50, use = \"Continuously inflicts #{buff_total_avg_damage} Red Dragon's Breath damage to a target within |cFFFF9C2715m|r and decreases target's Move Speed for #{buff_duration}.\\nCooldown: |nc;45 sec.|r\\n|ni;Shares a cooldown with certain items.|r\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[28891] = { bind = \"soulbound_equip\", category = \"Sword\", crafts = { { 9823, \"Berserk Red Dragon Tail-Reaper\" } }, desc = \"Rumors say this sword is so sharp, it can severe a dragon's tail with one slash.\", eq = { be = \"Enables use of the Red Dragon's Breath skill.\", gr = true, ilvl = 62, maxg = \"Mythic\", sm = 100, w = { 370.5187, 0, 0 }, wp = true, wt = { 1, 0, 2, 0, 0 } }, grade = \"None\", icon = \"icon_item_1409.png\", name = \"Berserk Red Dragon Tail-Reaper\", req = 50, use = \"Continuously inflicts #{buff_total_avg_damage} Red Dragon's Breath damage to a target within |cFFFF9C2715m|r and decreases target's Move Speed for #{buff_duration}.\\nCooldown: |nc;45 sec.|r\\n|ni;Shares a cooldown with certain items.|r\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[28891] = { bind = \"soulbound_equip\", category = \"Sword\", crafts = { { 9823, \"Berserk Red Dragon Tail-Reaper\" } }, desc = \"Rumors say this sword is so sharp, it can severe a dragon's tail with one slash.\", eq = { be = \"Enables use of the Red Dragon's Breath skill.\", gr = true, ilvl = 62, maxg = \"Mythic\", sm = 100, w = { 370.5187, 0, 0 }, wp = true, wt = { 1, 0, 2, 0, 0 } }, grade = \"None\", icon = \"icon_item_1409.png\", name = \"Berserk Red Dragon Tail-Reaper\", req = 50, use = \"Continuously inflicts #{buff_total_avg_damage} Red Dragon's Breath damage to a target within |cFFFF9C2715m|r and decreases target's Move Speed for #{buff_duration}.\\nCooldown: |nc;45 sec.|r\\n|ni;Shares a cooldown with certain items.|r\" },\n}"
+}

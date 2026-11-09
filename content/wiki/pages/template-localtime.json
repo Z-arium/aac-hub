@@ -1,0 +1,57 @@
+{
+ "slug": "template-localtime",
+ "title": "Template:LocalTime",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61339,
+ "revid": 64606,
+ "updated": "2026-11-06T20:46:52Z",
+ "source": "https://wiki.aa-classic.com/Template:LocalTime",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Time",
+     "1",
+     "HH:MM on a 24 hour clock, for example 20:00Example20:00",
+     "String",
+     "required"
+    ],
+    [
+     "Time zone",
+     "tz",
+     "UTC (default) or an offset like UTC+1 or UTC-5Suggested valuesUTC UTC+1 UTC+2 UTC-5 UTC-8DefaultUTC",
+     "String",
+     "optional"
+    ],
+    [
+     "Weekday",
+     "day",
+     "Monday to Sunday, in English. Leave empty for every day.Suggested valuesMonday Tuesday Wednesday Thursday Friday Saturday Sunday",
+     "String",
+     "optional"
+    ],
+    [
+     "End time",
+     "to",
+     "HH:MM, to show a range",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Writes a time that changes to the reader's own time zone. Someone in New York and someone in Stockholm both see the time in their own clock. Without JavaScript, or while the page loads, the time is shown as it was typed with its time zone. Usage {{LocalTime|20:00|tz=UTC+1|day=Saturday}} {{LocalTime|20:00|to=22:00|tz=UTC+1}} {{LocalTime|18:30}} The first parameter is the time, as HH:MM on a 24 hour clock. tz (optional) is the time zone the time is given in. Use UTC (the default) or an offset like UTC+1, UTC-5 or UTC+5:30. day (optional) is a weekday in English (Monday to Sunday). The reader's local weekday is shown too, because a time can land on another day for them. to (optional) is the end time, to show a range like 21:00–23:00. Hovering the time shows how it was originally written. Needs the script Common.js (the block \"Local times\"). A time that is shown in the reader's own time zone. Template parameters Parameter Description Type Status Time 1 HH:MM on a 24 hour clock, for example 20:00 Example 20:00 String required Time zone tz UTC (default) or an offset like UTC+1 or UTC-5 Suggested values UTC UTC+1 UTC+2 UTC-5 UTC-8 Default UTC String optional Weekday day Monday to Sunday, in English. Leave empty for every day. Suggested values Monday Tuesday Wednesday Thursday Friday Saturday Sunday String optional End time to HH:MM, to show a range String optional",
+ "html": "<p>Writes a time that changes to the reader's own time zone. Someone in New York and someone in Stockholm both see the time in their own clock. Without JavaScript, or while the page loads, the time is shown as it was typed with its time zone.\n</p><p><b>Usage</b>\n</p>\n<pre>{{LocalTime|20:00|tz=UTC+1|day=Saturday}}\n{{LocalTime|20:00|to=22:00|tz=UTC+1}}\n{{LocalTime|18:30}}</pre>\n<ul><li>The first parameter is the time, as <code>HH:MM</code> on a 24 hour clock.</li>\n<li><b>tz</b> (optional) is the time zone the time is given in. Use <code>UTC</code> (the default) or an offset like <code>UTC+1</code>, <code>UTC-5</code> or <code>UTC+5:30</code>.</li>\n<li><b>day</b> (optional) is a weekday in English (Monday to Sunday). The reader's local weekday is shown too, because a time can land on another day for them.</li>\n<li><b>to</b> (optional) is the end time, to show a range like 21:00–23:00.</li>\n<li>Hovering the time shows how it was originally written.</li>\n<li>Needs the script <code>Common.js</code> (the block \"Local times\").</li></ul>\n<section><header><p>A time that is shown in the reader's own time zone.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:LocalTime\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Time</th><td><code>1</code></td><td><p>HH:MM on a 24 hour clock, for example 20:00</p><dl><dt>Example</dt><dd>20:00</dd></dl></td><td>String</td><td>required</td></tr><tr><th>Time zone</th><td><code>tz</code></td><td><p>UTC (default) or an offset like UTC+1 or UTC-5</p><dl><dt>Suggested values</dt><dd><code>UTC</code> <code>UTC+1</code> <code>UTC+2</code> <code>UTC-5</code> <code>UTC-8</code></dd><dt>Default</dt><dd>UTC</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Weekday</th><td><code>day</code></td><td><p>Monday to Sunday, in English. Leave empty for every day.</p><dl><dt>Suggested values</dt><dd><code>Monday</code> <code>Tuesday</code> <code>Wednesday</code> <code>Thursday</code> <code>Friday</code> <code>Saturday</code> <code>Sunday</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>End time</th><td><code>to</code></td><td><p>HH:MM, to show a range</p><dl></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><span class=\"aa-localtime\" data-time=\"{{{1|}}}\" data-to=\"{{{to|}}}\" data-tz=\"{{{tz|UTC}}}\" data-day=\"{{{day|}}}\" style=\"border-bottom:1px dotted currentColor; cursor:help;\" title=\"{{#if:{{{day|}}}|{{{day}}} }}{{{1|}}}{{#if:{{{to|}}}|–{{{to}}}}} {{{tz|UTC}}}\">{{#if:{{{day|}}}|{{{day}}} }}{{{1|}}}{{#if:{{{to|}}}|–{{{to}}}}} {{{tz|UTC}}}</span></includeonly><noinclude>\nWrites a time that changes to the reader's own time zone. Someone in New York and someone in Stockholm both see the time in their own clock. Without JavaScript, or while the page loads, the time is shown as it was typed with its time zone.\n\n'''Usage'''\n<pre>{{LocalTime|20:00|tz=UTC+1|day=Saturday}}\n{{LocalTime|20:00|to=22:00|tz=UTC+1}}\n{{LocalTime|18:30}}</pre>\n\n* The first parameter is the time, as <code>HH:MM</code> on a 24 hour clock.\n* '''tz''' (optional) is the time zone the time is given in. Use <code>UTC</code> (the default) or an offset like <code>UTC+1</code>, <code>UTC-5</code> or <code>UTC+5:30</code>.\n* '''day''' (optional) is a weekday in English (Monday to Sunday). The reader's local weekday is shown too, because a time can land on another day for them.\n* '''to''' (optional) is the end time, to show a range like 21:00–23:00.\n* Hovering the time shows how it was originally written.\n* Needs the script <code>Common.js</code> (the block \"Local times\").\n\n<templatedata>\n{\n\t\"description\": \"A time that is shown in the reader's own time zone.\",\n\t\"params\": {\n\t\t\"1\": { \"label\": \"Time\", \"description\": \"HH:MM on a 24 hour clock, for example 20:00\", \"type\": \"string\", \"required\": true, \"example\": \"20:00\" },\n\t\t\"tz\": { \"label\": \"Time zone\", \"description\": \"UTC (default) or an offset like UTC+1 or UTC-5\", \"type\": \"string\", \"default\": \"UTC\", \"suggestedvalues\": [\"UTC\", \"UTC+1\", \"UTC+2\", \"UTC-5\", \"UTC-8\"] },\n\t\t\"day\": { \"label\": \"Weekday\", \"description\": \"Monday to Sunday, in English. Leave empty for every day.\", \"type\": \"string\", \"suggestedvalues\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\"] },\n\t\t\"to\": { \"label\": \"End time\", \"description\": \"HH:MM, to show a range\", \"type\": \"string\" }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

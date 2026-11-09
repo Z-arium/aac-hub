@@ -1,0 +1,16 @@
+{
+ "slug": "template-loottable",
+ "title": "Template:LootTable",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61301,
+ "revid": 64387,
+ "updated": "2026-11-05T20:28:29Z",
+ "source": "https://wiki.aa-classic.com/Template:LootTable",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "A loot table made of groups. Each group is a Template:Tl filled with Template:Tl entries. Usage {{LootTable| {{LootGroup|type=sure|title=Always drops|note=100% drop chance| {{LootItem|9002382|100%}} {{LootItem|42830|100%}} }} {{LootGroup|type=pick|title=One of these|note=Chances unknown| {{LootItem|42570}} {{LootItem|42571}} }} {{LootGroup|type=craft|title=Crafting|text=Made at a workbench.| {{LootItem|9002381|Craftable}} }} }}",
+ "html": "<p>A loot table made of groups. Each group is a <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a> filled with <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a> entries.\n</p><p><b>Usage</b>\n</p>\n<pre>{{LootTable|\n{{LootGroup|type=sure|title=Always drops|note=100% drop chance|\n{{LootItem|9002382|100%}}\n{{LootItem|42830|100%}}\n}}\n{{LootGroup|type=pick|title=One of these|note=Chances unknown|\n{{LootItem|42570}}\n{{LootItem|42571}}\n}}\n{{LootGroup|type=craft|title=Crafting|text=Made at a workbench.|\n{{LootItem|9002381|Craftable}}\n}}\n}}</pre>",
+ "wikitext": "<includeonly><templatestyles src=\"LootTable/styles.css\" /><div class=\"aa-loot\">{{{1|}}}</div></includeonly><noinclude>\nA loot table made of groups. Each group is a {{tl|LootGroup}} filled with {{tl|LootItem}} entries.\n\n'''Usage'''\n<pre>{{LootTable|\n{{LootGroup|type=sure|title=Always drops|note=100% drop chance|\n{{LootItem|9002382|100%}}\n{{LootItem|42830|100%}}\n}}\n{{LootGroup|type=pick|title=One of these|note=Chances unknown|\n{{LootItem|42570}}\n{{LootItem|42571}}\n}}\n{{LootGroup|type=craft|title=Crafting|text=Made at a workbench.|\n{{LootItem|9002381|Craftable}}\n}}\n}}</pre>\n[[Category:Layout templates]]\n</noinclude>"
+}

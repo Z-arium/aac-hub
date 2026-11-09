@@ -1,0 +1,18 @@
+{
+ "slug": "template-mainpage-hero",
+ "title": "Template:MainPage/Hero",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61027,
+ "revid": 63585,
+ "updated": "2026-11-02T05:08:30Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/Hero",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Main hero.gif"
+ ],
+ "text": "ArcheAge Classic Wiki Everything about the golden age of Erenor Search for an item, skill, mount, recipe ... Start Your JourneyPopular Pages",
+ "html": "<div><span><span><img alt src=\"/wiki-files/b4/b459dec62ecd45edcc20c7fd618c964a4946e6bc.gif\" width=\"560\" height=\"201\" loading=\"lazy\"></span></span>\n<div>\n<div>ArcheAge Classic Wiki</div>\n<div>Everything about the golden age of Erenor</div>\n<div><div role=\"button\"><span>Search for an item, skill, mount, recipe ...</span></div></div>\n<div><span><a href=\"/wiki/getting-started\">Start Your Journey</a></span><a href=\"https://wiki.aa-classic.com/Special:PopularPages\" rel=\"noopener\">Popular Pages</a></div>\n</div>\n</div>",
+ "wikitext": "<div class=\"aa-mp-hero\">[[File:Main_hero.gif|link=|alt=]]\n<div class=\"aa-mp-herocopy\">\n<div class=\"aa-mp-title\">ArcheAge Classic Wiki</div>\n<div class=\"aa-mp-tag\">Everything about the golden age of Erenor</div>\n<div class=\"aa-mp-search\"><div class=\"home-header__search scw-gradient-glow citizen-search-trigger\" role=\"button\"><span class=\"home-header__searchText\">Search for an item, skill, mount, recipe ...</span></div></div>\n<div class=\"aa-mp-buttons\"><span class=\"aa-mp-main\">[[Getting Started|Start Your Journey]]</span>[[Special:PopularPages|Popular Pages]]</div>\n</div>\n</div>"
+}

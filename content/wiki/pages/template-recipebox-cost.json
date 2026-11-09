@@ -1,0 +1,16 @@
+{
+ "slug": "template-recipebox-cost",
+ "title": "Template:RecipeBox/cost",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61260,
+ "revid": 64139,
+ "updated": "2026-11-03T23:06:56Z",
+ "source": "https://wiki.aa-classic.com/Template:RecipeBox/cost",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "The live Recipe Cost (in copper) of a craft, from the sermeatball API. Used by Module:RecipeBox, not meant to be used by hand: 60770.",
+ "html": "<p>The live Recipe Cost (in copper) of a craft, from the sermeatball API. Used by <code>Module:RecipeBox</code>, not meant to be used by hand: <code>60770</code>.\n</p>",
+ "wikitext": "<includeonly>{{#clear_external_data:}}{{#get_web_data:\nurl=https://api.sermeatball.com/crafting/recipes/{{{1}}}?basis=latest&advantage=0&ah_tax=true\n|format=json with jsonpath\n|data=cost=$.material_cost_copper\n|suppress error\n}}{{#external_value:cost}}</includeonly><noinclude>\nThe live Recipe Cost (in copper) of a craft, from the sermeatball API. Used by <code>Module:RecipeBox</code>, not meant to be used by hand: <code>{{RecipeBox/cost|9001323}}</code>.\n</noinclude>"
+}

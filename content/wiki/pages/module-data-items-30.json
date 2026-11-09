@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-30",
+ "title": "Module:Data/Items/30",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61225,
+ "revid": 64485,
+ "updated": "2026-11-06T03:00:42Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/30",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [30005] = { grade = \"None\", icon = \"icon_item_1153.png\", name = \"Tales of the Twelve: The Gods and the Heroes\" }, [30012] = { grade = \"None\", icon = \"quest/icon_item_quest075.png\", name = \"Tales of the Twelve Manuscript\" }, [30274] = { grade = \"None\", icon = \"icon_item_2061.png\", name = \"Eznan Zephyr Square Foresail\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[30005] = { grade = \"None\", icon = \"icon_item_1153.png\", name = \"Tales of the Twelve: The Gods and the Heroes\" },\n\t[30012] = { grade = \"None\", icon = \"quest/icon_item_quest075.png\", name = \"Tales of the Twelve Manuscript\" },\n\t[30274] = { grade = \"None\", icon = \"icon_item_2061.png\", name = \"Eznan Zephyr Square Foresail\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[30005] = { grade = \"None\", icon = \"icon_item_1153.png\", name = \"Tales of the Twelve: The Gods and the Heroes\" },\n\t[30012] = { grade = \"None\", icon = \"quest/icon_item_quest075.png\", name = \"Tales of the Twelve Manuscript\" },\n\t[30274] = { grade = \"None\", icon = \"icon_item_2061.png\", name = \"Eznan Zephyr Square Foresail\" },\n}"
+}
