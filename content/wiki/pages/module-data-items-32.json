@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-32",
+ "title": "Module:Data/Items/32",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60981,
+ "revid": 63922,
+ "updated": "2026-11-03T16:22:06Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/32",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [32038] = { grade = \"None\", icon = \"icon_item_1781.png\", name = \"Earthmana Leaf\" }, [32103] = { grade = \"None\", icon = \"icon_item_1766.png\", name = \"Charcoal Stabilizer\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[32038] = { grade = \"None\", icon = \"icon_item_1781.png\", name = \"Earthmana Leaf\" },\n\t[32103] = { grade = \"None\", icon = \"icon_item_1766.png\", name = \"Charcoal Stabilizer\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[32038] = { grade = \"None\", icon = \"icon_item_1781.png\", name = \"Earthmana Leaf\" },\n\t[32103] = { grade = \"None\", icon = \"icon_item_1766.png\", name = \"Charcoal Stabilizer\" },\n}"
+}

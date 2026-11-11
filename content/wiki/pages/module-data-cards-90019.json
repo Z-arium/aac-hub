@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-90019",
+ "title": "Module:Data/Cards/90019",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61221,
+ "revid": 63957,
+ "updated": "2026-11-03T16:33:31Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/90019",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [9001954] = { category = \"Talisman\", crafts = { { 9001318, \"Salvation Enchantment Scroll\" } }, desc = \"A scroll imbued with the memory of Carmila. Forges the properties of the |cFFF7AE46Carmila's Memory|r onto an |cFFF7AE46Enlightened Earring|r.\\n\\n\\n\\n|nn;The grade of the Enlightened Ring is transferred onto the combination.|r\\n\\n\\n\\nRequirements:\\n\\n- |cFFFFFF99Salvation Enchantment Scroll|r\\n\\n- |cFFFFFF99Carmila's Memory|r\\n\\n- |cFFFFFF99Enlightened Earring|r\", grade = \"None\", icon = \"aac/salvation_scroll.png\", name = \"Salvation Enchantment Scroll\", use = \"Handicrafts: Spend 10 labor imbuing an Enlightened accessory.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9001954] = { category = \"Talisman\", crafts = { { 9001318, \"Salvation Enchantment Scroll\" } }, desc = \"A scroll imbued with the memory of Carmila. Forges the properties of the |cFFF7AE46Carmila's Memory|r onto an |cFFF7AE46Enlightened Earring|r.\\n\\n\\n\\n|nn;The grade of the Enlightened Ring is transferred onto the combination.|r\\n\\n\\n\\nRequirements:\\n\\n- |cFFFFFF99Salvation Enchantment Scroll|r\\n\\n- |cFFFFFF99Carmila's Memory|r\\n\\n- |cFFFFFF99Enlightened Earring|r\", grade = \"None\", icon = \"aac/salvation_scroll.png\", name = \"Salvation Enchantment Scroll\", use = \"Handicrafts: Spend 10 labor imbuing an Enlightened accessory.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[9001954] = { category = \"Talisman\", crafts = { { 9001318, \"Salvation Enchantment Scroll\" } }, desc = \"A scroll imbued with the memory of Carmila. Forges the properties of the |cFFF7AE46Carmila's Memory|r onto an |cFFF7AE46Enlightened Earring|r.\\n\\n\\n\\n|nn;The grade of the Enlightened Ring is transferred onto the combination.|r\\n\\n\\n\\nRequirements:\\n\\n- |cFFFFFF99Salvation Enchantment Scroll|r\\n\\n- |cFFFFFF99Carmila's Memory|r\\n\\n- |cFFFFFF99Enlightened Earring|r\", grade = \"None\", icon = \"aac/salvation_scroll.png\", name = \"Salvation Enchantment Scroll\", use = \"Handicrafts: Spend 10 labor imbuing an Enlightened accessory.\" },\n}"
+}

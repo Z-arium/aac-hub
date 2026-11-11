@@ -1,0 +1,267 @@
+{
+ "slug": "news-1-3-6-preview-enlightened-ayanad-armor",
+ "title": "News/1.3.6 Preview - Enlightened Ayanad Armor",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61110,
+ "revid": 63692,
+ "updated": "2026-11-02T16:30:39Z",
+ "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Enlightened_Ayanad_Armor",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Unsealing_the_Secrets_of_Ayanad",
+   "text": "Unsealing the Secrets of Ayanad"
+  },
+  {
+   "level": 2,
+   "id": "Lunasigil_Set_Effects",
+   "text": "Lunasigil Set Effects"
+  },
+  {
+   "level": 2,
+   "id": "Resealing",
+   "text": "Resealing"
+  },
+  {
+   "level": 2,
+   "id": "Media",
+   "text": "Media"
+  },
+  {
+   "level": 2,
+   "id": "Blogpost_#2",
+   "text": "Blogpost #2"
+  },
+  {
+   "level": 2,
+   "id": "Developer's_Notes",
+   "text": "Developer's Notes"
+  },
+  {
+   "level": 2,
+   "id": "The_original_suggestion_was_to_address_the_weaker_sets_without_changing_any_of_the_stronger_sets._Why_did_this_approach_change?",
+   "text": "The original suggestion was to address the weaker sets without changing any of the stronger sets. Why did this approach change?"
+  },
+  {
+   "level": 3,
+   "id": "Stats",
+   "text": "Stats"
+  },
+  {
+   "level": 3,
+   "id": "Set_effects",
+   "text": "Set effects"
+  },
+  {
+   "level": 3,
+   "id": "Existing_sets_should_not_be_touched",
+   "text": "Existing sets should not be touched"
+  },
+  {
+   "level": 2,
+   "id": "Enlightened_Ayanad_doesn't_seem_to_address_the_weaker_sets_at_all._If_anything,_players_are_less_likely_to_use_the_actual_set_itself_now_because_they_don't_need_it_for_the_set_bonus.",
+   "text": "Enlightened Ayanad doesn't seem to address the weaker sets at all. If anything, players are less likely to use the actual set itself now because they don't need it for the set bonus."
+  },
+  {
+   "level": 2,
+   "id": "Will_you_consider_further_balance_to_the_set_bonuses_that_are_listed_for_Enlightened_Ayanad?_What_about_adding_more_options?",
+   "text": "Will you consider further balance to the set bonuses that are listed for Enlightened Ayanad? What about adding more options?"
+  },
+  {
+   "level": 2,
+   "id": "Players_who_have_invested_deeply_into_Tier_7_Obsidian_are_worried_that_these_Ayanad_progression_paths_will_invalidate_their_sets_and_there_is_no_point_going_Tier_7_Obsidian.",
+   "text": "Players who have invested deeply into Tier 7 Obsidian are worried that these Ayanad progression paths will invalidate their sets and there is no point going Tier 7 Obsidian."
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Lunasigil Set Effects",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Wave Sigil",
+     "+2 Max Abyssal Charges"
+    ],
+    [
+     "Ocean Sigil",
+     "Post Mana Regen +85"
+    ],
+    [
+     "Lake Sigil",
+     "Decrease Cast Time −5.7%"
+    ],
+    [
+     "Meadow Sigil",
+     "Max Mana +2400"
+    ],
+    [
+     "Stone Sigil",
+     "Max Health +1500"
+    ],
+    [
+     "Earth Sigil",
+     "Received Healing +12.6%"
+    ],
+    [
+     "Gale Sigil",
+     "All Crit Rate +3.3%"
+    ],
+    [
+     "Flame Sigil",
+     "All Crit Damage +16.6%"
+    ],
+    [
+     "Desert Sigil",
+     "Parry Rate +5.5%"
+    ],
+    [
+     "Squall Sigil",
+     "Phys/Magic Pen +1500"
+    ],
+    [
+     "Lightning Sigil",
+     "Attack Speed +12.0%"
+    ],
+    [
+     "Typhoon Sigil",
+     "Evasion +5.5%"
+    ],
+    [
+     "Sunset Sigil",
+     "Magic Defense +2100"
+    ],
+    [
+     "Quake Sigil",
+     "Shield Block Rate +5.5%"
+    ],
+    [
+     "Life Sigil",
+     "Faelight - Healing a target below 25% health with Antithesis activates Faelight. Dispels all debuffs from the target. 30 second cooldown."
+    ],
+    [
+     "Mountain Sigil",
+     "Physical Defense +2100"
+    ],
+    [
+     "Summer Sigil",
+     "Cont. Health Regen +40"
+    ],
+    [
+     "Meteor Sigil",
+     "All Attack/Healing +4%"
+    ],
+    [
+     "Sky Sigil",
+     "−50% glider debuff duration"
+    ],
+    [
+     "Winter Sigil",
+     "Backstab Damage +12.0%"
+    ]
+   ]
+  },
+  {
+   "heading": "Lunasigil Set Effects",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Wave Sigil",
+     "Intellect +12.0%"
+    ],
+    [
+     "Ocean Sigil",
+     "Maximum Mana +21.5%"
+    ],
+    [
+     "Lake Sigil",
+     "Reduces casting interruption by 100%"
+    ],
+    [
+     "Meadow Sigil",
+     "+0.5 Abyssal Charges Per Second"
+    ],
+    [
+     "Stone Sigil",
+     "Received Damage −3.7%"
+    ],
+    [
+     "Earth Sigil",
+     "Physical Defense +16.0%"
+    ],
+    [
+     "Gale Sigil",
+     "Agility +12.0%"
+    ],
+    [
+     "Flame Sigil",
+     "Strength +15.0%"
+    ],
+    [
+     "Desert Sigil",
+     "Magic Defense +6.0%"
+    ],
+    [
+     "Squall Sigil",
+     "Shield Defense Penetration +20.0% & Shield Def Pen Rate +20.0%"
+    ],
+    [
+     "Lightning Sigil",
+     "Movement Speed +10%"
+    ],
+    [
+     "Typhoon Sigil",
+     "Second Wind - Parrying while below 25% health activates Second Wind. Heals the user for 20% of their HP and frees them from all debuffs for 5 seconds. 60 second cooldown."
+    ],
+    [
+     "Sunset Sigil",
+     "Skill Damage +5.0%"
+    ],
+    [
+     "Quake Sigil",
+     "−20% debuff duration"
+    ],
+    [
+     "Life Sigil",
+     "Spirit +15.0%"
+    ],
+    [
+     "Mountain Sigil",
+     "Immunity to Fear"
+    ],
+    [
+     "Summer Sigil",
+     "Stamina +25.0%"
+    ],
+    [
+     "Meteor Sigil",
+     "5% magic armor reduction on critical (5s)"
+    ],
+    [
+     "Sky Sigil",
+     "5% physical armor reduction on critical (5s)"
+    ],
+    [
+     "Winter Sigil",
+     "−5% attack speed on critical (5s)"
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "News api-download-img-eayanad banner.png",
+  "News api-download-img-lesser sigils.png",
+  "News api-download-img-lesser sigils2.png"
+ ],
+ "text": "Announcement2 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview | Enlightened Ayanad Armor The second series on features of Discovery (1.3.6). Today's post presents the new Enlightened Ayanad accessories. https://www.youtube.com/watch?v=gF6FJZXlsb4 In the upcoming 1.3.6 patch, the scholars of the Ayanad Library have unearthed a series of scriptures which detail extensive research into the Secrets of Ayanad. Thanks to Iseren's recent submissions related to recent comet trajectories, the scholars have discovered a potential lead which reveals how to unlock the latent power of Ayanad Armor. This method has been said to have been researched by Alexander himself as he sought to uncover the secrets of Ayanad, bringing out his vestment's true potential. Unsealing the Secrets of Ayanad Enlightened Ayanad Armor is a stat only version of Ayanad armor which does not have any set effect by default. Enlightened Ayanad Stone Shirt Cloth Armor, Gear score 372 +85 Stamina, +57 Spirit Enlightened Ayanad Flame Jerkin Leather Armor, Gear score 372 +133 Strength Its set effects are activated through the use of Lunasigils on your Costume or Underwear slots. Using a runestone, your existing Ayanad armor is transformed into its Enlightened version. This upgrade does not improve the armor itself in any way, besides enabling the use of Lunasigils to allow the player to decide the set effect that is activated. There are two types of Lunasigils: Major Lunasigil Lesser Lunasigil The Major Lunasigil applies a 7-set effect and is embedded onto your Costume slot. The Lesser Lunasigil applies a 4-set effect and is embedded onto your Underwear slot. The effects of either a Major or Lesser Lunasigil will only be activated granted that you have enough Enlightened Ayanad armor pieces equipped. To activate a Major Lunasigil, you must be equipped with at least seven (7) of any Enlightened Ayanad armor pieces. To activate a Lesser Lunasigil, you must be equipped with at least four (4) of any Enlightened Ayanad armor pieces. Lunasigils can only be activated by Enlightened Ayanad. Applying another lunasigil on an existing lunasigil effect will replace it. The total number required can be activated by any stat Enlightened Ayanad, allowing the player to equip combinations such as: Example Set 1: Flame x2, Gale x2; activates 4-set Enlightenment Example Set 2: Wave x3, Earth x3, Lake x1; activates 4-set and 7-set Enlightenment Lunasigil Set Effects Enlightened Ayanad Lesser Sigils Name Effect Wave Sigil +2 Max Abyssal Charges Ocean Sigil Post Mana Regen +85 Lake Sigil Decrease Cast Time −5.7% Meadow Sigil Max Mana +2400 Stone Sigil Max Health +1500 Earth Sigil Received Healing +12.6% Gale Sigil All Crit Rate +3.3% Flame Sigil All Crit Damage +16.6% Desert Sigil Parry Rate +5.5% Squall Sigil Phys/Magic Pen +1500 Lightning Sigil Attack Speed +12.0% Typhoon Sigil Evasion +5.5% Sunset Sigil Magic Defense +2100 Quake Sigil Shield Block Rate +5.5% Life Sigil Faelight - Healing a target below 25% health with Antithesis activates Faelight. Dispels all debuffs from the target. 30 second cooldown. Mountain Sigil Physical Defense +2100 Summer Sigil Cont. Health Regen +40 Meteor Sigil All Attack/Healing +4% Sky Sigil −50% glider debuff duration Winter Sigil Backstab Damage +12.0% Major Sigils Name Effect Wave Sigil Intellect +12.0% Ocean Sigil Maximum Mana +21.5% Lake Sigil Reduces casting interruption by 100% Meadow Sigil +0.5 Abyssal Charges Per Second Stone Sigil Received Damage −3.7% Earth Sigil Physical Defense +16.0% Gale Sigil Agility +12.0% Flame Sigil Strength +15.0% Desert Sigil Magic Defense +6.0% Squall Sigil Shield Defense Penetration +20.0% & Shield Def Pen Rate +20.0% Lightning Sigil Movement Speed +10% Typhoon Sigil Second Wind - Parrying while below 25% health activates Second Wind. Heals the user for 20% of their HP and frees them from all debuffs for 5 seconds. 60 second cooldown. Sunset Sigil Skill Damage +5.0% Quake Sigil −20% debuff duration Life Sigil Spirit +15.0% Mountain Sigil Immunity to Fear Summer Sigil Stamina +25.0% Meteor Sigil 5% magic armor reduction on critical (5s) Sky Sigil 5% physical armor reduction on critical (5s) Winter Sigil −5% attack speed on critical (5s) Resealing Much like normal Ayanad, Enlightened Ayanad can also be resealed. The cost of resealing Enlightened Ayanad armor is higher, but you will be able to pick the stat type that you want. Resealing a cloth armor piece will allow you to pick from cloth only, for example. This applies to leather and plate as well. Enlightened Ayanad armor only supports guaranteed resealing and cannot be rerolled at a lower cost with RNG. Media Blogpost #2 The next blog post will cover scythes in detail and showcase some of the items that you can expect from Primal Anthalon should you defeat him! Developer's Notes As players have brought up a multitude of questions regarding our approach on Ayanad, this section will be dedicated to sharing our thoughts and how Enlightened came to be. The original suggestion was to address the weaker sets without changing any of the stronger sets. Why did this approach change? The weaker set changes was part of the first iteration of Ayanad changes. The players brought up three concerns with these sets: Stats Some of the stat allocations were not as popular anymore. XLGames changed how stats worked throughout the course of the game's lifetime but never addressed Ayanad keeping the same stat allocation mix, so some of the Ayanad armors sets were made for an older vision of the game. Set effects Some of the Ayanad set bonuses for 4 and 7 set bonuses were not as popular or impactful for certain set types. This contributed to some sets being less popular than others. Existing sets should not be touched We value a player's time and effort and gear balancing and changes comes with great risk. Our approach needed to consider this first and foremost so that players with existing investments can see this as an upgrade path and it does not invalidate their efforts. We iterated while keeping these concerns in mind, and we faced several challenges. The first challenge that we faced when we began reviewing Ayanad with these concerns in mind is that attempting to give favorable stats to the weaker sets simply made them similar to another set that already exists. The second challenge was that attempting to buff or address the set bonuses on certain sets caused the set to be similar to existing sets, and the bonuses had to be strictly related to the stat allocations that these armors offered. The third challenge is that in order not to affect existing players, we would need to make our approach an upgrade path from existing Ayanad rather than change existing sets. Rebalancing existing sets would risk invalidating certain armors when players had already invested into them. The result of this led us to consider a more flexible path that had been suggested previously. Stat allocations are not bound to set bonuses, which allows more freedom to decide exactly which stats that they want to have. Set bonuses are not bound to specific armor types, allowing the player to decide exactly what set bonus they want to use. A new armor set that upgrades from Ayanad and offers an advantage over existing Ayanad, giving players a new chase to look forward to. By separating the set bonuses from the stats, the decision to use a certain armor type will now be determined by the stats the player would like to see in their build, instead of whether or not the set bonus of that armor type is strong enough to use. The set bonus seperation also allows us to rebalance existing set bonuses and even add new ones without needing to carefully consider the implications of them against certain armor types. Enlightened Ayanad doesn't seem to address the weaker sets at all. If anything, players are less likely to use the actual set itself now because they don't need it for the set bonus. Enlightened Ayanad allows you to use any armor piece with each other, regardless of stat allocation. If you have 4 or 7 pieces of Enlightened Ayanad, then the set bonus effect will activate for its respective Lunasigil, giving the player finer control of what stats they want and what set bonus they want. While we agree that this doesn't necessarily make a player want to use Meadow, Ocean, or Typhoon more, it opens the options for players considerably for both the set bonuses and the stat allocations that Ayanad would otherwise restrict you into. The result of this is more set bonuses to pick from, more options to pick to build stats, and more potential options that we can offer players to explore. We also have more ideas that we wish to explore with Enlightened Ayanad, such as boss lunasigils with specific effects. Will you consider further balance to the set bonuses that are listed for Enlightened Ayanad? What about adding more options? Following the 1.3.6 patch, we will observe the balance of these options and provide changes if any of the set bonuses are too strong or too weak. Initially, we intended to provide more options for players but we decided to limit our scope and revisit more options later. The following set bonus types did not make it into Discovery: Cloud Mist Tidal Volcano With the Ayanad naming scheme and set bonus decouple, we are excited to explore ideas in the future to give Enlightened Ayanad more interesting set bonuses that players can express themselves through their 4-set and 7-set combinations. Players who have invested deeply into Tier 7 Obsidian are worried that these Ayanad progression paths will invalidate their sets and there is no point going Tier 7 Obsidian. Enlightened Ayanad remains the same item level as regular Ayanad and does not offer any advantage over Obsidian besides being able to select one 4-set and one 7-set. The difference between Ayanad and Enlightened Ayanad is a mix of quality of life and allowing the player to express their set investment by giving better options for their 4-set and 7-set. Tier 7 Obsidian will still offer higher item level and provide a better mix of stats per piece compared to Enlightened Ayanad, and therefore still remain the best in slot gear choice.",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/8d/8d17951515d60fc20199a71182902d5f3dfdacf7.png\" width=\"1200\" height=\"400\" loading=\"lazy\"></span></span></div><div><div><span>Announcement</span><span>2 August 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/136-preview-enlightened-ayanad\">Original post on aa-classic.com</a></div><div>1.3.6 Preview | Enlightened Ayanad Armor</div><div>The second series on features of Discovery (1.3.6). Today's post presents the new Enlightened Ayanad accessories.</div></div></div>\n<p><a rel=\"noopener\" href=\"https://www.youtube.com/watch?v=gF6FJZXlsb4\">https://www.youtube.com/watch?v=gF6FJZXlsb4</a>\n</p><p>In the upcoming 1.3.6 patch, the scholars of the Ayanad Library have unearthed a series of scriptures which detail extensive research into the Secrets of Ayanad.\n</p><p>Thanks to Iseren's recent submissions related to recent comet trajectories, the scholars have discovered a potential lead which reveals how to unlock the latent power of Ayanad Armor.\n</p><p>This method has been said to have been researched by Alexander himself as he sought to uncover the secrets of Ayanad, bringing out his vestment's true potential.\n</p>\n\n<h2 id=\"Unsealing_the_Secrets_of_Ayanad\">Unsealing the Secrets of Ayanad</h2>\n<p><span><b>Enlightened Ayanad Armor</b></span> is a stat only version of Ayanad armor which does not have any set effect by default.<br>\n</p>\n<div><b>Enlightened Ayanad Stone Shirt</b><br>Cloth Armor, Gear score 372<br>+85 Stamina, +57 Spirit</div>\n<div><b>Enlightened Ayanad Flame Jerkin</b><br>Leather Armor, Gear score 372<br>+133 Strength</div>\n<p>Its set effects are activated through the use of Lunasigils on your Costume or Underwear slots.<br>\n</p><p>Using a runestone, your existing Ayanad armor is transformed into its Enlightened version.\n</p>\n<blockquote>\n<p>This upgrade does not improve the armor itself in any way, besides enabling the use of Lunasigils to allow the player to decide the set effect that is activated.\n</p>\n</blockquote>\n<p>There are two types of Lunasigils:\n</p>\n<ul><li>Major Lunasigil</li>\n<li>Lesser Lunasigil</li></ul>\n<p>The <u>Major Lunasigil</u> applies a 7-set effect and is embedded onto your Costume slot.<br>\nThe <u>Lesser Lunasigil</u> applies a 4-set effect and is embedded onto your Underwear slot.\n</p><p>The effects of either a Major or Lesser Lunasigil will only be activated granted that you have enough Enlightened Ayanad armor pieces equipped.\n</p>\n<ul><li>To activate a Major Lunasigil, you must be equipped with at least seven (7) of any Enlightened Ayanad armor pieces.<br></li>\n<li>To activate a Lesser Lunasigil, you must be equipped with at least four (4) of any Enlightened Ayanad armor pieces.</li></ul>\n<p>Lunasigils can only be activated by Enlightened Ayanad. Applying another lunasigil on an existing lunasigil effect will replace it.\n</p>\n<blockquote>\n<p>The total number required can be activated by any stat Enlightened Ayanad, allowing the player to equip combinations such as:<br>\n</p>\n</blockquote>\n<p>Example Set 1: Flame x2, Gale x2; activates 4-set Enlightenment<br>\nExample Set 2: Wave x3, Earth x3, Lake x1; activates 4-set and 7-set Enlightenment\n</p>\n<h2 id=\"Lunasigil_Set_Effects\">Lunasigil Set Effects</h2>\n<p><b>Enlightened Ayanad</b>\n<i>Lesser Sigils</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Wave Sigil</td>\n<td>+2 Max Abyssal Charges\n</td></tr>\n<tr>\n<td>Ocean Sigil</td>\n<td>Post Mana Regen +85\n</td></tr>\n<tr>\n<td>Lake Sigil</td>\n<td>Decrease Cast Time −5.7%\n</td></tr>\n<tr>\n<td>Meadow Sigil</td>\n<td>Max Mana +2400\n</td></tr>\n<tr>\n<td>Stone Sigil</td>\n<td>Max Health +1500\n</td></tr>\n<tr>\n<td>Earth Sigil</td>\n<td>Received Healing +12.6%\n</td></tr>\n<tr>\n<td>Gale Sigil</td>\n<td>All Crit Rate +3.3%\n</td></tr>\n<tr>\n<td>Flame Sigil</td>\n<td>All Crit Damage +16.6%\n</td></tr>\n<tr>\n<td>Desert Sigil</td>\n<td>Parry Rate +5.5%\n</td></tr>\n<tr>\n<td>Squall Sigil</td>\n<td>Phys/Magic Pen +1500\n</td></tr>\n<tr>\n<td>Lightning Sigil</td>\n<td>Attack Speed +12.0%\n</td></tr>\n<tr>\n<td>Typhoon Sigil</td>\n<td>Evasion +5.5%\n</td></tr>\n<tr>\n<td>Sunset Sigil</td>\n<td>Magic Defense +2100\n</td></tr>\n<tr>\n<td>Quake Sigil</td>\n<td>Shield Block Rate +5.5%\n</td></tr>\n<tr>\n<td>Life Sigil</td>\n<td>Faelight - Healing a target below 25% health with Antithesis activates Faelight.<br> Dispels all debuffs from the target.<br>30 second cooldown.\n</td></tr>\n<tr>\n<td>Mountain Sigil</td>\n<td>Physical Defense +2100\n</td></tr>\n<tr>\n<td>Summer Sigil</td>\n<td>Cont. Health Regen +40\n</td></tr>\n<tr>\n<td>Meteor Sigil</td>\n<td>All Attack/Healing +4%\n</td></tr>\n<tr>\n<td>Sky Sigil</td>\n<td>−50% glider debuff duration\n</td></tr>\n<tr>\n<td>Winter Sigil</td>\n<td>Backstab Damage +12.0%\n</td></tr></tbody></table>\n<p><i>Major Sigils</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Wave Sigil</td>\n<td>Intellect +12.0%\n</td></tr>\n<tr>\n<td>Ocean Sigil</td>\n<td>Maximum Mana +21.5%\n</td></tr>\n<tr>\n<td>Lake Sigil</td>\n<td>Reduces casting interruption by 100%\n</td></tr>\n<tr>\n<td>Meadow Sigil</td>\n<td>+0.5 Abyssal Charges Per Second\n</td></tr>\n<tr>\n<td>Stone Sigil</td>\n<td>Received Damage −3.7%\n</td></tr>\n<tr>\n<td>Earth Sigil</td>\n<td>Physical Defense +16.0%\n</td></tr>\n<tr>\n<td>Gale Sigil</td>\n<td>Agility +12.0%\n</td></tr>\n<tr>\n<td>Flame Sigil</td>\n<td>Strength +15.0%\n</td></tr>\n<tr>\n<td>Desert Sigil</td>\n<td>Magic Defense +6.0%\n</td></tr>\n<tr>\n<td>Squall Sigil</td>\n<td>Shield Defense Penetration +20.0% &amp; Shield Def Pen Rate +20.0%\n</td></tr>\n<tr>\n<td>Lightning Sigil</td>\n<td>Movement Speed +10%\n</td></tr>\n<tr>\n<td>Typhoon Sigil</td>\n<td>Second Wind - Parrying while below 25% health activates Second Wind.<br>Heals the user for 20% of their HP and frees them from all debuffs for 5 seconds.<br>60 second cooldown.\n</td></tr>\n<tr>\n<td>Sunset Sigil</td>\n<td>Skill Damage +5.0%\n</td></tr>\n<tr>\n<td>Quake Sigil</td>\n<td>−20% debuff duration\n</td></tr>\n<tr>\n<td>Life Sigil</td>\n<td>Spirit +15.0%\n</td></tr>\n<tr>\n<td>Mountain Sigil</td>\n<td>Immunity to Fear\n</td></tr>\n<tr>\n<td>Summer Sigil</td>\n<td>Stamina +25.0%\n</td></tr>\n<tr>\n<td>Meteor Sigil</td>\n<td>5% magic armor reduction on critical (5s)\n</td></tr>\n<tr>\n<td>Sky Sigil</td>\n<td>5% physical armor reduction on critical (5s)\n</td></tr>\n<tr>\n<td>Winter Sigil</td>\n<td>−5% attack speed on critical (5s)\n</td></tr></tbody></table>\n<h2 id=\"Resealing\">Resealing</h2>\n<p>Much like normal Ayanad, Enlightened Ayanad can also be resealed.\n</p><p>The cost of resealing Enlightened Ayanad armor is higher, but you will be able to pick the stat type that you want.\n</p>\n<blockquote>\n<p>Resealing a cloth armor piece will allow you to pick from cloth only, for example. This applies to leather and plate as well.\n</p>\n</blockquote>\n<blockquote>\n<p>Enlightened Ayanad armor only supports guaranteed resealing and cannot be rerolled at a lower cost with RNG.\n</p>\n</blockquote>\n<h2 id=\"Media\">Media</h2>\n<figure><img alt=\"Lunasigils 1\" src=\"/wiki-files/53/53bf26d85bc5de0f5dce79d86cc5740fed649c15.png\" width=\"700\" height=\"394\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img alt=\"Lunasigils 2\" src=\"/wiki-files/49/496ce9dc7e70d04c2ad8d937480cae3cc66bb028.png\" width=\"700\" height=\"394\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2 id=\"Blogpost_#2\"><span></span>Blogpost #2</h2>\n<p>The next blog post will cover scythes in detail and showcase some of the items that you can expect from Primal Anthalon should you defeat him!\n</p>\n<h2 id=\"Developer's_Notes\"><span></span>Developer's Notes</h2>\n<p>As players have brought up a multitude of questions regarding our approach on Ayanad, this section will be dedicated to sharing our thoughts and how Enlightened came to be.\n</p>\n<h2 id=\"The_original_suggestion_was_to_address_the_weaker_sets_without_changing_any_of_the_stronger_sets._Why_did_this_approach_change?\"><span></span>The original suggestion was to address the weaker sets without changing any of the stronger sets. Why did this approach change?</h2>\n<p>The weaker set changes was part of the first iteration of Ayanad changes. The players brought up three concerns with these sets:\n</p>\n<h3 id=\"Stats\">Stats</h3>\n<blockquote>\n<p>Some of the stat allocations were not as popular anymore. XLGames changed how stats worked throughout the course of the game's lifetime but never addressed Ayanad keeping the same stat allocation mix, so some of the Ayanad armors sets were made for an older vision of the game.\n</p>\n</blockquote>\n<h3 id=\"Set_effects\">Set effects</h3>\n<blockquote>\n<p>Some of the Ayanad set bonuses for 4 and 7 set bonuses were not as popular or impactful for certain set types. This contributed to some sets being less popular than others.\n</p>\n</blockquote>\n<h3 id=\"Existing_sets_should_not_be_touched\">Existing sets should not be touched</h3>\n<blockquote>\n<p>We value a player's time and effort and gear balancing and changes comes with great risk. Our approach needed to consider this first and foremost so that players with existing investments can see this as an upgrade path and it does not invalidate their efforts.\n</p>\n</blockquote>\n<p>We iterated while keeping these concerns in mind, and we faced several challenges.\n</p><p><span>The first challenge</span> that we faced when we began reviewing Ayanad with these concerns in mind is that attempting to give favorable stats to the weaker sets simply made them similar to another set that already exists.\n</p><p><span>The second challenge</span> was that attempting to buff or address the set bonuses on certain sets caused the set to be similar to existing sets, and the bonuses had to be strictly related to the stat allocations that these armors offered.\n</p><p><span>The third challenge</span> is that in order not to affect existing players, we would need to make our approach an upgrade path from existing Ayanad rather than change existing sets. Rebalancing existing sets would risk invalidating certain armors when players had already invested into them.\n</p><p>The result of this led us to consider a more flexible path that had been suggested previously.\n</p>\n<ul><li>Stat allocations are not bound to set bonuses, which allows more freedom to decide exactly which stats that they want to have.</li>\n<li>Set bonuses are not bound to specific armor types, allowing the player to decide exactly what set bonus they want to use.</li>\n<li>A new armor set that upgrades from Ayanad and offers an advantage over existing Ayanad, giving players a new chase to look forward to.</li></ul>\n<p>By separating the set bonuses from the stats, the decision to use a certain armor type will now be determined by the stats the player would like to see in their build, instead of whether or not the set bonus of that armor type is strong enough to use.\n</p><p>The set bonus seperation also allows us to rebalance existing set bonuses and even add new ones without needing to carefully consider the implications of them against certain armor types.\n</p>\n<h2 id=\"Enlightened_Ayanad_doesn't_seem_to_address_the_weaker_sets_at_all._If_anything,_players_are_less_likely_to_use_the_actual_set_itself_now_because_they_don't_need_it_for_the_set_bonus.\"><span></span>Enlightened Ayanad doesn't seem to address the weaker sets at all. If anything, players are less likely to use the actual set itself now because they don't need it for the set bonus.</h2>\n<p>Enlightened Ayanad allows you to use any armor piece with each other, regardless of stat allocation. If you have 4 or 7 pieces of Enlightened Ayanad, then the set bonus effect will activate for its respective Lunasigil, giving the player finer control of what stats they want and what set bonus they want.\n</p><p>While we agree that this doesn't necessarily make a player want to use Meadow, Ocean, or Typhoon more, it opens the options for players considerably for both the set bonuses and the stat allocations that Ayanad would otherwise restrict you into.\n</p><p>The result of this is more set bonuses to pick from, more options to pick to build stats, and more potential options that we can offer players to explore.\n</p><p>We also have more ideas that we wish to explore with Enlightened Ayanad, such as boss lunasigils with specific effects.\n</p>\n<h2 id=\"Will_you_consider_further_balance_to_the_set_bonuses_that_are_listed_for_Enlightened_Ayanad?_What_about_adding_more_options?\"><span></span>Will you consider further balance to the set bonuses that are listed for Enlightened Ayanad? What about adding more options?</h2>\n<p>Following the 1.3.6 patch, we will observe the balance of these options and provide changes if any of the set bonuses are too strong or too weak.\n</p><p>Initially, we intended to provide more options for players but we decided to limit our scope and revisit more options later.\n</p><p>The following set bonus types did not make it into Discovery:\n</p>\n<ol><li>Cloud</li>\n<li>Mist</li>\n<li>Tidal</li>\n<li>Volcano</li></ol>\n<p>With the Ayanad naming scheme and set bonus decouple, we are excited to explore ideas in the future to give Enlightened Ayanad more interesting set bonuses that players can express themselves through their 4-set and 7-set combinations.\n</p>\n<h2 id=\"Players_who_have_invested_deeply_into_Tier_7_Obsidian_are_worried_that_these_Ayanad_progression_paths_will_invalidate_their_sets_and_there_is_no_point_going_Tier_7_Obsidian.\">Players who have invested deeply into Tier 7 Obsidian are worried that these Ayanad progression paths will invalidate their sets and there is no point going Tier 7 Obsidian.</h2>\n<p>Enlightened Ayanad remains the same item level as regular Ayanad and does not offer any advantage over Obsidian besides being able to select one 4-set and one 7-set.\n</p><p>The difference between Ayanad and Enlightened Ayanad is a mix of quality of life and allowing the player to express their set investment by giving better options for their 4-set and 7-set.\n</p><p>Tier 7 Obsidian will still offer higher item level and provide a better mix of stats per piece compared to Enlightened Ayanad, and therefore still remain the best in slot gear choice.\n</p>",
+ "wikitext": "{{NewsArticle\n|title=1.3.6 Preview {{!}} Enlightened Ayanad Armor\n|slug=136-preview-enlightened-ayanad\n|date=2026-08-02 14:00\n|category=Announcement\n|image=News api-download-img-eayanad banner.png\n|summary=The second series on features of Discovery (1.3.6). Today's post presents the new Enlightened Ayanad accessories.\n|source=https://aa-classic.com/news/136-preview-enlightened-ayanad\n}}\n\nhttps://www.youtube.com/watch?v=gF6FJZXlsb4\n\nIn the upcoming 1.3.6 patch, the scholars of the Ayanad Library have unearthed a series of scriptures which detail extensive research into the Secrets of Ayanad.\n\nThanks to Iseren's recent submissions related to recent comet trajectories, the scholars have discovered a potential lead which reveals how to unlock the latent power of Ayanad Armor.\n\nThis method has been said to have been researched by Alexander himself as he sought to uncover the secrets of Ayanad, bringing out his vestment's true potential.\n\n== Unsealing the Secrets of Ayanad ==\n<span style=\"font-size: 1.2em;\">'''Enlightened Ayanad Armor'''</span> is a stat only version of Ayanad armor which does not have any set effect by default.<br>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Stone Shirt'''<br>Cloth Armor, Gear score 372<br>+85 Stamina, +57 Spirit</div>\n\n<div style=\"border:1px solid #8886;border-radius:6px;padding:6px 12px;margin:8px 0;display:inline-block\">'''Enlightened Ayanad Flame Jerkin'''<br>Leather Armor, Gear score 372<br>+133 Strength</div>\n\nIts set effects are activated through the use of Lunasigils on your Costume or Underwear slots.<br>\n\nUsing a runestone, your existing Ayanad armor is transformed into its Enlightened version.\n<blockquote>\nThis upgrade does not improve the armor itself in any way, besides enabling the use of Lunasigils to allow the player to decide the set effect that is activated.\n</blockquote>\n\nThere are two types of Lunasigils:\n* Major Lunasigil\n* Lesser Lunasigil\n\nThe <u>Major Lunasigil</u> applies a 7-set effect and is embedded onto your Costume slot.<br>\nThe <u>Lesser Lunasigil</u> applies a 4-set effect and is embedded onto your Underwear slot.\n\nThe effects of either a Major or Lesser Lunasigil will only be activated granted that you have enough Enlightened Ayanad armor pieces equipped.\n\n* To activate a Major Lunasigil, you must be equipped with at least seven (7) of any Enlightened Ayanad armor pieces.<br>\n* To activate a Lesser Lunasigil, you must be equipped with at least four (4) of any Enlightened Ayanad armor pieces.\n\nLunasigils can only be activated by Enlightened Ayanad. Applying another lunasigil on an existing lunasigil effect will replace it.\n\n<blockquote>\nThe total number required can be activated by any stat Enlightened Ayanad, allowing the player to equip combinations such as:<br>\n</blockquote>\nExample Set 1: Flame x2, Gale x2; activates 4-set Enlightenment<br>\nExample Set 2: Wave x3, Earth x3, Lake x1; activates 4-set and 7-set Enlightenment\n\n== Lunasigil Set Effects ==\n\n'''Enlightened Ayanad'''\n''Lesser Sigils''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Wave Sigil || +2 Max Abyssal Charges\n|-\n| Ocean Sigil || Post Mana Regen +85\n|-\n| Lake Sigil || Decrease Cast Time −5.7%\n|-\n| Meadow Sigil || Max Mana +2400\n|-\n| Stone Sigil || Max Health +1500\n|-\n| Earth Sigil || Received Healing +12.6%\n|-\n| Gale Sigil || All Crit Rate +3.3%\n|-\n| Flame Sigil || All Crit Damage +16.6%\n|-\n| Desert Sigil || Parry Rate +5.5%\n|-\n| Squall Sigil || Phys/Magic Pen +1500\n|-\n| Lightning Sigil || Attack Speed +12.0%\n|-\n| Typhoon Sigil || Evasion +5.5%\n|-\n| Sunset Sigil || Magic Defense +2100\n|-\n| Quake Sigil || Shield Block Rate +5.5%\n|-\n| Life Sigil || Faelight - Healing a target below 25% health with Antithesis activates Faelight.<br> Dispels all debuffs from the target.<br>30 second cooldown.\n|-\n| Mountain Sigil || Physical Defense +2100\n|-\n| Summer Sigil || Cont. Health Regen +40\n|-\n| Meteor Sigil || All Attack/Healing +4%\n|-\n| Sky Sigil || −50% glider debuff duration\n|-\n| Winter Sigil || Backstab Damage +12.0%\n|}\n''Major Sigils''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Wave Sigil || Intellect +12.0%\n|-\n| Ocean Sigil || Maximum Mana +21.5%\n|-\n| Lake Sigil || Reduces casting interruption by 100%\n|-\n| Meadow Sigil || +0.5 Abyssal Charges Per Second\n|-\n| Stone Sigil || Received Damage −3.7%\n|-\n| Earth Sigil || Physical Defense +16.0%\n|-\n| Gale Sigil || Agility +12.0%\n|-\n| Flame Sigil || Strength +15.0%\n|-\n| Desert Sigil || Magic Defense +6.0%\n|-\n| Squall Sigil || Shield Defense Penetration +20.0% & Shield Def Pen Rate +20.0%\n|-\n| Lightning Sigil || Movement Speed +10%\n|-\n| Typhoon Sigil || Second Wind - Parrying while below 25% health activates Second Wind.<br>Heals the user for 20% of their HP and frees them from all debuffs for 5 seconds.<br>60 second cooldown.\n|-\n| Sunset Sigil || Skill Damage +5.0%\n|-\n| Quake Sigil || −20% debuff duration\n|-\n| Life Sigil || Spirit +15.0%\n|-\n| Mountain Sigil || Immunity to Fear\n|-\n| Summer Sigil || Stamina +25.0%\n|-\n| Meteor Sigil || 5% magic armor reduction on critical (5s)\n|-\n| Sky Sigil || 5% physical armor reduction on critical (5s)\n|-\n| Winter Sigil || −5% attack speed on critical (5s)\n|}\n\n== Resealing ==\n\nMuch like normal Ayanad, Enlightened Ayanad can also be resealed.\n\nThe cost of resealing Enlightened Ayanad armor is higher, but you will be able to pick the stat type that you want.\n\n<blockquote>\nResealing a cloth armor piece will allow you to pick from cloth only, for example. This applies to leather and plate as well.\n</blockquote>\n\n<blockquote>\nEnlightened Ayanad armor only supports guaranteed resealing and cannot be rerolled at a lower cost with RNG.\n</blockquote>\n\n== Media ==\n\n[[File:News api-download-img-lesser sigils.png|center|700px|alt=Lunasigils 1]]\n[[File:News api-download-img-lesser sigils2.png|center|700px|alt=Lunasigils 2]]\n\n== Blogpost #2 ==\n\nThe next blog post will cover scythes in detail and showcase some of the items that you can expect from Primal Anthalon should you defeat him!\n\n== Developer's Notes ==\n\nAs players have brought up a multitude of questions regarding our approach on Ayanad, this section will be dedicated to sharing our thoughts and how Enlightened came to be.\n\n== The original suggestion was to address the weaker sets without changing any of the stronger sets. Why did this approach change? ==\n\nThe weaker set changes was part of the first iteration of Ayanad changes. The players brought up three concerns with these sets:\n\n=== Stats ===\n\n<blockquote>\nSome of the stat allocations were not as popular anymore. XLGames changed how stats worked throughout the course of the game's lifetime but never addressed Ayanad keeping the same stat allocation mix, so some of the Ayanad armors sets were made for an older vision of the game.\n</blockquote>\n\n=== Set effects ===\n\n<blockquote>\nSome of the Ayanad set bonuses for 4 and 7 set bonuses were not as popular or impactful for certain set types. This contributed to some sets being less popular than others.\n</blockquote>\n\n=== Existing sets should not be touched ===\n\n<blockquote>\nWe value a player's time and effort and gear balancing and changes comes with great risk. Our approach needed to consider this first and foremost so that players with existing investments can see this as an upgrade path and it does not invalidate their efforts.\n</blockquote>\n\nWe iterated while keeping these concerns in mind, and we faced several challenges.\n\n<span style=\"font-size: 1.1em;\">The first challenge</span> that we faced when we began reviewing Ayanad with these concerns in mind is that attempting to give favorable stats to the weaker sets simply made them similar to another set that already exists.\n\n<span style=\"font-size: 1.1em;\">The second challenge</span> was that attempting to buff or address the set bonuses on certain sets caused the set to be similar to existing sets, and the bonuses had to be strictly related to the stat allocations that these armors offered.\n\n<span style=\"font-size: 1.1em;\">The third challenge</span> is that in order not to affect existing players, we would need to make our approach an upgrade path from existing Ayanad rather than change existing sets. Rebalancing existing sets would risk invalidating certain armors when players had already invested into them.\n\nThe result of this led us to consider a more flexible path that had been suggested previously.\n\n* Stat allocations are not bound to set bonuses, which allows more freedom to decide exactly which stats that they want to have.\n* Set bonuses are not bound to specific armor types, allowing the player to decide exactly what set bonus they want to use.\n* A new armor set that upgrades from Ayanad and offers an advantage over existing Ayanad, giving players a new chase to look forward to.\n\nBy separating the set bonuses from the stats, the decision to use a certain armor type will now be determined by the stats the player would like to see in their build, instead of whether or not the set bonus of that armor type is strong enough to use.\n\nThe set bonus seperation also allows us to rebalance existing set bonuses and even add new ones without needing to carefully consider the implications of them against certain armor types.\n\n== Enlightened Ayanad doesn't seem to address the weaker sets at all. If anything, players are less likely to use the actual set itself now because they don't need it for the set bonus. ==\n\nEnlightened Ayanad allows you to use any armor piece with each other, regardless of stat allocation. If you have 4 or 7 pieces of Enlightened Ayanad, then the set bonus effect will activate for its respective Lunasigil, giving the player finer control of what stats they want and what set bonus they want.\n\nWhile we agree that this doesn't necessarily make a player want to use Meadow, Ocean, or Typhoon more, it opens the options for players considerably for both the set bonuses and the stat allocations that Ayanad would otherwise restrict you into.\n\nThe result of this is more set bonuses to pick from, more options to pick to build stats, and more potential options that we can offer players to explore.\n\nWe also have more ideas that we wish to explore with Enlightened Ayanad, such as boss lunasigils with specific effects.\n\n== Will you consider further balance to the set bonuses that are listed for Enlightened Ayanad? What about adding more options? ==\n\nFollowing the 1.3.6 patch, we will observe the balance of these options and provide changes if any of the set bonuses are too strong or too weak.\n\nInitially, we intended to provide more options for players but we decided to limit our scope and revisit more options later.\n\nThe following set bonus types did not make it into Discovery:\n\n# Cloud\n# Mist\n# Tidal\n# Volcano\n\nWith the Ayanad naming scheme and set bonus decouple, we are excited to explore ideas in the future to give Enlightened Ayanad more interesting set bonuses that players can express themselves through their 4-set and 7-set combinations.\n\n== Players who have invested deeply into Tier 7 Obsidian are worried that these Ayanad progression paths will invalidate their sets and there is no point going Tier 7 Obsidian. ==\n\nEnlightened Ayanad remains the same item level as regular Ayanad and does not offer any advantage over Obsidian besides being able to select one 4-set and one 7-set.\n\nThe difference between Ayanad and Enlightened Ayanad is a mix of quality of life and allowing the player to express their set investment by giving better options for their 4-set and 7-set.\n\nTier 7 Obsidian will still offer higher item level and provide a better mix of stats per piece compared to Enlightened Ayanad, and therefore still remain the best in slot gear choice."
+}

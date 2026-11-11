@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skillcards-100",
+ "title": "Module:Data/SkillCards/100",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61262,
+ "revid": 64143,
+ "updated": "2026-11-03T23:32:55Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/100",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [10082] = { buffs = { { desc = \"Stealth decreases Move Speed -5%.\", dur = 45000, icon = \"icon_skill_buff69.png\", name = \"Stealth (Rank 4)\", rk = 4 } }, cd = 45000, desc = \"Prevents enemies from seeing you. Any actions other than moving will cause stealth to end.\\n#{buff_tooltip}\", icon = \"icon_skill_vocation05.png\", line = \"Shadowplay\", name = \"Stealth\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[10082] = { buffs = { { desc = \"Stealth decreases Move Speed -5%.\", dur = 45000, icon = \"icon_skill_buff69.png\", name = \"Stealth (Rank 4)\", rk = 4 } }, cd = 45000, desc = \"Prevents enemies from seeing you. Any actions other than moving will cause stealth to end.\\n#{buff_tooltip}\", icon = \"icon_skill_vocation05.png\", line = \"Shadowplay\", name = \"Stealth\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[10082] = { buffs = { { desc = \"Stealth decreases Move Speed -5%.\", dur = 45000, icon = \"icon_skill_buff69.png\", name = \"Stealth (Rank 4)\", rk = 4 } }, cd = 45000, desc = \"Prevents enemies from seeing you. Any actions other than moving will cause stealth to end.\\n#{buff_tooltip}\", icon = \"icon_skill_vocation05.png\", line = \"Shadowplay\", name = \"Stealth\" },\n}"
+}

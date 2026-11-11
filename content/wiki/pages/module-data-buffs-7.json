@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-buffs-7",
+ "title": "Module:Data/Buffs/7",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61280,
+ "revid": 64306,
+ "updated": "2026-11-04T20:42:30Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Buffs/7",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs. return { [771] = { desc = \"This target is more susceptible to Songcraft skill effects.\", dur = 28000, icon = \"icon_skill_buff75.png\", kind = \"debuff\", name = \"Charmed\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[771] = { desc = \"This target is more susceptible to Songcraft skill effects.\", dur = 28000, icon = \"icon_skill_buff75.png\", kind = \"debuff\", name = \"Charmed\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[771] = { desc = \"This target is more susceptible to Songcraft skill effects.\", dur = 28000, icon = \"icon_skill_buff75.png\", kind = \"debuff\", name = \"Charmed\" },\n}"
+}

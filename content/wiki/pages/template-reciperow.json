@@ -1,0 +1,64 @@
+{
+ "slug": "template-reciperow",
+ "title": "Template:RecipeRow",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61261,
+ "revid": 64140,
+ "updated": "2026-11-03T23:07:08Z",
+ "source": "https://wiki.aa-classic.com/Template:RecipeRow",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Craft ID 1",
+     "1",
+     "Craft ID of the first box",
+     "Number",
+     "optional"
+    ],
+    [
+     "Craft ID 2",
+     "2",
+     "no description",
+     "Number",
+     "optional"
+    ],
+    [
+     "Craft ID 3",
+     "3",
+     "no description",
+     "Number",
+     "optional"
+    ],
+    [
+     "Craft ID 4",
+     "4",
+     "Keep adding 5, 6, 7 ... as needed",
+     "Number",
+     "optional"
+    ],
+    [
+     "Gap",
+     "em",
+     "The space between the boxes, in em. Default 0.5Default0.5",
+     "Number",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Shows several recipe boxes next to each other in a row. When there is no more room the boxes continue on the next row. Use it instead of {{Div|{{RecipeBox|...}}|...}}: all the boxes are made in one step, so the page uses far less of its size limit (boxes inside Div were counted several times, and a page with many of them stopped showing the last ones). Usage {{RecipeRow|9000309|9000263|9000277}} Every unnamed parameter is the craft ID of one box, in the order you write them. Any number works. em (optional): the space between the boxes, in em. The default is 0.5. Empty parameters are skipped. Needs Module:RecipeBox. No description. Template parameters Parameter Description Type Status Craft ID 1 1 Craft ID of the first box Number optional Craft ID 2 2 no description Number optional Craft ID 3 3 no description Number optional Craft ID 4 4 Keep adding 5, 6, 7 ... as needed Number optional Gap em The space between the boxes, in em. Default 0.5 Default 0.5 Number optional",
+ "html": "<p>Shows several recipe boxes next to each other in a row. When there is no more room the boxes continue on the next row. Use it instead of <code>&#123;&#123;Div|&#123;&#123;RecipeBox|...&#125;&#125;|...&#125;&#125;</code>: all the boxes are made in one step, so the page uses far less of its size limit (boxes inside <code>Div</code> were counted several times, and a page with many of them stopped showing the last ones).\n</p><p><b>Usage</b>\n</p>\n<pre>{{RecipeRow|9000309|9000263|9000277}}</pre>\n<ul><li>Every unnamed parameter is the craft ID of one box, in the order you write them. Any number works.</li>\n<li>em (optional): the space between the boxes, in em. The default is 0.5.</li>\n<li>Empty parameters are skipped.</li>\n<li>Needs <code>Module:RecipeBox</code>.</li></ul>\n<section><header><p>No description.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:RecipeRow\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Craft ID 1</th><td><code>1</code></td><td><p>Craft ID of the first box</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Craft ID 2</th><td><code>2</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Craft ID 3</th><td><code>3</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Craft ID 4</th><td><code>4</code></td><td><p>Keep adding 5, 6, 7 ... as needed</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Gap</th><td><code>em</code></td><td><p>The space between the boxes, in em. Default 0.5</p><dl><dt>Default</dt><dd>0.5</dd></dl></td><td>Number</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly>{{#invoke:RecipeBox|row}}</includeonly><noinclude>\nShows several recipe boxes next to each other in a row. When there is no more room the boxes continue on the next row. Use it instead of <code>&#123;&#123;Div|&#123;&#123;RecipeBox|...&#125;&#125;|...&#125;&#125;</code>: all the boxes are made in one step, so the page uses far less of its size limit (boxes inside <code>Div</code> were counted several times, and a page with many of them stopped showing the last ones).\n\n'''Usage'''\n<pre>{{RecipeRow|9000309|9000263|9000277}}</pre>\n\n* Every unnamed parameter is the craft ID of one box, in the order you write them. Any number works.\n* em (optional): the space between the boxes, in em. The default is 0.5.\n* Empty parameters are skipped.\n* Needs <code>Module:RecipeBox</code>.\n<templatedata>\n{\n\t\"params\": {\n\t\t\"em\": { \"label\": \"Gap\", \"description\": \"The space between the boxes, in em. Default 0.5\", \"type\": \"number\", \"default\": \"0.5\" },\n\t\t\"1\": { \"label\": \"Craft ID 1\", \"description\": \"Craft ID of the first box\", \"type\": \"number\" },\n\t\t\"2\": { \"label\": \"Craft ID 2\", \"type\": \"number\" },\n\t\t\"3\": { \"label\": \"Craft ID 3\", \"type\": \"number\" },\n\t\t\"4\": { \"label\": \"Craft ID 4\", \"description\": \"Keep adding 5, 6, 7 ... as needed\", \"type\": \"number\" }\n\t},\n\t\"paramOrder\": [\"1\", \"2\", \"3\", \"4\", \"em\"]\n}\n</templatedata>\n</noinclude>"
+}

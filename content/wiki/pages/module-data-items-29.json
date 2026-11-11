@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-29",
+ "title": "Module:Data/Items/29",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60997,
+ "revid": 64625,
+ "updated": "2026-11-06T23:31:55Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/29",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [29300] = { grade = \"None\", icon = \"icon_item_0420.png\", name = \"Dahuta's Bubble\" }, [29730] = { grade = \"None\", icon = \"icon_item_1581.png\", name = \"Warrior's Medal\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[29300] = { grade = \"None\", icon = \"icon_item_0420.png\", name = \"Dahuta's Bubble\" },\n\t[29730] = { grade = \"None\", icon = \"icon_item_1581.png\", name = \"Warrior's Medal\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[29300] = { grade = \"None\", icon = \"icon_item_0420.png\", name = \"Dahuta's Bubble\" },\n\t[29730] = { grade = \"None\", icon = \"icon_item_1581.png\", name = \"Warrior's Medal\" },\n}"
+}

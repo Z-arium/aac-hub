@@ -1,0 +1,16 @@
+{
+ "slug": "template-skilltrees",
+ "title": "Template:Skilltrees",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61277,
+ "revid": 64283,
+ "updated": "2026-11-04T19:16:43Z",
+ "source": "https://wiki.aa-classic.com/Template:Skilltrees",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Navigation box for the ten skill tree pages. Put {{Skilltrees}} at the bottom of each tree page.",
+ "html": "<p>Navigation box for the ten skill tree pages. Put <code>{{Skilltrees}}</code> at the bottom of each tree page.\n</p>",
+ "wikitext": "<includeonly><div class=\"aa-navbox\" style=\"clear:both;margin:1.5em 0 0;padding:.5em .75em;border:1px solid var(--border-color-base,#a2a9b1);border-radius:6px;background:var(--color-surface-2,#f8f9fa);text-align:center;font-size:.92em;\">\n<div style=\"font-weight:bold;margin-bottom:.35em;\">[[Skill Trees]]</div>\n<div>[[Archery]] &middot; [[Auramancy]] &middot; [[Battlerage]] &middot; [[Defense]] &middot; [[Occultism]] &middot; [[Shadowplay]] &middot; [[Songcraft]] &middot; [[Sorcery]] &middot; [[Vitalism]] &middot; [[Witchcraft]]</div>\n</div></includeonly><noinclude>\nNavigation box for the ten skill tree pages. Put <code><nowiki>{{Skilltrees}}</nowiki></code> at the bottom of each tree page.\n[[Category:Navigation templates]]\n</noinclude>"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-19",
+ "title": "Module:Data/Items/19",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61195,
+ "revid": 64622,
+ "updated": "2026-11-06T23:31:49Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/19",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [19042] = { grade = \"None\", icon = \"icon_item_0549.png\", name = \"Desert Fire\" }, [19045] = { grade = \"Rare\", icon = \"icon_item_1452.png\", name = \"Black Pearl\" }, [19401] = { grade = \"None\", icon = \"costume_bo/nu_m_bo_metal212.png\", name = \"Baktehan's Swimfins\" }, [19448] = { grade = \"None\", icon = \"icon_item_0640.png\", name = \"Small Root Pigment\" }, [19812] = { grade = \"None\", icon = \"quest/icon_item_quest014.png\", name = \"Evenstone\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19042] = { grade = \"None\", icon = \"icon_item_0549.png\", name = \"Desert Fire\" },\n\t[19045] = { grade = \"Rare\", icon = \"icon_item_1452.png\", name = \"Black Pearl\" },\n\t[19401] = { grade = \"None\", icon = \"costume_bo/nu_m_bo_metal212.png\", name = \"Baktehan's Swimfins\" },\n\t[19448] = { grade = \"None\", icon = \"icon_item_0640.png\", name = \"Small Root Pigment\" },\n\t[19812] = { grade = \"None\", icon = \"quest/icon_item_quest014.png\", name = \"Evenstone\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19042] = { grade = \"None\", icon = \"icon_item_0549.png\", name = \"Desert Fire\" },\n\t[19045] = { grade = \"Rare\", icon = \"icon_item_1452.png\", name = \"Black Pearl\" },\n\t[19401] = { grade = \"None\", icon = \"costume_bo/nu_m_bo_metal212.png\", name = \"Baktehan's Swimfins\" },\n\t[19448] = { grade = \"None\", icon = \"icon_item_0640.png\", name = \"Small Root Pigment\" },\n\t[19812] = { grade = \"None\", icon = \"quest/icon_item_quest014.png\", name = \"Evenstone\" },\n}"
+}

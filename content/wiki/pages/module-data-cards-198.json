@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-198",
+ "title": "Module:Data/Cards/198",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61188,
+ "revid": 63906,
+ "updated": "2026-11-03T16:21:43Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/198",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [19812] = { category = \"Talisman\", desc = \"Allows you to extract Archeum and other magic from equipment, lunastones, and building designs.\\nPurchase from a General Merchant.\", grade = \"None\", icon = \"quest/icon_item_quest014.png\", name = \"Evenstone\", quests = { { 8163, \"A Guard's Threat\" }, { 2125, \"Tiger Oil Delivery\" }, { 1656, \"Raising the Bar\" }, { 1402, \"A Delicate Balance\" }, { 857, \"Supanya's Final Request\" } }, use = \"Masonry: Spend 10 Labor to extract Archeum or Lunarite from equipment, Lunar Artifacts, and building designs.\\n|nn;Salvaging synthesis undergarments with this item does not return synthesis materials.|r\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19812] = { category = \"Talisman\", desc = \"Allows you to extract Archeum and other magic from equipment, lunastones, and building designs.\\nPurchase from a General Merchant.\", grade = \"None\", icon = \"quest/icon_item_quest014.png\", name = \"Evenstone\", quests = { { 8163, \"A Guard's Threat\" }, { 2125, \"Tiger Oil Delivery\" }, { 1656, \"Raising the Bar\" }, { 1402, \"A Delicate Balance\" }, { 857, \"Supanya's Final Request\" } }, use = \"Masonry: Spend 10 Labor to extract Archeum or Lunarite from equipment, Lunar Artifacts, and building designs.\\n|nn;Salvaging synthesis undergarments with this item does not return synthesis materials.|r\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19812] = { category = \"Talisman\", desc = \"Allows you to extract Archeum and other magic from equipment, lunastones, and building designs.\\nPurchase from a General Merchant.\", grade = \"None\", icon = \"quest/icon_item_quest014.png\", name = \"Evenstone\", quests = { { 8163, \"A Guard's Threat\" }, { 2125, \"Tiger Oil Delivery\" }, { 1656, \"Raising the Bar\" }, { 1402, \"A Delicate Balance\" }, { 857, \"Supanya's Final Request\" } }, use = \"Masonry: Spend 10 Labor to extract Archeum or Lunarite from equipment, Lunar Artifacts, and building designs.\\n|nn;Salvaging synthesis undergarments with this item does not return synthesis materials.|r\" },\n}"
+}

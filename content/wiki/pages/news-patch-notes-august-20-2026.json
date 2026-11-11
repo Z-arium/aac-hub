@@ -1,0 +1,54 @@
+{
+ "slug": "news-patch-notes-august-20-2026",
+ "title": "News/📜 Patch Notes - August 20, 2026",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61093,
+ "revid": 63836,
+ "updated": "2026-11-02T17:35:19Z",
+ "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_August_20,_2026",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Patch_Notes_—_August_20,_2026",
+   "text": "Patch Notes — August 20, 2026"
+  },
+  {
+   "level": 2,
+   "id": "🎙️_Voice_Chat_Updates",
+   "text": "🎙️ Voice Chat Updates"
+  },
+  {
+   "level": 2,
+   "id": "✨_Quality_of_Life",
+   "text": "✨ Quality of Life"
+  },
+  {
+   "level": 3,
+   "id": "Target_Sign_Keybinds",
+   "text": "Target Sign Keybinds"
+  },
+  {
+   "level": 3,
+   "id": "In-Game_Ping_Display",
+   "text": "In-Game Ping Display"
+  },
+  {
+   "level": 2,
+   "id": "🔧_Miscellaneous",
+   "text": "🔧 Miscellaneous"
+  },
+  {
+   "level": 2,
+   "id": "🎉_Anniversary_Event_Extensions",
+   "text": "🎉 Anniversary Event Extensions"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "News banners-banner update.png"
+ ],
+ "text": "Update20 August 2026·All news·Original post on aa-classic.com 📜 Patch Notes - August 20, 2026 🎙️ Voice Chat gets louder, clearer and easier to use! Plus Target Sign keybinds, an in-game ping display, performance improvements, Powerstone conversion, bug fixes, and an extra week of Anniversary events! Patch Notes — August 20, 2026 🎙️ Voice Chat Updates Voice Chat Beta continues to improve with several new features and quality-of-life additions: Added a new Play While Unfocused setting, allowing you to continue hearing other players while the game window is not in focus. Voice Chat volume can now be increased up to 150%. The Voice Chat HUD will now display a small microphone indicator when you're speaking: 🔵 Blue — Raid Chat 🟢 Green — Proximity Chat The HUD will now display recent talkers, with names shown in: 🔵 Blue — Raid Chat ⚪ White — Proximity Chat Added a new Voice Equalizer, which automatically helps normalize players with particularly quiet microphones. Added a Playback button to the Voice Chat settings, allowing you to hear how your microphone sounds before jumping into a conversation. Added Raid Leader settings ✨ Quality of Life Target Sign Keybinds A new set of keybinds has been added for quickly targeting marked players and units. Under Key Settings → Misc., you'll now find the existing Sign 1–X keybinds alongside the new Target Sign 1–X keybinds. Using one of these binds will instantly target the unit currently marked with the corresponding sign (as long as they are visible). In-Game Ping Display Your current ping can now be displayed in-game by enabling View Ping, located alongside the existing View Frame Rate setting. When using ExitLag, this may currently display 0ms or Invalid. We're working on a fix. 🔧 Miscellaneous The level requirement for crafting Gilda Dust has been increased to Ancestral Level 5. Old Powerstones can now be converted into their new versions by right-clicking them. Fixed an issue affecting World Boss Figurines. Improved game performance in scenes with low CPU load. Depending on your hardware and the scene, this can result in double-digit FPS improvements. Some systems may see little to no difference. 🎉 Anniversary Event Extensions We're giving several Anniversary activities one more week! The following events and bonuses have been extended until August 27: 🚚 The Great Heist will continue to occur. ⚔️ Brave Warrior's Medals will continue to be rewarded. 🧥 Double Cloak EXP will remain active. Enjoy the extra week!",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/ef/eff7cb84c3b65aa7432e270d1687d749fba74564.png\" width=\"1200\" height=\"1200\" loading=\"lazy\"></span></span></div><div><div><span>Update</span><span>20 August 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/patch-notes-august-20-2026\">Original post on aa-classic.com</a></div><div>📜 Patch Notes - August 20, 2026</div><div>🎙️ Voice Chat gets louder, clearer and easier to use! Plus Target Sign keybinds, an in-game ping display, performance improvements, Powerstone conversion, bug fixes, and an extra week of Anniversary events!</div></div></div>\n\n<h2 id=\"Patch_Notes_—_August_20,_2026\"><span></span>Patch Notes — August 20, 2026</h2>\n<h2 id=\"🎙️_Voice_Chat_Updates\"><span></span>🎙️ Voice Chat Updates</h2>\n<p>Voice Chat Beta continues to improve with several new features and quality-of-life additions:\n</p>\n<ul><li>Added a new <b>Play While Unfocused</b> setting, allowing you to continue hearing other players while the game window is not in focus.</li>\n<li>Voice Chat volume can now be increased up to <b>150%</b>.</li>\n<li>The Voice Chat HUD will now display a small microphone indicator when you're speaking:</li></ul>\n<ul><li><ul><li>🔵 <b>Blue</b> — Raid Chat</li>\n<li>🟢 <b>Green</b> — Proximity Chat</li></ul></li>\n<li>The HUD will now display <b>recent talkers</b>, with names shown in:</li></ul>\n<ul><li><ul><li>🔵 <b>Blue</b> — Raid Chat</li>\n<li>⚪ <b>White</b> — Proximity Chat</li></ul></li>\n<li>Added a new <b>Voice Equalizer</b>, which automatically helps normalize players with particularly quiet microphones.</li>\n<li>Added a <b>Playback</b> button to the Voice Chat settings, allowing you to hear how your microphone sounds before jumping into a conversation.</li>\n<li>Added Raid Leader settings</li></ul>\n<h2 id=\"✨_Quality_of_Life\"><span></span>✨ Quality of Life</h2>\n<h3 id=\"Target_Sign_Keybinds\">Target Sign Keybinds</h3>\n<p>A new set of keybinds has been added for quickly targeting marked players and units.\n</p><p>Under <b>Key Settings → Misc.</b>, you'll now find the existing <b>Sign 1–X</b> keybinds alongside the new <b>Target Sign 1–X</b> keybinds.\n</p><p>Using one of these binds will instantly target the unit currently marked with the corresponding sign (as long as they are visible).\n</p>\n<h3 id=\"In-Game_Ping_Display\">In-Game Ping Display</h3>\n<ul><li>Your current ping can now be displayed in-game by enabling <b>View Ping</b>, located alongside the existing <b>View Frame Rate</b> setting.</li>\n<li>When using <b>ExitLag</b>, this may currently display <code>0ms</code> or <code>Invalid</code>. We're working on a fix.</li></ul>\n<h2 id=\"🔧_Miscellaneous\"><span></span>🔧 Miscellaneous</h2>\n<ul><li>The level requirement for crafting <b>Gilda Dust</b> has been increased to <b>Ancestral Level 5</b>.</li>\n<li>Old <b>Powerstones</b> can now be converted into their new versions by right-clicking them.</li>\n<li>Fixed an issue affecting <b>World Boss Figurines</b>.</li>\n<li>Improved game performance in scenes with low CPU load.</li></ul>\n<ul><li><ul><li>Depending on your hardware and the scene, this can result in <b>double-digit FPS improvements</b>.</li>\n<li>Some systems may see little to no difference.</li></ul></li></ul>\n<h2 id=\"🎉_Anniversary_Event_Extensions\"><span></span>🎉 Anniversary Event Extensions</h2>\n<p>We're giving several Anniversary activities <b>one more week</b>!\n</p><p>The following events and bonuses have been extended until <b>August 27</b>:\n</p>\n<ul><li>🚚 <b>The Great Heist</b> will continue to occur.</li>\n<li>⚔️ <b>Brave Warrior's Medals</b> will continue to be rewarded.</li>\n<li>🧥 <b>Double Cloak EXP</b> will remain active.</li></ul>\n<p>Enjoy the extra week!\n</p>",
+ "wikitext": "{{NewsArticle\n|title=📜 Patch Notes - August 20, 2026\n|slug=patch-notes-august-20-2026\n|date=2026-08-20 13:34\n|category=Update\n|image=News banners-banner update.png\n|summary=🎙️ Voice Chat gets louder, clearer and easier to use! Plus Target Sign keybinds, an in-game ping display, performance improvements, Powerstone conversion, bug fixes, and an extra week of Anniversary events!\n|source=https://aa-classic.com/news/patch-notes-august-20-2026\n}}\n\n== Patch Notes — August 20, 2026 ==\n\n== 🎙️ Voice Chat Updates ==\n\nVoice Chat Beta continues to improve with several new features and quality-of-life additions:\n\n* Added a new '''Play While Unfocused''' setting, allowing you to continue hearing other players while the game window is not in focus.\n* Voice Chat volume can now be increased up to '''150%'''.\n* The Voice Chat HUD will now display a small microphone indicator when you're speaking:\n\n** 🔵 '''Blue''' — Raid Chat\n** 🟢 '''Green''' — Proximity Chat\n* The HUD will now display '''recent talkers''', with names shown in:\n\n** 🔵 '''Blue''' — Raid Chat\n** ⚪ '''White''' — Proximity Chat\n* Added a new '''Voice Equalizer''', which automatically helps normalize players with particularly quiet microphones.\n* Added a '''Playback''' button to the Voice Chat settings, allowing you to hear how your microphone sounds before jumping into a conversation.\n* Added Raid Leader settings\n\n== ✨ Quality of Life ==\n\n=== Target Sign Keybinds ===\n\nA new set of keybinds has been added for quickly targeting marked players and units.\n\nUnder '''Key Settings → Misc.''', you'll now find the existing '''Sign 1–X''' keybinds alongside the new '''Target Sign 1–X''' keybinds.\n\nUsing one of these binds will instantly target the unit currently marked with the corresponding sign (as long as they are visible).\n\n=== In-Game Ping Display ===\n\n* Your current ping can now be displayed in-game by enabling '''View Ping''', located alongside the existing '''View Frame Rate''' setting.\n* When using '''ExitLag''', this may currently display <code>0ms</code> or <code>Invalid</code>. We're working on a fix.\n\n== 🔧 Miscellaneous ==\n\n* The level requirement for crafting '''Gilda Dust''' has been increased to '''Ancestral Level 5'''.\n* Old '''Powerstones''' can now be converted into their new versions by right-clicking them.\n* Fixed an issue affecting '''World Boss Figurines'''.\n* Improved game performance in scenes with low CPU load.\n\n** Depending on your hardware and the scene, this can result in '''double-digit FPS improvements'''.\n** Some systems may see little to no difference.\n\n== 🎉 Anniversary Event Extensions ==\n\nWe're giving several Anniversary activities '''one more week'''!\n\nThe following events and bonuses have been extended until '''August 27''':\n\n* 🚚 '''The Great Heist''' will continue to occur.\n* ⚔️ '''Brave Warrior's Medals''' will continue to be rewarded.\n* 🧥 '''Double Cloak EXP''' will remain active.\n\nEnjoy the extra week!"
+}

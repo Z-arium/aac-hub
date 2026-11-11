@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-194",
+ "title": "Module:Data/Cards/194",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61208,
+ "revid": 64612,
+ "updated": "2026-11-06T23:31:19Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/194",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [19401] = { category = \"Plate Armor\", crafts = { { 4100, \"Baktehan's Swimfins\" }, { 8000990, \"Baktehan's Swimfins\" } }, desc = \"Footwear designed by Baktehan, the best swimmer in Haranya, to facilitate movement through water. The design is amazingly ergonomic.\", eq = { ar = 120, be = \"Increases swimming speed +30%.\", cov = 10, gr = true, ilvl = 20, maxg = \"Mythic\", mr = 0, sl = 7 }, grade = \"None\", icon = \"costume_bo/nu_m_bo_metal212.png\", name = \"Baktehan's Swimfins\", req = 20 }, [19448] = { category = \"Material\", crafts = { { 4288, \"Small Root Pigment\" }, { 8000670, \"Small Root Pigment: Mass Production\" } }, desc = \"It's chiefly used for making Cloth Armor and other crafts.\\n\\nVocation: Alchemy\\nWorkbench: Alchemy Table\", grade = \"None\", icon = \"icon_item_0640.png\", name = \"Small Root Pigment\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19401] = { category = \"Plate Armor\", crafts = { { 4100, \"Baktehan's Swimfins\" }, { 8000990, \"Baktehan's Swimfins\" } }, desc = \"Footwear designed by Baktehan, the best swimmer in Haranya, to facilitate movement through water. The design is amazingly ergonomic.\", eq = { ar = 120, be = \"Increases swimming speed +30%.\", cov = 10, gr = true, ilvl = 20, maxg = \"Mythic\", mr = 0, sl = 7 }, grade = \"None\", icon = \"costume_bo/nu_m_bo_metal212.png\", name = \"Baktehan's Swimfins\", req = 20 },\n\t[19448] = { category = \"Material\", crafts = { { 4288, \"Small Root Pigment\" }, { 8000670, \"Small Root Pigment: Mass Production\" } }, desc = \"It's chiefly used for making Cloth Armor and other crafts.\\n\\nVocation: Alchemy\\nWorkbench: Alchemy Table\", grade = \"None\", icon = \"icon_item_0640.png\", name = \"Small Root Pigment\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[19401] = { category = \"Plate Armor\", crafts = { { 4100, \"Baktehan's Swimfins\" }, { 8000990, \"Baktehan's Swimfins\" } }, desc = \"Footwear designed by Baktehan, the best swimmer in Haranya, to facilitate movement through water. The design is amazingly ergonomic.\", eq = { ar = 120, be = \"Increases swimming speed +30%.\", cov = 10, gr = true, ilvl = 20, maxg = \"Mythic\", mr = 0, sl = 7 }, grade = \"None\", icon = \"costume_bo/nu_m_bo_metal212.png\", name = \"Baktehan's Swimfins\", req = 20 },\n\t[19448] = { category = \"Material\", crafts = { { 4288, \"Small Root Pigment\" }, { 8000670, \"Small Root Pigment: Mass Production\" } }, desc = \"It's chiefly used for making Cloth Armor and other crafts.\\n\\nVocation: Alchemy\\nWorkbench: Alchemy Table\", grade = \"None\", icon = \"icon_item_0640.png\", name = \"Small Root Pigment\" },\n}"
+}

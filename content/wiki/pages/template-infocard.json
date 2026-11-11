@@ -1,0 +1,64 @@
+{
+ "slug": "template-infocard",
+ "title": "Template:InfoCard",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61329,
+ "revid": 64583,
+ "updated": "2026-11-06T17:03:53Z",
+ "source": "https://wiki.aa-classic.com/Template:InfoCard",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Title",
+     "title",
+     "no description",
+     "String",
+     "required"
+    ],
+    [
+     "Colour",
+     "type",
+     "info, danger, control, heal, debuff or rewardSuggested valuesinfo danger control heal debuff rewardDefaultinfo",
+     "String",
+     "optional"
+    ],
+    [
+     "Full row",
+     "wide",
+     "Write yes to let the card fill a whole row of the grid.Suggested valuesyes",
+     "String",
+     "optional"
+    ],
+    [
+     "Tag",
+     "tag",
+     "Small label on the right of the title.",
+     "String",
+     "optional"
+    ],
+    [
+     "Text",
+     "1 text",
+     "The text of the card. Item and buff templates work here.",
+     "Content",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "One box with a title, an optional small tag and a short text. Use it inside Template:Tl, or on its own. Usage {{InfoCard|title=Adds|type=danger|tag=Kill fast|The boss summons small monsters.}} title is the heading of the card. type picks the colour. Choose from info (default), danger, control, heal, debuff and reward. tag (optional) is a small label on the right. wide (optional) set to yes makes the card take a whole row in an Template:Tl. The text is the first unnamed parameter. Write text= if it contains an equals sign. A small titled box for mechanics, notes or facts. Put several inside InfoGrid. Template parameters Parameter Description Type Status Title title no description String required Colour type info, danger, control, heal, debuff or reward Suggested values info danger control heal debuff reward Default info String optional Full row wide Write yes to let the card fill a whole row of the grid. Suggested values yes String optional Tag tag Small label on the right of the title. String optional Text 1 text The text of the card. Item and buff templates work here. Content optional",
+ "html": "<p>One box with a title, an optional small tag and a short text. Use it inside <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>, or on its own.\n</p><p><b>Usage</b>\n</p>\n<pre>{{InfoCard|title=Adds|type=danger|tag=Kill fast|The boss summons small monsters.}}</pre>\n<ul><li><b>title</b> is the heading of the card.</li>\n<li><b>type</b> picks the colour. Choose from <code>info</code> (default), <code>danger</code>, <code>control</code>, <code>heal</code>, <code>debuff</code> and <code>reward</code>.</li>\n<li><b>tag</b> (optional) is a small label on the right.</li>\n<li><b>wide</b> (optional) set to <code>yes</code> makes the card take a whole row in an <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>.</li>\n<li>The text is the first unnamed parameter. Write <code>text=</code> if it contains an equals sign.</li></ul>\n<section><header><p>A small titled box for mechanics, notes or facts. Put several inside InfoGrid.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:InfoCard\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Title</th><td><code>title</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>required</td></tr><tr><th>Colour</th><td><code>type</code></td><td><p>info, danger, control, heal, debuff or reward</p><dl><dt>Suggested values</dt><dd><code>info</code> <code>danger</code> <code>control</code> <code>heal</code> <code>debuff</code> <code>reward</code></dd><dt>Default</dt><dd>info</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Full row</th><td><code>wide</code></td><td><p>Write yes to let the card fill a whole row of the grid.</p><dl><dt>Suggested values</dt><dd><code>yes</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Tag</th><td><code>tag</code></td><td><p>Small label on the right of the title.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Text</th><td><code>1</code> <code>text</code></td><td><p>The text of the card. Item and buff templates work here.</p><dl></dl></td><td>Content</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"InfoCard/styles.css\" /><div class=\"aa-info aa-info-{{{type|info}}}{{#if:{{{wide|}}}| aa-info-wide}}\"><div class=\"aa-info-head\"><span class=\"aa-info-title\">{{{title|}}}</span>{{#if:{{{tag|}}}|<span class=\"aa-info-tag\">{{{tag}}}</span>}}</div><div class=\"aa-info-text\">{{{1|{{{text|}}}}}}</div></div></includeonly><noinclude>\nOne box with a title, an optional small tag and a short text. Use it inside {{tl|InfoGrid}}, or on its own.\n\n'''Usage'''\n<pre>{{InfoCard|title=Adds|type=danger|tag=Kill fast|The boss summons small monsters.}}</pre>\n\n* '''title''' is the heading of the card.\n* '''type''' picks the colour. Choose from <code>info</code> (default), <code>danger</code>, <code>control</code>, <code>heal</code>, <code>debuff</code> and <code>reward</code>.\n* '''tag''' (optional) is a small label on the right.\n* '''wide''' (optional) set to <code>yes</code> makes the card take a whole row in an {{tl|InfoGrid}}.\n* The text is the first unnamed parameter. Write <code>text=</code> if it contains an equals sign.\n\n<templatedata>\n{\n\t\"description\": \"A small titled box for mechanics, notes or facts. Put several inside InfoGrid.\",\n\t\"params\": {\n\t\t\"title\": { \"label\": \"Title\", \"type\": \"string\", \"required\": true },\n\t\t\"type\": { \"label\": \"Colour\", \"description\": \"info, danger, control, heal, debuff or reward\", \"type\": \"string\", \"default\": \"info\", \"suggestedvalues\": [\"info\", \"danger\", \"control\", \"heal\", \"debuff\", \"reward\"] },\n\t\t\"wide\": { \"label\": \"Full row\", \"description\": \"Write yes to let the card fill a whole row of the grid.\", \"type\": \"string\", \"suggestedvalues\": [\"yes\"] },\n\t\t\"tag\": { \"label\": \"Tag\", \"description\": \"Small label on the right of the title.\", \"type\": \"string\" },\n\t\t\"1\": { \"label\": \"Text\", \"description\": \"The text of the card. Item and buff templates work here.\", \"type\": \"content\", \"aliases\": [\"text\"] }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

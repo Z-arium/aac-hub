@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-34",
+ "title": "Module:Data/Items/34",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60998,
+ "revid": 64626,
+ "updated": "2026-11-06T23:31:57Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/34",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [34242] = { grade = \"Grand\", icon = \"icon_item_1909.png\", name = \"Tyrenos's Index\" }, [34737] = { grade = \"Arcane\", icon = \"icon_item_1954.png\", name = \"Philosopher's Stone Fragment\" }, [34754] = { grade = \"Heroic\", icon = \"icon_item_1958.png\", name = \"Iron Armor Fragment\" }, [34758] = { grade = \"Heroic\", icon = \"icon_item_1949.png\", name = \"Nazar's Crown\" }, [34759] = { grade = \"Unique\", icon = \"icon_item_1961.png\", name = \"Kraken Ink Sac\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[34242] = { grade = \"Grand\", icon = \"icon_item_1909.png\", name = \"Tyrenos's Index\" },\n\t[34737] = { grade = \"Arcane\", icon = \"icon_item_1954.png\", name = \"Philosopher's Stone Fragment\" },\n\t[34754] = { grade = \"Heroic\", icon = \"icon_item_1958.png\", name = \"Iron Armor Fragment\" },\n\t[34758] = { grade = \"Heroic\", icon = \"icon_item_1949.png\", name = \"Nazar's Crown\" },\n\t[34759] = { grade = \"Unique\", icon = \"icon_item_1961.png\", name = \"Kraken Ink Sac\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[34242] = { grade = \"Grand\", icon = \"icon_item_1909.png\", name = \"Tyrenos's Index\" },\n\t[34737] = { grade = \"Arcane\", icon = \"icon_item_1954.png\", name = \"Philosopher's Stone Fragment\" },\n\t[34754] = { grade = \"Heroic\", icon = \"icon_item_1958.png\", name = \"Iron Armor Fragment\" },\n\t[34758] = { grade = \"Heroic\", icon = \"icon_item_1949.png\", name = \"Nazar's Crown\" },\n\t[34759] = { grade = \"Unique\", icon = \"icon_item_1961.png\", name = \"Kraken Ink Sac\" },\n}"
+}

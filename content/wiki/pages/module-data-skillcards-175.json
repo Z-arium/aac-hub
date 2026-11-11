@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skillcards-175",
+ "title": "Module:Data/SkillCards/175",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61346,
+ "revid": 64632,
+ "updated": "2026-11-06T23:32:26Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/175",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [17576] = { buffs = { { desc = \"Triggers a fast run and grants invincibility.\", dur = 3000, icon = \"icon_skill_wild03.png\", name = \"Dash\", tick = 1000 } }, cd = 30000, desc = \"Triggers a forward charge for 3 seconds that makes you invincible. Can't be used while carrying a trade pack.\", icon = \"icon_skill_wild03.png\", line = \"Basic\", maxr = 20, name = \"Dash (Rider)\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[17576] = { buffs = { { desc = \"Triggers a fast run and grants invincibility.\", dur = 3000, icon = \"icon_skill_wild03.png\", name = \"Dash\", tick = 1000 } }, cd = 30000, desc = \"Triggers a forward charge for 3 seconds that makes you invincible. Can't be used while carrying a trade pack.\", icon = \"icon_skill_wild03.png\", line = \"Basic\", maxr = 20, name = \"Dash (Rider)\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[17576] = { buffs = { { desc = \"Triggers a fast run and grants invincibility.\", dur = 3000, icon = \"icon_skill_wild03.png\", name = \"Dash\", tick = 1000 } }, cd = 30000, desc = \"Triggers a forward charge for 3 seconds that makes you invincible. Can't be used while carrying a trade pack.\", icon = \"icon_skill_wild03.png\", line = \"Basic\", maxr = 20, name = \"Dash (Rider)\" },\n}"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "template-mainpage-news",
+ "title": "Template:MainPage/News",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61028,
+ "revid": 64639,
+ "updated": "2026-11-09T10:22:06Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/News",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Latest wiki updatesAll recent changes 6 Nov Updated the Kraken page. 5 Nov Updated the Battlerage page, added Thunderwing Titan page. 4 Nov Updated the Sorcery page.",
+ "html": "<div><div>Latest wiki updates<span><a href=\"https://wiki.aa-classic.com/Special:RecentChanges\" rel=\"noopener\">All recent changes</a></span></div>\n<ul><li><b>6 Nov</b> Updated the <a href=\"/wiki/kraken\">Kraken</a> page.</li>\n<li><b>5 Nov</b> Updated the <a href=\"/wiki/battlerage\">Battlerage</a> page, added <a href=\"/wiki/thunderwing-titan\">Thunderwing Titan</a> page.</li>\n<li><b>4 Nov</b> Updated the <a href=\"/wiki/sorcery\">Sorcery</a> page.</li></ul>\n</div>",
+ "wikitext": "<div class=\"aa-mp-list aa-mp-news\"><div class=\"aa-mp-listtitle\">Latest wiki updates<span class=\"aa-mp-newslink\">[[Special:RecentChanges|All recent changes]]</span></div>\n* '''6 Nov''' Updated the [[Kraken]] page.\n* '''5 Nov''' Updated the [[Battlerage]] page, added [[Thunderwing Titan]] page.\n* '''4 Nov''' Updated the [[Sorcery]] page.\n</div>"
+}

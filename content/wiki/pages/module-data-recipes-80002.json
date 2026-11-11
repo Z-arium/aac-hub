@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-recipes-80002",
+ "title": "Module:Data/Recipes/80002",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61234,
+ "revid": 64538,
+ "updated": "2026-11-06T08:58:11Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Recipes/80002",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [8000241] = { coin = 1000000, labor = 500, materials = { { amount = 1, grade = \"Basic\", icon = \"icon_item_1267.png\", id = 28305, name = \"Blank Regrade Scroll\", required = \"Any\" }, { amount = 50, grade = \"None\", icon = \"icon_item_0296.png\", id = 15621, name = \"Glowing Prism\", required = \"Any\" }, { amount = 500, grade = \"None\", icon = \"icon_item_1781.png\", id = 32038, name = \"Earthmana Leaf\", required = \"Any\" }, { amount = 25, grade = \"None\", icon = \"icon_item_1766.png\", id = 32103, name = \"Charcoal Stabilizer\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_2852.png\", id = 8000319, name = \"Glider Wingmaker Scroll\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8000241] = { coin = 1000000, labor = 500, materials = { { amount = 1, grade = \"Basic\", icon = \"icon_item_1267.png\", id = 28305, name = \"Blank Regrade Scroll\", required = \"Any\" }, { amount = 50, grade = \"None\", icon = \"icon_item_0296.png\", id = 15621, name = \"Glowing Prism\", required = \"Any\" }, { amount = 500, grade = \"None\", icon = \"icon_item_1781.png\", id = 32038, name = \"Earthmana Leaf\", required = \"Any\" }, { amount = 25, grade = \"None\", icon = \"icon_item_1766.png\", id = 32103, name = \"Charcoal Stabilizer\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_2852.png\", id = 8000319, name = \"Glider Wingmaker Scroll\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8000241] = { coin = 1000000, labor = 500, materials = { { amount = 1, grade = \"Basic\", icon = \"icon_item_1267.png\", id = 28305, name = \"Blank Regrade Scroll\", required = \"Any\" }, { amount = 50, grade = \"None\", icon = \"icon_item_0296.png\", id = 15621, name = \"Glowing Prism\", required = \"Any\" }, { amount = 500, grade = \"None\", icon = \"icon_item_1781.png\", id = 32038, name = \"Earthmana Leaf\", required = \"Any\" }, { amount = 25, grade = \"None\", icon = \"icon_item_1766.png\", id = 32103, name = \"Charcoal Stabilizer\", required = \"Any\" } }, product = { amount = 1, grade = \"Grand\", icon = \"icon_item_2852.png\", id = 8000319, name = \"Glider Wingmaker Scroll\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" },\n}"
+}

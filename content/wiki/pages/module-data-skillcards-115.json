@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skillcards-115",
+ "title": "Module:Data/SkillCards/115",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61272,
+ "revid": 64237,
+ "updated": "2026-11-04T17:32:38Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/115",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [11504] = { buffs = { { bad = true, desc = \"Prevents the target from taking any actions, even when taking damage.\", dur = 12000, icon = \"icon_skill_death10.png\", name = \"Telekinesis\", tick = 1000 } }, cast = 2000, cd = 60000, chan = 12000, desc = \"Suspends an enemy in the air for up to 12sec. Prevents the target from taking any actions, even when taking damage.\\nThis spell ends if the caster moves or takes any other action.\", icon = \"icon_skill_death10.png\", line = \"Occultism\", maxr = 20, name = \"Telekinesis\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[11504] = { buffs = { { bad = true, desc = \"Prevents the target from taking any actions, even when taking damage.\", dur = 12000, icon = \"icon_skill_death10.png\", name = \"Telekinesis\", tick = 1000 } }, cast = 2000, cd = 60000, chan = 12000, desc = \"Suspends an enemy in the air for up to 12sec. Prevents the target from taking any actions, even when taking damage.\\nThis spell ends if the caster moves or takes any other action.\", icon = \"icon_skill_death10.png\", line = \"Occultism\", maxr = 20, name = \"Telekinesis\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[11504] = { buffs = { { bad = true, desc = \"Prevents the target from taking any actions, even when taking damage.\", dur = 12000, icon = \"icon_skill_death10.png\", name = \"Telekinesis\", tick = 1000 } }, cast = 2000, cd = 60000, chan = 12000, desc = \"Suspends an enemy in the air for up to 12sec. Prevents the target from taking any actions, even when taking damage.\\nThis spell ends if the caster moves or takes any other action.\", icon = \"icon_skill_death10.png\", line = \"Occultism\", maxr = 20, name = \"Telekinesis\" },\n}"
+}
