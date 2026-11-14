@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-14T18:29:27.079Z",
+  "updated": "2026-11-14T22:44:32.019Z",
   "videos": [
+    {
+      "id": "oH_g2YT4qTI",
+      "title": "ArcheAge Classic #12 2026",
+      "channel": "Stip",
+      "channelUrl": "https://www.youtube.com/channel/UCOwbshmPBhkjTS-yLa6v90g",
+      "published": "2026-11-14T21:00:30Z"
+    },
     {
       "id": "xadILsIhgnU",
       "title": "ArcheAge Classic: Funny Moment #1",
@@ -329,13 +336,6 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-02-24T06:38:17+00:00"
-    },
-    {
-      "id": "zgR0TIRD3l8",
-      "title": "AA Classic 8 - please give me credits",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-02-14T08:59:29+00:00"
     }
   ]
 }
