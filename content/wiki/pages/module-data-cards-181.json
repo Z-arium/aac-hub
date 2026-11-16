@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-181",
+ "title": "Module:Data/Cards/181",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61340,
+ "revid": 64611,
+ "updated": "2026-11-06T23:31:17Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/181",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [18173] = { bind = \"soulbound_equip\", category = \"Glider\", desc = \"Rumored to be a Red Dragon Glider imbued with Anima, this remarkable glider is highly sought after by honorable citizens and pirates alike.\\r\\n\\r\\nFlight Speed: |cFFFC9215High|r\\r\\nGliding Ability: |cFFFC9215High|r\\r\\nTurning Speed: |cFFf5CB65Moderate|r\\r\\nLaunch Height: |cFFf5CB65Moderate|r\\r\\nSpecial Skill: |cFF8DAB43None|r\\r\\nImmune to |ni;turbulence|r.\", grade = \"None\", icon = \"icon_item_1205.png\", name = \"Feathered Dragon Glider\", req = 40, use = \"Equip a glider to glide from place to place. You can only use glider skills while airborne and will be knocked off your glider if you are attacked.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[18173] = { bind = \"soulbound_equip\", category = \"Glider\", desc = \"Rumored to be a Red Dragon Glider imbued with Anima, this remarkable glider is highly sought after by honorable citizens and pirates alike.\\r\\n\\r\\nFlight Speed:  |cFFFC9215High|r\\r\\nGliding Ability:  |cFFFC9215High|r\\r\\nTurning Speed: |cFFf5CB65Moderate|r\\r\\nLaunch Height: |cFFf5CB65Moderate|r\\r\\nSpecial Skill: |cFF8DAB43None|r\\r\\nImmune to |ni;turbulence|r.\", grade = \"None\", icon = \"icon_item_1205.png\", name = \"Feathered Dragon Glider\", req = 40, use = \"Equip a glider to glide from place to place. You can only use glider skills while airborne and will be knocked off your glider if you are attacked.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[18173] = { bind = \"soulbound_equip\", category = \"Glider\", desc = \"Rumored to be a Red Dragon Glider imbued with Anima, this remarkable glider is highly sought after by honorable citizens and pirates alike.\\r\\n\\r\\nFlight Speed:  |cFFFC9215High|r\\r\\nGliding Ability:  |cFFFC9215High|r\\r\\nTurning Speed: |cFFf5CB65Moderate|r\\r\\nLaunch Height: |cFFf5CB65Moderate|r\\r\\nSpecial Skill: |cFF8DAB43None|r\\r\\nImmune to |ni;turbulence|r.\", grade = \"None\", icon = \"icon_item_1205.png\", name = \"Feathered Dragon Glider\", req = 40, use = \"Equip a glider to glide from place to place. You can only use glider skills while airborne and will be knocked off your glider if you are attacked.\" },\n}"
+}

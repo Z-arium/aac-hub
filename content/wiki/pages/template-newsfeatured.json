@@ -1,0 +1,16 @@
+{
+ "slug": "template-newsfeatured",
+ "title": "Template:NewsFeatured",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61039,
+ "revid": 63822,
+ "updated": "2026-11-02T17:05:04Z",
+ "source": "https://wiki.aa-classic.com/Template:NewsFeatured",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "The big card at the top of a column of Template:NewsFeed.",
+ "html": "<p>The big card at the top of a column of <a href=\"/wiki/template-newsfeed\">Template:NewsFeed</a>.\n</p>",
+ "wikitext": "<includeonly><div class=\"aa-news-card aa-news-feat\"><div class=\"aa-news-herolabel\">{{{Column|}}}</div><span class=\"aa-news-pic\">{{#if:{{{Image|}}}|[[File:{{{Image}}}|link={{{Page}}}|alt=|1000px]]|<span class=\"aa-news-noimg aa-news-noimg-{{lc:{{{Category|}}}}}\"></span>}}</span><div class=\"aa-news-body\"><div class=\"aa-news-meta\"><span class=\"aa-news-tag aa-news-tag-{{lc:{{{Category|}}}}}\">{{{Category|}}}</span><span class=\"aa-news-date\">{{#time:j F Y|{{{Date|}}}}}</span></div>[[{{{Page}}}|<span class=\"aa-news-title\">{{{Title}}}</span>]]<div class=\"aa-news-sum\">{{{Summary|}}}</div><div class=\"aa-news-more\">Read the article →</div></div></div></includeonly><noinclude>The big card at the top of a column of [[Template:NewsFeed]].</noinclude>"
+}

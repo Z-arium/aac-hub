@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-40",
+ "title": "Module:Data/Items/40",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61010,
+ "revid": 63972,
+ "updated": "2026-11-03T16:33:53Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/40",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [40736] = { grade = \"Unique\", icon = \"icon_item_3148.png\", name = \"Wrathsmite Armor Shard\" }, [40792] = { grade = \"None\", icon = \"icon_item_ins_w_0059.png\", name = \"Cloaked Brimstone Flute\", over = \"top_obsidian.png\" }, [40824] = { grade = \"None\", icon = \"icon_item_ins_w_0049.png\", name = \"Brimstone Flute Wisp\", over = \"top_magic.png\" }, [40848] = { grade = \"Grand\", icon = \"icon_item_1837.png\", name = \"Translation Manual\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[40736] = { grade = \"Unique\", icon = \"icon_item_3148.png\", name = \"Wrathsmite Armor Shard\" },\n\t[40792] = { grade = \"None\", icon = \"icon_item_ins_w_0059.png\", name = \"Cloaked Brimstone Flute\", over = \"top_obsidian.png\" },\n\t[40824] = { grade = \"None\", icon = \"icon_item_ins_w_0049.png\", name = \"Brimstone Flute Wisp\", over = \"top_magic.png\" },\n\t[40848] = { grade = \"Grand\", icon = \"icon_item_1837.png\", name = \"Translation Manual\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[40736] = { grade = \"Unique\", icon = \"icon_item_3148.png\", name = \"Wrathsmite Armor Shard\" },\n\t[40792] = { grade = \"None\", icon = \"icon_item_ins_w_0059.png\", name = \"Cloaked Brimstone Flute\", over = \"top_obsidian.png\" },\n\t[40824] = { grade = \"None\", icon = \"icon_item_ins_w_0049.png\", name = \"Brimstone Flute Wisp\", over = \"top_magic.png\" },\n\t[40848] = { grade = \"Grand\", icon = \"icon_item_1837.png\", name = \"Translation Manual\" },\n}"
+}

@@ -1,0 +1,18 @@
+{
+ "slug": "template-mainpage-proficiency",
+ "title": "Template:MainPage/Proficiency",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61035,
+ "revid": 63597,
+ "updated": "2026-11-02T05:16:15Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/Proficiency",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Proficiency.png"
+ ],
+ "text": "[[{{{1}}}]]",
+ "html": "<div><span><span><img alt src=\"/wiki-files/fc/fc07279b87983d77109565d28b4d07df5e550ce0.png\" width=\"768\" height=\"512\" loading=\"lazy\"></span></span>[[{{{1}}}]]</div>",
+ "wikitext": "<div class=\"aa-mp-tile\"><span class=\"aa-mp-pico aa-pi-{{{2}}}\">[[File:Proficiency.png|link={{{1}}}|alt=]]</span>[[{{{1}}}]]{{#if:{{{new|}}}|<span class=\"aa-mp-new\">NEW</span>}}</div>"
+}

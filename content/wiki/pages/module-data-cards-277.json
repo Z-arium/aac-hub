@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-277",
+ "title": "Module:Data/Cards/277",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61342,
+ "revid": 64614,
+ "updated": "2026-11-06T23:31:23Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/277",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [27784] = { bind = \"soulbound_pickup\", category = \"Plate Armor\", eq = { ar = 120, be = \"Increases swimming speed +40%.\", cov = 10, gr = true, ilvl = 1, maxg = \"Mythic\", mr = 0, sl = 7 }, grade = \"None\", icon = \"costume_bo/nu_m_bo_metal040.png\", name = \"Eternal Defiance\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[27784] = { bind = \"soulbound_pickup\", category = \"Plate Armor\", eq = { ar = 120, be = \"Increases swimming speed +40%.\", cov = 10, gr = true, ilvl = 1, maxg = \"Mythic\", mr = 0, sl = 7 }, grade = \"None\", icon = \"costume_bo/nu_m_bo_metal040.png\", name = \"Eternal Defiance\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[27784] = { bind = \"soulbound_pickup\", category = \"Plate Armor\", eq = { ar = 120, be = \"Increases swimming speed +40%.\", cov = 10, gr = true, ilvl = 1, maxg = \"Mythic\", mr = 0, sl = 7 }, grade = \"None\", icon = \"costume_bo/nu_m_bo_metal040.png\", name = \"Eternal Defiance\" },\n}"
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "template-worldbosstimetable",
+ "title": "Template:WorldBossTimetable",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61358,
+ "revid": 64666,
+ "updated": "2026-11-12T18:31:14Z",
+ "source": "https://wiki.aa-classic.com/Template:WorldBossTimetable",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Layout",
+     "layout",
+     "auto, week or agendaSuggested valuesauto week agendaDefaultauto",
+     "String",
+     "optional"
+    ],
+    [
+     "Header and note",
+     "header",
+     "yes or noSuggested valuesyes noDefaultyes",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "The weekly World Boss spawn table. Every spawn shows on the right day and time for the reader's own time zone. The times live on one data page, Module:WorldBossData, so a schedule change is a single edit. Usage {{WorldBossTimetable}} layout (optional) picks the look. auto (default) shows seven day columns on wide screens and a day by day list on phones. week always shows the columns and agenda always shows the list. header (optional) is yes by default. Write no to hide the next spawn bar, the time zone and the note above and below the table. The time zone conversion and the next spawn bar need the script of this table in MediaWiki:Common.js. Without it the table shows server time (New York). The pictures are the files Boss_Red_Dragon.png, Boss_Primal_Anthalon.png, Boss_Leviathan.png, Boss_Kraken.png, Boss_Berserker.png and Boss_Random.png. Needs Module:WorldBossTimetable, Module:WorldBossData and Template:WorldBossTimetable/styles.css. The weekly World Boss spawn table, shown in the reader's own time zone. Template parameters Parameter Description Type Status Layout layout auto, week or agenda Suggested values auto week agenda Default auto String optional Header and note header yes or no Suggested values yes no Default yes String optional",
+ "html": "<p>The weekly World Boss spawn table. Every spawn shows on the right day and time for the reader's own time zone. The times live on one data page, <code>Module:WorldBossData</code>, so a schedule change is a single edit.\n</p><p><b>Usage</b>\n</p>\n<pre>{{WorldBossTimetable}}</pre>\n<ul><li><b>layout</b> (optional) picks the look. <code>auto</code> (default) shows seven day columns on wide screens and a day by day list on phones. <code>week</code> always shows the columns and <code>agenda</code> always shows the list.</li>\n<li><b>header</b> (optional) is <code>yes</code> by default. Write <code>no</code> to hide the next spawn bar, the time zone and the note above and below the table.</li>\n<li>The time zone conversion and the next spawn bar need the script of this table in <code>MediaWiki:Common.js</code>. Without it the table shows server time (New York).</li>\n<li>The pictures are the files <code>Boss_Red_Dragon.png</code>, <code>Boss_Primal_Anthalon.png</code>, <code>Boss_Leviathan.png</code>, <code>Boss_Kraken.png</code>, <code>Boss_Berserker.png</code> and <code>Boss_Random.png</code>.</li>\n<li>Needs <code>Module:WorldBossTimetable</code>, <code>Module:WorldBossData</code> and <code>Template:WorldBossTimetable/styles.css</code>.</li></ul>\n<section><header><p>The weekly World Boss spawn table, shown in the reader's own time zone.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:WorldBossTimetable\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Layout</th><td><code>layout</code></td><td><p>auto, week or agenda</p><dl><dt>Suggested values</dt><dd><code>auto</code> <code>week</code> <code>agenda</code></dd><dt>Default</dt><dd>auto</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Header and note</th><td><code>header</code></td><td><p>yes or no</p><dl><dt>Suggested values</dt><dd><code>yes</code> <code>no</code></dd><dt>Default</dt><dd>yes</dd></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"WorldBossTimetable/styles.css\" />{{#invoke:WorldBossTimetable|main|layout={{{layout|auto}}}|header={{{header|yes}}}}}</includeonly><noinclude>\nThe weekly World Boss spawn table. Every spawn shows on the right day and time for the reader's own time zone. The times live on one data page, <code>Module:WorldBossData</code>, so a schedule change is a single edit.\n\n'''Usage'''\n<pre>{{WorldBossTimetable}}</pre>\n\n* '''layout''' (optional) picks the look. <code>auto</code> (default) shows seven day columns on wide screens and a day by day list on phones. <code>week</code> always shows the columns and <code>agenda</code> always shows the list.\n* '''header''' (optional) is <code>yes</code> by default. Write <code>no</code> to hide the next spawn bar, the time zone and the note above and below the table.\n* The time zone conversion and the next spawn bar need the script of this table in <code>MediaWiki:Common.js</code>. Without it the table shows server time (New York).\n* The pictures are the files <code>Boss_Red_Dragon.png</code>, <code>Boss_Primal_Anthalon.png</code>, <code>Boss_Leviathan.png</code>, <code>Boss_Kraken.png</code>, <code>Boss_Berserker.png</code> and <code>Boss_Random.png</code>.\n* Needs <code>Module:WorldBossTimetable</code>, <code>Module:WorldBossData</code> and <code>Template:WorldBossTimetable/styles.css</code>.\n\n<templatedata>\n{\n\t\"description\": \"The weekly World Boss spawn table, shown in the reader's own time zone.\",\n\t\"params\": {\n\t\t\"layout\": { \"label\": \"Layout\", \"description\": \"auto, week or agenda\", \"type\": \"string\", \"default\": \"auto\", \"suggestedvalues\": [\"auto\", \"week\", \"agenda\"] },\n\t\t\"header\": { \"label\": \"Header and note\", \"description\": \"yes or no\", \"type\": \"string\", \"default\": \"yes\", \"suggestedvalues\": [\"yes\", \"no\"] }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

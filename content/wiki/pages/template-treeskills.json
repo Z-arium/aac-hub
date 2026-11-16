@@ -1,0 +1,43 @@
+{
+ "slug": "template-treeskills",
+ "title": "Template:TreeSkills",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61284,
+ "revid": 64320,
+ "updated": "2026-11-04T21:24:06Z",
+ "source": "https://wiki.aa-classic.com/Template:TreeSkills",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Tree",
+     "1",
+     "Name of the skill tree, for example Sorcery.ExampleSorcery",
+     "String",
+     "required"
+    ],
+    [
+     "Part",
+     "2",
+     "Which skills to show.Suggested valuescombat passives abyssal",
+     "String",
+     "required"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "The skills of a skill tree as a tidy grid of and PassiveLink: unknown tree \"\". Everything comes from Module:Skilltree/data, so the page only says which tree and which part. Usage === Combat skills === {{TreeSkills|Sorcery|combat}} === Passive skills === {{TreeSkills|Sorcery|passives}} === Abyssal skills === {{TreeSkills|Sorcery|abyssal}} combat shows the 12 combat skills. passives shows the passives, each with the number of points needed in the tree. abyssal shows the Abyssal skills and the Abyssal passive. It shows nothing while a tree has none stored. The combat skills, the passives or the Abyssal skills of a skill tree, as a grid of skill links with tooltips. Template parameters Parameter Description Type Status Tree 1 Name of the skill tree, for example Sorcery. Example Sorcery String required Part 2 Which skills to show. Suggested values combat passives abyssal String required",
+ "html": "<p>The skills of a skill tree as a tidy grid of  and <span>PassiveLink: unknown tree \"\"</span>. Everything comes from <a href=\"/wiki/module-skilltree-data\">Module:Skilltree/data</a>, so the page only says which tree and which part.\n</p><p><b>Usage</b>\n</p>\n<pre>=== Combat skills ===\n{{TreeSkills|Sorcery|combat}}\n\n=== Passive skills ===\n{{TreeSkills|Sorcery|passives}}\n\n=== Abyssal skills ===\n{{TreeSkills|Sorcery|abyssal}}</pre>\n<ul><li><code>combat</code> shows the 12 combat skills.</li>\n<li><code>passives</code> shows the passives, each with the number of points needed in the tree.</li>\n<li><code>abyssal</code> shows the Abyssal skills and the Abyssal passive. It shows nothing while a tree has none stored.</li></ul>\n<section><header><p>The combat skills, the passives or the Abyssal skills of a skill tree, as a grid of skill links with tooltips.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:TreeSkills\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Tree</th><td><code>1</code></td><td><p>Name of the skill tree, for example Sorcery.</p><dl><dt>Example</dt><dd>Sorcery</dd></dl></td><td>String</td><td>required</td></tr><tr><th>Part</th><td><code>2</code></td><td><p>Which skills to show.</p><dl><dt>Suggested values</dt><dd><code>combat</code> <code>passives</code> <code>abyssal</code></dd></dl></td><td>String</td><td>required</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly>{{#invoke:Skilltree|skills}}</includeonly><noinclude>\nThe skills of a skill tree as a tidy grid of {{SkillLink}} and {{PassiveLink}}. Everything comes from [[Module:Skilltree/data]], so the page only says which tree and which part.\n\n'''Usage'''\n<pre>=== Combat skills ===\n{{TreeSkills|Sorcery|combat}}\n\n=== Passive skills ===\n{{TreeSkills|Sorcery|passives}}\n\n=== Abyssal skills ===\n{{TreeSkills|Sorcery|abyssal}}</pre>\n* <code>combat</code> shows the 12 combat skills.\n* <code>passives</code> shows the passives, each with the number of points needed in the tree.\n* <code>abyssal</code> shows the Abyssal skills and the Abyssal passive. It shows nothing while a tree has none stored.\n\n<templatedata>\n{\n\t\"description\": \"The combat skills, the passives or the Abyssal skills of a skill tree, as a grid of skill links with tooltips.\",\n\t\"params\": {\n\t\t\"1\": {\n\t\t\t\"label\": \"Tree\",\n\t\t\t\"description\": \"Name of the skill tree, for example Sorcery.\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": true,\n\t\t\t\"example\": \"Sorcery\"\n\t\t},\n\t\t\"2\": {\n\t\t\t\"label\": \"Part\",\n\t\t\t\"description\": \"Which skills to show.\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": true,\n\t\t\t\"suggestedvalues\": [\"combat\", \"passives\", \"abyssal\"]\n\t\t}\n\t}\n}\n</templatedata>\n\n[[Category:Navigation templates]]\n</noinclude>"
+}

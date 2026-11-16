@@ -1,0 +1,29 @@
+{
+ "slug": "news-launcher-update-2-2-0",
+ "title": "News/Launcher Update 2.2.0",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61046,
+ "revid": 63831,
+ "updated": "2026-11-02T17:34:29Z",
+ "source": "https://wiki.aa-classic.com/News/Launcher_Update_2.2.0",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Patch_Notes",
+   "text": "Patch Notes"
+  },
+  {
+   "level": 2,
+   "id": "Download_Links_&_Install_Steps",
+   "text": "Download Links & Install Steps"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "News banners-banner update.png"
+ ],
+ "text": "Update27 October 2026·All news·Original post on aa-classic.com Launcher Update 2.2.0 New Launcher version: Required for the new client beta! Hello everyone, Launcher version 2.2.0 is now out! We are letting players download it manually for the next few hours as we've switched rendering frontends and want to ensure it's stable. Once confirmed we'll publish it officially. Patch Notes Changed rendering frontend to remove requirement on WebView2 Added support for New Client Beta Various bugfixes Linux only Added better auto-update support Download Links & Install Steps WINDOWS: https://aa-classic.com/api/download/launcher2.2.0.exe LINUX: https://aa-classic.com/api/download/linux/launcher2.2.0.AppImage Install steps: Download the file for your OS and place it in your game installation directory. That's it!",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/ef/eff7cb84c3b65aa7432e270d1687d749fba74564.png\" width=\"1200\" height=\"1200\" loading=\"lazy\"></span></span></div><div><div><span>Update</span><span>27 October 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/launcher-update-220\">Original post on aa-classic.com</a></div><div>Launcher Update 2.2.0</div><div>New Launcher version: Required for the new client beta!</div></div></div>\n<p>Hello everyone,\n</p><p>Launcher version 2.2.0 is now out!\nWe are letting players download it manually for the next few hours as we've switched rendering frontends and want to ensure it's stable. Once confirmed we'll publish it officially.\n</p>\n<h2 id=\"Patch_Notes\">Patch Notes</h2>\n<ul><li>Changed rendering frontend to remove requirement on WebView2</li>\n<li>Added support for New Client Beta</li>\n<li>Various bugfixes</li></ul>\n<p>Linux only\n</p>\n<ul><li>Added better auto-update support</li></ul>\n<h2 id=\"Download_Links_&amp;_Install_Steps\"><span></span>Download Links &amp; Install Steps</h2>\n<ul><li>WINDOWS: <a rel=\"noopener\" href=\"https://aa-classic.com/api/download/launcher2.2.0.exe\">https://aa-classic.com/api/download/launcher2.2.0.exe</a></li>\n<li>LINUX: <a rel=\"noopener\" href=\"https://aa-classic.com/api/download/linux/launcher2.2.0.AppImage\">https://aa-classic.com/api/download/linux/launcher2.2.0.AppImage</a></li></ul>\n<p>Install steps:\nDownload the file for your OS and place it in your game installation directory. That's it!\n</p>",
+ "wikitext": "{{NewsArticle\n|title=Launcher Update 2.2.0\n|slug=launcher-update-220\n|date=2026-10-27 15:00\n|category=Update\n|image=News banners-banner update.png\n|summary=New Launcher version: Required for the new client beta!\n|source=https://aa-classic.com/news/launcher-update-220\n}}\n\nHello everyone,\n\nLauncher version 2.2.0 is now out!\nWe are letting players download it manually for the next few hours as we've switched rendering frontends and want to ensure it's stable. Once confirmed we'll publish it officially.\n\n== Patch Notes ==\n* Changed rendering frontend to remove requirement on WebView2\n* Added support for New Client Beta\n* Various bugfixes\n\nLinux only\n* Added better auto-update support\n\n== Download Links & Install Steps ==\n\n* WINDOWS: https://aa-classic.com/api/download/launcher2.2.0.exe\n* LINUX: https://aa-classic.com/api/download/linux/launcher2.2.0.AppImage\n\nInstall steps:\nDownload the file for your OS and place it in your game installation directory. That's it!"
+}

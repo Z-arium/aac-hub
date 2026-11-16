@@ -1,0 +1,16 @@
+{
+ "slug": "template-item-live",
+ "title": "Template:Item/live",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61256,
+ "revid": 64128,
+ "updated": "2026-11-03T22:32:47Z",
+ "source": "https://wiki.aa-classic.com/Template:Item/live",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "The live version of Template:Item for an item ID that is not stored on the wiki yet (sync_wiki_data.py has not been run for it). It asks the APIs (two requests) on every page view. Used by Template:Item only, do not use it directly.",
+ "html": "<p>The live version of <a href=\"/wiki/template-item\">Template:Item</a> for an item ID that is not stored on the wiki yet (sync_wiki_data.py has not been run for it). It asks the APIs (two requests) on every page view. Used by <a href=\"/wiki/template-item\">Template:Item</a> only, do not use it directly.\n</p>",
+ "wikitext": "<includeonly>{{#clear_external_data:}}{{#get_web_data:\nurl=https://api.sermeatball.com/wiki/items/{{{ItemID|{{{id|}}}}}}\n|format=json with jsonpath\n|data=iname=$.item_name,igrade=$.base_grade_name\n|suppress error\n}}{{#get_web_data:\nurl=https://aa-classic.com/data/items/{{{ItemID|{{{id|}}}}}}.json\n|format=json with jsonpath\n|data=iicon=$.icon_filename,iover=$.over_icon_filename\n|suppress error\n}}{{#iferror:{{#external_value:iname}}|<!-- Item: no data for this item ID -->|{{#invoke:IconName|icon|{{#external_value:iname}}|{{{grade|{{#iferror:{{#external_value:igrade}}|Basic|{{#external_value:igrade}}}}}}}|size={{{size|22}}}|file={{#iferror:{{#external_value:iicon}}|}}|over={{#iferror:{{#external_value:iover}}|}}}}&nbsp;{{Grade|{{#switch:{{{grade|{{#iferror:{{#external_value:igrade}}|Basic|{{#external_value:igrade}}}}}}}|None|Any|=Basic|#default={{{grade|{{#iferror:{{#external_value:igrade}}|Basic|{{#external_value:igrade}}}}}}}}}|{{#external_value:iname}}}}{{#if:{{{amount|{{{1|}}}}}}|&nbsp;× {{{amount|{{{1|}}}}}}}}}}</includeonly><noinclude>\nThe live version of [[Template:Item]] for an item ID that is not stored on the wiki yet (sync_wiki_data.py has not been run for it). It asks the APIs (two requests) on every page view. Used by [[Template:Item]] only, do not use it directly.\n</noinclude>"
+}

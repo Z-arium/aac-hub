@@ -1,0 +1,18 @@
+{
+ "slug": "template-mainpage-skills",
+ "title": "Template:MainPage/Skills",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61030,
+ "revid": 63605,
+ "updated": "2026-11-02T15:34:18Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/Skills",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "Skill.png"
+ ],
+ "text": "Combat Skill trees Battlerage Witchcraft Defense Auramancy Occultism Archery Sorcery Shadowplay Songcraft Vitalism",
+ "html": "<div>Combat</div>\n<div>Skill trees</div>\n<div>\n<div><span><span><a href=\"/wiki/battlerage\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/battlerage\">Battlerage</a></div>\n<div><span><span><a href=\"/wiki/witchcraft\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/witchcraft\">Witchcraft</a></div>\n<div><span><span><a href=\"/wiki/defense\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/defense\">Defense</a></div>\n<div><span><span><a href=\"/wiki/auramancy\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/auramancy\">Auramancy</a></div>\n<div><span><span><a href=\"/wiki/occultism\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/occultism\">Occultism</a></div>\n<div><span><span><a href=\"/wiki/archery\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/archery\">Archery</a></div>\n<div><span><span><a href=\"/wiki/sorcery\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/sorcery\">Sorcery</a></div>\n<div><span><span><a href=\"/wiki/shadowplay\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/shadowplay\">Shadowplay</a></div>\n<div><span><span><a href=\"/wiki/songcraft\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/songcraft\">Songcraft</a></div>\n<div><span><span><a href=\"/wiki/vitalism\"><img alt src=\"/wiki-files/df/df1fb2c290d7c673c79987d328c620aa5ade76be.png\" width=\"1024\" height=\"512\" loading=\"lazy\"></a></span></span><a href=\"/wiki/vitalism\">Vitalism</a></div>\n</div>",
+ "wikitext": "<div class=\"aa-mp-eyebrow\">Combat</div>\n<div class=\"aa-mp-h\">Skill trees</div>\n<div class=\"aa-mp-tiles aa-mp-tiles-5\">\n{{MainPage/Skill|Battlerage|1}}\n{{MainPage/Skill|Witchcraft|10}}\n{{MainPage/Skill|Defense|7}}\n{{MainPage/Skill|Auramancy|6}}\n{{MainPage/Skill|Occultism|11}}\n{{MainPage/Skill|Archery|3}}\n{{MainPage/Skill|Sorcery|2}}\n{{MainPage/Skill|Shadowplay|5}}\n{{MainPage/Skill|Songcraft|9}}\n{{MainPage/Skill|Vitalism|4}}\n</div>"
+}

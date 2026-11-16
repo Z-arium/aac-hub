@@ -1,0 +1,36 @@
+{
+ "slug": "template-worldnext",
+ "title": "Template:WorldNext",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61382,
+ "revid": 64747,
+ "updated": "2026-11-14T04:44:32Z",
+ "source": "https://wiki.aa-classic.com/Template:WorldNext",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Which cards",
+     "type",
+     "all, boss, daily, game, trader or several separated by commasSuggested valuesall boss daily game traderDefaultall",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Small cards that show which World Boss, daily event and game time event comes next, in the reader's own time zone. Made for the Main Page hero. Each card links to its page and appears once the script has run. Usage {{WorldNext}} {{WorldNext|type=boss}} type (optional) is all by default. Use boss, daily, game or trader (the Gold Trader, see Template:Tl), or several with commas, like boss,game. The spawn times come from Module:WorldBossData and Module:WorldEventData, the game clock from Module:GameTimeData. The pages the cards link to are bossPage and listPage in those data pages. Needs Module:WorldNext, Template:WorldNext/styles.css and the World Events script in MediaWiki:Common.js. Next World Boss, next daily event and next game time event cards. Template parameters Parameter Description Type Status Which cards type all, boss, daily, game, trader or several separated by commas Suggested values all boss daily game trader Default all String optional",
+ "html": "<p>Small cards that show which World Boss, daily event and game time event comes next, in the reader's own time zone. Made for the Main Page hero. Each card links to its page and appears once the script has run.\n</p><p><b>Usage</b>\n</p>\n<pre>{{WorldNext}}</pre>\n<pre>{{WorldNext|type=boss}}</pre>\n<ul><li><b>type</b> (optional) is <code>all</code> by default. Use <code>boss</code>, <code>daily</code>, <code>game</code> or <code>trader</code> (the Gold Trader, see <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>), or several with commas, like <code>boss,game</code>.</li>\n<li>The spawn times come from <code>Module:WorldBossData</code> and <code>Module:WorldEventData</code>, the game clock from <code>Module:GameTimeData</code>. The pages the cards link to are <code>bossPage</code> and <code>listPage</code> in those data pages.</li>\n<li>Needs <code>Module:WorldNext</code>, <code>Template:WorldNext/styles.css</code> and the World Events script in <code>MediaWiki:Common.js</code>.</li></ul>\n<section><header><p>Next World Boss, next daily event and next game time event cards.</p></header><table class=\"wikitable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:WorldNext\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Which cards</th><td><code>type</code></td><td><p>all, boss, daily, game, trader or several separated by commas</p><dl><dt>Suggested values</dt><dd><code>all</code> <code>boss</code> <code>daily</code> <code>game</code> <code>trader</code></dd><dt>Default</dt><dd>all</dd></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"WorldNext/styles.css\" />{{#invoke:WorldNext|main|type={{{type|all}}}}}</includeonly><noinclude>\nSmall cards that show which World Boss, daily event and game time event comes next, in the reader's own time zone. Made for the Main Page hero. Each card links to its page and appears once the script has run.\n\n'''Usage'''\n<pre>{{WorldNext}}</pre>\n<pre>{{WorldNext|type=boss}}</pre>\n\n* '''type''' (optional) is <code>all</code> by default. Use <code>boss</code>, <code>daily</code>, <code>game</code> or <code>trader</code> (the Gold Trader, see {{tl|GoldTraderNext}}), or several with commas, like <code>boss,game</code>.\n* The spawn times come from <code>Module:WorldBossData</code> and <code>Module:WorldEventData</code>, the game clock from <code>Module:GameTimeData</code>. The pages the cards link to are <code>bossPage</code> and <code>listPage</code> in those data pages.\n* Needs <code>Module:WorldNext</code>, <code>Template:WorldNext/styles.css</code> and the World Events script in <code>MediaWiki:Common.js</code>.\n\n<templatedata>\n{\n\t\"description\": \"Next World Boss, next daily event and next game time event cards.\",\n\t\"params\": {\n\t\t\"type\": { \"label\": \"Which cards\", \"description\": \"all, boss, daily, game, trader or several separated by commas\", \"type\": \"string\", \"default\": \"all\", \"suggestedvalues\": [\"all\", \"boss\", \"daily\", \"game\", \"trader\"] }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

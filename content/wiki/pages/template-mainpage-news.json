@@ -1,0 +1,16 @@
+{
+ "slug": "template-mainpage-news",
+ "title": "Template:MainPage/News",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61028,
+ "revid": 64792,
+ "updated": "2026-11-14T14:27:57Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPage/News",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "Latest wiki updatesAll recent changes 13 Nov Added Weekly Token Quest timetables. 13 Nov Added World Events timetables. 12 Nov Added World Boss timetables. 6 Nov Updated the Kraken page.",
+ "html": "<div><div>Latest wiki updates<span><a href=\"https://wiki.aa-classic.com/Special:RecentChanges\" rel=\"noopener\">All recent changes</a></span></div>\n<ul><li><b>13 Nov</b> Added <a href=\"/wiki/activity-tokens\">Weekly Token Quest</a> timetables.</li>\n<li><b>13 Nov</b> Added <a href=\"/wiki/world-events\">World Events</a> timetables.</li>\n<li><b>12 Nov</b> Added <a href=\"/wiki/world-bosses\">World Boss</a> timetables.</li>\n<li><b>6 Nov</b> Updated the <a href=\"/wiki/kraken\">Kraken</a> page.</li></ul>\n</div>",
+ "wikitext": "<div class=\"aa-mp-list aa-mp-news\"><div class=\"aa-mp-listtitle\">Latest wiki updates<span class=\"aa-mp-newslink\">[[Special:RecentChanges|All recent changes]]</span></div>\n* '''13 Nov''' Added [[Activity Tokens|Weekly Token Quest]] timetables.\n* '''13 Nov''' Added [[World Events]] timetables.\n* '''12 Nov''' Added [[World Bosses|World Boss]] timetables.\n* '''6 Nov''' Updated the [[Kraken]] page.\n</div>"
+}

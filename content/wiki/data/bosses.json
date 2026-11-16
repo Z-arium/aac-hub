@@ -1,7 +1,21 @@
 {
  "source": "https://wiki.aa-classic.com/World_Bosses",
- "revid": 3273,
+ "revid": 64681,
  "bosses": [
+  {
+   "name": "Primal Kraken",
+   "level": 50,
+   "location": "West of Arcadian Sea",
+   "tier": "Normal",
+   "description": "Kraken with more difficult mechanics and improved loot. As an ocean boss, it only receives damage from ships."
+  },
+  {
+   "name": "Primal Anthalon",
+   "level": 50,
+   "location": "Sungold Fields",
+   "tier": "Normal",
+   "description": "Anthalon with more difficult mechanics and improved loot. Its loot is very good on mage tanks."
+  },
   {
    "name": "Kraken",
    "level": 50,

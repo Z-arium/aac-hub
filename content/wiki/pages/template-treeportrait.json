@@ -1,0 +1,50 @@
+{
+ "slug": "template-treeportrait",
+ "title": "Template:TreePortrait",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61287,
+ "revid": 64336,
+ "updated": "2026-11-05T16:00:42Z",
+ "source": "https://wiki.aa-classic.com/Template:TreePortrait",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "File",
+     "1",
+     "File name without the File: prefix, for example Aranzeb.jpg.",
+     "File",
+     "required"
+    ],
+    [
+     "Caption",
+     "2",
+     "Short caption under the picture.",
+     "String",
+     "optional"
+    ],
+    [
+     "Width",
+     "width",
+     "Width in pixels.Default180",
+     "Number",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "A portrait with a small caption, floated to the left of the first paragraph of a page. Headings after it start below the picture. Usage {{TreePortrait|Aranzeb.jpg|Aranzeb}} A portrait with a caption, floated to the left at the top of a page. Template parameters Parameter Description Type Status File 1 File name without the File: prefix, for example Aranzeb.jpg. File required Caption 2 Short caption under the picture. String optional Width width Width in pixels. Default 180 Number optional",
+ "html": "<p>A portrait with a small caption, floated to the left of the first paragraph of a page. Headings after it start below the picture.\n</p><p><b>Usage</b>\n</p>\n<pre>{{TreePortrait|Aranzeb.jpg|Aranzeb}}</pre>\n<section><header><p>A portrait with a caption, floated to the left at the top of a page.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:TreePortrait\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>File</th><td><code>1</code></td><td><p>File name without the File: prefix, for example Aranzeb.jpg.</p><dl></dl></td><td>File</td><td>required</td></tr><tr><th>Caption</th><td><code>2</code></td><td><p>Short caption under the picture.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Width</th><td><code>width</code></td><td><p>Width in pixels.</p><dl><dt>Default</dt><dd>180</dd></dl></td><td>Number</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"Template:TreePortrait/styles.css\" /><div class=\"aa-tp\">[[File:{{{1|}}}|{{{width|180}}}px|link=|alt={{{2|}}}]]{{#if:{{{2|}}}|<div class=\"aa-tp-cap\">{{{2}}}</div>}}</div></includeonly><noinclude>\nA portrait with a small caption, floated to the left of the first paragraph of a page. Headings after it start below the picture.\n\n'''Usage'''\n<pre>{{TreePortrait|Aranzeb.jpg|Aranzeb}}</pre>\n\n<templatedata>\n{\n\t\"description\": \"A portrait with a caption, floated to the left at the top of a page.\",\n\t\"params\": {\n\t\t\"1\": { \"label\": \"File\", \"description\": \"File name without the File: prefix, for example Aranzeb.jpg.\", \"type\": \"wiki-file-name\", \"required\": true },\n\t\t\"2\": { \"label\": \"Caption\", \"description\": \"Short caption under the picture.\", \"type\": \"string\" },\n\t\t\"width\": { \"label\": \"Width\", \"description\": \"Width in pixels.\", \"type\": \"number\", \"default\": \"180\" }\n\t}\n}\n</templatedata>\n\n[[Category:Navigation templates]]\n</noinclude>"
+}
