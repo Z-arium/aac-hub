@@ -1,0 +1,16 @@
+{
+ "slug": "template-worldbossnext",
+ "title": "Template:WorldBossNext",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61360,
+ "revid": 64689,
+ "updated": "2026-11-12T20:07:44Z",
+ "source": "https://wiki.aa-classic.com/Template:WorldBossNext",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "A small bar that shows which World Boss spawns next, with the time in the reader's own time zone. It links to the World Bosses page. It is made for the Main Page hero. It appears once the script of the timetable has run and is hidden without it. Usage {{WorldBossNext}} The spawn times come from Module:WorldBossData, the same data as Template:Tl. The page it links to is nextPage in that data. Needs Module:WorldBossTimetable, Module:WorldBossData, Template:WorldBossTimetable/styles.css and the script in MediaWiki:Common.js.",
+ "html": "<p>A small bar that shows which World Boss spawns next, with the time in the reader's own time zone. It links to the World Bosses page. It is made for the Main Page hero. It appears once the script of the timetable has run and is hidden without it.\n</p><p><b>Usage</b>\n</p>\n<pre>{{WorldBossNext}}</pre>\n<ul><li>The spawn times come from <code>Module:WorldBossData</code>, the same data as <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>. The page it links to is <code>nextPage</code> in that data.</li>\n<li>Needs <code>Module:WorldBossTimetable</code>, <code>Module:WorldBossData</code>, <code>Template:WorldBossTimetable/styles.css</code> and the script in <code>MediaWiki:Common.js</code>.</li></ul>",
+ "wikitext": "<includeonly><templatestyles src=\"WorldBossTimetable/styles.css\" />{{#invoke:WorldBossTimetable|main|mode=next}}</includeonly><noinclude>\nA small bar that shows which World Boss spawns next, with the time in the reader's own time zone. It links to the World Bosses page. It is made for the Main Page hero. It appears once the script of the timetable has run and is hidden without it.\n\n'''Usage'''\n<pre>{{WorldBossNext}}</pre>\n\n* The spawn times come from <code>Module:WorldBossData</code>, the same data as {{tl|WorldBossTimetable}}. The page it links to is <code>nextPage</code> in that data.\n* Needs <code>Module:WorldBossTimetable</code>, <code>Module:WorldBossData</code>, <code>Template:WorldBossTimetable/styles.css</code> and the script in <code>MediaWiki:Common.js</code>.\n[[Category:Layout templates]]\n</noinclude>"
+}

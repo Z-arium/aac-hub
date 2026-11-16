@@ -1,0 +1,120 @@
+{
+ "slug": "template-pagebanner",
+ "title": "Template:PageBanner",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61292,
+ "revid": 64362,
+ "updated": "2026-11-05T19:22:45Z",
+ "source": "https://wiki.aa-classic.com/Template:PageBanner",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Picture",
+     "image",
+     "File name of the wide picture, without File:. About 4 to 1 works best.",
+     "File",
+     "required"
+    ],
+    [
+     "Phone picture",
+     "mobile",
+     "File name of a tighter picture (about 2 to 1) shown on phones and narrow windows. Leave empty to use the wide picture.",
+     "File",
+     "optional"
+    ],
+    [
+     "Title",
+     "title",
+     "Text shown on the lower left of the picture.",
+     "String",
+     "optional"
+    ],
+    [
+     "Subtitle",
+     "subtitle",
+     "Small line under the title.",
+     "String",
+     "optional"
+    ],
+    [
+     "Keep inside the panel",
+     "inset",
+     "Type yes to keep the picture inside the padding of the page instead of running out to the outline.Suggested valuesyes",
+     "String",
+     "optional"
+    ],
+    [
+     "Zoom",
+     "zoom",
+     "How far to zoom in on the picture. 1 is the picture as it is, 1.3 is a bit closer. Applies to wide windows, and to phones too unless Phone zoom is set.Default1",
+     "Number",
+     "optional"
+    ],
+    [
+     "Phone zoom",
+     "mobilezoom",
+     "Zoom on phones and narrow windows. Uses Zoom if empty.",
+     "Number",
+     "optional"
+    ],
+    [
+     "Zoom centre across",
+     "x",
+     "Where the zoom is centred, from 0 (left edge) to 100 (right edge). Default 50.Default50",
+     "Number",
+     "optional"
+    ],
+    [
+     "Zoom centre down",
+     "y",
+     "Where the zoom is centred, from 0 (top) to 100 (bottom). Default 50.Default50",
+     "Number",
+     "optional"
+    ],
+    [
+     "Description",
+     "alt",
+     "Text for screen readers. Uses the title if empty.",
+     "String",
+     "optional"
+    ],
+    [
+     "Link",
+     "link",
+     "Page to open when the picture is clicked. Empty means no link.",
+     "Page name",
+     "optional"
+    ],
+    [
+     "Wide picture width",
+     "width",
+     "Width in pixels that is loaded for the wide picture. Default 1600.Default1600",
+     "Number",
+     "optional"
+    ],
+    [
+     "Phone picture width",
+     "mobilewidth",
+     "Width in pixels that is loaded for the phone picture. Default 1000.Default1000",
+     "Number",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "A wide picture at the top of a page, with an optional title on it. Phones and narrow windows get a second, tighter picture if one is given, so the subject does not become a thin strip. Usage {{PageBanner |image=Thunderwing_Titan_banner.jpg |mobile=Thunderwing_Titan_banner_mobile.jpg |title=Thunderwing Titan |subtitle=Flying mount }} Only image is needed. Leave mobile out to use the same picture everywhere, and leave title out for a picture without text. Put it as the very first thing on the page, because it runs out to the outline of the content panel. Use |zoom=1.3 to zoom in on the picture (and |x= and |y=, 0 to 100, to move the centre of the zoom). Add |inset=yes to keep it inside the panel instead (for example when it is not at the top). Give the file name without File:. A wide banner picture for the top of a page, with an optional title on it and a tighter picture for phones. Template parameters Parameter Description Type Status Picture image File name of the wide picture, without File:. About 4 to 1 works best. File required Phone picture mobile File name of a tighter picture (about 2 to 1) shown on phones and narrow windows. Leave empty to use the wide picture. File optional Title title Text shown on the lower left of the picture. String optional Subtitle subtitle Small line under the title. String optional Keep inside the panel inset Type yes to keep the picture inside the padding of the page instead of running out to the outline. Suggested values yes String optional Zoom zoom How far to zoom in on the picture. 1 is the picture as it is, 1.3 is a bit closer. Applies to wide windows, and to phones too unless Phone zoom is set. Default 1 Number optional Phone zoom mobilezoom Zoom on phones and narrow windows. Uses Zoom if empty. Number optional Zoom centre across x Where the zoom is centred, from 0 (left edge) to 100 (right edge). Default 50. Default 50 Number optional Zoom centre down y Where the zoom is centred, from 0 (top) to 100 (bottom). Default 50. Default 50 Number optional Description alt Text for screen readers. Uses the title if empty. String optional Link link Page to open when the picture is clicked. Empty means no link. Page name optional Wide picture width width Width in pixels that is loaded for the wide picture. Default 1600. Default 1600 Number optional Phone picture width mobilewidth Width in pixels that is loaded for the phone picture. Default 1000. Default 1000 Number optional",
+ "html": "<p>A wide picture at the top of a page, with an optional title on it. Phones and narrow windows get a second, tighter picture if one is given, so the subject does not become a thin strip.\n</p><p><b>Usage</b>\n</p>\n<pre>{{PageBanner\n|image=Thunderwing_Titan_banner.jpg\n|mobile=Thunderwing_Titan_banner_mobile.jpg\n|title=Thunderwing Titan\n|subtitle=Flying mount\n}}</pre>\n<p>Only <code>image</code> is needed. Leave <code>mobile</code> out to use the same picture everywhere, and leave <code>title</code> out for a picture without text. Put it as the very first thing on the page, because it runs out to the outline of the content panel. Use <code>|zoom=1.3</code> to zoom in on the picture (and <code>|x=</code> and <code>|y=</code>, 0 to 100, to move the centre of the zoom). Add <code>|inset=yes</code> to keep it inside the panel instead (for example when it is not at the top). Give the file name without <code>File:</code>.\n</p>\n<section><header><p>A wide banner picture for the top of a page, with an optional title on it and a tighter picture for phones.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:PageBanner\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Picture</th><td><code>image</code></td><td><p>File name of the wide picture, without File:. About 4 to 1 works best.</p><dl></dl></td><td>File</td><td>required</td></tr><tr><th>Phone picture</th><td><code>mobile</code></td><td><p>File name of a tighter picture (about 2 to 1) shown on phones and narrow windows. Leave empty to use the wide picture.</p><dl></dl></td><td>File</td><td>optional</td></tr><tr><th>Title</th><td><code>title</code></td><td><p>Text shown on the lower left of the picture.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Subtitle</th><td><code>subtitle</code></td><td><p>Small line under the title.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Keep inside the panel</th><td><code>inset</code></td><td><p>Type yes to keep the picture inside the padding of the page instead of running out to the outline.</p><dl><dt>Suggested values</dt><dd><code>yes</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Zoom</th><td><code>zoom</code></td><td><p>How far to zoom in on the picture. 1 is the picture as it is, 1.3 is a bit closer. Applies to wide windows, and to phones too unless Phone zoom is set.</p><dl><dt>Default</dt><dd>1</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Phone zoom</th><td><code>mobilezoom</code></td><td><p>Zoom on phones and narrow windows. Uses Zoom if empty.</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Zoom centre across</th><td><code>x</code></td><td><p>Where the zoom is centred, from 0 (left edge) to 100 (right edge). Default 50.</p><dl><dt>Default</dt><dd>50</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Zoom centre down</th><td><code>y</code></td><td><p>Where the zoom is centred, from 0 (top) to 100 (bottom). Default 50.</p><dl><dt>Default</dt><dd>50</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Description</th><td><code>alt</code></td><td><p>Text for screen readers. Uses the title if empty.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Link</th><td><code>link</code></td><td><p>Page to open when the picture is clicked. Empty means no link.</p><dl></dl></td><td>Page name</td><td>optional</td></tr><tr><th>Wide picture width</th><td><code>width</code></td><td><p>Width in pixels that is loaded for the wide picture. Default 1600.</p><dl><dt>Default</dt><dd>1600</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Phone picture width</th><td><code>mobilewidth</code></td><td><p>Width in pixels that is loaded for the phone picture. Default 1000.</p><dl><dt>Default</dt><dd>1000</dd></dl></td><td>Number</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"PageBanner/styles.css\" /><div class=\"aa-banner{{#if:{{{inset|}}}||&#32;aa-banner-bleed}}\"><div class=\"aa-banner-pic aa-banner-wide\"><div style=\"transform:scale({{{zoom|1}}});transform-origin:{{{x|50}}}% {{{y|50}}}%\">[[File:{{{image|}}}|{{{width|1600}}}px|link={{{link|}}}|alt={{{alt|{{{title|}}}}}}|class=aa-banner-img]]</div></div><div class=\"aa-banner-pic aa-banner-narrow\"><div style=\"transform:scale({{{mobilezoom|{{{zoom|1}}}}}});transform-origin:{{{x|50}}}% {{{y|50}}}%\">[[File:{{{mobile|{{{image|}}}}}}|{{{mobilewidth|1000}}}px|link={{{link|}}}|alt={{{alt|{{{title|}}}}}}|class=aa-banner-img]]</div></div>{{#if:{{{title|}}}|<div class=\"aa-banner-text\"><div class=\"aa-banner-title\">{{{title}}}</div>{{#if:{{{subtitle|}}}|<div class=\"aa-banner-sub\">{{{subtitle}}}</div>}}</div>}}</div></includeonly><noinclude>\nA wide picture at the top of a page, with an optional title on it. Phones and narrow windows get a second, tighter picture if one is given, so the subject does not become a thin strip.\n\n'''Usage'''\n<pre>{{PageBanner\n|image=Thunderwing_Titan_banner.jpg\n|mobile=Thunderwing_Titan_banner_mobile.jpg\n|title=Thunderwing Titan\n|subtitle=Flying mount\n}}</pre>\nOnly <code>image</code> is needed. Leave <code>mobile</code> out to use the same picture everywhere, and leave <code>title</code> out for a picture without text. Put it as the very first thing on the page, because it runs out to the outline of the content panel. Use <code>|zoom=1.3</code> to zoom in on the picture (and <code>|x=</code> and <code>|y=</code>, 0 to 100, to move the centre of the zoom). Add <code>|inset=yes</code> to keep it inside the panel instead (for example when it is not at the top). Give the file name without <code>File:</code>.\n\n<templatedata>\n{\n\t\"description\": \"A wide banner picture for the top of a page, with an optional title on it and a tighter picture for phones.\",\n\t\"params\": {\n\t\t\"image\": { \"label\": \"Picture\", \"description\": \"File name of the wide picture, without File:. About 4 to 1 works best.\", \"type\": \"wiki-file-name\", \"required\": true },\n\t\t\"mobile\": { \"label\": \"Phone picture\", \"description\": \"File name of a tighter picture (about 2 to 1) shown on phones and narrow windows. Leave empty to use the wide picture.\", \"type\": \"wiki-file-name\" },\n\t\t\"title\": { \"label\": \"Title\", \"description\": \"Text shown on the lower left of the picture.\", \"type\": \"string\" },\n\t\t\"subtitle\": { \"label\": \"Subtitle\", \"description\": \"Small line under the title.\", \"type\": \"string\" },\n\t\t\"inset\": { \"label\": \"Keep inside the panel\", \"description\": \"Type yes to keep the picture inside the padding of the page instead of running out to the outline.\", \"type\": \"string\", \"suggestedvalues\": [\"yes\"] },\n\t\t\"zoom\": { \"label\": \"Zoom\", \"description\": \"How far to zoom in on the picture. 1 is the picture as it is, 1.3 is a bit closer. Applies to wide windows, and to phones too unless Phone zoom is set.\", \"type\": \"number\", \"default\": \"1\" },\n\t\t\"mobilezoom\": { \"label\": \"Phone zoom\", \"description\": \"Zoom on phones and narrow windows. Uses Zoom if empty.\", \"type\": \"number\" },\n\t\t\"x\": { \"label\": \"Zoom centre across\", \"description\": \"Where the zoom is centred, from 0 (left edge) to 100 (right edge). Default 50.\", \"type\": \"number\", \"default\": \"50\" },\n\t\t\"y\": { \"label\": \"Zoom centre down\", \"description\": \"Where the zoom is centred, from 0 (top) to 100 (bottom). Default 50.\", \"type\": \"number\", \"default\": \"50\" },\n\t\t\"alt\": { \"label\": \"Description\", \"description\": \"Text for screen readers. Uses the title if empty.\", \"type\": \"string\" },\n\t\t\"link\": { \"label\": \"Link\", \"description\": \"Page to open when the picture is clicked. Empty means no link.\", \"type\": \"wiki-page-name\" },\n\t\t\"width\": { \"label\": \"Wide picture width\", \"description\": \"Width in pixels that is loaded for the wide picture. Default 1600.\", \"type\": \"number\", \"default\": \"1600\" },\n\t\t\"mobilewidth\": { \"label\": \"Phone picture width\", \"description\": \"Width in pixels that is loaded for the phone picture. Default 1000.\", \"type\": \"number\", \"default\": \"1000\" }\n\t}\n}\n</templatedata>\n\n[[Category:Layout templates]]\n</noinclude>"
+}

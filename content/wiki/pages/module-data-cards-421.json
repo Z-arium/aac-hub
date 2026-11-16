@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-421",
+ "title": "Module:Data/Cards/421",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61217,
+ "revid": 63953,
+ "updated": "2026-11-03T16:33:25Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/421",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [42162] = { category = \"Talisman\", crafts = { { 9377, \"Spellbook: Unstoppable Will\" }, { 9381, \"Spellbook: Unstoppable Will\" } }, desc = \"Cast Time: |nc;2 seconds|r\", grade = \"None\", icon = \"icon_item_1838.png\", name = \"Spellbook: Unstoppable Will\", use = \"Enables you to select one of 3 effects.\\nPersists for |nc;30 min|r.\\n|nd;Spellbook: Unstoppable Force|r\\n- Attack/Magic Power +|nc;69|r\\n|nd;Spellbook: Brick Wall|r\\n- Damage -|nc;48|r \\n|nd;Spellbook: Unstoppable Will|r\\n- Attack/Magic Power +|nc;31|r, Damage -|nc;21|r\\n|ni;Only one of these effects can be applied.|r\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42162] = { category = \"Talisman\", crafts = { { 9377, \"Spellbook: Unstoppable Will\" }, { 9381, \"Spellbook: Unstoppable Will\" } }, desc = \"Cast Time: |nc;2 seconds|r\", grade = \"None\", icon = \"icon_item_1838.png\", name = \"Spellbook: Unstoppable Will\", use = \"Enables you to select one of 3 effects.\\nPersists for |nc;30 min|r.\\n|nd;Spellbook: Unstoppable Force|r\\n- Attack/Magic Power +|nc;69|r\\n|nd;Spellbook: Brick Wall|r\\n- Damage -|nc;48|r \\n|nd;Spellbook: Unstoppable Will|r\\n- Attack/Magic Power +|nc;31|r, Damage -|nc;21|r\\n|ni;Only one of these effects can be applied.|r\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42162] = { category = \"Talisman\", crafts = { { 9377, \"Spellbook: Unstoppable Will\" }, { 9381, \"Spellbook: Unstoppable Will\" } }, desc = \"Cast Time: |nc;2 seconds|r\", grade = \"None\", icon = \"icon_item_1838.png\", name = \"Spellbook: Unstoppable Will\", use = \"Enables you to select one of 3 effects.\\nPersists for |nc;30 min|r.\\n|nd;Spellbook: Unstoppable Force|r\\n- Attack/Magic Power +|nc;69|r\\n|nd;Spellbook: Brick Wall|r\\n- Damage -|nc;48|r \\n|nd;Spellbook: Unstoppable Will|r\\n- Attack/Magic Power +|nc;31|r, Damage -|nc;21|r\\n|ni;Only one of these effects can be applied.|r\" },\n}"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-26",
+ "title": "Module:Data/Items/26",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60996,
+ "revid": 64384,
+ "updated": "2026-11-05T20:18:21Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/26",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [26675] = { grade = \"Arcane\", icon = \"costume_cp/cp_cloth029.png\", name = \"Axis Mundi Aegis\" }, [26880] = { grade = \"None\", icon = \"icon_item_0995.png\", name = \"Lord's Coin\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[26675] = { grade = \"Arcane\", icon = \"costume_cp/cp_cloth029.png\", name = \"Axis Mundi Aegis\" },\n\t[26880] = { grade = \"None\", icon = \"icon_item_0995.png\", name = \"Lord's Coin\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[26675] = { grade = \"Arcane\", icon = \"costume_cp/cp_cloth029.png\", name = \"Axis Mundi Aegis\" },\n\t[26880] = { grade = \"None\", icon = \"icon_item_0995.png\", name = \"Lord's Coin\" },\n}"
+}

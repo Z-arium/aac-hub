@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-18",
+ "title": "Module:Data/Items/18",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61224,
+ "revid": 64621,
+ "updated": "2026-11-06T23:31:48Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/18",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [18173] = { grade = \"None\", icon = \"icon_item_1205.png\", name = \"Feathered Dragon Glider\" }, [18937] = { grade = \"Basic\", icon = \"icon_item_0430.png\", name = \"Green Coral\" }, [18940] = { grade = \"Grand\", icon = \"icon_item_0437.png\", name = \"White Coral\" }, [18941] = { grade = \"Grand\", icon = \"icon_item_0436.png\", name = \"Blue Coral\" }, [18942] = { grade = \"Basic\", icon = \"icon_item_0433.png\", name = \"Orange Coral\" }, [18943] = { grade = \"Basic\", icon = \"icon_item_0434.png\", name = \"Yellow Coral\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[18173] = { grade = \"None\", icon = \"icon_item_1205.png\", name = \"Feathered Dragon Glider\" },\n\t[18937] = { grade = \"Basic\", icon = \"icon_item_0430.png\", name = \"Green Coral\" },\n\t[18940] = { grade = \"Grand\", icon = \"icon_item_0437.png\", name = \"White Coral\" },\n\t[18941] = { grade = \"Grand\", icon = \"icon_item_0436.png\", name = \"Blue Coral\" },\n\t[18942] = { grade = \"Basic\", icon = \"icon_item_0433.png\", name = \"Orange Coral\" },\n\t[18943] = { grade = \"Basic\", icon = \"icon_item_0434.png\", name = \"Yellow Coral\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[18173] = { grade = \"None\", icon = \"icon_item_1205.png\", name = \"Feathered Dragon Glider\" },\n\t[18937] = { grade = \"Basic\", icon = \"icon_item_0430.png\", name = \"Green Coral\" },\n\t[18940] = { grade = \"Grand\", icon = \"icon_item_0437.png\", name = \"White Coral\" },\n\t[18941] = { grade = \"Grand\", icon = \"icon_item_0436.png\", name = \"Blue Coral\" },\n\t[18942] = { grade = \"Basic\", icon = \"icon_item_0433.png\", name = \"Orange Coral\" },\n\t[18943] = { grade = \"Basic\", icon = \"icon_item_0434.png\", name = \"Yellow Coral\" },\n}"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-buffs-138",
+ "title": "Module:Data/Buffs/138",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61319,
+ "revid": 64473,
+ "updated": "2026-11-06T03:00:24Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Buffs/138",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs. return { [13840] = { desc = \"Summons a terrible storm that pushes ships away and deals damage to all targets within range.\", icon = \"icon_skill_vocation13.png\", kind = \"debuff\", name = \"Leviathan's Fury\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[13840] = { desc = \"Summons a terrible storm that pushes ships away and deals damage to all targets within range.\", icon = \"icon_skill_vocation13.png\", kind = \"debuff\", name = \"Leviathan's Fury\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[13840] = { desc = \"Summons a terrible storm that pushes ships away and deals damage to all targets within range.\", icon = \"icon_skill_vocation13.png\", kind = \"debuff\", name = \"Leviathan's Fury\" },\n}"
+}

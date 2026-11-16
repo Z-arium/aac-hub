@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-342",
+ "title": "Module:Data/Cards/342",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61193,
+ "revid": 64123,
+ "updated": "2026-11-03T22:23:08Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/342",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [34242] = { category = \"Talisman\", crafts = { { 6888, \"Tyrenos's Index\" } }, desc = \"The legendary Tyrenos, Head Librarian of the Ayanad Council, created these enchanted index cards to help maintain order in the more dangerous sections of the library.\\n\\nCan only be used in the Ayanad Library.\\n\\nCooldown: |nc;30 seconds|r\", grade = \"Grand\", icon = \"icon_item_1909.png\", name = \"Tyrenos's Index\", quests = { { 6604, \"The Hidden War\" }, { 6582, \"The Hidden War\" }, { 6579, \"The Hidden War\" }, { 6215, \"The Hidden War\" } }, use = \"Increases PvE Damage +|cFFFF9C2775%|r and Physical and Magic Defense |nc;+1500|r for 30m.\\n\\nInflicts the Poisoned Page debuff when used repeatedly, which temporarily disables use of an index.\\n\\nCan be used during global cooldowns, and does not trigger global cooldowns.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[34242] = { category = \"Talisman\", crafts = { { 6888, \"Tyrenos's Index\" } }, desc = \"The legendary Tyrenos, Head Librarian of the Ayanad Council, created these enchanted index cards to help maintain order in the more dangerous sections of the library.\\n\\nCan only be used in the Ayanad Library.\\n\\nCooldown: |nc;30 seconds|r\", grade = \"Grand\", icon = \"icon_item_1909.png\", name = \"Tyrenos's Index\", quests = { { 6604, \"The Hidden War\" }, { 6582, \"The Hidden War\" }, { 6579, \"The Hidden War\" }, { 6215, \"The Hidden War\" } }, use = \"Increases PvE Damage +|cFFFF9C2775%|r and Physical and Magic Defense |nc;+1500|r for 30m.\\n\\nInflicts the Poisoned Page debuff when used repeatedly, which temporarily disables use of an index.\\n\\nCan be used during global cooldowns, and does not trigger global cooldowns.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[34242] = { category = \"Talisman\", crafts = { { 6888, \"Tyrenos's Index\" } }, desc = \"The legendary Tyrenos, Head Librarian of the Ayanad Council, created these enchanted index cards to help maintain order in the more dangerous sections of the library.\\n\\nCan only be used in the Ayanad Library.\\n\\nCooldown: |nc;30 seconds|r\", grade = \"Grand\", icon = \"icon_item_1909.png\", name = \"Tyrenos's Index\", quests = { { 6604, \"The Hidden War\" }, { 6582, \"The Hidden War\" }, { 6579, \"The Hidden War\" }, { 6215, \"The Hidden War\" } }, use = \"Increases PvE Damage +|cFFFF9C2775%|r and Physical and Magic Defense |nc;+1500|r for 30m.\\n\\nInflicts the Poisoned Page debuff when used repeatedly, which temporarily disables use of an index.\\n\\nCan be used during global cooldowns, and does not trigger global cooldowns.\" },\n}"
+}

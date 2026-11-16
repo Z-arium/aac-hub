@@ -1,0 +1,141 @@
+{
+ "slug": "template-lootrecipe",
+ "title": "Template:LootRecipe",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61306,
+ "revid": 64422,
+ "updated": "2026-11-05T21:23:16Z",
+ "source": "https://wiki.aa-classic.com/Template:LootRecipe",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Result item ID",
+     "result",
+     "no description",
+     "Number",
+     "required"
+    ],
+    [
+     "Grade of the result",
+     "rgrade",
+     "no description",
+     "String",
+     "optional"
+    ],
+    [
+     "Tag on the result",
+     "tag",
+     "no description",
+     "String",
+     "optional"
+    ],
+    [
+     "Label of the materials",
+     "label",
+     "Default is Materials.DefaultMaterials",
+     "String",
+     "optional"
+    ],
+    [
+     "Material 1 item ID",
+     "m1",
+     "no description",
+     "Number",
+     "required"
+    ],
+    [
+     "Amount 1",
+     "a1",
+     "no descriptionDefault1",
+     "Number",
+     "optional"
+    ],
+    [
+     "Material 2 item ID",
+     "m2",
+     "no description",
+     "Number",
+     "optional"
+    ],
+    [
+     "Amount 2",
+     "a2",
+     "no descriptionDefault1",
+     "Number",
+     "optional"
+    ],
+    [
+     "Material 3 item ID",
+     "m3",
+     "no description",
+     "Number",
+     "optional"
+    ],
+    [
+     "Amount 3",
+     "a3",
+     "no descriptionDefault1",
+     "Number",
+     "optional"
+    ],
+    [
+     "Material 4 item ID",
+     "m4",
+     "no description",
+     "Number",
+     "optional"
+    ],
+    [
+     "Amount 4",
+     "a4",
+     "no descriptionDefault1",
+     "Number",
+     "optional"
+    ],
+    [
+     "Material 5 item ID",
+     "m5",
+     "no description",
+     "Number",
+     "optional"
+    ],
+    [
+     "Amount 5",
+     "a5",
+     "no descriptionDefault1",
+     "Number",
+     "optional"
+    ],
+    [
+     "Material 6 item ID",
+     "m6",
+     "no description",
+     "Number",
+     "optional"
+    ],
+    [
+     "Amount 6",
+     "a6",
+     "no descriptionDefault1",
+     "Number",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "One crafting recipe inside a Template:Tl with type=craft. The result is on top and the materials are under it, so several recipes fit in a small space (they sit in columns on wide screens). Usage {{LootRecipe |result=9002381 |m1=42572 |m2=42573 |m3=9002382 }} result is the item that is made. m1 to m6 are the materials, and a1 to a6 are their amounts (1 if left out). rgrade and g1 to g6 are optional grades of the result and the materials (for example Celestial). tag is an optional word on the result, for example Craftable. A crafting recipe for a loot group, with the result on top and the materials under it. Template parameters Parameter Description Type Status Result item ID result no description Number required Grade of the result rgrade no description String optional Tag on the result tag no description String optional Label of the materials label Default is Materials. Default Materials String optional Material 1 item ID m1 no description Number required Amount 1 a1 no description Default 1 Number optional Material 2 item ID m2 no description Number optional Amount 2 a2 no description Default 1 Number optional Material 3 item ID m3 no description Number optional Amount 3 a3 no description Default 1 Number optional Material 4 item ID m4 no description Number optional Amount 4 a4 no description Default 1 Number optional Material 5 item ID m5 no description Number optional Amount 5 a5 no description Default 1 Number optional Material 6 item ID m6 no description Number optional Amount 6 a6 no description Default 1 Number optional",
+ "html": "<p>One crafting recipe inside a <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a> with <code>type=craft</code>. The result is on top and the materials are under it, so several recipes fit in a small space (they sit in columns on wide screens).\n</p><p><b>Usage</b>\n</p>\n<pre>{{LootRecipe\n|result=9002381\n|m1=42572\n|m2=42573\n|m3=9002382\n}}</pre>\n<p><code>result</code> is the item that is made. <code>m1</code> to <code>m6</code> are the materials, and <code>a1</code> to <code>a6</code> are their amounts (1 if left out). <code>rgrade</code> and <code>g1</code> to <code>g6</code> are optional grades of the result and the materials (for example Celestial). <code>tag</code> is an optional word on the result, for example Craftable.\n</p>\n<section><header><p>A crafting recipe for a loot group, with the result on top and the materials under it.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:LootRecipe\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Result item ID</th><td><code>result</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>required</td></tr><tr><th>Grade of the result</th><td><code>rgrade</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Tag on the result</th><td><code>tag</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Label of the materials</th><td><code>label</code></td><td><p>Default is Materials.</p><dl><dt>Default</dt><dd>Materials</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Material 1 item ID</th><td><code>m1</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>required</td></tr><tr><th>Amount 1</th><td><code>a1</code></td><td><p>no description</p><dl><dt>Default</dt><dd>1</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Material 2 item ID</th><td><code>m2</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Amount 2</th><td><code>a2</code></td><td><p>no description</p><dl><dt>Default</dt><dd>1</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Material 3 item ID</th><td><code>m3</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Amount 3</th><td><code>a3</code></td><td><p>no description</p><dl><dt>Default</dt><dd>1</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Material 4 item ID</th><td><code>m4</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Amount 4</th><td><code>a4</code></td><td><p>no description</p><dl><dt>Default</dt><dd>1</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Material 5 item ID</th><td><code>m5</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Amount 5</th><td><code>a5</code></td><td><p>no description</p><dl><dt>Default</dt><dd>1</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Material 6 item ID</th><td><code>m6</code></td><td><p>no description</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Amount 6</th><td><code>a6</code></td><td><p>no description</p><dl><dt>Default</dt><dd>1</dd></dl></td><td>Number</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><div class=\"aa-lr\"><div class=\"aa-loot-item aa-lr-result\"><span class=\"aa-loot-name\">{{Item|ItemID={{{result|}}}|grade={{{rgrade|}}}}}</span>{{#if:{{{tag|}}}|<span class=\"aa-loot-chance\">{{{tag}}}</span>}}</div><div class=\"aa-lr-mats\"><span class=\"aa-lr-lbl\">{{{label|Materials}}}</span><span class=\"aa-lr-list\">{{#if:{{{m1|}}}|<span class=\"aa-lr-mat\">{{Item|ItemID={{{m1}}}|amount={{{a1|1}}}|grade={{{g1|}}}}}</span>}}{{#if:{{{m2|}}}|<span class=\"aa-lr-mat\">{{Item|ItemID={{{m2}}}|amount={{{a2|1}}}|grade={{{g2|}}}}}</span>}}{{#if:{{{m3|}}}|<span class=\"aa-lr-mat\">{{Item|ItemID={{{m3}}}|amount={{{a3|1}}}|grade={{{g3|}}}}}</span>}}{{#if:{{{m4|}}}|<span class=\"aa-lr-mat\">{{Item|ItemID={{{m4}}}|amount={{{a4|1}}}|grade={{{g4|}}}}}</span>}}{{#if:{{{m5|}}}|<span class=\"aa-lr-mat\">{{Item|ItemID={{{m5}}}|amount={{{a5|1}}}|grade={{{g5|}}}}}</span>}}{{#if:{{{m6|}}}|<span class=\"aa-lr-mat\">{{Item|ItemID={{{m6}}}|amount={{{a6|1}}}|grade={{{g6|}}}}}</span>}}</span></div></div></includeonly><noinclude>\nOne crafting recipe inside a {{tl|LootGroup}} with <code>type=craft</code>. The result is on top and the materials are under it, so several recipes fit in a small space (they sit in columns on wide screens).\n\n'''Usage'''\n<pre>{{LootRecipe\n|result=9002381\n|m1=42572\n|m2=42573\n|m3=9002382\n}}</pre>\n<code>result</code> is the item that is made. <code>m1</code> to <code>m6</code> are the materials, and <code>a1</code> to <code>a6</code> are their amounts (1 if left out). <code>rgrade</code> and <code>g1</code> to <code>g6</code> are optional grades of the result and the materials (for example Celestial). <code>tag</code> is an optional word on the result, for example Craftable.\n\n<templatedata>\n{\n\t\"description\": \"A crafting recipe for a loot group, with the result on top and the materials under it.\",\n\t\"params\": {\n\t\t\"result\": { \"label\": \"Result item ID\", \"type\": \"number\", \"required\": true },\n\t\t\"rgrade\": { \"label\": \"Grade of the result\", \"type\": \"string\" },\n\t\t\"tag\": { \"label\": \"Tag on the result\", \"type\": \"string\" },\n\t\t\"label\": { \"label\": \"Label of the materials\", \"description\": \"Default is Materials.\", \"type\": \"string\", \"default\": \"Materials\" },\n\t\t\"m1\": { \"label\": \"Material 1 item ID\", \"type\": \"number\", \"required\": true }, \"a1\": { \"label\": \"Amount 1\", \"type\": \"number\", \"default\": \"1\" },\n\t\t\"m2\": { \"label\": \"Material 2 item ID\", \"type\": \"number\" }, \"a2\": { \"label\": \"Amount 2\", \"type\": \"number\", \"default\": \"1\" },\n\t\t\"m3\": { \"label\": \"Material 3 item ID\", \"type\": \"number\" }, \"a3\": { \"label\": \"Amount 3\", \"type\": \"number\", \"default\": \"1\" },\n\t\t\"m4\": { \"label\": \"Material 4 item ID\", \"type\": \"number\" }, \"a4\": { \"label\": \"Amount 4\", \"type\": \"number\", \"default\": \"1\" },\n\t\t\"m5\": { \"label\": \"Material 5 item ID\", \"type\": \"number\" }, \"a5\": { \"label\": \"Amount 5\", \"type\": \"number\", \"default\": \"1\" },\n\t\t\"m6\": { \"label\": \"Material 6 item ID\", \"type\": \"number\" }, \"a6\": { \"label\": \"Amount 6\", \"type\": \"number\", \"default\": \"1\" }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

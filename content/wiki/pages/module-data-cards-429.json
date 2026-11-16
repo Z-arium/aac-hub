@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-429",
+ "title": "Module:Data/Cards/429",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61219,
+ "revid": 63955,
+ "updated": "2026-11-03T16:33:28Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/429",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [42927] = { category = \"Talisman\", crafts = { { 9000339, \"Combat Manual\" }, { 9001330, \"Combat Manual x10\" } }, desc = \"Cast Time: |nc;2 seconds|r\", grade = \"Rare\", icon = \"icon_item_3838.png\", name = \"Combat Manual\", use = \"Select one of the following 4 effects.\\r\\nPersists for |nc;30 min|r.\\r\\n|nd;Combat Manual: Haste|r\\r\\n - Move Speed |nc;+7%|r\\r\\n|nd;Combat Manual: Awaken|r\\r\\n - All stats |nc;+50|r\\r\\n|nd;Combat Manual: Flame|r\\r\\n - Skill damage/healing effectiveness |nc;+4%|r\\r\\n|nd;Combat Manual: Temper|r\\r\\n - Received damage |nc;-5%|r\\r\\n|nd;Combat Manual: Ferocity|r\\r\\n - Combat skill cooldown |nc;-10%|r\\r\\n|ni;Only one of these effects can be activated at a time.|r\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42927] = { category = \"Talisman\", crafts = { { 9000339, \"Combat Manual\" }, { 9001330, \"Combat Manual x10\" } }, desc = \"Cast Time: |nc;2 seconds|r\", grade = \"Rare\", icon = \"icon_item_3838.png\", name = \"Combat Manual\", use = \"Select one of the following 4 effects.\\r\\nPersists for |nc;30 min|r.\\r\\n|nd;Combat Manual: Haste|r\\r\\n - Move Speed |nc;+7%|r\\r\\n|nd;Combat Manual: Awaken|r\\r\\n - All stats |nc;+50|r\\r\\n|nd;Combat Manual: Flame|r\\r\\n - Skill damage/healing effectiveness |nc;+4%|r\\r\\n|nd;Combat Manual: Temper|r\\r\\n - Received damage |nc;-5%|r\\r\\n|nd;Combat Manual: Ferocity|r\\r\\n - Combat skill cooldown |nc;-10%|r\\r\\n|ni;Only one of these effects can be activated at a time.|r\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42927] = { category = \"Talisman\", crafts = { { 9000339, \"Combat Manual\" }, { 9001330, \"Combat Manual x10\" } }, desc = \"Cast Time: |nc;2 seconds|r\", grade = \"Rare\", icon = \"icon_item_3838.png\", name = \"Combat Manual\", use = \"Select one of the following 4 effects.\\r\\nPersists for |nc;30 min|r.\\r\\n|nd;Combat Manual: Haste|r\\r\\n - Move Speed |nc;+7%|r\\r\\n|nd;Combat Manual: Awaken|r\\r\\n - All stats |nc;+50|r\\r\\n|nd;Combat Manual: Flame|r\\r\\n - Skill damage/healing effectiveness |nc;+4%|r\\r\\n|nd;Combat Manual: Temper|r\\r\\n - Received damage |nc;-5%|r\\r\\n|nd;Combat Manual: Ferocity|r\\r\\n - Combat skill cooldown |nc;-10%|r\\r\\n|ni;Only one of these effects can be activated at a time.|r\" },\n}"
+}

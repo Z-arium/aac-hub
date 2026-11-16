@@ -1,0 +1,16 @@
+{
+ "slug": "template-mainpagenews",
+ "title": "Template:MainPageNews",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61026,
+ "revid": 63582,
+ "updated": "2026-11-02T05:04:08Z",
+ "source": "https://wiki.aa-classic.com/Template:MainPageNews",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "2 Nov Added the new Main Page with search, skill trees and proficiencies. 2 Nov Sorcery skill tree added to the wiki. 1 Nov Mount and glider tooltips updated.",
+ "html": "<ul><li><b>2 Nov</b> Added the new Main Page with search, skill trees and proficiencies.</li>\n<li><b>2 Nov</b> Sorcery skill tree added to the wiki.</li>\n<li><b>1 Nov</b> Mount and glider tooltips updated.</li></ul>",
+ "wikitext": "* '''2 Nov''' Added the new Main Page with search, skill trees and proficiencies.\n* '''2 Nov''' Sorcery skill tree added to the wiki.\n* '''1 Nov''' Mount and glider tooltips updated."
+}
