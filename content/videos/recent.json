@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-17T08:28:48.430Z",
+  "updated": "2026-11-17T21:20:05.152Z",
   "videos": [
     {
-      "id": "QuugNA_W-fA",
+      "id": "m7lGaNzGCvQ",
+      "title": "Archeage Classic - Eludelu #6 Archer Edition",
+      "channel": "Zaros Play",
+      "channelUrl": "https://www.youtube.com/channel/UCpKB5v-ItLmvPRu5GSMSqPw",
+      "published": "2026-11-17T19:15:10Z"
+    },
+    {
+      "id": "n03Pp5GhnYk",
       "title": "Worst Pirate Attempt in ArcheAge Classic History 😂",
       "channel": "EgyptianKoziTV",
       "channelUrl": "https://www.youtube.com/channel/UC5wbY_f8pW9hvcKlz73OCJw",
-      "published": "2026-11-17T01:31:01Z"
+      "published": "2026-11-17T13:23:04Z"
     },
     {
       "id": "1OeK0iojq58",
@@ -329,13 +336,6 @@
       "channel": "Mc Nasty",
       "channelUrl": "https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ",
       "published": "2026-03-12T17:19:50+00:00"
-    },
-    {
-      "id": "DZn9XNq0MwI",
-      "title": "AA Classic 10 - always a holy war man...",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-03-12T03:51:36+00:00"
     }
   ]
 }
