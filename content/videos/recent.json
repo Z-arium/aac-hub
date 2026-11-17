@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-16T22:30:08.463Z",
+  "updated": "2026-11-17T08:28:48.430Z",
   "videos": [
+    {
+      "id": "QuugNA_W-fA",
+      "title": "Worst Pirate Attempt in ArcheAge Classic History 😂",
+      "channel": "EgyptianKoziTV",
+      "channelUrl": "https://www.youtube.com/channel/UC5wbY_f8pW9hvcKlz73OCJw",
+      "published": "2026-11-17T01:31:01Z"
+    },
+    {
+      "id": "1OeK0iojq58",
+      "title": "ARCHEAGE CLASSIC | TANK PVP PT.3  FEELIN' BIG FEELIN' GOOD",
+      "channel": "MGLAAC",
+      "channelUrl": "https://www.youtube.com/channel/UCV9mbcrEZ2h85Y6SgSAxF1Q",
+      "published": "2026-11-17T00:27:19Z"
+    },
     {
       "id": "oH_g2YT4qTI",
       "title": "ArcheAge Classic #12 2026",
@@ -42,6 +56,13 @@
       "channel": "Dovahkiing",
       "channelUrl": "https://www.youtube.com/channel/UCShpC8fjJm9g2RZ8_AfcfMg",
       "published": "2026-11-01T22:42:44Z"
+    },
+    {
+      "id": "8yYpW17aiqA",
+      "title": "AA-classic gameplay 2026",
+      "channel": "lIIIllIIIllIIIIIlllllIIIlI",
+      "channelUrl": "https://www.youtube.com/channel/UCUP4S-FPITCh8vmr-S9AU0Q",
+      "published": "2026-10-29T17:05:43Z"
     },
     {
       "id": "djTwVlt4PzQ",
@@ -209,7 +230,7 @@
       "title": "ArcheAge: Classic - Archery Timmy",
       "channel": "Ferelia ArcheAge",
       "channelUrl": "https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw",
-      "published": "2026-08-16T17:45:05Z"
+      "published": "2026-08-16T17:45:05+00:00"
     },
     {
       "id": "j8rtK1M7dDg",
@@ -231,13 +252,6 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-08-09T23:13:41+00:00"
-    },
-    {
-      "id": "e5a4ng4cJtY",
-      "title": "archeage classic - ashes.",
-      "channel": "nerd4tw",
-      "channelUrl": "https://www.youtube.com/channel/UCBC8L87Tms_dvuV7fJVrxHw",
-      "published": "2026-08-03T16:33:51Z"
     },
     {
       "id": "gF6FJZXlsb4",
@@ -322,20 +336,6 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-03-12T03:51:36+00:00"
-    },
-    {
-      "id": "205sG7yJuQM",
-      "title": "Archeage Classic: Me? heh Just mageing around",
-      "channel": "Aura",
-      "channelUrl": "https://www.youtube.com/channel/UCYod9FuuF2VHYidm-IHBwGQ",
-      "published": "2026-02-28T04:37:09+00:00"
-    },
-    {
-      "id": "SQTahdLBNA4",
-      "title": "AA Classic 9 - polar holy war",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-02-24T06:38:17+00:00"
     }
   ]
 }
