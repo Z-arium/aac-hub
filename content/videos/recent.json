@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:57:55.975Z",
+  "updated": "2026-11-20T07:44:32.020Z",
   "videos": [
     {
       "id": "m7lGaNzGCvQ",
@@ -63,13 +63,6 @@
       "channel": "Dovahkiing",
       "channelUrl": "https://www.youtube.com/channel/UCShpC8fjJm9g2RZ8_AfcfMg",
       "published": "2026-11-01T22:42:44Z"
-    },
-    {
-      "id": "8yYpW17aiqA",
-      "title": "AA-classic gameplay 2026",
-      "channel": "lIIIllIIIllIIIIIlllllIIIlI",
-      "channelUrl": "https://www.youtube.com/channel/UCUP4S-FPITCh8vmr-S9AU0Q",
-      "published": "2026-10-29T17:05:43Z"
     },
     {
       "id": "djTwVlt4PzQ",
@@ -146,7 +139,7 @@
       "title": "sloth glider type shiiii",
       "channel": "Ferelia ArcheAge",
       "channelUrl": "https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw",
-      "published": "2026-09-30T22:24:29+00:00"
+      "published": "2026-09-30T22:24:29Z"
     },
     {
       "id": "OnGFAppHSXA",
@@ -336,6 +329,13 @@
       "channel": "Mc Nasty",
       "channelUrl": "https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ",
       "published": "2026-03-12T17:19:50+00:00"
+    },
+    {
+      "id": "DZn9XNq0MwI",
+      "title": "AA Classic 10 - always a holy war man...",
+      "channel": "Godsu",
+      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
+      "published": "2026-03-12T03:51:36+00:00"
     }
   ]
 }
