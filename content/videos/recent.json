@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:41:18.309Z",
+  "updated": "2026-11-21T19:46:46.096Z",
   "videos": [
     {
       "id": "m7lGaNzGCvQ",
@@ -118,7 +118,7 @@
       "title": "Cowardly Lords Solo Fishing",
       "channel": "Angelklaine",
       "channelUrl": "https://www.youtube.com/channel/UCQE7XWk_0mWdWpiNwUTznyg",
-      "published": "2026-10-07T05:25:21+00:00"
+      "published": "2026-10-07T05:25:21Z"
     },
     {
       "id": "BGmDn9CGnq0",
@@ -230,7 +230,7 @@
       "title": "ArcheAge: Classic - Archery Timmy",
       "channel": "Ferelia ArcheAge",
       "channelUrl": "https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw",
-      "published": "2026-08-16T17:45:05+00:00"
+      "published": "2026-08-16T17:45:05Z"
     },
     {
       "id": "j8rtK1M7dDg",
@@ -252,6 +252,13 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-08-09T23:13:41+00:00"
+    },
+    {
+      "id": "e5a4ng4cJtY",
+      "title": "archeage classic - ashes.",
+      "channel": "nerd4tw",
+      "channelUrl": "https://www.youtube.com/channel/UCBC8L87Tms_dvuV7fJVrxHw",
+      "published": "2026-08-03T16:33:51Z"
     },
     {
       "id": "gF6FJZXlsb4",
@@ -329,13 +336,6 @@
       "channel": "Mc Nasty",
       "channelUrl": "https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ",
       "published": "2026-03-12T17:19:50+00:00"
-    },
-    {
-      "id": "DZn9XNq0MwI",
-      "title": "AA Classic 10 - always a holy war man...",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-03-12T03:51:36+00:00"
     }
   ]
 }
