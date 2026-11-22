@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-22T07:26:56.447Z",
+  "updated": "2026-11-22T19:57:49.014Z",
   "videos": [
+    {
+      "id": "tVtCq85tVKo",
+      "title": "Sea Ambush & Open World Chaos | ArcheAge Classic PvP",
+      "channel": "EgyptianKoziTV",
+      "channelUrl": "https://www.youtube.com/channel/UC5wbY_f8pW9hvcKlz73OCJw",
+      "published": "2026-11-22T16:04:11Z"
+    },
     {
       "id": "m7lGaNzGCvQ",
       "title": "Archeage Classic - Eludelu #6 Archer Edition",
@@ -329,13 +336,6 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-04-23T18:00:53+00:00"
-    },
-    {
-      "id": "NMufWYPNNQs",
-      "title": "Archeage Classic PvP - Reign - Holy War Shenanigans",
-      "channel": "Mc Nasty",
-      "channelUrl": "https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ",
-      "published": "2026-03-12T17:19:50+00:00"
     }
   ]
 }
