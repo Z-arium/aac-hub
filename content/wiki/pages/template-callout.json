@@ -1,0 +1,50 @@
+{
+ "slug": "template-callout",
+ "title": "Template:CallOut",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61331,
+ "revid": 64547,
+ "updated": "2026-11-06T09:12:30Z",
+ "source": "https://wiki.aa-classic.com/Template:CallOut",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Title",
+     "title",
+     "no descriptionDefaultTips",
+     "String",
+     "optional"
+    ],
+    [
+     "Colour",
+     "type",
+     "no descriptionSuggested valuesinfo danger control heal debuff rewardDefaultreward",
+     "String",
+     "optional"
+    ],
+    [
+     "Content",
+     "1 text",
+     "no description",
+     "Content",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "A highlighted box for tips or warnings. Write a normal bullet list inside it. Usage {{Callout|title=Tips| * First tip. * Second tip. }} title defaults to Tips. type uses the same colours as Template:Tl and defaults to reward (gold). If the text contains an equals sign, write text= in front of it. A highlighted box with a title and a list, for tips or warnings. Template parameters Parameter Description Type Status Title title no description Default Tips String optional Colour type no description Suggested values info danger control heal debuff reward Default reward String optional Content 1 text no description Content optional",
+ "html": "<p>A highlighted box for tips or warnings. Write a normal bullet list inside it.\n</p><p><b>Usage</b>\n</p>\n<pre>{{Callout|title=Tips|\n* First tip.\n* Second tip.\n}}</pre>\n<ul><li><b>title</b> defaults to Tips. <b>type</b> uses the same colours as <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a> and defaults to <code>reward</code> (gold).</li>\n<li>If the text contains an equals sign, write <code>text=</code> in front of it.</li></ul>\n<section><header><p>A highlighted box with a title and a list, for tips or warnings.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:CallOut\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Title</th><td><code>title</code></td><td><p>no description</p><dl><dt>Default</dt><dd>Tips</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Colour</th><td><code>type</code></td><td><p>no description</p><dl><dt>Suggested values</dt><dd><code>info</code> <code>danger</code> <code>control</code> <code>heal</code> <code>debuff</code> <code>reward</code></dd><dt>Default</dt><dd>reward</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Content</th><td><code>1</code> <code>text</code></td><td><p>no description</p><dl></dl></td><td>Content</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"InfoCard/styles.css\" /><div class=\"aa-callout aa-info-{{{type|reward}}}\"><div class=\"aa-callout-title\">{{{title|Tips}}}</div><div class=\"aa-callout-body\">{{{1|{{{text|}}}}}}</div></div></includeonly><noinclude>\nA highlighted box for tips or warnings. Write a normal bullet list inside it.\n\n'''Usage'''\n<pre>{{Callout|title=Tips|\n* First tip.\n* Second tip.\n}}</pre>\n* '''title''' defaults to Tips. '''type''' uses the same colours as {{tl|InfoCard}} and defaults to <code>reward</code> (gold).\n* If the text contains an equals sign, write <code>text=</code> in front of it.\n<templatedata>\n{\n\t\"description\": \"A highlighted box with a title and a list, for tips or warnings.\",\n\t\"params\": {\n\t\t\"title\": { \"label\": \"Title\", \"type\": \"string\", \"default\": \"Tips\" },\n\t\t\"type\": { \"label\": \"Colour\", \"type\": \"string\", \"default\": \"reward\", \"suggestedvalues\": [\"info\", \"danger\", \"control\", \"heal\", \"debuff\", \"reward\"] },\n\t\t\"1\": { \"label\": \"Content\", \"type\": \"content\", \"aliases\": [\"text\"] }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-266",
+ "title": "Module:Data/Cards/266",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60990,
+ "revid": 63423,
+ "updated": "2026-10-31T00:16:10Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/266",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [26675] = { bind = \"soulbound_equip\", category = \"Cloak\", desc = \"Produced high in the mountains of Auroria, in a narrow pass gusting with wind, these cloaks are said to be imbued with power flowing from the legendary \\\"navel of the world.\\\"\", grade = \"Arcane\", icon = \"costume_cp/cp_cloth029.png\", name = \"Axis Mundi Aegis\", req = 50 }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[26675] = { bind = \"soulbound_equip\", category = \"Cloak\", desc = \"Produced high in the mountains of Auroria, in a narrow pass gusting with wind, these cloaks are said to be imbued with power flowing from the legendary \\\"navel of the world.\\\"\", grade = \"Arcane\", icon = \"costume_cp/cp_cloth029.png\", name = \"Axis Mundi Aegis\", req = 50 },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[26675] = { bind = \"soulbound_equip\", category = \"Cloak\", desc = \"Produced high in the mountains of Auroria, in a narrow pass gusting with wind, these cloaks are said to be imbued with power flowing from the legendary \\\"navel of the world.\\\"\", grade = \"Arcane\", icon = \"costume_cp/cp_cloth029.png\", name = \"Axis Mundi Aegis\", req = 50 },\n}"
+}

@@ -1,0 +1,419 @@
+{
+ "slug": "news-1-3-6-preview-enlightened-skills",
+ "title": "News/1.3.6 Preview - Enlightened Skills",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61086,
+ "revid": 63668,
+ "updated": "2026-11-02T16:29:35Z",
+ "source": "https://wiki.aa-classic.com/News/1.3.6_Preview_-_Enlightened_Skills",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Enlightened_Skills",
+   "text": "Enlightened Skills"
+  },
+  {
+   "level": 2,
+   "id": "Perfect_Lunasigils",
+   "text": "Perfect Lunasigils"
+  },
+  {
+   "level": 2,
+   "id": "Radiant/Hollow_Lunamark",
+   "text": "Radiant/Hollow Lunamark"
+  },
+  {
+   "level": 2,
+   "id": "Skill_Effects",
+   "text": "Skill Effects"
+  },
+  {
+   "level": 2,
+   "id": "Battlerage",
+   "text": "Battlerage"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Terrifying_Roar",
+   "text": "Radiant Terrifying Roar"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Frenzy",
+   "text": "Hollow Frenzy"
+  },
+  {
+   "level": 2,
+   "id": "Archery",
+   "text": "Archery"
+  },
+  {
+   "level": 2,
+   "id": "Radiant_Snare_&_Radiant_Boneyard",
+   "text": "Radiant Snare & Radiant Boneyard"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Snare",
+   "text": "Radiant Snare"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Boneyard",
+   "text": "Radiant Boneyard"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Deadeye",
+   "text": "Hollow Deadeye"
+  },
+  {
+   "level": 2,
+   "id": "Sorcery",
+   "text": "Sorcery"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Insulating_Lens",
+   "text": "Radiant Insulating Lens"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Searing_Rain",
+   "text": "Hollow Searing Rain"
+  },
+  {
+   "level": 2,
+   "id": "Vitalism",
+   "text": "Vitalism"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Revive",
+   "text": "Radiant Revive"
+  },
+  {
+   "level": 3,
+   "id": "Nui's_Salvation",
+   "text": "Nui's Salvation"
+  },
+  {
+   "level": 3,
+   "id": "Nui's_Divinity",
+   "text": "Nui's Divinity"
+  },
+  {
+   "level": 3,
+   "id": "Death's_Judgement",
+   "text": "Death's Judgement"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Renewal",
+   "text": "Hollow Renewal"
+  },
+  {
+   "level": 2,
+   "id": "Shadowplay",
+   "text": "Shadowplay"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Stalker's_Mark",
+   "text": "Radiant Stalker's Mark"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Throw_Dagger",
+   "text": "Hollow Throw Dagger"
+  },
+  {
+   "level": 2,
+   "id": "Songcraft",
+   "text": "Songcraft"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Loudspeaker",
+   "text": "Radiant Loudspeaker"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Critical_Discord",
+   "text": "Hollow Critical Discord"
+  },
+  {
+   "level": 2,
+   "id": "Auramancy",
+   "text": "Auramancy"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Meditate",
+   "text": "Radiant Meditate"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Comet's_Boon",
+   "text": "Hollow Comet's Boon"
+  },
+  {
+   "level": 2,
+   "id": "Defense",
+   "text": "Defense"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Mettle",
+   "text": "Radiant Mettle"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Ollo's_Hammer",
+   "text": "Hollow Ollo's Hammer"
+  },
+  {
+   "level": 2,
+   "id": "Occultism",
+   "text": "Occultism"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Mana_Force",
+   "text": "Radiant Mana Force"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Absorb_Lifeforce",
+   "text": "Hollow Absorb Lifeforce"
+  },
+  {
+   "level": 2,
+   "id": "Witchcraft",
+   "text": "Witchcraft"
+  },
+  {
+   "level": 3,
+   "id": "Radiant_Play_Dead",
+   "text": "Radiant Play Dead"
+  },
+  {
+   "level": 3,
+   "id": "Hollow_Focal_Concussion",
+   "text": "Hollow Focal Concussion"
+  }
+ ],
+ "tables": [
+  {
+   "heading": "Perfect Lunasigils",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Perfect Stone Lunasigil",
+     "+20 Stamina +20 Spirit"
+    ],
+    [
+     "Perfect Mist Lunasigil",
+     "+20 Agility +20 Spirit"
+    ],
+    [
+     "Perfect Squall Lunasigil",
+     "+20 Agility +20 Stamina"
+    ],
+    [
+     "Perfect Meteor Lunasigil",
+     "+20 Strength +20 Spirit"
+    ],
+    [
+     "Perfect Desert Lunasigil",
+     "+20 Strength +20 Stamina"
+    ],
+    [
+     "Perfect Sunset Lunasigil",
+     "+20 Strength +20 Intelligence"
+    ],
+    [
+     "Perfect Tidal Lunasigil",
+     "+20 Agility +20 Intelligence"
+    ],
+    [
+     "Perfect Lake Lunasigil",
+     "+20 Stamina +20 Intelligence"
+    ],
+    [
+     "Perfect Flame Lunasigil",
+     "+35 Strength"
+    ],
+    [
+     "Perfect Earth Lunasigil",
+     "+35 Stamina"
+    ],
+    [
+     "Perfect Meadow Lunasigil",
+     "+20 Intelligence +20 Spirit"
+    ],
+    [
+     "Perfect Lightning Lunasigil",
+     "+20 Strength +20 Agility"
+    ],
+    [
+     "Perfect Wave Lunasigil",
+     "+35 Intelligence"
+    ],
+    [
+     "Perfect Life Lunasigil",
+     "+35 Spirit"
+    ],
+    [
+     "Perfect Gale Lunasigil",
+     "+35 Agility"
+    ]
+   ]
+  },
+  {
+   "heading": "Radiant/Hollow Lunamark",
+   "caption": "",
+   "headers": [
+    "Name",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Radiant Battlerage Mark",
+     "Applies Radiant characteristics to Terrifying Roar."
+    ],
+    [
+     "Hollow Battlerage Mark",
+     "Applies Hollow characteristics to Frenzy."
+    ],
+    [
+     "Radiant Witchcraft Mark",
+     "Applies Radiant characteristics to Play Dead."
+    ],
+    [
+     "Hollow Witchcraft Mark",
+     "Applies Hollow characteristics to Focal Concussion."
+    ],
+    [
+     "Radiant Defense Mark",
+     "Applies Radiant characteristics to Mettle."
+    ],
+    [
+     "Hollow Defense Mark",
+     "Applies Hollow characteristics to Ollo's Hammer."
+    ],
+    [
+     "Hollow Shadowplay Mark",
+     "Applies Hollow characteristics to Throw Dagger."
+    ],
+    [
+     "Radiant Shadowplay Mark",
+     "Applies Radiant characteristics to Stalker's Mark."
+    ],
+    [
+     "Radiant Sorcery Mark",
+     "Applies Radiant characteristics to Insulating Lens."
+    ],
+    [
+     "Hollow Sorcery Mark",
+     "Applies Hollow Characteristics to Searing Rain."
+    ],
+    [
+     "Radiant Songcraft Mark",
+     "Applies Radiant characteristics to Loudspeaker."
+    ],
+    [
+     "Hollow Songcraft Mark",
+     "Applies Hollow characteristics to Critical Discord."
+    ],
+    [
+     "Radiant Auramancy Mark",
+     "Applies Radiant characteristics to Meditate."
+    ],
+    [
+     "Hollow Auramancy Mark",
+     "Applies Hollow characteristics to Comet's Boon."
+    ],
+    [
+     "Radiant Archery Mark",
+     "Applies Radiant characteristics to Boneyard and Snare."
+    ],
+    [
+     "Hollow Archery Mark",
+     "Applies Hollow characteristics to Deadeye."
+    ],
+    [
+     "Radiant Occultism Mark",
+     "Applies Radiant characteristics to Absorb Life."
+    ],
+    [
+     "Hollow Occultism Mark",
+     "Applies Hollow characteristics to Mana Force."
+    ],
+    [
+     "Hollow Vitalism Mark",
+     "Applies Hollow characteristics to Renewal."
+    ],
+    [
+     "Radiant Vitalism Mark",
+     "Applies Radiant characteristics to Vitalism."
+    ]
+   ]
+  },
+  {
+   "heading": "Radiant Mettle",
+   "caption": "",
+   "headers": [
+    "Effect",
+    "Bonus"
+   ],
+   "rows": [
+    [
+     "Shield Block Rate",
+     "+3%"
+    ],
+    [
+     "Damage Converted to Health",
+     "+3%"
+    ],
+    [
+     "Chance to Evade Magic",
+     "+3%"
+    ]
+   ]
+  }
+ ],
+ "images": [
+  "News skills thumbnail-ca55eb.png",
+  "News chart-d7d71b.png",
+  "News radiant terrifying roar-d270d4.png",
+  "News hollow frenzy-66b4ed.png",
+  "News radiant snare-0175a6.png",
+  "News radiant boneyard-8d59b9.png",
+  "News hollow deadeye-01ddd0.png",
+  "News radiant focus lens-f8a161.png",
+  "News hollow searing rain-bb26f4.png",
+  "News radiant revive-11f980.png",
+  "News hollow renewal-87463b.png",
+  "News radiant stalkers-dcaec1.png",
+  "News hollow throw dagger-4d7918.png",
+  "News radiant loudspeaker-749554.png",
+  "News hollow critical discord-da2fb4.png",
+  "News radiant meditate-baafe3.png",
+  "News hollow comets boon-e077d4.png",
+  "News radiant mettle-b04c55.png",
+  "News hollow ollos hammer-b21e09.png",
+  "News radiant manaforce-5427bd.png",
+  "News hollow absorb lifeforce-2eca23.png",
+  "News radiant play dead-15308d.png",
+  "News hollow focal concussion-b18239.png"
+ ],
+ "text": "Announcement30 August 2026·All news·Original post on aa-classic.com 1.3.6 Preview - Enlightened Skills Sixth post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Skills. In Discovery, there will be an assortment of skill modifications that players can utilize with their Enlightened Ayanad Necklaces to change how their existing skills work. Enlightened Skills These skill modifications are known as Enlightened Skills, and they are enchanted on any type of Enlightened Necklace. This works with the base necklaces, but also the fused necklaces with boss equivalents that we mentioned in a previous blogpost. Perfect Lunasigils For stat options on Enlightened Necklaces, as your first choice, the following will be available: Perfect Lunasigils Options Name Effect Perfect Stone Lunasigil +20 Stamina +20 Spirit Perfect Mist Lunasigil +20 Agility +20 Spirit Perfect Squall Lunasigil +20 Agility +20 Stamina Perfect Meteor Lunasigil +20 Strength +20 Spirit Perfect Desert Lunasigil +20 Strength +20 Stamina Perfect Sunset Lunasigil +20 Strength +20 Intelligence Perfect Tidal Lunasigil +20 Agility +20 Intelligence Perfect Lake Lunasigil +20 Stamina +20 Intelligence Perfect Flame Lunasigil +35 Strength Perfect Earth Lunasigil +35 Stamina Perfect Meadow Lunasigil +20 Intelligence +20 Spirit Perfect Lightning Lunasigil +20 Strength +20 Agility Perfect Wave Lunasigil +35 Intelligence Perfect Life Lunasigil +35 Spirit Perfect Gale Lunasigil +35 Agility Radiant/Hollow Lunamark For skill modifications on Enlightened Necklaces, as option two, Lunamarks will be available as either a Radiant or Hollow variant. Only one Lunamark can be active at a time. This means that you may only pick ONE radiant skill/hollow skill at a time. Radiant & Hollow Lunamarks Options Name Effect Radiant Battlerage Mark Applies Radiant characteristics to Terrifying Roar. Hollow Battlerage Mark Applies Hollow characteristics to Frenzy. Radiant Witchcraft Mark Applies Radiant characteristics to Play Dead. Hollow Witchcraft Mark Applies Hollow characteristics to Focal Concussion. Radiant Defense Mark Applies Radiant characteristics to Mettle. Hollow Defense Mark Applies Hollow characteristics to Ollo's Hammer. Hollow Shadowplay Mark Applies Hollow characteristics to Throw Dagger. Radiant Shadowplay Mark Applies Radiant characteristics to Stalker's Mark. Radiant Sorcery Mark Applies Radiant characteristics to Insulating Lens. Hollow Sorcery Mark Applies Hollow Characteristics to Searing Rain. Radiant Songcraft Mark Applies Radiant characteristics to Loudspeaker. Hollow Songcraft Mark Applies Hollow characteristics to Critical Discord. Radiant Auramancy Mark Applies Radiant characteristics to Meditate. Hollow Auramancy Mark Applies Hollow characteristics to Comet's Boon. Radiant Archery Mark Applies Radiant characteristics to Boneyard and Snare. Hollow Archery Mark Applies Hollow characteristics to Deadeye. Radiant Occultism Mark Applies Radiant characteristics to Absorb Life. Hollow Occultism Mark Applies Hollow characteristics to Mana Force. Hollow Vitalism Mark Applies Hollow characteristics to Renewal. Radiant Vitalism Mark Applies Radiant characteristics to Vitalism. Skill Effects Radiant Marks lean more towards a support/defensive modification. Hollow leans more towards an offensive modification. Battlerage Radiant Terrifying Roar Strengthens all allies within 5m for 12 seconds. Reduces the duration of crowd control effects by 30%. The player is not affected by this skill's effects. No longer increases CC duration of nearby enemies. Hollow Frenzy Whenever damage is received: +30 Melee Attack +30 Magic Attack +40 Attack Speed Whenever you damage an enemy: +5% Move Speed +300 Focus +3% Damage Taken All effects can stack up to 5 times. Duration Lasts for 12 seconds. Duration increases by +3 seconds per kill. Archery Radiant Snare & Radiant Boneyard Radiant Snare Plants a 4m-wide trap beneath your feet. Trap Duration Lasts up to 60 seconds. Ends when an enemy triggers the trap. Trap Effect When triggered, the trap: Inflicts Snare for 4 seconds. Inflicts Silence for 2 seconds. Affects all enemies within 5m. Reduces Evasion, Block, and Parry by 8%. Maximum Traps Up to 3 Snare Traps can be placed at once. Radiant Boneyard Plants a 4m-wide trap beneath your feet. Trap Duration Lasts up to 60 seconds. Ends when an enemy triggers the trap. Trap Effect When triggered, the trap: Explodes, dealing Ranged Damage to all enemies within 5m. Trips all affected enemies briefly. Confines affected enemies within a Bone Prison. Bone Prison Lasts up to 10 seconds if not destroyed. Maximum Traps Up to 2 Boneyard Traps can be placed at once. Hollow Deadeye The damage bonus is removed if you remain stationary for at least 1 second. Deadeye becomes more powerful as you continue moving, up to +160 Ranged Attack. Movement stacks accumulate while Deadeye is active, up to 100 stacks. Upon reaching 100 stacks, your next Snipe will be instant cast. Duration Deadeye lasts for 60 seconds. Sorcery Radiant Insulating Lens Encases the player in a block of ice for 5 seconds. While encased: Immune to Damage. Immune to Crowd Control. Immune to Negative Effects. Cannot receive Healing. Can be activated while affected by any Crowd Control effect. The skill's duration cannot be cancelled early. Hollow Searing Rain Rains down fire on all enemies within a 10m radius for 7 seconds, dealing Magic Damage. Casting Can be cast at a target location up to 20m away. The caster is immune to all Crowd Control while channeling. Vitalism Radiant Revive Cooldown: 5 minutes Cast Time: Instant Grants Nui's Salvation to a target for 5 seconds. If the target would otherwise die during this period, they are saved from death and granted Nui's Divinity. Cooldown If a life is saved, this effect cannot be used again for 5 minutes. Nui's Salvation Upon certain death: Grants Nui's Divinity. Nui's Divinity Grants the target Immortality. While active: Immune to Damage. Immune to Debuffs. Cannot move. Lasts for 3 seconds. Death's Judgement At the end of Nui's Divinity, Death determines whether the target remains alive. If the target has less than 80% Health when Immortality ends, they automatically die. Hollow Renewal Calls forth energy from the land to curse an enemy for 30 seconds. Whenever the cursed enemy receives damage: Has a 2% chance for the stored energy to erupt. Heals all of your allies within 4m of the enemy with Gradual Recovery. Gradual Recovery - Increases Continuous Health Regen for 5.5s (what Renewal already does). Shadowplay Radiant Stalker's Mark Inflicts Ranged Damage and marks enemies for 15s. Damage is reduced by 20% if the target is within 8m. Attacks against the marked target push them backward. The knockback effect can occur once every 2 seconds. Hollow Throw Dagger Changes the damage type of Throw Dagger based on the equipped weapon: Dagger: Ranged Damage Scepter: Magic Damage Bloodthirst Consumes Bloodthirst stacks when used. Gains 1 additional target per Bloodthirst stack consumed. Songcraft Radiant Loudspeaker Increases the range of the following skills to 37m: Quickstep Ode to Recovery Bloody Chantey Bulwark Ballad Grief's Cadence Hollow Critical Discord Deals Magic Damage to up to 10 nearby enemies within a 5m radius around the caster. Inflicts Charmed for 8 seconds. Casting Normally has a 4-second cast time. Becomes instant if the caster has 15 stacks of Rhythm. Auramancy Radiant Meditate Grants the caster a buff that regenerates 4% Mana every 2 seconds. Duration Lasts for 8 seconds. Additional Effect When the buff ends: Resets the cooldown of Teleport. Resets the cooldown of Mirror Warp. Hollow Comet's Boon Fires three flashes of light in a cone. Deals Magic Damage to all enemies hit. Increases Move Speed of allies it passes through. Inspires allies it passes through. Slows enemies it passes through. Defense Radiant Mettle Refreshment and Toughen also grant Radiant Mettle while taking damage. Can stack up to 5 times. Each stack grants: Effect Bonus Shield Block Rate +3% Damage Converted to Health +3% Chance to Evade Magic +3% Hollow Ollo's Hammer Summons Ollo's Shield and hurls it toward a target location. Impact Effect If the shield hits an enemy: Inflicts Disarm for 3 seconds. Deals Physical Damage to enemies within 3m of the target location. Shield Effect Once the shield lands: Emanates a protective shield every second. Protects all allies within the area for up to 3,000 damage. Occultism Radiant Mana Force Pulls an enemy or an ally toward the caster, dealing Magic Damage. Restores Mana equal to 50% of the damage dealt. Cooldown is reduced to 30 seconds. Can be cast 3 times in a row. Pulls the target 10m. Range is extended to 25m. Hollow Absorb Lifeforce Inflicts a debuff that deals Magic Damage to the enemy over 5 seconds. Heals the caster for 50% of the damage dealt. Deals an additional 140% damage to pets. Penetrates immunity effects on pets. The debuff ends early if the target moves far enough away from the caster. No longer a channeled ability. Works like Crippling Mire. Witchcraft Radiant Play Dead Allows the caster to play dead to escape danger. After a 1-second cast: Breaks the caster free from Snared effects. Breaks the caster free from Slowed effects. Breaks the caster free from Lassitude effects. Hollow Focal Concussion Deals Magic Damage and Stuns an enemy for 1.5 seconds. If the target has any positive buffs: Removes 1 positive buff. Deals additional damage when the Stun ends. Baleful Recharge Removes 1 additional positive buff when stunning the target for each stack of Baleful Recharge.",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/d5/d5b9978b407e3d418eb13e8bda591ae631eb6374.png\" width=\"1200\" height=\"400\" loading=\"lazy\"></span></span></div><div><div><span>Announcement</span><span>30 August 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/136-preview-enlightened-skills\">Original post on aa-classic.com</a></div><div>1.3.6 Preview - Enlightened Skills</div><div>Sixth post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Skills.</div></div></div>\n<p>In Discovery, there will be an assortment of skill modifications that players can utilize with their Enlightened Ayanad Necklaces to change how their existing skills work.\n</p>\n\n<h2 id=\"Enlightened_Skills\">Enlightened Skills</h2>\n<p>These skill modifications are known as Enlightened Skills, and they are enchanted on any type of Enlightened Necklace. This works with the base necklaces, but also the fused necklaces with boss equivalents that we mentioned in a previous blogpost.\n</p>\n<figure><img alt=\"chart\" src=\"/wiki-files/03/03c0f607ee9c00ed938f2e7b4dab35b53475dc4f.png\" width=\"700\" height=\"642\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2 id=\"Perfect_Lunasigils\">Perfect Lunasigils</h2>\n<p>For stat options on Enlightened Necklaces, as your first choice, the following will be available:\n</p><p><b>Perfect Lunasigils</b>\n<i>Options</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Perfect Stone Lunasigil</td>\n<td>+20 Stamina<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Mist Lunasigil</td>\n<td>+20 Agility<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Squall Lunasigil</td>\n<td>+20 Agility<br>+20 Stamina\n</td></tr>\n<tr>\n<td>Perfect Meteor Lunasigil</td>\n<td>+20 Strength<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Desert Lunasigil</td>\n<td>+20 Strength<br>+20 Stamina\n</td></tr>\n<tr>\n<td>Perfect Sunset Lunasigil</td>\n<td>+20 Strength<br>+20 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Tidal Lunasigil</td>\n<td>+20 Agility<br>+20 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Lake Lunasigil</td>\n<td>+20 Stamina<br>+20 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Flame Lunasigil</td>\n<td>+35 Strength\n</td></tr>\n<tr>\n<td>Perfect Earth Lunasigil</td>\n<td>+35 Stamina\n</td></tr>\n<tr>\n<td>Perfect Meadow Lunasigil</td>\n<td>+20 Intelligence<br>+20 Spirit\n</td></tr>\n<tr>\n<td>Perfect Lightning Lunasigil</td>\n<td>+20 Strength<br>+20 Agility\n</td></tr>\n<tr>\n<td>Perfect Wave Lunasigil</td>\n<td>+35 Intelligence\n</td></tr>\n<tr>\n<td>Perfect Life Lunasigil</td>\n<td>+35 Spirit\n</td></tr>\n<tr>\n<td>Perfect Gale Lunasigil</td>\n<td>+35 Agility\n</td></tr></tbody></table>\n<h2 id=\"Radiant/Hollow_Lunamark\"><span></span>Radiant/Hollow Lunamark</h2>\n<p>For skill modifications on Enlightened Necklaces, as option two, Lunamarks will be available as either a Radiant or Hollow variant.\n</p><p>Only one Lunamark can be active at a time. This means that you may only pick ONE radiant skill/hollow skill at a time.\n</p><p><b>Radiant &amp; Hollow Lunamarks</b>\n<i>Options</i>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Effect\n</th></tr>\n<tr>\n<td>Radiant Battlerage Mark</td>\n<td>Applies Radiant characteristics to Terrifying Roar.\n</td></tr>\n<tr>\n<td>Hollow Battlerage Mark</td>\n<td>Applies Hollow characteristics to Frenzy.\n</td></tr>\n<tr>\n<td>Radiant Witchcraft Mark</td>\n<td>Applies Radiant characteristics to Play Dead.\n</td></tr>\n<tr>\n<td>Hollow Witchcraft Mark</td>\n<td>Applies Hollow characteristics to Focal Concussion.\n</td></tr>\n<tr>\n<td>Radiant Defense Mark</td>\n<td>Applies Radiant characteristics to Mettle.\n</td></tr>\n<tr>\n<td>Hollow Defense Mark</td>\n<td>Applies Hollow characteristics to Ollo's Hammer.\n</td></tr>\n<tr>\n<td>Hollow Shadowplay Mark</td>\n<td>Applies Hollow characteristics to Throw Dagger.\n</td></tr>\n<tr>\n<td>Radiant Shadowplay Mark</td>\n<td>Applies Radiant characteristics to Stalker's Mark.\n</td></tr>\n<tr>\n<td>Radiant Sorcery Mark</td>\n<td>Applies Radiant characteristics to Insulating Lens.\n</td></tr>\n<tr>\n<td>Hollow Sorcery Mark</td>\n<td>Applies Hollow Characteristics to Searing Rain.\n</td></tr>\n<tr>\n<td>Radiant Songcraft Mark</td>\n<td>Applies Radiant characteristics to Loudspeaker.\n</td></tr>\n<tr>\n<td>Hollow Songcraft Mark</td>\n<td>Applies Hollow characteristics to Critical Discord.\n</td></tr>\n<tr>\n<td>Radiant Auramancy Mark</td>\n<td>Applies Radiant characteristics to Meditate.\n</td></tr>\n<tr>\n<td>Hollow Auramancy Mark</td>\n<td>Applies Hollow characteristics to Comet's Boon.\n</td></tr>\n<tr>\n<td>Radiant Archery Mark</td>\n<td>Applies Radiant characteristics to Boneyard and Snare.\n</td></tr>\n<tr>\n<td>Hollow Archery Mark</td>\n<td>Applies Hollow characteristics to Deadeye.\n</td></tr>\n<tr>\n<td>Radiant Occultism Mark</td>\n<td>Applies Radiant characteristics to Absorb Life.\n</td></tr>\n<tr>\n<td>Hollow Occultism Mark</td>\n<td>Applies Hollow characteristics to Mana Force.\n</td></tr>\n<tr>\n<td>Hollow Vitalism Mark</td>\n<td>Applies Hollow characteristics to Renewal.\n</td></tr>\n<tr>\n<td>Radiant Vitalism Mark</td>\n<td>Applies Radiant characteristics to Vitalism.\n</td></tr></tbody></table>\n<h2 id=\"Skill_Effects\">Skill Effects</h2>\n<p>Radiant Marks lean more towards a support/defensive modification. Hollow leans more towards an offensive modification.\n</p>\n<hr>\n<h2 id=\"Battlerage\">Battlerage</h2>\n<h3 id=\"Radiant_Terrifying_Roar\"><span><span><img alt src=\"/wiki-files/79/79f50d588f45d6ded6ea471f4cf36169a204e524.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Terrifying Roar</h3>\n<p>Strengthens all allies within <b>5m</b> for <b>12 seconds</b>.\n</p>\n<ul><li>Reduces the duration of crowd control effects by <b>30%</b>.</li></ul>\n<blockquote>\n<p>The player is not affected by this skill's effects.\nNo longer increases CC duration of nearby enemies.\n</p>\n</blockquote>\n<hr>\n<h3 id=\"Hollow_Frenzy\"><span><span><img alt src=\"/wiki-files/76/76497b2a487526134be60c6451c471d3010477ad.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Frenzy</h3>\n<p>Whenever damage is received:\n</p>\n<ul><li><b>+30 Melee Attack</b></li>\n<li><b>+30 Magic Attack</b></li>\n<li><b>+40 Attack Speed</b></li></ul>\n<p>Whenever you damage an enemy:\n</p>\n<ul><li><b>+5% Move Speed</b></li>\n<li><b>+300 Focus</b></li>\n<li><b>+3% Damage Taken</b></li></ul>\n<p>All effects can <b>stack up to 5 times</b>.\n</p><p><b>Duration</b>\n</p>\n<ul><li>Lasts for <b>12 seconds</b>.</li>\n<li>Duration increases by <b>+3 seconds per kill</b>.</li></ul>\n<hr>\n<h2 id=\"Archery\">Archery</h2>\n<h2 id=\"Radiant_Snare_&amp;_Radiant_Boneyard\"><span></span><span><span><img alt src=\"/wiki-files/1e/1e1f7268ebea487a169f304ac4f4644730312576.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span><span><span><img alt src=\"/wiki-files/cb/cb3d664ef23485dc7212a2502517f419e3fb8940.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Snare &amp; Radiant Boneyard</h2>\n<h3 id=\"Radiant_Snare\"><span><span><img alt src=\"/wiki-files/1e/1e1f7268ebea487a169f304ac4f4644730312576.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Snare</h3>\n<p>Plants a <b>4m-wide trap</b> beneath your feet.\n</p><p><b>Trap Duration</b>\n</p>\n<ul><li>Lasts up to <b>60 seconds</b>.</li>\n<li>Ends when an enemy triggers the trap.</li></ul>\n<p><b>Trap Effect</b>\n</p><p>When triggered, the trap:\n</p>\n<ul><li>Inflicts <b>Snare</b> for <b>4 seconds</b>.</li>\n<li>Inflicts <b>Silence</b> for <b>2 seconds</b>.</li>\n<li>Affects all enemies within <b>5m</b>.</li>\n<li>Reduces <b>Evasion, Block, and Parry</b> by <b>8%</b>.</li></ul>\n<p><b>Maximum Traps</b>\n</p>\n<ul><li>Up to <b>3 Snare Traps</b> can be placed at once.</li></ul>\n<hr>\n<h3 id=\"Radiant_Boneyard\"><span><span><img alt src=\"/wiki-files/cb/cb3d664ef23485dc7212a2502517f419e3fb8940.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Boneyard</h3>\n<p>Plants a <b>4m-wide trap</b> beneath your feet.\n</p><p><b>Trap Duration</b>\n</p>\n<ul><li>Lasts up to <b>60 seconds</b>.</li>\n<li>Ends when an enemy triggers the trap.</li></ul>\n<p><b>Trap Effect</b>\n</p><p>When triggered, the trap:\n</p>\n<ul><li>Explodes, dealing <b>Ranged Damage</b> to all enemies within <b>5m</b>.</li>\n<li><b>Trips</b> all affected enemies briefly.</li>\n<li>Confines affected enemies within a <b>Bone Prison</b>.</li></ul>\n<p><b>Bone Prison</b>\n</p>\n<ul><li>Lasts up to <b>10 seconds</b> if not destroyed.</li></ul>\n<p><b>Maximum Traps</b>\n</p>\n<ul><li>Up to <b>2 Boneyard Traps</b> can be placed at once.</li></ul>\n<hr>\n<h3 id=\"Hollow_Deadeye\"><span><span><img alt src=\"/wiki-files/1b/1b0eeb6a36016aef397dc5383d3036d8e872175f.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Deadeye</h3>\n<ul><li>The damage bonus is removed if you remain stationary for at least <b>1 second</b>.</li>\n<li>Deadeye becomes more powerful as you continue moving, up to <b>+160 Ranged Attack</b>.</li>\n<li>Movement stacks accumulate while Deadeye is active, up to <b>100 stacks</b>.</li>\n<li>Upon reaching <b>100 stacks</b>, your next <b>Snipe</b> will be instant cast.</li></ul>\n<p><b>Duration</b>\n</p>\n<ul><li>Deadeye lasts for <b>60 seconds</b>.</li></ul>\n<hr>\n<h2 id=\"Sorcery\">Sorcery</h2>\n<h3 id=\"Radiant_Insulating_Lens\"><span><span><img alt src=\"/wiki-files/fd/fdcddf7f8fd31715a7b2d29085505fa6fe2d44ff.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Insulating Lens</h3>\n<p>Encases the player in a block of ice for <b>5 seconds</b>.\n</p><p>While encased:\n</p>\n<ul><li>Immune to <b>Damage</b>.</li>\n<li>Immune to <b>Crowd Control</b>.</li>\n<li>Immune to <b>Negative Effects</b>.</li>\n<li>Cannot receive <b>Healing</b>.</li></ul>\n<blockquote>\n<p>Can be activated while affected by <b>any Crowd Control effect</b>.\nThe skill's duration cannot be cancelled early.\n</p>\n</blockquote>\n<hr>\n<h3 id=\"Hollow_Searing_Rain\"><span><span><img alt src=\"/wiki-files/85/857c138f072bcdd5a41b3261ba28bfd6bbd35268.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Searing Rain</h3>\n<p>Rains down fire on all enemies within a <b>10m radius</b> for <b>7 seconds</b>, dealing <b>Magic Damage</b>.\n</p><p><b>Casting</b>\n</p>\n<ul><li>Can be cast at a target location up to <b>20m</b> away.</li>\n<li>The caster is immune to <b>all Crowd Control</b> while channeling.</li></ul>\n<hr>\n<h2 id=\"Vitalism\">Vitalism</h2>\n<h3 id=\"Radiant_Revive\"><span><span><img alt src=\"/wiki-files/7f/7f7347790def170ce0fa74b5a8f05b1772738680.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Revive</h3>\n<p>Cooldown: 5 minutes<br>\nCast Time: Instant\n</p><p>Grants <b>Nui's Salvation</b> to a target for <b>5 seconds</b>.\n</p><p>If the target would otherwise die during this period, they are saved from death and granted <b>Nui's Divinity</b>.\n</p><p><b>Cooldown</b>\n</p>\n<ul><li>If a life is saved, this effect cannot be used again for <b>5 minutes</b>.</li></ul>\n<h3 id=\"Nui's_Salvation\"><span></span>Nui's Salvation</h3>\n<p>Upon certain death:\n</p>\n<ul><li>Grants <b>Nui's Divinity</b>.</li></ul>\n<h3 id=\"Nui's_Divinity\"><span></span>Nui's Divinity</h3>\n<p>Grants the target <b>Immortality</b>.\n</p><p>While active:\n</p>\n<ul><li>Immune to <b>Damage</b>.</li>\n<li>Immune to <b>Debuffs</b>.</li>\n<li>Cannot move.</li>\n<li>Lasts for <b>3 seconds</b>.</li></ul>\n<h3 id=\"Death's_Judgement\"><span></span>Death's Judgement</h3>\n<p>At the end of Nui's Divinity, Death determines whether the target remains alive.\n</p>\n<ul><li>If the target has <b>less than 80% Health</b> when Immortality ends, they automatically die.</li></ul>\n<hr>\n<h3 id=\"Hollow_Renewal\"><span><span><img alt src=\"/wiki-files/23/230a1dd8608831d941984670bf8ef3854b444ba3.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Renewal</h3>\n<p>Calls forth energy from the land to <b>curse an enemy for 30 seconds</b>.\n</p><p>Whenever the cursed enemy receives damage:\n</p>\n<ul><li>Has a <b>2% chance</b> for the stored energy to erupt.</li>\n<li>Heals all of your allies within <b>4m</b> of the enemy with <b>Gradual Recovery</b>.</li></ul>\n<blockquote>\n<p>Gradual Recovery - Increases Continuous Health Regen for 5.5s (what Renewal already does).\n</p>\n</blockquote>\n<hr>\n<h2 id=\"Shadowplay\">Shadowplay</h2>\n<h3 id=\"Radiant_Stalker's_Mark\"><span></span><span><span><img alt src=\"/wiki-files/e3/e34672f7b40fa0677154f6c9f45034476d433f15.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Stalker's Mark</h3>\n<p>Inflicts <b>Ranged Damage</b> and marks enemies for <b>15s</b>.\n</p>\n<ul><li>Damage is reduced by <b>20%</b> if the target is within <b>8m</b>.</li>\n<li>Attacks against the marked target push them backward.</li>\n<li>The knockback effect can occur once every <b>2 seconds</b>.</li></ul>\n<hr>\n<h3 id=\"Hollow_Throw_Dagger\"><span><span><img alt src=\"/wiki-files/52/52ba4c1b0aec78d3b9b67be0a98637cb48544d59.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Throw Dagger</h3>\n<p>Changes the damage type of <b>Throw Dagger</b> based on the equipped weapon:\n</p>\n<ul><li><b>Dagger:</b> Ranged Damage</li>\n<li><b>Scepter:</b> Magic Damage</li></ul>\n<p><b>Bloodthirst</b>\n</p><p>Consumes Bloodthirst stacks when used.\n</p>\n<ul><li>Gains <b>1 additional target per Bloodthirst stack consumed</b>.</li></ul>\n<hr>\n<h2 id=\"Songcraft\">Songcraft</h2>\n<h3 id=\"Radiant_Loudspeaker\"><span><span><img alt src=\"/wiki-files/5f/5f7d8dd9bbc997e3db84d8060c0b740fdc64a39a.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Loudspeaker</h3>\n<p>Increases the range of the following skills to <b>37m</b>:\n</p>\n<ul><li>Quickstep</li>\n<li>Ode to Recovery</li>\n<li>Bloody Chantey</li>\n<li>Bulwark Ballad</li>\n<li>Grief's Cadence</li></ul>\n<hr>\n<h3 id=\"Hollow_Critical_Discord\"><span><span><img alt src=\"/wiki-files/4a/4a9b643304e05d2876d2c7e54c0fb8724034f5f2.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Critical Discord</h3>\n<p>Deals <b>Magic Damage</b> to up to <b>10 nearby enemies</b> within a <b>5m radius</b> around the caster.\n</p>\n<ul><li>Inflicts <b>Charmed</b> for <b>8 seconds</b>.</li></ul>\n<p><b>Casting</b>\n</p>\n<ul><li>Normally has a <b>4-second cast time</b>.</li>\n<li>Becomes <b>instant</b> if the caster has <b>15 stacks of Rhythm</b>.</li></ul>\n<hr>\n<h2 id=\"Auramancy\">Auramancy</h2>\n<h3 id=\"Radiant_Meditate\"><span><span><img alt src=\"/wiki-files/25/25e37828d8986dd61a09b03ffa149894076a9b33.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Meditate</h3>\n<p>Grants the caster a buff that regenerates <b>4% Mana every 2 seconds</b>.\n</p><p><b>Duration</b>\n</p>\n<ul><li>Lasts for <b>8 seconds</b>.</li></ul>\n<p><b>Additional Effect</b>\n</p><p>When the buff ends:\n</p>\n<ul><li>Resets the cooldown of <b>Teleport</b>.</li>\n<li>Resets the cooldown of <b>Mirror Warp</b>.</li></ul>\n<hr>\n<h3 id=\"Hollow_Comet's_Boon\"><span></span><span><span><img alt src=\"/wiki-files/5b/5bf2565754b750f50d13e0c11de80b108c8b6e10.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Comet's Boon</h3>\n<p>Fires <b>three flashes of light</b> in a cone.\n</p>\n<ul><li>Deals <b>Magic Damage</b> to all enemies hit.</li>\n<li>Increases <b>Move Speed</b> of allies it passes through.</li>\n<li><b>Inspires</b> allies it passes through.</li>\n<li><b>Slows</b> enemies it passes through.</li></ul>\n<hr>\n<h2 id=\"Defense\">Defense</h2>\n<h3 id=\"Radiant_Mettle\"><span><span><img alt src=\"/wiki-files/0b/0ba2991f4eb0bd8d15139292ef4c5adada32691f.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Mettle</h3>\n<p><b>Refreshment</b> and <b>Toughen</b> also grant <b>Radiant Mettle</b> while taking damage.\n</p>\n<ul><li>Can stack up to <b>5 times</b>.</li></ul>\n<p><b>Each stack grants:</b>\n</p>\n<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Effect</th>\n<th>Bonus\n</th></tr>\n<tr>\n<td>Shield Block Rate</td>\n<td>+3%\n</td></tr>\n<tr>\n<td>Damage Converted to Health</td>\n<td>+3%\n</td></tr>\n<tr>\n<td>Chance to Evade Magic</td>\n<td>+3%\n</td></tr></tbody></table>\n<hr>\n<h3 id=\"Hollow_Ollo's_Hammer\"><span></span><span><span><img alt src=\"/wiki-files/4a/4a8081555d034995a2ebaa1de4e40cab5da6e959.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Ollo's Hammer</h3>\n<p>Summons <b>Ollo's Shield</b> and hurls it toward a target location.\n</p><p><b>Impact Effect</b>\n</p><p>If the shield hits an enemy:\n</p>\n<ul><li>Inflicts <b>Disarm</b> for <b>3 seconds</b>.</li>\n<li>Deals <b>Physical Damage</b> to enemies within <b>3m</b> of the target location.</li></ul>\n<p><b>Shield Effect</b>\n</p><p>Once the shield lands:\n</p>\n<ul><li>Emanates a protective shield every second.</li>\n<li>Protects all allies within the area for up to <b>3,000 damage</b>.</li></ul>\n<hr>\n<h2 id=\"Occultism\">Occultism</h2>\n<h3 id=\"Radiant_Mana_Force\"><span><span><img alt src=\"/wiki-files/d9/d9007344ee2e2d486d9767b6f68fab2188a275fe.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Mana Force</h3>\n<p>Pulls an enemy or an ally toward the caster, dealing <b>Magic Damage</b>.\n</p>\n<ul><li>Restores Mana equal to <b>50% of the damage dealt</b>.</li>\n<li>Cooldown is reduced to <b>30 seconds</b>.</li>\n<li>Can be cast <b>3 times in a row</b>.</li>\n<li>Pulls the target <b>10m</b>.</li>\n<li>Range is extended to <b>25m</b>.</li></ul>\n<hr>\n<h3 id=\"Hollow_Absorb_Lifeforce\"><span><span><img alt src=\"/wiki-files/76/76804659b4c8c9b65a8e7097fdd22c6298b286e2.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Absorb Lifeforce</h3>\n<p>Inflicts a debuff that deals <b>Magic Damage</b> to the enemy over <b>5 seconds</b>.\n</p>\n<ul><li>Heals the caster for <b>50% of the damage dealt</b>.</li>\n<li>Deals an additional <b>140% damage</b> to pets.</li>\n<li>Penetrates immunity effects on pets.</li>\n<li>The debuff ends early if the target moves far enough away from the caster.</li></ul>\n<blockquote>\n<p>No longer a channeled ability. Works like Crippling Mire.\n</p>\n</blockquote>\n<hr>\n<h2 id=\"Witchcraft\">Witchcraft</h2>\n<h3 id=\"Radiant_Play_Dead\"><span><span><img alt src=\"/wiki-files/50/5083d3a082c8cb1651a84bd31ff5ebcf76537ab7.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Radiant Play Dead</h3>\n<p>Allows the caster to play dead to escape danger.\n</p><p>After a <b>1-second cast</b>:\n</p>\n<ul><li>Breaks the caster free from <b>Snared</b> effects.</li>\n<li>Breaks the caster free from <b>Slowed</b> effects.</li>\n<li>Breaks the caster free from <b>Lassitude</b> effects.</li></ul>\n<hr>\n<h3 id=\"Hollow_Focal_Concussion\"><span><span><img alt src=\"/wiki-files/e8/e8db13de09b93a0e435c6d6b8c5b84edb63d05bf.png\" width=\"40\" height=\"40\" loading=\"lazy\"></span></span> Hollow Focal Concussion</h3>\n<p>Deals <b>Magic Damage</b> and <b>Stuns</b> an enemy for <b>1.5 seconds</b>.\n</p><p>If the target has any positive buffs:\n</p>\n<ul><li>Removes <b>1 positive buff</b>.</li>\n<li>Deals additional damage when the Stun ends.</li></ul>\n<p><b>Baleful Recharge</b>\n</p>\n<ul><li>Removes <b>1 additional positive buff</b> when stunning the target for each stack of <b>Baleful Recharge</b>.</li></ul>",
+ "wikitext": "{{NewsArticle\n|title=1.3.6 Preview - Enlightened Skills\n|slug=136-preview-enlightened-skills\n|date=2026-08-30 17:15\n|category=Announcement\n|image=News skills thumbnail-ca55eb.png\n|summary=Sixth post in our series of features on Discovery (1.3.6). Today's post presents Enlightened Skills.\n|source=https://aa-classic.com/news/136-preview-enlightened-skills\n}}\n\nIn Discovery, there will be an assortment of skill modifications that players can utilize with their Enlightened Ayanad Necklaces to change how their existing skills work.\n\n== Enlightened Skills ==\nThese skill modifications are known as Enlightened Skills, and they are enchanted on any type of Enlightened Necklace. This works with the base necklaces, but also the fused necklaces with boss equivalents that we mentioned in a previous blogpost.\n\n[[File:News chart-d7d71b.png|center|700px|alt=chart]]\n\n== Perfect Lunasigils ==\n\nFor stat options on Enlightened Necklaces, as your first choice, the following will be available:\n\n'''Perfect Lunasigils'''\n''Options''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Perfect Stone Lunasigil || +20 Stamina<br>+20 Spirit\n|-\n| Perfect Mist Lunasigil || +20 Agility<br>+20 Spirit\n|-\n| Perfect Squall Lunasigil || +20 Agility<br>+20 Stamina\n|-\n| Perfect Meteor Lunasigil || +20 Strength<br>+20 Spirit\n|-\n| Perfect Desert Lunasigil || +20 Strength<br>+20 Stamina\n|-\n| Perfect Sunset Lunasigil || +20 Strength<br>+20 Intelligence\n|-\n| Perfect Tidal Lunasigil || +20 Agility<br>+20 Intelligence\n|-\n| Perfect Lake Lunasigil || +20 Stamina<br>+20 Intelligence\n|-\n| Perfect Flame Lunasigil || +35 Strength\n|-\n| Perfect Earth Lunasigil || +35 Stamina\n|-\n| Perfect Meadow Lunasigil || +20 Intelligence<br>+20 Spirit\n|-\n| Perfect Lightning Lunasigil || +20 Strength<br>+20 Agility\n|-\n| Perfect Wave Lunasigil || +35 Intelligence\n|-\n| Perfect Life Lunasigil || +35 Spirit\n|-\n| Perfect Gale Lunasigil || +35 Agility\n|}\n\n== Radiant/Hollow Lunamark ==\n\nFor skill modifications on Enlightened Necklaces, as option two, Lunamarks will be available as either a Radiant or Hollow variant.\n\nOnly one Lunamark can be active at a time. This means that you may only pick ONE radiant skill/hollow skill at a time.\n\n'''Radiant & Hollow Lunamarks'''\n''Options''\n{| class=\"wikitable\"\n! Name !! Effect\n|-\n| Radiant Battlerage Mark || Applies Radiant characteristics to Terrifying Roar.\n|-\n| Hollow Battlerage Mark || Applies Hollow characteristics to Frenzy.\n|-\n| Radiant Witchcraft Mark || Applies Radiant characteristics to Play Dead.\n|-\n| Hollow Witchcraft Mark || Applies Hollow characteristics to Focal Concussion.\n|-\n| Radiant Defense Mark || Applies Radiant characteristics to Mettle.\n|-\n| Hollow Defense Mark || Applies Hollow characteristics to Ollo's Hammer.\n|-\n| Hollow Shadowplay Mark || Applies Hollow characteristics to Throw Dagger.\n|-\n| Radiant Shadowplay Mark || Applies Radiant characteristics to Stalker's Mark.\n|-\n| Radiant Sorcery Mark || Applies Radiant characteristics to Insulating Lens.\n|-\n| Hollow Sorcery Mark || Applies Hollow Characteristics to Searing Rain.\n|-\n| Radiant Songcraft Mark || Applies Radiant characteristics to Loudspeaker.\n|-\n| Hollow Songcraft Mark || Applies Hollow characteristics to Critical Discord.\n|-\n| Radiant Auramancy Mark || Applies Radiant characteristics to Meditate.\n|-\n| Hollow Auramancy Mark || Applies Hollow characteristics to Comet's Boon.\n|-\n| Radiant Archery Mark || Applies Radiant characteristics to Boneyard and Snare.\n|-\n| Hollow Archery Mark || Applies Hollow characteristics to Deadeye.\n|-\n| Radiant Occultism Mark || Applies Radiant characteristics to Absorb Life.\n|-\n| Hollow Occultism Mark || Applies Hollow characteristics to Mana Force.\n|-\n| Hollow Vitalism Mark || Applies Hollow characteristics to Renewal.\n|-\n| Radiant Vitalism Mark || Applies Radiant characteristics to Vitalism.\n|}\n\n== Skill Effects ==\n\nRadiant Marks lean more towards a support/defensive modification. Hollow leans more towards an offensive modification.\n\n----\n\n== Battlerage ==\n\n=== [[File:News radiant terrifying roar-d270d4.png|40px|link=|alt=|middle]] Radiant Terrifying Roar ===\n\nStrengthens all allies within '''5m''' for '''12 seconds'''.\n\n* Reduces the duration of crowd control effects by '''30%'''.\n\n<blockquote>\nThe player is not affected by this skill's effects.\nNo longer increases CC duration of nearby enemies.\n</blockquote>\n\n----\n\n=== [[File:News hollow frenzy-66b4ed.png|40px|link=|alt=|middle]] Hollow Frenzy ===\n\nWhenever damage is received:\n\n* '''+30 Melee Attack'''\n* '''+30 Magic Attack'''\n* '''+40 Attack Speed'''\n\nWhenever you damage an enemy:\n\n* '''+5% Move Speed'''\n* '''+300 Focus'''\n* '''+3% Damage Taken'''\n\nAll effects can '''stack up to 5 times'''.\n\n'''Duration'''\n\n* Lasts for '''12 seconds'''.\n* Duration increases by '''+3 seconds per kill'''.\n\n----\n\n== Archery ==\n\n== [[File:News radiant snare-0175a6.png|40px|link=|alt=|middle]][[File:News radiant boneyard-8d59b9.png|40px|link=|alt=|middle]] Radiant Snare & Radiant Boneyard ==\n\n=== [[File:News radiant snare-0175a6.png|40px|link=|alt=|middle]] Radiant Snare ===\n\nPlants a '''4m-wide trap''' beneath your feet.\n\n'''Trap Duration'''\n\n* Lasts up to '''60 seconds'''.\n* Ends when an enemy triggers the trap.\n\n'''Trap Effect'''\n\nWhen triggered, the trap:\n\n* Inflicts '''Snare''' for '''4 seconds'''.\n* Inflicts '''Silence''' for '''2 seconds'''.\n* Affects all enemies within '''5m'''.\n* Reduces '''Evasion, Block, and Parry''' by '''8%'''.\n\n'''Maximum Traps'''\n\n* Up to '''3 Snare Traps''' can be placed at once.\n\n----\n\n=== [[File:News radiant boneyard-8d59b9.png|40px|link=|alt=|middle]] Radiant Boneyard ===\n\nPlants a '''4m-wide trap''' beneath your feet.\n\n'''Trap Duration'''\n\n* Lasts up to '''60 seconds'''.\n* Ends when an enemy triggers the trap.\n\n'''Trap Effect'''\n\nWhen triggered, the trap:\n\n* Explodes, dealing '''Ranged Damage''' to all enemies within '''5m'''.\n* '''Trips''' all affected enemies briefly.\n* Confines affected enemies within a '''Bone Prison'''.\n\n'''Bone Prison'''\n\n* Lasts up to '''10 seconds''' if not destroyed.\n\n'''Maximum Traps'''\n\n* Up to '''2 Boneyard Traps''' can be placed at once.\n\n----\n\n=== [[File:News hollow deadeye-01ddd0.png|40px|link=|alt=|middle]] Hollow Deadeye ===\n\n* The damage bonus is removed if you remain stationary for at least '''1 second'''.\n* Deadeye becomes more powerful as you continue moving, up to '''+160 Ranged Attack'''.\n* Movement stacks accumulate while Deadeye is active, up to '''100 stacks'''.\n* Upon reaching '''100 stacks''', your next '''Snipe''' will be instant cast.\n\n'''Duration'''\n\n* Deadeye lasts for '''60 seconds'''.\n\n----\n\n== Sorcery ==\n\n=== [[File:News radiant focus lens-f8a161.png|40px|link=|alt=|middle]] Radiant Insulating Lens ===\n\nEncases the player in a block of ice for '''5 seconds'''.\n\nWhile encased:\n\n* Immune to '''Damage'''.\n* Immune to '''Crowd Control'''.\n* Immune to '''Negative Effects'''.\n* Cannot receive '''Healing'''.\n\n<blockquote>\nCan be activated while affected by '''any Crowd Control effect'''.\nThe skill's duration cannot be cancelled early.\n</blockquote>\n\n----\n\n=== [[File:News hollow searing rain-bb26f4.png|40px|link=|alt=|middle]] Hollow Searing Rain ===\n\nRains down fire on all enemies within a '''10m radius''' for '''7 seconds''', dealing '''Magic Damage'''.\n\n'''Casting'''\n\n* Can be cast at a target location up to '''20m''' away.\n* The caster is immune to '''all Crowd Control''' while channeling.\n\n----\n\n== Vitalism ==\n\n=== [[File:News radiant revive-11f980.png|40px|link=|alt=|middle]] Radiant Revive ===\n\nCooldown: 5 minutes<br>\nCast Time: Instant\n\nGrants '''Nui's Salvation''' to a target for '''5 seconds'''.\n\nIf the target would otherwise die during this period, they are saved from death and granted '''Nui's Divinity'''.\n\n'''Cooldown'''\n\n* If a life is saved, this effect cannot be used again for '''5 minutes'''.\n\n=== Nui's Salvation ===\n\nUpon certain death:\n\n* Grants '''Nui's Divinity'''.\n\n=== Nui's Divinity ===\n\nGrants the target '''Immortality'''.\n\nWhile active:\n\n* Immune to '''Damage'''.\n* Immune to '''Debuffs'''.\n* Cannot move.\n* Lasts for '''3 seconds'''.\n\n=== Death's Judgement ===\n\nAt the end of Nui's Divinity, Death determines whether the target remains alive.\n\n* If the target has '''less than 80% Health''' when Immortality ends, they automatically die.\n\n----\n\n=== [[File:News hollow renewal-87463b.png|40px|link=|alt=|middle]] Hollow Renewal ===\n\nCalls forth energy from the land to '''curse an enemy for 30 seconds'''.\n\nWhenever the cursed enemy receives damage:\n\n* Has a '''2% chance''' for the stored energy to erupt.\n* Heals all of your allies within '''4m''' of the enemy with '''Gradual Recovery'''.\n\n<blockquote>\nGradual Recovery - Increases Continuous Health Regen for 5.5s (what Renewal already does).\n</blockquote>\n----\n\n== Shadowplay ==\n\n=== [[File:News radiant stalkers-dcaec1.png|40px|link=|alt=|middle]] Radiant Stalker's Mark ===\n\nInflicts '''Ranged Damage''' and marks enemies for '''15s'''.\n\n* Damage is reduced by '''20%''' if the target is within '''8m'''.\n* Attacks against the marked target push them backward.\n* The knockback effect can occur once every '''2 seconds'''.\n\n----\n\n=== [[File:News hollow throw dagger-4d7918.png|40px|link=|alt=|middle]] Hollow Throw Dagger ===\n\nChanges the damage type of '''Throw Dagger''' based on the equipped weapon:\n\n* '''Dagger:''' Ranged Damage\n* '''Scepter:''' Magic Damage\n\n'''Bloodthirst'''\n\nConsumes Bloodthirst stacks when used.\n\n* Gains '''1 additional target per Bloodthirst stack consumed'''.\n\n----\n\n== Songcraft ==\n\n=== [[File:News radiant loudspeaker-749554.png|40px|link=|alt=|middle]] Radiant Loudspeaker ===\n\nIncreases the range of the following skills to '''37m''':\n\n* Quickstep\n* Ode to Recovery\n* Bloody Chantey\n* Bulwark Ballad\n* Grief's Cadence\n\n----\n\n=== [[File:News hollow critical discord-da2fb4.png|40px|link=|alt=|middle]] Hollow Critical Discord ===\n\nDeals '''Magic Damage''' to up to '''10 nearby enemies''' within a '''5m radius''' around the caster.\n\n* Inflicts '''Charmed''' for '''8 seconds'''.\n\n'''Casting'''\n\n* Normally has a '''4-second cast time'''.\n* Becomes '''instant''' if the caster has '''15 stacks of Rhythm'''.\n\n----\n\n== Auramancy ==\n\n=== [[File:News radiant meditate-baafe3.png|40px|link=|alt=|middle]] Radiant Meditate ===\n\nGrants the caster a buff that regenerates '''4% Mana every 2 seconds'''.\n\n'''Duration'''\n\n* Lasts for '''8 seconds'''.\n\n'''Additional Effect'''\n\nWhen the buff ends:\n\n* Resets the cooldown of '''Teleport'''.\n* Resets the cooldown of '''Mirror Warp'''.\n\n----\n\n=== [[File:News hollow comets boon-e077d4.png|40px|link=|alt=|middle]] Hollow Comet's Boon ===\n\nFires '''three flashes of light''' in a cone.\n\n* Deals '''Magic Damage''' to all enemies hit.\n* Increases '''Move Speed''' of allies it passes through.\n* '''Inspires''' allies it passes through.\n* '''Slows''' enemies it passes through.\n\n----\n\n== Defense ==\n\n=== [[File:News radiant mettle-b04c55.png|40px|link=|alt=|middle]] Radiant Mettle ===\n\n'''Refreshment''' and '''Toughen''' also grant '''Radiant Mettle''' while taking damage.\n\n* Can stack up to '''5 times'''.\n\n'''Each stack grants:'''\n\n{| class=\"wikitable\"\n|-\n! Effect !! Bonus\n|-\n| Shield Block Rate || +3%\n|-\n| Damage Converted to Health || +3%\n|-\n| Chance to Evade Magic || +3%\n|}\n\n----\n\n=== [[File:News hollow ollos hammer-b21e09.png|40px|link=|alt=|middle]] Hollow Ollo's Hammer ===\n\nSummons '''Ollo's Shield''' and hurls it toward a target location.\n\n'''Impact Effect'''\n\nIf the shield hits an enemy:\n\n* Inflicts '''Disarm''' for '''3 seconds'''.\n* Deals '''Physical Damage''' to enemies within '''3m''' of the target location.\n\n'''Shield Effect'''\n\nOnce the shield lands:\n\n* Emanates a protective shield every second.\n* Protects all allies within the area for up to '''3,000 damage'''.\n\n----\n\n== Occultism ==\n\n=== [[File:News radiant manaforce-5427bd.png|40px|link=|alt=|middle]] Radiant Mana Force ===\n\nPulls an enemy or an ally toward the caster, dealing '''Magic Damage'''.\n\n* Restores Mana equal to '''50% of the damage dealt'''.\n* Cooldown is reduced to '''30 seconds'''.\n* Can be cast '''3 times in a row'''.\n* Pulls the target '''10m'''.\n* Range is extended to '''25m'''.\n\n----\n\n=== [[File:News hollow absorb lifeforce-2eca23.png|40px|link=|alt=|middle]] Hollow Absorb Lifeforce ===\n\nInflicts a debuff that deals '''Magic Damage''' to the enemy over '''5 seconds'''.\n\n* Heals the caster for '''50% of the damage dealt'''.\n* Deals an additional '''140% damage''' to pets.\n* Penetrates immunity effects on pets.\n* The debuff ends early if the target moves far enough away from the caster.\n\n<blockquote>\nNo longer a channeled ability. Works like Crippling Mire.\n</blockquote>\n\n----\n\n== Witchcraft ==\n\n=== [[File:News radiant play dead-15308d.png|40px|link=|alt=|middle]] Radiant Play Dead ===\n\nAllows the caster to play dead to escape danger.\n\nAfter a '''1-second cast''':\n\n* Breaks the caster free from '''Snared''' effects.\n* Breaks the caster free from '''Slowed''' effects.\n* Breaks the caster free from '''Lassitude''' effects.\n\n----\n\n=== [[File:News hollow focal concussion-b18239.png|40px|link=|alt=|middle]] Hollow Focal Concussion ===\n\nDeals '''Magic Damage''' and '''Stuns''' an enemy for '''1.5 seconds'''.\n\nIf the target has any positive buffs:\n\n* Removes '''1 positive buff'''.\n* Deals additional damage when the Stun ends.\n\n'''Baleful Recharge'''\n\n* Removes '''1 additional positive buff''' when stunning the target for each stack of '''Baleful Recharge'''."
+}

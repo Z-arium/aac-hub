@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-350",
+ "title": "Module:Data/Cards/350",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61213,
+ "revid": 63948,
+ "updated": "2026-11-03T16:33:18Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/350",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [35036] = { category = \"Talisman\", crafts = { { 9424, \"Ship Component Regrade Scroll\" }, { 9500, \"Ship Component Regrade Scroll: Mass Production\" }, { 9000189, \"Ship Component Scroll: Mass Production\" } }, grade = \"Rare\", icon = \"icon_item_1268.png\", name = \"Ship Component Regrade Scroll\", quests = { { 6796, \"Ezi's Light\" } }, use = \"Spend 10 Labor to enchant a ship component.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[35036] = { category = \"Talisman\", crafts = { { 9424, \"Ship Component Regrade Scroll\" }, { 9500, \"Ship Component Regrade Scroll: Mass Production\" }, { 9000189, \"Ship Component Scroll: Mass Production\" } }, grade = \"Rare\", icon = \"icon_item_1268.png\", name = \"Ship Component Regrade Scroll\", quests = { { 6796, \"Ezi's Light\" } }, use = \"Spend 10 Labor to enchant a ship component.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[35036] = { category = \"Talisman\", crafts = { { 9424, \"Ship Component Regrade Scroll\" }, { 9500, \"Ship Component Regrade Scroll: Mass Production\" }, { 9000189, \"Ship Component Scroll: Mass Production\" } }, grade = \"Rare\", icon = \"icon_item_1268.png\", name = \"Ship Component Regrade Scroll\", quests = { { 6796, \"Ezi's Light\" } }, use = \"Spend 10 Labor to enchant a ship component.\" },\n}"
+}

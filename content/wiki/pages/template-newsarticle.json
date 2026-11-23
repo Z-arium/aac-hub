@@ -1,0 +1,16 @@
+{
+ "slug": "template-newsarticle",
+ "title": "Template:NewsArticle",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61037,
+ "revid": 63762,
+ "updated": "2026-11-02T16:37:38Z",
+ "source": "https://wiki.aa-classic.com/Template:NewsArticle",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "This template sits at the top of every news article page (the script sync_news.py writes it). It shows the banner image, the category and date, the article title and the short summary. Parameters: title, slug, date, category, image, summary, source.",
+ "html": "<p>This template sits at the top of every news article page (the script sync_news.py writes it). It shows the banner image, the category and date, the article title and the short summary. Parameters: title, slug, date, category, image, summary, source.\n</p>",
+ "wikitext": "<includeonly><templatestyles src=\"Template:NewsFeed/styles.css\" /><div class=\"aa-newsart\">{{#if:{{{image|}}}|<div class=\"aa-newsart-banner\">[[File:{{{image}}}|link=|alt=|1200px]]</div>}}<div class=\"aa-newsart-top\"><div class=\"aa-news-head\"><span class=\"aa-news-tag aa-news-tag-{{lc:{{{category|}}}}}\">{{{category|}}}</span><span class=\"aa-news-date\">{{#time:j F Y|{{{date|}}}}}</span><span class=\"aa-news-date\">·</span>[[News|All news]]<span class=\"aa-news-date\">·</span>[{{{source|}}} Original post on aa-classic.com]</div><div class=\"aa-newsart-title\">{{{title|}}}</div>{{#if:{{{summary|}}}|<div class=\"aa-newsart-sum\">{{{summary}}}</div>}}</div></div>[[Category:News]]</includeonly><noinclude>This template sits at the top of every news article page (the script sync_news.py writes it). It shows the banner image, the category and date, the article title and the short summary. Parameters: title, slug, date, category, image, summary, source.</noinclude>"
+}

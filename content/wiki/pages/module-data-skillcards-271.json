@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-skillcards-271",
+ "title": "Module:Data/SkillCards/271",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61325,
+ "revid": 64489,
+ "updated": "2026-11-06T03:00:48Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/SkillCards/271",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs. return { [27170] = { cd = 30000, desc = \"The Leviathan produces Ultrasonic Waves.\", icon = \"icon_item_2001.png\", line = \"Basic\", maxr = 150, name = \"Ultrasonic Waves\" }, [27177] = { cd = 60000, desc = \"The Leviathan dives deep, creating a large whirlpool.\", icon = \"icon_item_2001.png\", line = \"Basic\", maxr = 140, name = \"Leviathan's Fury\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[27170] = { cd = 30000, desc = \"The Leviathan produces Ultrasonic Waves.\", icon = \"icon_item_2001.png\", line = \"Basic\", maxr = 150, name = \"Ultrasonic Waves\" },\n\t[27177] = { cd = 60000, desc = \"The Leviathan dives deep, creating a large whirlpool.\", icon = \"icon_item_2001.png\", line = \"Basic\", maxr = 140, name = \"Leviathan's Fury\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (SkillCards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[27170] = { cd = 30000, desc = \"The Leviathan produces Ultrasonic Waves.\", icon = \"icon_item_2001.png\", line = \"Basic\", maxr = 150, name = \"Ultrasonic Waves\" },\n\t[27177] = { cd = 60000, desc = \"The Leviathan dives deep, creating a large whirlpool.\", icon = \"icon_item_2001.png\", line = \"Basic\", maxr = 140, name = \"Leviathan's Fury\" },\n}"
+}

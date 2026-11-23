@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-31",
+ "title": "Module:Data/Items/31",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61196,
+ "revid": 64439,
+ "updated": "2026-11-05T21:48:45Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/31",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [31775] = { grade = \"None\", icon = \"icon_item_1732.png\", name = \"Mossy Pool\" }, [31778] = { grade = \"None\", icon = \"icon_item_1780.png\", name = \"Golden Library Index\" }, [31810] = { grade = \"None\", icon = \"icon_item_1761.png\", name = \"Prismatic Diamond\" }, [31927] = { grade = \"Heroic\", icon = \"icon_item_1696.png\", name = \"Resplendent Accessory Regrade Scroll\" }, [31928] = { grade = \"Rare\", icon = \"icon_item_1695.png\", name = \"Accessory Regrade Scroll\" }, [31929] = { grade = \"Rare\", icon = \"icon_item_1693.png\", name = \"Starpoint\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[31775] = { grade = \"None\", icon = \"icon_item_1732.png\", name = \"Mossy Pool\" },\n\t[31778] = { grade = \"None\", icon = \"icon_item_1780.png\", name = \"Golden Library Index\" },\n\t[31810] = { grade = \"None\", icon = \"icon_item_1761.png\", name = \"Prismatic Diamond\" },\n\t[31927] = { grade = \"Heroic\", icon = \"icon_item_1696.png\", name = \"Resplendent Accessory Regrade Scroll\" },\n\t[31928] = { grade = \"Rare\", icon = \"icon_item_1695.png\", name = \"Accessory Regrade Scroll\" },\n\t[31929] = { grade = \"Rare\", icon = \"icon_item_1693.png\", name = \"Starpoint\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[31775] = { grade = \"None\", icon = \"icon_item_1732.png\", name = \"Mossy Pool\" },\n\t[31778] = { grade = \"None\", icon = \"icon_item_1780.png\", name = \"Golden Library Index\" },\n\t[31810] = { grade = \"None\", icon = \"icon_item_1761.png\", name = \"Prismatic Diamond\" },\n\t[31927] = { grade = \"Heroic\", icon = \"icon_item_1696.png\", name = \"Resplendent Accessory Regrade Scroll\" },\n\t[31928] = { grade = \"Rare\", icon = \"icon_item_1695.png\", name = \"Accessory Regrade Scroll\" },\n\t[31929] = { grade = \"Rare\", icon = \"icon_item_1693.png\", name = \"Starpoint\" },\n}"
+}

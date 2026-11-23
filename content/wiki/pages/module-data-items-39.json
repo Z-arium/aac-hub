@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-39",
+ "title": "Module:Data/Items/39",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61000,
+ "revid": 63992,
+ "updated": "2026-11-03T17:33:16Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/39",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [39246] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth067.png\", name = \"Ayanad Hatchetblade Cloak\" }, [39247] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth068.png\", name = \"Ayanad Flaming Hatchetblade Cloak\" }, [39657] = { grade = \"None\", icon = \"icon_item_necklace_0046.png\", name = \"Berserker Necklace\" }, [39658] = { grade = \"None\", icon = \"icon_item_ring_0050.png\", name = \"Berserker Ring\" }, [39659] = { grade = \"None\", icon = \"icon_item_earring_0046.png\", name = \"Berserker Earrings\" }, [39803] = { grade = \"Rare\", icon = \"icon_item_2299.png\", name = \"Mistsong Grinding Guardian Scroll\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[39246] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth067.png\", name = \"Ayanad Hatchetblade Cloak\" },\n\t[39247] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth068.png\", name = \"Ayanad Flaming Hatchetblade Cloak\" },\n\t[39657] = { grade = \"None\", icon = \"icon_item_necklace_0046.png\", name = \"Berserker Necklace\" },\n\t[39658] = { grade = \"None\", icon = \"icon_item_ring_0050.png\", name = \"Berserker Ring\" },\n\t[39659] = { grade = \"None\", icon = \"icon_item_earring_0046.png\", name = \"Berserker Earrings\" },\n\t[39803] = { grade = \"Rare\", icon = \"icon_item_2299.png\", name = \"Mistsong Grinding Guardian Scroll\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[39246] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth067.png\", name = \"Ayanad Hatchetblade Cloak\" },\n\t[39247] = { grade = \"None\", icon = \"costume_cp/nu_m_cp_cloth068.png\", name = \"Ayanad Flaming Hatchetblade Cloak\" },\n\t[39657] = { grade = \"None\", icon = \"icon_item_necklace_0046.png\", name = \"Berserker Necklace\" },\n\t[39658] = { grade = \"None\", icon = \"icon_item_ring_0050.png\", name = \"Berserker Ring\" },\n\t[39659] = { grade = \"None\", icon = \"icon_item_earring_0046.png\", name = \"Berserker Earrings\" },\n\t[39803] = { grade = \"Rare\", icon = \"icon_item_2299.png\", name = \"Mistsong Grinding Guardian Scroll\" },\n}"
+}

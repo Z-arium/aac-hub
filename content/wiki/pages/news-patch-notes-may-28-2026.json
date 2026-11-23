@@ -1,0 +1,34 @@
+{
+ "slug": "news-patch-notes-may-28-2026",
+ "title": "News/📜 Patch Notes - May 28, 2026",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61123,
+ "revid": 63705,
+ "updated": "2026-11-02T16:31:07Z",
+ "source": "https://wiki.aa-classic.com/News/%F0%9F%93%9C_Patch_Notes_-_May_28,_2026",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Features",
+   "text": "Features"
+  },
+  {
+   "level": 2,
+   "id": "Bug_Fixes",
+   "text": "Bug Fixes"
+  },
+  {
+   "level": 2,
+   "id": "Addon_API",
+   "text": "Addon API"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "News nameplate v1.png"
+ ],
+ "text": "Update28 May 2026·All news·Original post on aa-classic.com 📜 Patch Notes - May 28, 2026 Customize your game with the new Nametag Color system! Pick your own colors in the options menu, enjoy improved persistent Divine Die buffs and a new guild flare raid selection tool. Features The Pawesome Festival in Windscour Savannah has now ended! Divine Dies now apply an improved version of the combined rune buff, which will persist through death. Kapiros continues to crave entire barrels of oranges. Nametag colors can now be set in the game's options menu ArcheAge Classic Settings > Screen Options \"Raid Select\" button added to the Guild's Member page, which can be used to quickly select all members in your raid. A new loading screen has been added. Chat mutes no longer affect unmoderated channels (Guild, Family) Bug Fixes The Egg Basket Teleport Scroll now fully mimics the default teleport book in functionality. The Barrel Assembly Table used to feed Kapiros, and his appetite, no longer take an hour break every night. Tome of Power and Tome of Fortitude now properly apply their buffs to players. Addon API The Addon API has been updated to include the following functions: NOTE: All of the following functions expect a decimal color passed in as a string. Example of friendly-green \"16773220\" api.Nametag:SetColorFriendly api.Nametag:SetColorFriendlyNPC api.Nametag:SetColorNeutral api.Nametag:SetColorParty api.Nametag:SetColorRaid api.Nametag:SetColorRaidPK api.Nametag:SetColorPK api.Nametag:SetColorEnemy api.Nametag:SetColorMonster api.Nametag:SetColorPirate",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/d4/d448761c7fae52620ddd7c7a61157f4bc7bc04b1.png\" width=\"1200\" height=\"400\" loading=\"lazy\"></span></span></div><div><div><span>Update</span><span>28 May 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/patch-notes-may-28-2026\">Original post on aa-classic.com</a></div><div>📜  Patch Notes - May 28, 2026</div><div>Customize your game with the new Nametag Color system! Pick your own colors in the options menu, enjoy improved persistent Divine Die buffs and a new guild flare raid selection tool.</div></div></div>\n<h2 id=\"Features\">Features</h2>\n<ul><li>The Pawesome Festival in Windscour Savannah has now ended!</li>\n<li>Divine Dies now apply an improved version of the combined rune buff, which will persist through death.</li>\n<li>Kapiros continues to crave entire barrels of oranges.</li>\n<li>Nametag colors can now be set in the game's options menu\n<ul><li>ArcheAge Classic Settings &gt; Screen Options</li></ul></li>\n<li>\"Raid Select\" button added to the Guild's Member page, which can be used to quickly select all members in your raid.</li>\n<li>A new loading screen has been added.</li>\n<li>Chat mutes no longer affect unmoderated channels (Guild, Family)</li></ul>\n<h2 id=\"Bug_Fixes\">Bug Fixes</h2>\n<ul><li>The Egg Basket Teleport Scroll now fully mimics the default teleport book in functionality.</li>\n<li>The Barrel Assembly Table used to feed Kapiros, and his appetite, no longer take an hour break every night.</li>\n<li>Tome of Power and Tome of Fortitude now properly apply their buffs to players.</li></ul>\n<h2 id=\"Addon_API\">Addon API</h2>\n<p>The Addon API has been updated to include the following functions:\n</p>\n<ul><li>NOTE: All of the following functions expect a decimal color passed in as a string. Example of friendly-green <code>\"16773220\"</code></li>\n<li>api.Nametag:SetColorFriendly</li>\n<li>api.Nametag:SetColorFriendlyNPC</li>\n<li>api.Nametag:SetColorNeutral</li>\n<li>api.Nametag:SetColorParty</li>\n<li>api.Nametag:SetColorRaid</li>\n<li>api.Nametag:SetColorRaidPK</li>\n<li>api.Nametag:SetColorPK</li>\n<li>api.Nametag:SetColorEnemy</li>\n<li>api.Nametag:SetColorMonster</li>\n<li>api.Nametag:SetColorPirate</li></ul>",
+ "wikitext": "{{NewsArticle\n|title=📜  Patch Notes - May 28, 2026\n|slug=patch-notes-may-28-2026\n|date=2026-05-28 13:00\n|category=Update\n|image=News nameplate v1.png\n|summary=Customize your game with the new Nametag Color system! Pick your own colors in the options menu, enjoy improved persistent Divine Die buffs and a new guild flare raid selection tool.\n|source=https://aa-classic.com/news/patch-notes-may-28-2026\n}}\n\n== Features ==\n* The Pawesome Festival in Windscour Savannah has now ended!\n* Divine Dies now apply an improved version of the combined rune buff, which will persist through death.\n* Kapiros continues to crave entire barrels of oranges.\n* Nametag colors can now be set in the game's options menu\n** ArcheAge Classic Settings > Screen Options\n* \"Raid Select\" button added to the Guild's Member page, which can be used to quickly select all members in your raid.\n* A new loading screen has been added.\n* Chat mutes no longer affect unmoderated channels (Guild, Family)\n\n== Bug Fixes ==\n* The Egg Basket Teleport Scroll now fully mimics the default teleport book in functionality.\n* The Barrel Assembly Table used to feed Kapiros, and his appetite, no longer take an hour break every night.\n* Tome of Power and Tome of Fortitude now properly apply their buffs to players.\n\n== Addon API ==\nThe Addon API has been updated to include the following functions:\n* NOTE: All of the following functions expect a decimal color passed in as a string. Example of friendly-green <code>\"16773220\"</code>\n* api.Nametag:SetColorFriendly\n* api.Nametag:SetColorFriendlyNPC\n* api.Nametag:SetColorNeutral\n* api.Nametag:SetColorParty\n* api.Nametag:SetColorRaid\n* api.Nametag:SetColorRaidPK\n* api.Nametag:SetColorPK\n* api.Nametag:SetColorEnemy\n* api.Nametag:SetColorMonster\n* api.Nametag:SetColorPirate"
+}

@@ -1,0 +1,24 @@
+{
+ "slug": "news-patch-1-2-9",
+ "title": "News/Patch 1.2.9",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61172,
+ "revid": 63874,
+ "updated": "2026-11-02T17:38:40Z",
+ "source": "https://wiki.aa-classic.com/News/Patch_1.2.9",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Patch_1.2.9",
+   "text": "Patch 1.2.9"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "News banners-banner update.png"
+ ],
+ "text": "Update5 June 2024·All news·Original post on aa-classic.com Patch 1.2.9 Patch 1.2.9 Good morning everyone! With today's maintenance we bring a small set of fixes. Next week's patch will include a new activity and a few other changes, so keep an eye out! We'll be posting a preview before the weekend - Glider Image Item Extraction has been added - Preparation for activities coming in 1.2.10… Patch 1.2.9 Good morning everyone! With today's maintenance we bring a small set of fixes. Next week's patch will include a new activity and a few other changes, so keep an eye out! We'll be posting a preview before the weekend Glider Image Item Extraction has been added Preparation for activities coming in 1.2.10 Human Cannons (on Luxury Liners) are now cheaper to repair, have more HP and only receive siege damage Hero cycles have been added for the next 12 months. A fix has been put in place so months with 5 weeks will have the correct duration. These months are: August 2024, October 2024 and January 2025 The recipe for Crest Trade Pack Storage have all properly been moved to the Composition Workbench Wing Flapping Moomoo Armor has been added to the Stablehand shop",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/ef/eff7cb84c3b65aa7432e270d1687d749fba74564.png\" width=\"1200\" height=\"1200\" loading=\"lazy\"></span></span></div><div><div><span>Update</span><span>5 June 2024</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/patch-1-2-9.92966912\">Original post on aa-classic.com</a></div><div>Patch 1.2.9</div><div>Patch 1.2.9 Good morning everyone! With today's maintenance we bring a small set of fixes. Next week's patch will include a new activity and a few other changes, so keep an eye out! We'll be posting a preview before the weekend - Glider Image Item Extraction has been added - Preparation for activities coming in 1.2.10…</div></div></div>\n<h2 id=\"Patch_1.2.9\">Patch 1.2.9</h2>\n<p>Good morning everyone! With today's maintenance we bring a small set of fixes.\nNext week's patch will include a new activity and a few other changes, so keep an eye out! We'll be posting a preview before the weekend\n</p>\n<ul><li>Glider Image Item Extraction has been added</li>\n<li>Preparation for activities coming in 1.2.10</li>\n<li>Human Cannons (on Luxury Liners) are now cheaper to repair, have more HP and only receive siege damage</li>\n<li>Hero cycles have been added for the next 12 months. A fix has been put in place so months with 5 weeks will have the correct duration. These months are: August 2024, October 2024 and January 2025</li>\n<li>The recipe for Crest Trade Pack Storage have all properly been moved to the Composition Workbench</li>\n<li>Wing Flapping Moomoo Armor has been added to the Stablehand shop</li></ul>",
+ "wikitext": "{{NewsArticle\n|title=Patch 1.2.9\n|slug=patch-1-2-9.92966912\n|date=2024-06-05 09:00\n|category=Update\n|image=News banners-banner update.png\n|summary=Patch 1.2.9 Good morning everyone! With today's maintenance we bring a small set of fixes. Next week's patch will include a new activity and a few other changes, so keep an eye out! We'll be posting a preview before the weekend - Glider Image Item Extraction has been added - Preparation for activities coming in 1.2.10…\n|source=https://aa-classic.com/news/patch-1-2-9.92966912\n}}\n\n== Patch 1.2.9 ==\n\nGood morning everyone! With today's maintenance we bring a small set of fixes.\nNext week's patch will include a new activity and a few other changes, so keep an eye out! We'll be posting a preview before the weekend\n\n* Glider Image Item Extraction has been added\n* Preparation for activities coming in 1.2.10\n* Human Cannons (on Luxury Liners) are now cheaper to repair, have more HP and only receive siege damage\n* Hero cycles have been added for the next 12 months. A fix has been put in place so months with 5 weeks will have the correct duration. These months are: August 2024, October 2024 and January 2025\n* The recipe for Crest Trade Pack Storage have all properly been moved to the Composition Workbench\n* Wing Flapping Moomoo Armor has been added to the Stablehand shop"
+}

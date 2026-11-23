@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-8",
+ "title": "Module:Data/Items/8",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60977,
+ "revid": 63960,
+ "updated": "2026-11-03T16:33:35Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/8",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [8256] = { grade = \"None\", icon = \"icon_item_0356.png\", name = \"Fabric\" }, [8318] = { grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" }, [8324] = { grade = \"None\", icon = \"icon_item_1758.png\", name = \"Ocean Blue Coral\" }, [8329] = { grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" }, [8330] = { grade = \"None\", icon = \"icon_item_1830.png\", name = \"Glossy Feather\" }, [8337] = { grade = \"None\", icon = \"icon_item_0041.png\", name = \"Lumber\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8256] = { grade = \"None\", icon = \"icon_item_0356.png\", name = \"Fabric\" },\n\t[8318] = { grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" },\n\t[8324] = { grade = \"None\", icon = \"icon_item_1758.png\", name = \"Ocean Blue Coral\" },\n\t[8329] = { grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" },\n\t[8330] = { grade = \"None\", icon = \"icon_item_1830.png\", name = \"Glossy Feather\" },\n\t[8337] = { grade = \"None\", icon = \"icon_item_0041.png\", name = \"Lumber\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8256] = { grade = \"None\", icon = \"icon_item_0356.png\", name = \"Fabric\" },\n\t[8318] = { grade = \"None\", icon = \"quest/icon_item_quest053.png\", name = \"Iron Ingot\" },\n\t[8324] = { grade = \"None\", icon = \"icon_item_1758.png\", name = \"Ocean Blue Coral\" },\n\t[8329] = { grade = \"None\", icon = \"icon_item_1752.png\", name = \"Blue Salt Hammer\" },\n\t[8330] = { grade = \"None\", icon = \"icon_item_1830.png\", name = \"Glossy Feather\" },\n\t[8337] = { grade = \"None\", icon = \"icon_item_0041.png\", name = \"Lumber\" },\n}"
+}

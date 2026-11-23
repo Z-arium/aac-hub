@@ -1,0 +1,16 @@
+{
+ "slug": "module-gametimedata",
+ "title": "Module:GameTimeData",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61361,
+ "revid": 64869,
+ "updated": "2026-11-23T16:05:35Z",
+ "source": "https://wiki.aa-classic.com/Module:GameTimeData",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Game time anchor. Written by the Ayanad sync bot, do not edit by hand. -- Use /gametime sync in Discord when the wiki shows the wrong game time. -- gt = game minutes since 00:00 at the real moment utc (epoch seconds). The game clock runs rate times faster -- than real time and starts at 12:00 after every server restart. return { utc = 1795449934, gt = 1232, rate = 6, precise = true, by = \"auto check\", updated = \"2026-11-23 16:05:34 UTC\", }",
+ "html": "<pre><code>-- Game time anchor. Written by the Ayanad sync bot, do not edit by hand.\n-- Use /gametime sync in Discord when the wiki shows the wrong game time.\n-- gt = game minutes since 00:00 at the real moment utc (epoch seconds). The game clock runs rate times faster\n-- than real time and starts at 12:00 after every server restart.\nreturn {\n\tutc = 1795449934,\n\tgt = 1232,\n\trate = 6,\n\tprecise = true,\n\tby = \"auto check\",\n\tupdated = \"2026-11-23 16:05:34 UTC\",\n}</code></pre>",
+ "wikitext": "-- Game time anchor. Written by the Ayanad sync bot, do not edit by hand.\n-- Use /gametime sync in Discord when the wiki shows the wrong game time.\n-- gt = game minutes since 00:00 at the real moment utc (epoch seconds). The game clock runs rate times faster\n-- than real time and starts at 12:00 after every server restart.\nreturn {\n\tutc = 1795449934,\n\tgt = 1232,\n\trate = 6,\n\tprecise = true,\n\tby = \"auto check\",\n\tupdated = \"2026-11-23 16:05:34 UTC\",\n}"
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "template-lootitem",
+ "title": "Template:LootItem",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61303,
+ "revid": 64421,
+ "updated": "2026-11-05T21:23:05Z",
+ "source": "https://wiki.aa-classic.com/Template:LootItem",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Item ID",
+     "1",
+     "Number at the end of the item page on the game database.",
+     "Number",
+     "required"
+    ],
+    [
+     "Grade",
+     "grade",
+     "Optional. Shows the item and its hover card in this grade (for weapons and armour), for example Celestial.",
+     "String",
+     "optional"
+    ],
+    [
+     "Tag",
+     "2",
+     "Shown on the right, for example 100% or Craftable.",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "One drop inside a Template:Tl. It shows the item with its hover card, and an optional tag on the right (a drop chance, or a word like Craftable). One item in a loot group, with an optional chance tag. Template parameters Parameter Description Type Status Item ID 1 Number at the end of the item page on the game database. Number required Grade grade Optional. Shows the item and its hover card in this grade (for weapons and armour), for example Celestial. String optional Tag 2 Shown on the right, for example 100% or Craftable. String optional",
+ "html": "<p>One drop inside a <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>. It shows the item with its hover card, and an optional tag on the right (a drop chance, or a word like Craftable).\n</p>\n<section><header><p>One item in a loot group, with an optional chance tag.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:LootItem\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Item ID</th><td><code>1</code></td><td><p>Number at the end of the item page on the game database.</p><dl></dl></td><td>Number</td><td>required</td></tr><tr><th>Grade</th><td><code>grade</code></td><td><p>Optional. Shows the item and its hover card in this grade (for weapons and armour), for example Celestial.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Tag</th><td><code>2</code></td><td><p>Shown on the right, for example 100% or Craftable.</p><dl></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><div class=\"aa-loot-item\"><span class=\"aa-loot-name\">{{Item|ItemID={{{1|}}}|grade={{{grade|}}}}}</span>{{#if:{{{2|}}}|<span class=\"aa-loot-chance\">{{{2}}}</span>}}</div></includeonly><noinclude>\nOne drop inside a {{tl|LootGroup}}. It shows the item with its hover card, and an optional tag on the right (a drop chance, or a word like Craftable).\n\n<templatedata>\n{\n\t\"description\": \"One item in a loot group, with an optional chance tag.\",\n\t\"params\": {\n\t\t\"1\": { \"label\": \"Item ID\", \"description\": \"Number at the end of the item page on the game database.\", \"type\": \"number\", \"required\": true },\n\t\t\"grade\": { \"label\": \"Grade\", \"description\": \"Optional. Shows the item and its hover card in this grade (for weapons and armour), for example Celestial.\", \"type\": \"string\" },\n\t\t\"2\": { \"label\": \"Tag\", \"description\": \"Shown on the right, for example 100% or Craftable.\", \"type\": \"string\" }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

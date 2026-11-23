@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-recipes-60",
+ "title": "Module:Data/Recipes/60",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61229,
+ "revid": 64532,
+ "updated": "2026-11-06T08:58:01Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Recipes/60",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs. return { [6056] = { coin = 1, labor = 35, materials = { { amount = 1, grade = \"None\", icon = \"icon_item_0080.png\", id = 4053, name = \"Memory Ink\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"quest/icon_item_quest075.png\", id = 30012, name = \"Tales of the Twelve Manuscript\", required = \"Any\" }, { amount = 10, grade = \"None\", icon = \"icon_item_0233.png\", id = 27278, name = \"Paper\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0352.png\", id = 16327, name = \"Leather\", required = \"Any\" } }, product = { amount = 1, grade = \"None\", icon = \"icon_item_1153.png\", id = 30005, name = \"Tales of the Twelve: The Gods and the Heroes\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[6056] = { coin = 1, labor = 35, materials = { { amount = 1, grade = \"None\", icon = \"icon_item_0080.png\", id = 4053, name = \"Memory Ink\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"quest/icon_item_quest075.png\", id = 30012, name = \"Tales of the Twelve Manuscript\", required = \"Any\" }, { amount = 10, grade = \"None\", icon = \"icon_item_0233.png\", id = 27278, name = \"Paper\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0352.png\", id = 16327, name = \"Leather\", required = \"Any\" } }, product = { amount = 1, grade = \"None\", icon = \"icon_item_1153.png\", id = 30005, name = \"Tales of the Twelve: The Gods and the Heroes\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Recipes). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[6056] = { coin = 1, labor = 35, materials = { { amount = 1, grade = \"None\", icon = \"icon_item_0080.png\", id = 4053, name = \"Memory Ink\", required = \"Any\" }, { amount = 1, grade = \"None\", icon = \"quest/icon_item_quest075.png\", id = 30012, name = \"Tales of the Twelve Manuscript\", required = \"Any\" }, { amount = 10, grade = \"None\", icon = \"icon_item_0233.png\", id = 27278, name = \"Paper\", required = \"Any\" }, { amount = 5, grade = \"None\", icon = \"icon_item_0352.png\", id = 16327, name = \"Leather\", required = \"Any\" } }, product = { amount = 1, grade = \"None\", icon = \"icon_item_1153.png\", id = 30005, name = \"Tales of the Twelve: The Gods and the Heroes\" }, prof = \"Printing\", rate = 100, req = 0, station = \"Printing Press\" },\n}"
+}

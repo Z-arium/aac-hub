@@ -1,0 +1,64 @@
+{
+ "slug": "template-lootgroup",
+ "title": "Template:LootGroup",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61302,
+ "revid": 64388,
+ "updated": "2026-11-05T20:28:46Z",
+ "source": "https://wiki.aa-classic.com/Template:LootGroup",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Title",
+     "title",
+     "Heading of the group, for example Always drops.",
+     "String",
+     "required"
+    ],
+    [
+     "Note",
+     "note",
+     "Small tag on the right of the heading, for example 100% drop chance.",
+     "String",
+     "optional"
+    ],
+    [
+     "Text",
+     "text",
+     "A line of text under the heading.",
+     "String",
+     "optional"
+    ],
+    [
+     "Kind",
+     "type",
+     "sure (always drops, green accent), pick (one of, orange accent) or craft (blue accent).Suggested valuessure pick craftDefaultpick",
+     "String",
+     "optional"
+    ],
+    [
+     "Items",
+     "1",
+     "LootItem entries.",
+     "Content",
+     "required"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "One group inside a Template:Tl. Put Template:Tl entries inside it. A group of drops in a loot table, for example the guaranteed drops or a pick of one. Template parameters Parameter Description Type Status Title title Heading of the group, for example Always drops. String required Note note Small tag on the right of the heading, for example 100% drop chance. String optional Text text A line of text under the heading. String optional Kind type sure (always drops, green accent), pick (one of, orange accent) or craft (blue accent). Suggested values sure pick craft Default pick String optional Items 1 LootItem entries. Content required",
+ "html": "<p>One group inside a <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>. Put <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a> entries inside it.\n</p>\n<section><header><p>A group of drops in a loot table, for example the guaranteed drops or a pick of one.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:LootGroup\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Title</th><td><code>title</code></td><td><p>Heading of the group, for example Always drops.</p><dl></dl></td><td>String</td><td>required</td></tr><tr><th>Note</th><td><code>note</code></td><td><p>Small tag on the right of the heading, for example 100% drop chance.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Text</th><td><code>text</code></td><td><p>A line of text under the heading.</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Kind</th><td><code>type</code></td><td><p>sure (always drops, green accent), pick (one of, orange accent) or craft (blue accent).</p><dl><dt>Suggested values</dt><dd><code>sure</code> <code>pick</code> <code>craft</code></dd><dt>Default</dt><dd>pick</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Items</th><td><code>1</code></td><td><p>LootItem entries.</p><dl></dl></td><td>Content</td><td>required</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><div class=\"aa-loot-group aa-loot-{{{type|pick}}}\"><div class=\"aa-loot-head\"><span class=\"aa-loot-title\">{{{title|}}}</span>{{#if:{{{note|}}}|<span class=\"aa-loot-note\">{{{note}}}</span>}}</div>{{#if:{{{text|}}}|<div class=\"aa-loot-text\">{{{text}}}</div>}}<div class=\"aa-loot-items\">{{{1|}}}</div></div></includeonly><noinclude>\nOne group inside a {{tl|LootTable}}. Put {{tl|LootItem}} entries inside it.\n\n<templatedata>\n{\n\t\"description\": \"A group of drops in a loot table, for example the guaranteed drops or a pick of one.\",\n\t\"params\": {\n\t\t\"title\": { \"label\": \"Title\", \"description\": \"Heading of the group, for example Always drops.\", \"type\": \"string\", \"required\": true },\n\t\t\"note\": { \"label\": \"Note\", \"description\": \"Small tag on the right of the heading, for example 100% drop chance.\", \"type\": \"string\" },\n\t\t\"text\": { \"label\": \"Text\", \"description\": \"A line of text under the heading.\", \"type\": \"string\" },\n\t\t\"type\": { \"label\": \"Kind\", \"description\": \"sure (always drops, green accent), pick (one of, orange accent) or craft (blue accent).\", \"type\": \"string\", \"suggestedvalues\": [\"sure\", \"pick\", \"craft\"], \"default\": \"pick\" },\n\t\t\"1\": { \"label\": \"Items\", \"description\": \"LootItem entries.\", \"type\": \"content\", \"required\": true }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

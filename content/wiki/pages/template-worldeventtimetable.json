@@ -1,0 +1,64 @@
+{
+ "slug": "template-worldeventtimetable",
+ "title": "Template:WorldEventTimetable",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61380,
+ "revid": 64745,
+ "updated": "2026-11-14T04:43:51Z",
+ "source": "https://wiki.aa-classic.com/Template:WorldEventTimetable",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Layout",
+     "layout",
+     "auto, week or agendaSuggested valuesauto week agendaDefaultauto",
+     "String",
+     "optional"
+    ],
+    [
+     "Header and note",
+     "header",
+     "yes or noSuggested valuesyes noDefaultyes",
+     "String",
+     "optional"
+    ],
+    [
+     "Daily events",
+     "daily",
+     "yes or noSuggested valuesyes noDefaultyes",
+     "String",
+     "optional"
+    ],
+    [
+     "Gold Trader card",
+     "trader",
+     "yes or noSuggested valuesyes noDefaultyes",
+     "String",
+     "optional"
+    ],
+    [
+     "Game time events",
+     "gametime",
+     "yes or noSuggested valuesyes noDefaultyes",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "The World Events timetable. The daily events show in seven day columns on the right day and time for the reader's own time zone, and the game time events (the rifts and Jola/Meina/Glenn) get their own panel with their next times for the next 24 hours. Everything lives on two data pages, Module:WorldEventData for the events and Module:GameTimeData for the game clock (kept right by the sync bot), so a change is a single edit. Usage {{WorldEventTimetable}} layout (optional) picks the look. auto (default) shows seven day columns on wide screens and a day by day list on phones. week always shows the columns and agenda always shows the list. header (optional) is yes by default. Write no to hide the game clock, the time zone and the note. daily, trader and gametime (optional) are yes by default. Write no to leave out the daily events, the Freedich Gold Trader card or the game time panel. The time zone conversion and the game time need the script of this table in MediaWiki:Common.js. Without it the table shows server time (New York) and the game time hours. The pictures are the files Event_*.png listed in Module:WorldEventData. Needs Module:WorldEventTimetable, Module:WorldEventData, Module:GameTimeData and Template:WorldEventTimetable/styles.css. The World Events timetable (daily events and game time events), shown in the reader's own time zone. Template parameters Parameter Description Type Status Layout layout auto, week or agenda Suggested values auto week agenda Default auto String optional Header and note header yes or no Suggested values yes no Default yes String optional Daily events daily yes or no Suggested values yes no Default yes String optional Gold Trader card trader yes or no Suggested values yes no Default yes String optional Game time events gametime yes or no Suggested values yes no Default yes String optional",
+ "html": "<p>The World Events timetable. The daily events show in seven day columns on the right day and time for the reader's own time zone, and the game time events (the rifts and Jola/Meina/Glenn) get their own panel with their next times for the next 24 hours. Everything lives on two data pages, <code>Module:WorldEventData</code> for the events and <code>Module:GameTimeData</code> for the game clock (kept right by the sync bot), so a change is a single edit.\n</p><p><b>Usage</b>\n</p>\n<pre>{{WorldEventTimetable}}</pre>\n<ul><li><b>layout</b> (optional) picks the look. <code>auto</code> (default) shows seven day columns on wide screens and a day by day list on phones. <code>week</code> always shows the columns and <code>agenda</code> always shows the list.</li>\n<li><b>header</b> (optional) is <code>yes</code> by default. Write <code>no</code> to hide the game clock, the time zone and the note.</li>\n<li><b>daily</b>, <b>trader</b> and <b>gametime</b> (optional) are <code>yes</code> by default. Write <code>no</code> to leave out the daily events, the Freedich Gold Trader card or the game time panel.</li>\n<li>The time zone conversion and the game time need the script of this table in <code>MediaWiki:Common.js</code>. Without it the table shows server time (New York) and the game time hours.</li>\n<li>The pictures are the files <code>Event_*.png</code> listed in <code>Module:WorldEventData</code>.</li>\n<li>Needs <code>Module:WorldEventTimetable</code>, <code>Module:WorldEventData</code>, <code>Module:GameTimeData</code> and <code>Template:WorldEventTimetable/styles.css</code>.</li></ul>\n<section><header><p>The World Events timetable (daily events and game time events), shown in the reader's own time zone.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:WorldEventTimetable\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Layout</th><td><code>layout</code></td><td><p>auto, week or agenda</p><dl><dt>Suggested values</dt><dd><code>auto</code> <code>week</code> <code>agenda</code></dd><dt>Default</dt><dd>auto</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Header and note</th><td><code>header</code></td><td><p>yes or no</p><dl><dt>Suggested values</dt><dd><code>yes</code> <code>no</code></dd><dt>Default</dt><dd>yes</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Daily events</th><td><code>daily</code></td><td><p>yes or no</p><dl><dt>Suggested values</dt><dd><code>yes</code> <code>no</code></dd><dt>Default</dt><dd>yes</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Gold Trader card</th><td><code>trader</code></td><td><p>yes or no</p><dl><dt>Suggested values</dt><dd><code>yes</code> <code>no</code></dd><dt>Default</dt><dd>yes</dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Game time events</th><td><code>gametime</code></td><td><p>yes or no</p><dl><dt>Suggested values</dt><dd><code>yes</code> <code>no</code></dd><dt>Default</dt><dd>yes</dd></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"WorldEventTimetable/styles.css\" />{{#invoke:WorldEventTimetable|main|layout={{{layout|auto}}}|header={{{header|yes}}}|daily={{{daily|yes}}}|gametime={{{gametime|yes}}}|trader={{{trader|yes}}}}}</includeonly><noinclude>\nThe World Events timetable. The daily events show in seven day columns on the right day and time for the reader's own time zone, and the game time events (the rifts and Jola/Meina/Glenn) get their own panel with their next times for the next 24 hours. Everything lives on two data pages, <code>Module:WorldEventData</code> for the events and <code>Module:GameTimeData</code> for the game clock (kept right by the sync bot), so a change is a single edit.\n\n'''Usage'''\n<pre>{{WorldEventTimetable}}</pre>\n\n* '''layout''' (optional) picks the look. <code>auto</code> (default) shows seven day columns on wide screens and a day by day list on phones. <code>week</code> always shows the columns and <code>agenda</code> always shows the list.\n* '''header''' (optional) is <code>yes</code> by default. Write <code>no</code> to hide the game clock, the time zone and the note.\n* '''daily''', '''trader''' and '''gametime''' (optional) are <code>yes</code> by default. Write <code>no</code> to leave out the daily events, the Freedich Gold Trader card or the game time panel.\n* The time zone conversion and the game time need the script of this table in <code>MediaWiki:Common.js</code>. Without it the table shows server time (New York) and the game time hours.\n* The pictures are the files <code>Event_*.png</code> listed in <code>Module:WorldEventData</code>.\n* Needs <code>Module:WorldEventTimetable</code>, <code>Module:WorldEventData</code>, <code>Module:GameTimeData</code> and <code>Template:WorldEventTimetable/styles.css</code>.\n\n<templatedata>\n{\n\t\"description\": \"The World Events timetable (daily events and game time events), shown in the reader's own time zone.\",\n\t\"params\": {\n\t\t\"layout\": { \"label\": \"Layout\", \"description\": \"auto, week or agenda\", \"type\": \"string\", \"default\": \"auto\", \"suggestedvalues\": [\"auto\", \"week\", \"agenda\"] },\n\t\t\"header\": { \"label\": \"Header and note\", \"description\": \"yes or no\", \"type\": \"string\", \"default\": \"yes\", \"suggestedvalues\": [\"yes\", \"no\"] },\n\t\t\"daily\": { \"label\": \"Daily events\", \"description\": \"yes or no\", \"type\": \"string\", \"default\": \"yes\", \"suggestedvalues\": [\"yes\", \"no\"] },\n\t\t\"trader\": { \"label\": \"Gold Trader card\", \"description\": \"yes or no\", \"type\": \"string\", \"default\": \"yes\", \"suggestedvalues\": [\"yes\", \"no\"] },\n\t\t\"gametime\": { \"label\": \"Game time events\", \"description\": \"yes or no\", \"type\": \"string\", \"default\": \"yes\", \"suggestedvalues\": [\"yes\", \"no\"] }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

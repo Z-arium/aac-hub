@@ -1,0 +1,57 @@
+{
+ "slug": "template-skilltree",
+ "title": "Template:Skilltree",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 60935,
+ "revid": 63216,
+ "updated": "2026-10-29T16:10:20Z",
+ "source": "https://wiki.aa-classic.com/Template:Skilltree",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Skill tree",
+     "1",
+     "The name of the tree, for example SorcerySuggested valuesSorcery",
+     "String",
+     "required"
+    ],
+    [
+     "Abyssal open",
+     "abyssal",
+     "yes = the Abyssal skills are shown from the start (the eye still closes them)Suggested valuesyes",
+     "String",
+     "optional"
+    ],
+    [
+     "Position",
+     "float",
+     "Optional. left, right (text flows around the tree) or center. A tree on the right opens its boxes to the left.Suggested valuesleft right center",
+     "String",
+     "optional"
+    ],
+    [
+     "Boxes open to",
+     "tips",
+     "Optional. left or right; normally right, and left when float=right.Suggested valuesleft right",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "The skill tree window of the game for one tree: the combat skills, the passives and (a click on the eye) the Abyssal skills. Hover a skill to see its card, a passive to see its text. Everything is shown for a player of level 55. Usage {{Skilltree|Sorcery}} {{Skilltree|Sorcery|abyssal=yes}} {{Skilltree|Sorcery|float=right}} The boxes of the skills open to the right of the tree. In a tree on the right of the page (float=right) they open to the left; tips=left or tips=right sets it by hand. A box shows the skill with the rank of the game screenshots; its versions (Basic, Quake ...) and the skills of its chain can be switched inside the box.Needs Module:Skilltree, Module:Skilltree/data, Template:Skilltree/styles.css (this template) and Template:Skill/styles.css, Module:Skill (the cards) File:Ability_change.png (the eye icon is cut out of it) The icons of the skills and of the passives (buff icons), uploaded like for Template:Tl No description. Template parameters Parameter Description Type Status Skill tree 1 The name of the tree, for example Sorcery Suggested values Sorcery String required Abyssal open abyssal yes = the Abyssal skills are shown from the start (the eye still closes them) Suggested values yes String optional Position float Optional. left, right (text flows around the tree) or center. A tree on the right opens its boxes to the left. Suggested values left right center String optional Boxes open to tips Optional. left or right; normally right, and left when float=right. Suggested values left right String optional",
+ "html": "<p>The skill tree window of the game for one tree: the combat skills, the passives and (a click on the eye) the Abyssal skills. Hover a skill to see its card, a passive to see its text. Everything is shown for a player of level 55.\n</p><p><b>Usage</b>\n</p>\n<pre>{{Skilltree|Sorcery}}\n{{Skilltree|Sorcery|abyssal=yes}}\n{{Skilltree|Sorcery|float=right}}</pre>\n<p>The boxes of the skills open to the right of the tree. In a tree on the right of the page (<code>float=right</code>) they open to the left; <code>tips=left</code> or <code>tips=right</code> sets it by hand. A box shows the skill with the rank of the game screenshots; its versions (Basic, Quake ...) and the skills of its chain can be switched inside the box.\n<b>Needs</b>\n</p>\n<ul><li>Module:Skilltree, Module:Skilltree/data, Template:Skilltree/styles.css (this template) and Template:Skill/styles.css, Module:Skill (the cards)</li>\n<li><code>File:Ability_change.png</code> (the eye icon is cut out of it)</li>\n<li>The icons of the skills and of the passives (buff icons), uploaded like for <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a></li></ul>\n<section><header><p>No description.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:Skilltree\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Skill tree</th><td><code>1</code></td><td><p>The name of the tree, for example Sorcery</p><dl><dt>Suggested values</dt><dd><code>Sorcery</code></dd></dl></td><td>String</td><td>required</td></tr><tr><th>Abyssal open</th><td><code>abyssal</code></td><td><p>yes = the Abyssal skills are shown from the start (the eye still closes them)</p><dl><dt>Suggested values</dt><dd><code>yes</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Position</th><td><code>float</code></td><td><p>Optional. left, right (text flows around the tree) or center. A tree on the right opens its boxes to the left.</p><dl><dt>Suggested values</dt><dd><code>left</code> <code>right</code> <code>center</code></dd></dl></td><td>String</td><td>optional</td></tr><tr><th>Boxes open to</th><td><code>tips</code></td><td><p>Optional. left or right; normally right, and left when float=right.</p><dl><dt>Suggested values</dt><dd><code>left</code> <code>right</code></dd></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly>{{#invoke:Skilltree|tree}}</includeonly><noinclude>\nThe skill tree window of the game for one tree: the combat skills, the passives and (a click on the eye) the Abyssal skills. Hover a skill to see its card, a passive to see its text. Everything is shown for a player of level 55.\n\n'''Usage'''\n<pre>{{Skilltree|Sorcery}}\n{{Skilltree|Sorcery|abyssal=yes}}\n{{Skilltree|Sorcery|float=right}}</pre>\nThe boxes of the skills open to the right of the tree. In a tree on the right of the page (<code>float=right</code>) they open to the left; <code>tips=left</code> or <code>tips=right</code> sets it by hand. A box shows the skill with the rank of the game screenshots; its versions (Basic, Quake ...) and the skills of its chain can be switched inside the box.\n'''Needs'''\n* Module:Skilltree, Module:Skilltree/data, Template:Skilltree/styles.css (this template) and Template:Skill/styles.css, Module:Skill (the cards)\n* <code>File:Ability_change.png</code> (the eye icon is cut out of it)\n* The icons of the skills and of the passives (buff icons), uploaded like for {{tl|Skill}}\n<templatedata>\n{\n\t\"params\": {\n\t\t\"1\": {\n\t\t\t\"label\": \"Skill tree\",\n\t\t\t\"description\": \"The name of the tree, for example Sorcery\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": true,\n\t\t\t\"suggestedvalues\": [\"Sorcery\"]\n\t\t},\n\t\t\"abyssal\": {\n\t\t\t\"label\": \"Abyssal open\",\n\t\t\t\"description\": \"yes = the Abyssal skills are shown from the start (the eye still closes them)\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggestedvalues\": [\"yes\"]\n\t\t},\n\t\t\"float\": {\n\t\t\t\"label\": \"Position\",\n\t\t\t\"description\": \"Optional. left, right (text flows around the tree) or center. A tree on the right opens its boxes to the left.\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggestedvalues\": [\"left\", \"right\", \"center\"]\n\t\t},\n\t\t\"tips\": {\n\t\t\t\"label\": \"Boxes open to\",\n\t\t\t\"description\": \"Optional. left or right; normally right, and left when float=right.\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggestedvalues\": [\"left\", \"right\"]\n\t\t}\n\t},\n\t\"paramOrder\": [\"1\", \"abyssal\", \"float\", \"tips\"]\n}\n</templatedata></noinclude>"
+}

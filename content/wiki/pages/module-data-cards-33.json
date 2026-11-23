@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-33",
+ "title": "Module:Data/Cards/33",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60964,
+ "revid": 63469,
+ "updated": "2026-10-31T15:55:50Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/33",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [3332] = { category = \"Metal\", crafts = { { 81, \"Starshard Ingot\" }, { 7559, \"Starshard Ingot: Fast Processing\" }, { 7575, \"Starshard Ingot: Fast Batch Processing\" } }, desc = \"Processed from |cFFf5CB65Starshard Chips|r. It's chiefly used in making handicrafts.\", grade = \"None\", icon = \"icon_item_0855.png\", name = \"Starshard Ingot\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[3332] = { category = \"Metal\", crafts = { { 81, \"Starshard Ingot\" }, { 7559, \"Starshard Ingot: Fast Processing\" }, { 7575, \"Starshard Ingot: Fast Batch Processing\" } }, desc = \"Processed from |cFFf5CB65Starshard Chips|r. It's chiefly used in making handicrafts.\", grade = \"None\", icon = \"icon_item_0855.png\", name = \"Starshard Ingot\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[3332] = { category = \"Metal\", crafts = { { 81, \"Starshard Ingot\" }, { 7559, \"Starshard Ingot: Fast Processing\" }, { 7575, \"Starshard Ingot: Fast Batch Processing\" } }, desc = \"Processed from |cFFf5CB65Starshard Chips|r. It's chiefly used in making handicrafts.\", grade = \"None\", icon = \"icon_item_0855.png\", name = \"Starshard Ingot\" },\n}"
+}

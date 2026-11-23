@@ -4,13 +4,13 @@
  "ns": 10,
  "model": "wikitext",
  "pageid": 1310,
- "revid": 2666,
- "updated": "2025-06-21T18:31:53Z",
+ "revid": 64692,
+ "updated": "2026-11-12T20:24:19Z",
  "source": "https://wiki.aa-classic.com/Template:CombatPages",
  "headings": [],
  "tables": [],
  "images": [],
- "text": "Skill Trees Status Effects Abyssal Skills Buffs / Potions",
- "html": "<ul><li><a href=\"/wiki/skill-trees\">Skill Trees</a></li>\n<li><a href=\"/wiki/status-effects\">Status Effects</a></li>\n<li><a href=\"/wiki/abyssal-skills\">Abyssal Skills</a></li>\n<li><a href=\"/wiki/buffs-potions\">Buffs / Potions</a></li></ul>",
- "wikitext": "* [[Skill Trees]]\n* [[Status Effects]]\n* [[Abyssal Skills]]\n* [[Buffs & Potions|Buffs / Potions]]"
+ "text": "Skill Trees Status Effects Abyssal Skills Buffs / Potions Emerald Weapons Stat Migration Stat Costumes & Undergarments",
+ "html": "<ul><li><a href=\"/wiki/skill-trees\">Skill Trees</a></li>\n<li><a href=\"/wiki/status-effects\">Status Effects</a></li>\n<li><a href=\"/wiki/abyssal-skills\">Abyssal Skills</a></li>\n<li><a href=\"/wiki/buffs-potions\">Buffs / Potions</a></li>\n<li><a href=\"/wiki/emerald-weapons\">Emerald Weapons</a></li>\n<li><a href=\"/wiki/stat-migration\">Stat Migration</a></li>\n<li><a href=\"/wiki/stat-costumes-undergarments\">Stat Costumes &amp; Undergarments</a></li></ul>",
+ "wikitext": "* [[Skill Trees]]\n* [[Status Effects]]\n* [[Abyssal Skills]]\n* [[Buffs & Potions|Buffs / Potions]]\n* [[Emerald Weapons]]\n* [[Stat Migration]]\n* [[Stat Costumes & Undergarments]]"
 }

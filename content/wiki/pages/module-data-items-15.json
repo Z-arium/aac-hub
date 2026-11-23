@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-15",
+ "title": "Module:Data/Items/15",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61223,
+ "revid": 63961,
+ "updated": "2026-11-03T16:33:36Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/15",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [15621] = { grade = \"None\", icon = \"icon_item_0296.png\", name = \"Glowing Prism\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[15621] = { grade = \"None\", icon = \"icon_item_0296.png\", name = \"Glowing Prism\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[15621] = { grade = \"None\", icon = \"icon_item_0296.png\", name = \"Glowing Prism\" },\n}"
+}

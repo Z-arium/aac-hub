@@ -1,0 +1,50 @@
+{
+ "slug": "template-bufflink",
+ "title": "Template:BuffLink",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 60958,
+ "revid": 63448,
+ "updated": "2026-10-31T00:54:20Z",
+ "source": "https://wiki.aa-classic.com/Template:BuffLink",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Buff ID",
+     "1",
+     "The buff ID, for example 536",
+     "Number",
+     "required"
+    ],
+    [
+     "Icon size",
+     "size",
+     "Icon size in pixels. Default 22 (fits in a line of text). Use 32 or more for lists and boxes.",
+     "Number",
+     "optional"
+    ],
+    [
+     "Tooltip",
+     "tip",
+     "The card opens to the right of the buff. Write left to open it to the left instead (buffs at the right edge of the page), or no to turn the tooltip off.Suggested valuesleft no",
+     "String",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Shows a buff, debuff or passive effect as a small icon (22px, so it fits in a line of text; with a black and a green or red border over its edge) with its name beside it. When the pointer rests on the icon or the name, a small card with the icon, the name and the text of the game opens beside it. Skills have their own template: Template:SkillLink. Usage {{BuffLink|536}} {{BuffLink|536|tip=left}} The first value is the buff ID (the number at the end of https://aa-classic.com/database/buffs/536). Buff IDs are not skill IDs. The icon, name and text come from the data pages stored by sync_wiki_data.py (Module:Data/Buffs/...; --scan finds the BuffLink calls on the wiki). A buff that is not stored yet shows nothing (an invisible comment is left in the page source) until the script has been run. The card opens to the right of the buff (towards the middle of the page for normal text). tip=left opens it to the left instead, for buffs at the right edge, for example in an infobox. tip=no turns the tooltip off. size=32 makes the icon larger (default 22, which fits in a line of text). On phones the card opens below. The name is light blue for a buff and soft red for a debuff (the data says which it is). The colours are set in Template:BuffLink/styles.css (.aa-bufftip-name and .aa-bufftip-debuff). Needs Module:Buff, Module:DataStore (with Buffs = 100 in SHARD), Module:Consumable, Module:IconName and Template:BuffLink/styles.css. No description. Template parameters Parameter Description Type Status Buff ID 1 The buff ID, for example 536 Number required Icon size size Icon size in pixels. Default 22 (fits in a line of text). Use 32 or more for lists and boxes. Number optional Tooltip tip The card opens to the right of the buff. Write left to open it to the left instead (buffs at the right edge of the page), or no to turn the tooltip off. Suggested values left no String optional",
+ "html": "<p>Shows a buff, debuff or passive effect as a small icon (22px, so it fits in a line of text; with a black and a green or red border over its edge) with its name beside it. When the pointer rests on the icon or the name, a small card with the icon, the name and the text of the game opens beside it. Skills have their own template: <a href=\"/wiki/template-skilllink\">Template:SkillLink</a>.\n</p><p><b>Usage</b>\n</p>\n<pre>{{BuffLink|536}}\n{{BuffLink|536|tip=left}}</pre>\n<ul><li>The first value is the buff ID (the number at the end of <code><a rel=\"noopener\" href=\"https://aa-classic.com/database/buffs/536\">https://aa-classic.com/database/buffs/536</a></code>). Buff IDs are not skill IDs.</li>\n<li>The icon, name and text come from the data pages stored by <code>sync_wiki_data.py</code> (<code>Module:Data/Buffs/...</code>; <code>--scan</code> finds the BuffLink calls on the wiki). A buff that is not stored yet shows nothing (an invisible comment is left in the page source) until the script has been run.</li>\n<li>The card opens to the right of the buff (towards the middle of the page for normal text). <code>tip=left</code> opens it to the left instead, for buffs at the right edge, for example in an infobox. <code>tip=no</code> turns the tooltip off. <code>size=32</code> makes the icon larger (default 22, which fits in a line of text). On phones the card opens below.</li>\n<li>The name is light blue for a buff and soft red for a debuff (the data says which it is). The colours are set in <code>Template:BuffLink/styles.css</code> (<code>.aa-bufftip-name</code> and <code>.aa-bufftip-debuff</code>).</li>\n<li>Needs <code>Module:Buff</code>, <code>Module:DataStore</code> (with <code>Buffs = 100</code> in SHARD), <code>Module:Consumable</code>, <code>Module:IconName</code> and <code>Template:BuffLink/styles.css</code>.</li></ul>\n<section><header><p>No description.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:BuffLink\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Buff ID</th><td><code>1</code></td><td><p>The buff ID, for example 536</p><dl></dl></td><td>Number</td><td>required</td></tr><tr><th>Icon size</th><td><code>size</code></td><td><p>Icon size in pixels. Default 22 (fits in a line of text). Use 32 or more for lists and boxes.</p><dl></dl></td><td>Number</td><td>optional</td></tr><tr><th>Tooltip</th><td><code>tip</code></td><td><p>The card opens to the right of the buff. Write left to open it to the left instead (buffs at the right edge of the page), or no to turn the tooltip off.</p><dl><dt>Suggested values</dt><dd><code>left</code> <code>no</code></dd></dl></td><td>String</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly>{{#if:{{#invoke:DataStore|has|Buffs|{{{1|}}}}}|<templatestyles src=\"Template:BuffLink/styles.css\" /><span class=\"aa-bufftip {{#ifeq:{{{tip|}}}|left|aa-bufftip-left}}\">{{#invoke:Buff|link|id={{{1|}}}|size={{{size|}}}}}{{#ifeq:{{{tip|}}}|no||<span class=\"aa-bufftip-card\">{{#invoke:Tooltip|flat|{{#invoke:Buff|card|id={{{1|}}}}}}}</span>}}</span>|<!-- BuffLink: this buff is not stored yet, run sync_wiki_data.py --scan -->}}</includeonly><noinclude>\nShows a buff, debuff or passive effect as a small icon (22px, so it fits in a line of text; with a black and a green or red border over its edge) with its name beside it. When the pointer rests on the icon or the name, a small card with the icon, the name and the text of the game opens beside it. Skills have their own template: [[Template:SkillLink]].\n\n'''Usage'''\n<pre>{{BuffLink|536}}\n{{BuffLink|536|tip=left}}</pre>\n\n* The first value is the buff ID (the number at the end of <code>https://aa-classic.com/database/buffs/536</code>). Buff IDs are not skill IDs.\n* The icon, name and text come from the data pages stored by <code>sync_wiki_data.py</code> (<code>Module:Data/Buffs/...</code>; <code>--scan</code> finds the BuffLink calls on the wiki). A buff that is not stored yet shows nothing (an invisible comment is left in the page source) until the script has been run.\n* The card opens to the right of the buff (towards the middle of the page for normal text). <code>tip=left</code> opens it to the left instead, for buffs at the right edge, for example in an infobox. <code>tip=no</code> turns the tooltip off. <code>size=32</code> makes the icon larger (default 22, which fits in a line of text). On phones the card opens below.\n* The name is light blue for a buff and soft red for a debuff (the data says which it is). The colours are set in <code>Template:BuffLink/styles.css</code> (<code>.aa-bufftip-name</code> and <code>.aa-bufftip-debuff</code>).\n* Needs <code>Module:Buff</code>, <code>Module:DataStore</code> (with <code>Buffs = 100</code> in SHARD), <code>Module:Consumable</code>, <code>Module:IconName</code> and <code>Template:BuffLink/styles.css</code>.\n<templatedata>\n{\n\t\"params\": {\n\t\t\"1\": {\n\t\t\t\"label\": \"Buff ID\",\n\t\t\t\"description\": \"The buff ID, for example 536\",\n\t\t\t\"type\": \"number\",\n\t\t\t\"required\": true\n\t\t},\n\t\t\"size\": {\n\t\t\t\"type\": \"number\",\n\t\t\t\"label\": \"Icon size\",\n\t\t\t\"description\": \"Icon size in pixels. Default 22 (fits in a line of text). Use 32 or more for lists and boxes.\"\n\t\t},\n\t\t\"tip\": {\n\t\t\t\"label\": \"Tooltip\",\n\t\t\t\"description\": \"The card opens to the right of the buff. Write left to open it to the left instead (buffs at the right edge of the page), or no to turn the tooltip off.\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggestedvalues\": [\n\t\t\t\t\"left\",\n\t\t\t\t\"no\"\n\t\t\t]\n\t\t}\n\t},\n\t\"paramOrder\": [\n\t\t\"1\",\n\t\t\"size\",\n\t\t\"tip\"\n\t]\n}\n</templatedata></noinclude>"
+}

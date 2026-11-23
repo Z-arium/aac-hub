@@ -1,0 +1,18 @@
+{
+ "slug": "news-discord-unavailable",
+ "title": "News/Discord Unavailable",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61081,
+ "revid": 63834,
+ "updated": "2026-11-02T17:34:58Z",
+ "source": "https://wiki.aa-classic.com/News/Discord_Unavailable",
+ "headings": [],
+ "tables": [],
+ "images": [
+  "News banners-banner announcement.png"
+ ],
+ "text": "Announcement23 September 2026·All news·Original post on aa-classic.com Discord Unavailable Our Discord is unavailable at the time, find the invite link below. WARNING: Our usual Discord is currently unavailable. Please use this one in the meantime: https://discord.gg/JjzdBMrxer",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/47/476edd3499075a5a5ff531ae1bcf619523d0a8e1.png\" width=\"1200\" height=\"1200\" loading=\"lazy\"></span></span></div><div><div><span>Announcement</span><span>23 September 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/discord-unavailable\">Original post on aa-classic.com</a></div><div>Discord Unavailable</div><div>Our Discord is unavailable at the time, find the invite link below.</div></div></div>\n<p>WARNING: Our usual Discord is currently unavailable. Please use this one in the meantime: <a rel=\"noopener\" href=\"https://discord.gg/JjzdBMrxer\">https://discord.gg/JjzdBMrxer</a>\n</p>",
+ "wikitext": "{{NewsArticle\n|title=Discord Unavailable\n|slug=discord-unavailable\n|date=2026-09-23 15:08\n|category=Announcement\n|image=News banners-banner announcement.png\n|summary=Our Discord is unavailable at the time, find the invite link below.\n|source=https://aa-classic.com/news/discord-unavailable\n}}\n\nWARNING: Our usual Discord is currently unavailable. Please use this one in the meantime: https://discord.gg/JjzdBMrxer"
+}

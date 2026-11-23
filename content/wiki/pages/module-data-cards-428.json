@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-428",
+ "title": "Module:Data/Cards/428",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61307,
+ "revid": 64419,
+ "updated": "2026-11-05T21:20:55Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/428",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [42830] = { bind = \"soulbound_pickup\", category = \"Cloth Armor\", desc = \"Can only be obtained by the bravest warriors.\", eq = { ar = 20, cov = 15, ilvl = 20, mr = 100, ns = true, sl = 1 }, grade = \"Arcane\", icon = \"costume_hm\\\\nu_m_hm_leather077.png\", name = \"Thunderwing Hood\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42830] = { bind = \"soulbound_pickup\", category = \"Cloth Armor\", desc = \"Can only be obtained by the bravest warriors.\", eq = { ar = 20, cov = 15, ilvl = 20, mr = 100, ns = true, sl = 1 }, grade = \"Arcane\", icon = \"costume_hm\\\\nu_m_hm_leather077.png\", name = \"Thunderwing Hood\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[42830] = { bind = \"soulbound_pickup\", category = \"Cloth Armor\", desc = \"Can only be obtained by the bravest warriors.\", eq = { ar = 20, cov = 15, ilvl = 20, mr = 100, ns = true, sl = 1 }, grade = \"Arcane\", icon = \"costume_hm\\\\nu_m_hm_leather077.png\", name = \"Thunderwing Hood\" },\n}"
+}

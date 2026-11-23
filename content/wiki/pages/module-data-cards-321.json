@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-321",
+ "title": "Module:Data/Cards/321",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 60970,
+ "revid": 63476,
+ "updated": "2026-10-31T15:56:01Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/321",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [32103] = { category = \"Material\", desc = \"Used in crafting explosives and to stop unwanted chemical reactions.\\n\\n- Acquire at an inland |nd;Cargo Exchanger|r in trade for Certified Cargo Packs.\", grade = \"None\", icon = \"icon_item_1766.png\", name = \"Charcoal Stabilizer\", quests = { { 8000131, \"Mission: Trade for Goods\" }, { 8636, \"Hauling Certified Cargo\" }, { 8635, \"Hauling Certified Cargo\" }, { 1582, \"Ruin the Ritual\" }, { 1066, \"Initiate Shutdown\" } } }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[32103] = { category = \"Material\", desc = \"Used in crafting explosives and to stop unwanted chemical reactions.\\n\\n- Acquire at an inland |nd;Cargo Exchanger|r in trade for Certified Cargo Packs.\", grade = \"None\", icon = \"icon_item_1766.png\", name = \"Charcoal Stabilizer\", quests = { { 8000131, \"Mission: Trade for Goods\" }, { 8636, \"Hauling Certified Cargo\" }, { 8635, \"Hauling Certified Cargo\" }, { 1582, \"Ruin the Ritual\" }, { 1066, \"Initiate Shutdown\" } } },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[32103] = { category = \"Material\", desc = \"Used in crafting explosives and to stop unwanted chemical reactions.\\n\\n- Acquire at an inland |nd;Cargo Exchanger|r in trade for Certified Cargo Packs.\", grade = \"None\", icon = \"icon_item_1766.png\", name = \"Charcoal Stabilizer\", quests = { { 8000131, \"Mission: Trade for Goods\" }, { 8636, \"Hauling Certified Cargo\" }, { 8635, \"Hauling Certified Cargo\" }, { 1582, \"Ruin the Ritual\" }, { 1066, \"Initiate Shutdown\" } } },\n}"
+}
