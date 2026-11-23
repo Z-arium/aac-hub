@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-buffs-208",
+ "title": "Module:Data/Buffs/208",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61298,
+ "revid": 64379,
+ "updated": "2026-11-05T20:18:14Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Buffs/208",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs. return { [20883] = { desc = \"Enables usage of the |nc;Thunderwing Call|r on a Floating Island in Reedwind, in order to fight the Thunderwing Titan.\\nCan be acquired at a completed Haje's Tower.\", dur = 600000, icon = \"icon_skill_gliding_wing09.png\", kind = \"buff\", name = \"Promised Guardian\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[20883] = { desc = \"Enables usage of the |nc;Thunderwing Call|r on a Floating Island in Reedwind, in order to fight the Thunderwing Titan.\\nCan be acquired at a completed Haje's Tower.\", dur = 600000, icon = \"icon_skill_gliding_wing09.png\", kind = \"buff\", name = \"Promised Guardian\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[20883] = { desc = \"Enables usage of the |nc;Thunderwing Call|r on a Floating Island in Reedwind, in order to fight the Thunderwing Titan.\\nCan be acquired at a completed Haje's Tower.\", dur = 600000, icon = \"icon_skill_gliding_wing09.png\", kind = \"buff\", name = \"Promised Guardian\" },\n}"
+}

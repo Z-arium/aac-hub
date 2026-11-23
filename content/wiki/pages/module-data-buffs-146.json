@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-buffs-146",
+ "title": "Module:Data/Buffs/146",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61322,
+ "revid": 64476,
+ "updated": "2026-11-06T03:00:29Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Buffs/146",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs. return { [14610] = { desc = \"Inflicts the force of the High-Speed Siege Cannon's Impact.\", dur = 15000, icon = \"icon_item_2106.png\", kind = \"debuff\", name = \"High-Speed Siege Cannon Impact\" }, [14611] = { desc = \"Stuns the Leviathan with many High-Speed Siege Cannon Impacts.\", dur = 20000, icon = \"icon_skill_buff10.png\", kind = \"debuff\", name = \"Leviathan Stun\" }, [14612] = { desc = \"Grants immunity to the High-Speed Siege Cannon Impact effect.\", dur = 180000, icon = \"icon_skill_buff99.png\", kind = \"buff\", name = \"High-Speed Siege Cannon Immunity\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[14610] = { desc = \"Inflicts the force of the High-Speed Siege Cannon's Impact.\", dur = 15000, icon = \"icon_item_2106.png\", kind = \"debuff\", name = \"High-Speed Siege Cannon Impact\" },\n\t[14611] = { desc = \"Stuns the Leviathan with many High-Speed Siege Cannon Impacts.\", dur = 20000, icon = \"icon_skill_buff10.png\", kind = \"debuff\", name = \"Leviathan Stun\" },\n\t[14612] = { desc = \"Grants immunity to the High-Speed Siege Cannon Impact effect.\", dur = 180000, icon = \"icon_skill_buff99.png\", kind = \"buff\", name = \"High-Speed Siege Cannon Immunity\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Buffs). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[14610] = { desc = \"Inflicts the force of the High-Speed Siege Cannon's Impact.\", dur = 15000, icon = \"icon_item_2106.png\", kind = \"debuff\", name = \"High-Speed Siege Cannon Impact\" },\n\t[14611] = { desc = \"Stuns the Leviathan with many High-Speed Siege Cannon Impacts.\", dur = 20000, icon = \"icon_skill_buff10.png\", kind = \"debuff\", name = \"Leviathan Stun\" },\n\t[14612] = { desc = \"Grants immunity to the High-Speed Siege Cannon Impact effect.\", dur = 180000, icon = \"icon_skill_buff99.png\", kind = \"buff\", name = \"High-Speed Siege Cannon Immunity\" },\n}"
+}

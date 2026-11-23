@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-gliders-290",
+ "title": "Module:Data/Gliders/290",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61013,
+ "revid": 63512,
+ "updated": "2026-11-01T13:35:01Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Gliders/290",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Gliders). Do not edit by hand, it is overwritten when the script runs. return { [29039] = { category = \"Glider\", desc = \"Could this be an ancient relic from the Nuons' war against the dragons?\\r\\n\\r\\nFlight Speed: |cFFFC9215High|r\\r\\nGliding Ability: |cFFFC9215High|r\\r\\nTurning Speed: |cFFf5CB65Moderate|r\\r\\nLaunch Height: |cFFf5CB65Moderate|r\\r\\nSpecial Skill: |cFFED492e Dragonfire|r\\r\\nImmune to |ni;turbulence|r.\", grade = \"None\", icon = \"icon_item_1369.dds\", name = \"Legendary Dragon Wings\", skills = { { id = 17657, name = \"Fold Glider\" }, { id = 23040, name = \"Glider Nitro\" }, { id = 21297, name = \"Glider Descent\" }, { id = 13440, name = \"Glider Barrage\" }, { id = 15266, name = \"Glider Smokescreen\" }, { id = 23270, name = \"Dragonfire\" }, { id = 8000577, name = \"Flaming Pinion\" } } }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Gliders). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[29039] = { category = \"Glider\", desc = \"Could this be an ancient relic from the Nuons' war against the dragons?\\r\\n\\r\\nFlight Speed: |cFFFC9215High|r\\r\\nGliding Ability: |cFFFC9215High|r\\r\\nTurning Speed: |cFFf5CB65Moderate|r\\r\\nLaunch Height: |cFFf5CB65Moderate|r\\r\\nSpecial Skill: |cFFED492e Dragonfire|r\\r\\nImmune to |ni;turbulence|r.\", grade = \"None\", icon = \"icon_item_1369.dds\", name = \"Legendary Dragon Wings\", skills = { { id = 17657, name = \"Fold Glider\" }, { id = 23040, name = \"Glider Nitro\" }, { id = 21297, name = \"Glider Descent\" }, { id = 13440, name = \"Glider Barrage\" }, { id = 15266, name = \"Glider Smokescreen\" }, { id = 23270, name = \"Dragonfire\" }, { id = 8000577, name = \"Flaming Pinion\" } } },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Gliders). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[29039] = { category = \"Glider\", desc = \"Could this be an ancient relic from the Nuons' war against the dragons?\\r\\n\\r\\nFlight Speed: |cFFFC9215High|r\\r\\nGliding Ability: |cFFFC9215High|r\\r\\nTurning Speed: |cFFf5CB65Moderate|r\\r\\nLaunch Height: |cFFf5CB65Moderate|r\\r\\nSpecial Skill: |cFFED492e Dragonfire|r\\r\\nImmune to |ni;turbulence|r.\", grade = \"None\", icon = \"icon_item_1369.dds\", name = \"Legendary Dragon Wings\", skills = { { id = 17657, name = \"Fold Glider\" }, { id = 23040, name = \"Glider Nitro\" }, { id = 21297, name = \"Glider Descent\" }, { id = 13440, name = \"Glider Barrage\" }, { id = 15266, name = \"Glider Smokescreen\" }, { id = 23270, name = \"Dragonfire\" }, { id = 8000577, name = \"Flaming Pinion\" } } },\n}"
+}

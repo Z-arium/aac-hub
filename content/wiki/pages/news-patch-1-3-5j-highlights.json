@@ -1,0 +1,49 @@
+{
+ "slug": "news-patch-1-3-5j-highlights",
+ "title": "News/Patch 1.3.5j Highlights",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61145,
+ "revid": 63856,
+ "updated": "2026-11-02T17:37:25Z",
+ "source": "https://wiki.aa-classic.com/News/Patch_1.3.5j_Highlights",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Patch_1.3.5j_Highlights",
+   "text": "Patch 1.3.5j Highlights"
+  },
+  {
+   "level": 2,
+   "id": "Progression_&_Utility",
+   "text": "Progression & Utility"
+  },
+  {
+   "level": 2,
+   "id": "Housing_&_Taxation",
+   "text": "Housing & Taxation"
+  },
+  {
+   "level": 2,
+   "id": "Arena_&_PvP_Fixes",
+   "text": "Arena & PvP Fixes"
+  },
+  {
+   "level": 2,
+   "id": "Equipment_&_Crafting_Changes",
+   "text": "Equipment & Crafting Changes"
+  },
+  {
+   "level": 2,
+   "id": "Visuals_&_Animations",
+   "text": "Visuals & Animations"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "News banners-banner update.png"
+ ],
+ "text": "Update23 July 2025·All news·Original post on aa-classic.com Patch 1.3.5j Highlights Patch 1.3.5j Highlights Progression & Utility - The is now rewarded from the instead of a quest (fixes delivery issues) - is now craftable at the - allows you to craft +150/-150 stat migrations item for a low honor cost. It makes migrating to/from another stat a lot easier & cheaper in the long run. Housing & Taxation… Patch 1.3.5j Highlights Progression & Utility The Catch-Up Kit is now rewarded from the Level 50 Achievement instead of a quest (fixes delivery issues) Migration Stone is now craftable at the Proven Warrior Workbench Migration Stone allows you to craft +150/-150 stat migrations item for a low honor cost. It makes migrating to/from another stat a lot easier & cheaper in the long run. Housing & Taxation Beanstalk Houses are no longer Heavy-Tax Exempt -Fixed a bug where players with New Player Housing could still receive tax mails despite owning houses elsewhereIf you own New Player Housing & got extra land, your NPH land will demolish naturally from unpaid taxes Arena & PvP Fixes URF Arena: All crowd control durations have been reduced by 50% Arena Rankings now reset properly on SUNDAYS (At midnight, in the night between Sunday and Monday) Equipment & Crafting Changes Vivid Earth Lunascale: Mastery can now be extracted from socketed gear Not retroactive to existing gems Erenor Cloaks can now be reverted and reselected using an Ipnysh Cloakmuter Grade and stats are lost Kingdom's Heart required for Monarch of the Sea craft reduced from 10 → 5 Transmutated T6 gear can now be transmutated again (previously limited to once) Visuals & Animations Fixed driver animations for Marketplace vehicles – characters now sit properly when driving",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/ef/eff7cb84c3b65aa7432e270d1687d749fba74564.png\" width=\"1200\" height=\"1200\" loading=\"lazy\"></span></span></div><div><div><span>Update</span><span>23 July 2025</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/patch-1-3-5j-highlights.166648640\">Original post on aa-classic.com</a></div><div>Patch 1.3.5j Highlights</div><div>Patch 1.3.5j Highlights Progression &amp; Utility - The is now rewarded from the instead of a quest (fixes delivery issues) - is now craftable at the - allows you to craft +150/-150 stat migrations item for a low honor cost. It makes migrating to/from another stat a lot easier &amp; cheaper in the long run. Housing &amp; Taxation…</div></div></div>\n\n<h2 id=\"Patch_1.3.5j_Highlights\">Patch 1.3.5j Highlights</h2>\n<h2 id=\"Progression_&amp;_Utility\"><span></span>Progression &amp; Utility</h2>\n<ul><li>The <b>Catch-Up Kit</b> is now rewarded from the <b>Level 50 Achievement</b> instead of a quest (fixes delivery issues)</li>\n<li><b>Migration Stone</b> is now craftable at the <b>Proven Warrior Workbench</b>\n<ul><li><b>Migration Stone</b> allows you to craft +150/-150 stat migrations item for a low honor cost. It makes migrating to/from another stat a lot easier &amp; cheaper in the long run.</li></ul></li></ul>\n<h2 id=\"Housing_&amp;_Taxation\"><span></span>Housing &amp; Taxation</h2>\n<ul><li><b>Beanstalk Houses</b> are <b>no longer Heavy-Tax Exempt</b></li></ul>\n<p>-Fixed a bug where players with <b>New Player Housing</b> could still receive <b>tax mails</b> despite owning houses elsewhere\n<i>If you own New Player Housing &amp; got extra land, your NPH land will demolish naturally from unpaid taxes</i>\n</p>\n<h2 id=\"Arena_&amp;_PvP_Fixes\"><span></span>Arena &amp; PvP Fixes</h2>\n<ul><li><b>URF Arena</b>: All <b>crowd control durations</b> have been reduced by <b>50%</b></li>\n<li><b>Arena Rankings</b> now reset <b>properly</b> on <b>SUNDAYS</b> (At midnight, in the night between Sunday and Monday)</li></ul>\n<h2 id=\"Equipment_&amp;_Crafting_Changes\"><span></span>Equipment &amp; Crafting Changes</h2>\n<ul><li><b>Vivid Earth Lunascale: Mastery</b> can now be <b>extracted</b> from socketed gear <i>Not retroactive to existing gems</i></li>\n<li><b>Erenor Cloaks</b> can now be reverted and reselected using an <b>Ipnysh Cloakmuter</b> <i>Grade and stats are lost</i></li>\n<li><b>Kingdom's Heart</b> required for <b>Monarch of the Sea</b> craft reduced from <b>10 → 5</b></li>\n<li><b>Transmutated T6 gear</b> can now be <b>transmutated again</b> (previously limited to once)</li></ul>\n<h2 id=\"Visuals_&amp;_Animations\"><span></span>Visuals &amp; Animations</h2>\n<ul><li>Fixed <b>driver animations</b> for <b>Marketplace vehicles</b> – characters now sit properly when driving</li></ul>",
+ "wikitext": "{{NewsArticle\n|title=Patch 1.3.5j Highlights\n|slug=patch-1-3-5j-highlights.166648640\n|date=2025-07-23 13:45\n|category=Update\n|image=News banners-banner update.png\n|summary=Patch 1.3.5j Highlights Progression & Utility - The is now rewarded from the instead of a quest (fixes delivery issues) - is now craftable at the - allows you to craft +150/-150 stat migrations item for a low honor cost. It makes migrating to/from another stat a lot easier & cheaper in the long run. Housing & Taxation…\n|source=https://aa-classic.com/news/patch-1-3-5j-highlights.166648640\n}}\n\n== Patch 1.3.5j Highlights ==\n\n== Progression & Utility ==\n* The '''Catch-Up Kit''' is now rewarded from the '''Level 50 Achievement''' instead of a quest (fixes delivery issues)\n* '''Migration Stone''' is now craftable at the '''Proven Warrior Workbench'''\n** '''Migration Stone''' allows you to craft +150/-150 stat migrations item for a low honor cost. It makes migrating to/from another stat a lot easier & cheaper in the long run.\n\n== Housing & Taxation ==\n* '''Beanstalk Houses''' are '''no longer Heavy-Tax Exempt'''\n-Fixed a bug where players with '''New Player Housing''' could still receive '''tax mails''' despite owning houses elsewhere\n''If you own New Player Housing & got extra land, your NPH land will demolish naturally from unpaid taxes''\n\n== Arena & PvP Fixes ==\n* '''URF Arena''': All '''crowd control durations''' have been reduced by '''50%'''\n* '''Arena Rankings''' now reset '''properly''' on '''SUNDAYS''' (At midnight, in the night between Sunday and Monday)\n\n== Equipment & Crafting Changes ==\n* '''Vivid Earth Lunascale: Mastery''' can now be '''extracted''' from socketed gear ''Not retroactive to existing gems''\n* '''Erenor Cloaks''' can now be reverted and reselected using an '''Ipnysh Cloakmuter''' ''Grade and stats are lost''\n* '''Kingdom's Heart''' required for '''Monarch of the Sea''' craft reduced from '''10 → 5'''\n* '''Transmutated T6 gear''' can now be '''transmutated again''' (previously limited to once)\n\n== Visuals & Animations ==\n* Fixed '''driver animations''' for '''Marketplace vehicles''' – characters now sit properly when driving"
+}

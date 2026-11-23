@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-355",
+ "title": "Module:Data/Cards/355",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61313,
+ "revid": 64464,
+ "updated": "2026-11-05T22:45:46Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/355",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [35532] = { category = \"Design\", desc = \"Creates a drydock for ship construction if used near the sea. The site will be protected for 108 hours, but ages and can be attacked afterwards.\\n\\nPlacement Materials:\\n- Medium Warship Materials (1)\\n\\nConstruction Materials\\n- Lumber Pack (10)\\n- Fabric Pack (10)\\n- Iron Pack (10)\", grade = \"None\", icon = \"icon_item_0002.png\", name = \"Enoan Galleon Design\", use = \"Retainer: |nc;300|r Gold\\nPay a retainer to place a building.\\n\\nBuildings cannot be placed on steep slopes or obstacles.\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[35532] = { category = \"Design\", desc = \"Creates a drydock for ship construction if used near the sea. The site will be protected for 108 hours, but ages and can be attacked afterwards.\\n\\nPlacement Materials:\\n- Medium Warship Materials (1)\\n\\nConstruction Materials\\n- Lumber Pack (10)\\n- Fabric Pack (10)\\n- Iron Pack (10)\", grade = \"None\", icon = \"icon_item_0002.png\", name = \"Enoan Galleon Design\", use = \"Retainer: |nc;300|r Gold\\nPay a retainer to place a building.\\n\\nBuildings cannot be placed on steep slopes or obstacles.\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[35532] = { category = \"Design\", desc = \"Creates a drydock for ship construction if used near the sea. The site will be protected for 108 hours, but ages and can be attacked afterwards.\\n\\nPlacement Materials:\\n- Medium Warship Materials (1)\\n\\nConstruction Materials\\n- Lumber Pack (10)\\n- Fabric Pack (10)\\n- Iron Pack (10)\", grade = \"None\", icon = \"icon_item_0002.png\", name = \"Enoan Galleon Design\", use = \"Retainer: |nc;300|r Gold\\nPay a retainer to place a building.\\n\\nBuildings cannot be placed on steep slopes or obstacles.\" },\n}"
+}

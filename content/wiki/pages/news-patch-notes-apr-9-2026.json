@@ -1,0 +1,24 @@
+{
+ "slug": "news-patch-notes-apr-9-2026",
+ "title": "News/Patch Notes - Apr 9, 2026",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61129,
+ "revid": 63711,
+ "updated": "2026-11-02T16:31:19Z",
+ "source": "https://wiki.aa-classic.com/News/Patch_Notes_-_Apr_9,_2026",
+ "headings": [
+  {
+   "level": 2,
+   "id": "📜_Patch_Notes_-_Apr_9,_2026",
+   "text": "📜 Patch Notes - Apr 9, 2026"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "News kraken mucus.png"
+ ],
+ "text": "Update9 April 2026·All news·Original post on aa-classic.com Patch Notes - Apr 9, 2026 📜 Patch Notes - Apr 9, 2026 On spawn, Kraken will have a 5 minute buff: [Kraken's Mucus] [Kraken's Mucus] + Duration: 5 minutes + Reduces received damage by 100%, gradually fading to 0% once the buff expires. + Does NOT apply to Primal Kraken [Daru Blessing] (\"daru sub\") buff is now HIDDEN and will not count towards b… 📜 Patch Notes - Apr 9, 2026 On spawn, Kraken will have a 5 minute buff: [Kraken's Mucus] [Kraken's Mucus] Duration: 5 minutes Reduces received damage by 100%, gradually fading to 0% once the buff expires. Does NOT apply to Primal Kraken [Daru Blessing] (\"daru sub\") buff is now HIDDEN and will not count towards buff slots. The marketplace window will now display your ongoing subscription timer under the player preview [Egg Basket Teleport Scroll] now properly benefits from [Daru Blessing] -50% cast time",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/c7/c79de954fab4a54af47b9c3a37d7d31e183b8742.png\" width=\"1200\" height=\"800\" loading=\"lazy\"></span></span></div><div><div><span>Update</span><span>9 April 2026</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/patch-notes---apr-9,-2026.219312838\">Original post on aa-classic.com</a></div><div>Patch Notes - Apr 9, 2026</div><div>📜 Patch Notes - Apr 9, 2026 On spawn, Kraken will have a 5 minute buff: [Kraken's Mucus] [Kraken's Mucus] + Duration: 5 minutes + Reduces received damage by 100%, gradually fading to 0% once the buff expires. + Does NOT apply to Primal Kraken [Daru Blessing] (\"daru sub\") buff is now HIDDEN and will not count towards b…</div></div></div>\n<h2 id=\"📜_Patch_Notes_-_Apr_9,_2026\"><span></span>📜 Patch Notes - Apr 9, 2026</h2>\n<ul><li>On spawn, <b>Kraken</b> will have a 5 minute buff: [Kraken's Mucus]</li></ul>\n<ul><li>[Kraken's Mucus]\n<ul><li>Duration: 5 minutes</li>\n<li>Reduces received damage by 100%, gradually fading to 0% once the buff expires.</li>\n<li>Does <b>NOT</b> apply to <b>Primal</b> Kraken</li></ul></li>\n<li>[Daru Blessing] (\"daru sub\") buff is now <b>HIDDEN</b> and will not count towards buff slots.</li></ul>\n<ul><li>The marketplace window will now display your ongoing subscription timer under the player preview</li>\n<li>[Egg Basket Teleport Scroll] now properly benefits from [Daru Blessing] -50% cast time</li></ul>",
+ "wikitext": "{{NewsArticle\n|title=Patch Notes - Apr 9, 2026\n|slug=patch-notes---apr-9,-2026.219312838\n|date=2026-04-09 11:11\n|category=Update\n|image=News kraken mucus.png\n|summary=📜 Patch Notes - Apr 9, 2026 On spawn, Kraken will have a 5 minute buff: [Kraken's Mucus] [Kraken's Mucus] + Duration: 5 minutes + Reduces received damage by 100%, gradually fading to 0% once the buff expires. + Does NOT apply to Primal Kraken [Daru Blessing] (\"daru sub\") buff is now HIDDEN and will not count towards b…\n|source=https://aa-classic.com/news/patch-notes---apr-9,-2026.219312838\n}}\n\n== 📜 Patch Notes - Apr 9, 2026 ==\n\n* On spawn, '''Kraken''' will have a 5 minute buff: [Kraken's Mucus]\n\n* [Kraken's Mucus]\n** Duration: 5 minutes\n** Reduces received damage by 100%, gradually fading to 0% once the buff expires.\n** Does '''NOT''' apply to '''Primal''' Kraken\n* [Daru Blessing] (\"daru sub\") buff is now '''HIDDEN''' and will not count towards buff slots.\n\n* The marketplace window will now display your ongoing subscription timer under the player preview\n* [Egg Basket Teleport Scroll] now properly benefits from [Daru Blessing] -50% cast time"
+}

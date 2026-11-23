@@ -1,0 +1,64 @@
+{
+ "slug": "template-imagesplit",
+ "title": "Template:ImageSplit",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61334,
+ "revid": 64568,
+ "updated": "2026-11-06T09:57:56Z",
+ "source": "https://wiki.aa-classic.com/Template:ImageSplit",
+ "headings": [],
+ "tables": [
+  {
+   "heading": "",
+   "caption": "Template parameters",
+   "headers": [
+    "Parameter",
+    "Description",
+    "Type",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Text",
+     "1 text",
+     "no description",
+     "Content",
+     "optional"
+    ],
+    [
+     "Picture",
+     "image",
+     "no description",
+     "File",
+     "required"
+    ],
+    [
+     "Description",
+     "alt",
+     "no description",
+     "String",
+     "optional"
+    ],
+    [
+     "Loaded width",
+     "width",
+     "no descriptionDefault600",
+     "Number",
+     "optional"
+    ],
+    [
+     "Link",
+     "link",
+     "no description",
+     "Page name",
+     "optional"
+    ]
+   ]
+  }
+ ],
+ "images": [],
+ "text": "Text on the left and a picture on the right. The picture is cropped to the height of the text, so the two always line up. Usage {{ImageSplit|image=Thunderwing_Titan_artwork.jpg|alt=Thunderwing Titan| The text, cards and so on go here. }} image is the file name without File:. alt is the text for screen readers. width (optional) is the width in pixels that is loaded, default 600. link (optional) is a page to open when the picture is clicked. Empty means no link. If the text contains an equals sign, write text= in front of it. On narrow windows and phones the picture goes under the text. Needs Template:ImageSplit/styles.css. Text on the left and a picture on the right, cropped to the same height. Template parameters Parameter Description Type Status Text 1 text no description Content optional Picture image no description File required Description alt no description String optional Loaded width width no description Default 600 Number optional Link link no description Page name optional",
+ "html": "<p>Text on the left and a picture on the right. The picture is cropped to the height of the text, so the two always line up.\n</p><p><b>Usage</b>\n</p>\n<pre>{{ImageSplit|image=Thunderwing_Titan_artwork.jpg|alt=Thunderwing Titan|\nThe text, cards and so on go here.\n}}</pre>\n<ul><li><b>image</b> is the file name without <code>File:</code>. <b>alt</b> is the text for screen readers.</li>\n<li><b>width</b> (optional) is the width in pixels that is loaded, default 600.</li>\n<li><b>link</b> (optional) is a page to open when the picture is clicked. Empty means no link.</li>\n<li>If the text contains an equals sign, write <code>text=</code> in front of it.</li>\n<li>On narrow windows and phones the picture goes under the text.</li>\n<li>Needs <code>Template:ImageSplit/styles.css</code>.</li></ul>\n<section><header><p>Text on the left and a picture on the right, cropped to the same height.</p></header><table class=\"wikitable sortable\"><caption><p>Template parameters<mw:edittemplatedata page=\"Template:ImageSplit\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Text</th><td><code>1</code> <code>text</code></td><td><p>no description</p><dl></dl></td><td>Content</td><td>optional</td></tr><tr><th>Picture</th><td><code>image</code></td><td><p>no description</p><dl></dl></td><td>File</td><td>required</td></tr><tr><th>Description</th><td><code>alt</code></td><td><p>no description</p><dl></dl></td><td>String</td><td>optional</td></tr><tr><th>Loaded width</th><td><code>width</code></td><td><p>no description</p><dl><dt>Default</dt><dd>600</dd></dl></td><td>Number</td><td>optional</td></tr><tr><th>Link</th><td><code>link</code></td><td><p>no description</p><dl></dl></td><td>Page name</td><td>optional</td></tr></tbody></table></section>",
+ "wikitext": "<includeonly><templatestyles src=\"ImageSplit/styles.css\" /><div class=\"aa-split\"><div class=\"aa-split-main\">{{{1|{{{text|}}}}}}</div><div class=\"aa-split-pic\">[[File:{{{image|}}}|{{{width|600}}}px|link={{{link|}}}|alt={{{alt|}}}]]</div></div></includeonly><noinclude>\nText on the left and a picture on the right. The picture is cropped to the height of the text, so the two always line up.\n\n'''Usage'''\n<pre>{{ImageSplit|image=Thunderwing_Titan_artwork.jpg|alt=Thunderwing Titan|\nThe text, cards and so on go here.\n}}</pre>\n* '''image''' is the file name without <code>File:</code>. '''alt''' is the text for screen readers.\n* '''width''' (optional) is the width in pixels that is loaded, default 600.\n* '''link''' (optional) is a page to open when the picture is clicked. Empty means no link.\n* If the text contains an equals sign, write <code>text=</code> in front of it.\n* On narrow windows and phones the picture goes under the text.\n* Needs <code>Template:ImageSplit/styles.css</code>.\n<templatedata>\n{\n\t\"description\": \"Text on the left and a picture on the right, cropped to the same height.\",\n\t\"params\": {\n\t\t\"1\": { \"label\": \"Text\", \"type\": \"content\", \"aliases\": [\"text\"] },\n\t\t\"image\": { \"label\": \"Picture\", \"type\": \"wiki-file-name\", \"required\": true },\n\t\t\"alt\": { \"label\": \"Description\", \"type\": \"string\" },\n\t\t\"width\": { \"label\": \"Loaded width\", \"type\": \"number\", \"default\": \"600\" },\n\t\t\"link\": { \"label\": \"Link\", \"type\": \"wiki-page-name\" }\n\t}\n}\n</templatedata>\n[[Category:Layout templates]]\n</noinclude>"
+}

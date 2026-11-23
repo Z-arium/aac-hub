@@ -1,0 +1,16 @@
+{
+ "slug": "template-infogrid",
+ "title": "Template:InfoGrid",
+ "ns": 10,
+ "model": "wikitext",
+ "pageid": 61330,
+ "revid": 64582,
+ "updated": "2026-11-06T17:03:40Z",
+ "source": "https://wiki.aa-classic.com/Template:InfoGrid",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "A responsive grid of Template:Tl boxes. The cards sit in as many columns as fit and drop to one column on phones. Usage {{InfoGrid| {{InfoCard|title=Orbs|type=danger|tag=Dodge|Blue and red orbs fly out in flurries.}} {{InfoCard|title=Pull|type=control|tag=Crowd control|The boss drags everyone towards itself.}} }} min (optional) is the narrowest a card may get, in pixels. The default is 260. Use min=340 for cards that hold a Template:Tl. Needs Template:InfoCard and its styles Template:InfoCard/styles.css.",
+ "html": "<p>A responsive grid of <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a> boxes. The cards sit in as many columns as fit and drop to one column on phones.\n</p><p><b>Usage</b>\n</p>\n<pre>{{InfoGrid|\n{{InfoCard|title=Orbs|type=danger|tag=Dodge|Blue and red orbs fly out in flurries.}}\n{{InfoCard|title=Pull|type=control|tag=Crowd control|The boss drags everyone towards itself.}}\n}}</pre>\n<ul><li><b>min</b> (optional) is the narrowest a card may get, in pixels. The default is 260. Use <code>min=340</code> for cards that hold a <a href=\"https://wiki.aa-classic.com/index.php?title=Template:Tl&action=edit&redlink=1\" rel=\"noopener\">Template:Tl</a>.</li></ul>\n<p>Needs <code>Template:InfoCard</code> and its styles <code>Template:InfoCard/styles.css</code>.\n</p>",
+ "wikitext": "<includeonly><templatestyles src=\"InfoCard/styles.css\" /><div class=\"aa-info-grid\"{{#if:{{{min|}}}| style=\"grid-template-columns:repeat(auto-fill,minmax(min({{{min}}}px,100%),1fr));\"}}>{{{1|}}}</div></includeonly><noinclude>\nA responsive grid of {{tl|InfoCard}} boxes. The cards sit in as many columns as fit and drop to one column on phones.\n\n'''Usage'''\n<pre>{{InfoGrid|\n{{InfoCard|title=Orbs|type=danger|tag=Dodge|Blue and red orbs fly out in flurries.}}\n{{InfoCard|title=Pull|type=control|tag=Crowd control|The boss drags everyone towards itself.}}\n}}</pre>\n* '''min''' (optional) is the narrowest a card may get, in pixels. The default is 260. Use <code>min=340</code> for cards that hold a {{tl|RecipeBox}}.\nNeeds <code>Template:InfoCard</code> and its styles <code>Template:InfoCard/styles.css</code>.\n[[Category:Layout templates]]\n</noinclude>"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-items-8000",
+ "title": "Module:Data/Items/8000",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61227,
+ "revid": 63974,
+ "updated": "2026-11-03T16:33:55Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Items/8000",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs. return { [8000318] = { grade = \"Rare\", icon = \"icon_item_2851.png\", name = \"Glider Manacharge Scrolls\" }, [8000319] = { grade = \"Grand\", icon = \"icon_item_2852.png\", name = \"Glider Wingmaker Scroll\" }, [8000336] = { grade = \"Rare\", icon = \"icon_item_1147.png\", name = \"Healing Grimoire\" }, [8000337] = { grade = \"Rare\", icon = \"icon_item_1148.png\", name = \"Meditation Grimoire\" }, [8000338] = { grade = \"Rare\", icon = \"icon_item_1149.png\", name = \"Experience Grimoire\" }, [8000344] = { grade = \"Rare\", icon = \"icon_item_1148.png\", name = \"Greedy Grimoire\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8000318] = { grade = \"Rare\", icon = \"icon_item_2851.png\", name = \"Glider Manacharge Scrolls\" },\n\t[8000319] = { grade = \"Grand\", icon = \"icon_item_2852.png\", name = \"Glider Wingmaker Scroll\" },\n\t[8000336] = { grade = \"Rare\", icon = \"icon_item_1147.png\", name = \"Healing Grimoire\" },\n\t[8000337] = { grade = \"Rare\", icon = \"icon_item_1148.png\", name = \"Meditation Grimoire\" },\n\t[8000338] = { grade = \"Rare\", icon = \"icon_item_1149.png\", name = \"Experience Grimoire\" },\n\t[8000344] = { grade = \"Rare\", icon = \"icon_item_1148.png\", name = \"Greedy Grimoire\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Items). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[8000318] = { grade = \"Rare\", icon = \"icon_item_2851.png\", name = \"Glider Manacharge Scrolls\" },\n\t[8000319] = { grade = \"Grand\", icon = \"icon_item_2852.png\", name = \"Glider Wingmaker Scroll\" },\n\t[8000336] = { grade = \"Rare\", icon = \"icon_item_1147.png\", name = \"Healing Grimoire\" },\n\t[8000337] = { grade = \"Rare\", icon = \"icon_item_1148.png\", name = \"Meditation Grimoire\" },\n\t[8000338] = { grade = \"Rare\", icon = \"icon_item_1149.png\", name = \"Experience Grimoire\" },\n\t[8000344] = { grade = \"Rare\", icon = \"icon_item_1148.png\", name = \"Greedy Grimoire\" },\n}"
+}

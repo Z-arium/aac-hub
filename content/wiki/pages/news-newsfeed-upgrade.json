@@ -1,0 +1,24 @@
+{
+ "slug": "news-newsfeed-upgrade",
+ "title": "News/Newsfeed Upgrade",
+ "ns": 0,
+ "model": "wikitext",
+ "pageid": 61174,
+ "revid": 63876,
+ "updated": "2026-11-02T17:38:47Z",
+ "source": "https://wiki.aa-classic.com/News/Newsfeed_Upgrade",
+ "headings": [
+  {
+   "level": 2,
+   "id": "Newsfeed_Upgrade",
+   "text": "Newsfeed Upgrade"
+  }
+ ],
+ "tables": [],
+ "images": [
+  "News banners-banner announcement.png"
+ ],
+ "text": "Announcement31 May 2024·All news·Original post on aa-classic.com Newsfeed Upgrade Newsfeed Upgrade Our newsfeed system has been upgraded to have a more up-to-date set of information. This upgrade results in the loss of previous articles, but we will have an easier time publishing patch notes to the website & launcher now! Newsfeed Upgrade Our newsfeed system has been upgraded to have a more up-to-date set of information. This upgrade results in the loss of previous articles, but we will have an easier time publishing patch notes to the website & launcher now! https://www.youtube.com/watch?v=1BwDECuA0zs",
+ "html": "<div><div><span><span><img alt src=\"/wiki-files/47/476edd3499075a5a5ff531ae1bcf619523d0a8e1.png\" width=\"1200\" height=\"1200\" loading=\"lazy\"></span></span></div><div><div><span>Announcement</span><span>31 May 2024</span><span>·</span><a href=\"/wiki/news\">All news</a><span>·</span><a rel=\"noopener\" href=\"https://aa-classic.com/news/newsfeed-upgrade.92180480\">Original post on aa-classic.com</a></div><div>Newsfeed Upgrade</div><div>Newsfeed Upgrade Our newsfeed system has been upgraded to have a more up-to-date set of information. This upgrade results in the loss of previous articles, but we will have an easier time publishing patch notes to the website &amp; launcher now!</div></div></div>\n<h2 id=\"Newsfeed_Upgrade\">Newsfeed Upgrade</h2>\n<p>Our newsfeed system has been upgraded to have a more up-to-date set of information. This upgrade results in the loss of previous articles, but we will have an easier time publishing patch notes to the website &amp; launcher now!\n</p><p><a rel=\"noopener\" href=\"https://www.youtube.com/watch?v=1BwDECuA0zs\">https://www.youtube.com/watch?v=1BwDECuA0zs</a>\n</p>",
+ "wikitext": "{{NewsArticle\n|title=Newsfeed Upgrade\n|slug=newsfeed-upgrade.92180480\n|date=2024-05-31 09:00\n|category=Announcement\n|image=News banners-banner announcement.png\n|summary=Newsfeed Upgrade Our newsfeed system has been upgraded to have a more up-to-date set of information. This upgrade results in the loss of previous articles, but we will have an easier time publishing patch notes to the website & launcher now!\n|source=https://aa-classic.com/news/newsfeed-upgrade.92180480\n}}\n\n== Newsfeed Upgrade ==\n\nOur newsfeed system has been upgraded to have a more up-to-date set of information. This upgrade results in the loss of previous articles, but we will have an easier time publishing patch notes to the website & launcher now!\n\nhttps://www.youtube.com/watch?v=1BwDECuA0zs"
+}

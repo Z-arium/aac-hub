@@ -1,0 +1,16 @@
+{
+ "slug": "module-data-cards-407",
+ "title": "Module:Data/Cards/407",
+ "ns": 828,
+ "model": "Scribunto",
+ "pageid": 61008,
+ "revid": 63499,
+ "updated": "2026-10-31T16:05:20Z",
+ "source": "https://wiki.aa-classic.com/Module:Data/Cards/407",
+ "headings": [],
+ "tables": [],
+ "images": [],
+ "text": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs. return { [40736] = { category = \"Material\", desc = \"This fragment of finely-crafted plate armor was dropped by |nc;Taris|r after a battle.\\nUsed in equipment crafting.\", grade = \"Unique\", icon = \"icon_item_3148.png\", name = \"Wrathsmite Armor Shard\" }, [40792] = { category = \"Unidentified\", crafts = { { 9077, \"Cloaked Brimstone Flute\" } }, desc = \"Crafted from deadly Brimstone, this item pulses with mysterious energy. Activating it will permanently bind it to the user, allowing them to customize its powers and effects.\", grade = \"None\", icon = \"icon_item_ins_w_0059.png\", name = \"Cloaked Brimstone Flute\", over = \"top_obsidian.png\", use = \"Activate to choose the final form of this item.\\n|nc;Binds when activated.|r\" }, }",
+ "html": "<pre><code>-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[40736] = { category = \"Material\", desc = \"This fragment of finely-crafted plate armor was dropped by |nc;Taris|r after a battle.\\nUsed in equipment crafting.\", grade = \"Unique\", icon = \"icon_item_3148.png\", name = \"Wrathsmite Armor Shard\" },\n\t[40792] = { category = \"Unidentified\", crafts = { { 9077, \"Cloaked Brimstone Flute\" } }, desc = \"Crafted from deadly Brimstone, this item pulses with mysterious energy. Activating it will permanently bind it to the user, allowing them to customize its powers and effects.\", grade = \"None\", icon = \"icon_item_ins_w_0059.png\", name = \"Cloaked Brimstone Flute\", over = \"top_obsidian.png\", use = \"Activate to choose the final form of this item.\\n|nc;Binds when activated.|r\" },\n}</code></pre>",
+ "wikitext": "-- Data page made by sync_wiki_data.py (Cards). Do not edit by hand, it is overwritten when the script runs.\nreturn {\n\t[40736] = { category = \"Material\", desc = \"This fragment of finely-crafted plate armor was dropped by |nc;Taris|r after a battle.\\nUsed in equipment crafting.\", grade = \"Unique\", icon = \"icon_item_3148.png\", name = \"Wrathsmite Armor Shard\" },\n\t[40792] = { category = \"Unidentified\", crafts = { { 9077, \"Cloaked Brimstone Flute\" } }, desc = \"Crafted from deadly Brimstone, this item pulses with mysterious energy. Activating it will permanently bind it to the user, allowing them to customize its powers and effects.\", grade = \"None\", icon = \"icon_item_ins_w_0059.png\", name = \"Cloaked Brimstone Flute\", over = \"top_obsidian.png\", use = \"Activate to choose the final form of this item.\\n|nc;Binds when activated.|r\" },\n}"
+}
