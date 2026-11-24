@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T00:21:40.847Z",
+  "updated": "2026-11-24T10:25:13.598Z",
   "videos": [
     {
       "id": "tVtCq85tVKo",
@@ -237,7 +237,7 @@
       "title": "ArcheAge: Classic - Archery Timmy",
       "channel": "Ferelia ArcheAge",
       "channelUrl": "https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw",
-      "published": "2026-08-16T17:45:05Z"
+      "published": "2026-08-16T17:45:05+00:00"
     },
     {
       "id": "j8rtK1M7dDg",
@@ -259,13 +259,6 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-08-09T23:13:41+00:00"
-    },
-    {
-      "id": "e5a4ng4cJtY",
-      "title": "archeage classic - ashes.",
-      "channel": "nerd4tw",
-      "channelUrl": "https://www.youtube.com/channel/UCBC8L87Tms_dvuV7fJVrxHw",
-      "published": "2026-08-03T16:33:51Z"
     },
     {
       "id": "gF6FJZXlsb4",
@@ -336,6 +329,13 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-04-23T18:00:53+00:00"
+    },
+    {
+      "id": "NMufWYPNNQs",
+      "title": "Archeage Classic PvP - Reign - Holy War Shenanigans",
+      "channel": "Mc Nasty",
+      "channelUrl": "https://www.youtube.com/channel/UCqp_bFhNBtFjkrC6-HH32lQ",
+      "published": "2026-03-12T17:19:50+00:00"
     }
   ]
 }
