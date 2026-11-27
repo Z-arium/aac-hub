@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T09:04:09.401Z",
+  "updated": "2026-11-27T21:37:58.383Z",
   "videos": [
     {
       "id": "8pvPeDlxbHw",
@@ -244,7 +244,7 @@
       "title": "ArcheAge: Classic - Archery Timmy",
       "channel": "Ferelia ArcheAge",
       "channelUrl": "https://www.youtube.com/channel/UCGFoyqbR4pJU-HUDxGokVsw",
-      "published": "2026-08-16T17:45:05+00:00"
+      "published": "2026-08-16T17:45:05Z"
     },
     {
       "id": "j8rtK1M7dDg",
@@ -266,6 +266,13 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-08-09T23:13:41+00:00"
+    },
+    {
+      "id": "e5a4ng4cJtY",
+      "title": "archeage classic - ashes.",
+      "channel": "nerd4tw",
+      "channelUrl": "https://www.youtube.com/channel/UCBC8L87Tms_dvuV7fJVrxHw",
+      "published": "2026-08-03T16:33:51Z"
     },
     {
       "id": "gF6FJZXlsb4",
@@ -329,13 +336,6 @@
       "channel": "Godsu",
       "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
       "published": "2026-05-02T08:11:15+00:00"
-    },
-    {
-      "id": "6_m5tEW2UgM",
-      "title": "AA Classic 11 - ayanad changes soon",
-      "channel": "Godsu",
-      "channelUrl": "https://www.youtube.com/channel/UCJmrtH4yitAnt2jphUrJw-w",
-      "published": "2026-04-23T18:00:53+00:00"
     }
   ]
 }
